@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="104">
+	<unit bitflag="1345" id1="679999" id2="17" version="1065353216">
+		<source>Yes--yes! I have been waiting for you. I felt your movements in the Force, and they stirred me from my nightmare.</source>
+		<target>Да... да! Я ждал тебя. Я почувствовал твои движения в Силе, и они вызволили меня из кошмара.</target>
+	</unit>
+	<unit bitflag="1345" id1="680001" id2="17" version="1065353216">
+		<source>I am still too weak to leave, but I knew if I made myself enough of a nuisance, you would eventually come.</source>
+		<target>Я всё ещё слишком слаб, чтобы уйти, но я знал, что если создам достаточно неприятностей, ты в конце концов придёшь.</target>
+	</unit>
+	<unit bitflag="1345" id1="680003" id2="17" version="1065353216">
+		<source>The Sith throw flesh endlessly at what they cannot control. And here you are, blood of my blood. Here you are.</source>
+		<target>Ситы беспрестанно бросаются на им неподвластное. И вот ты и здесь, кровь от моей крови. Вот ты и здесь.</target>
+	</unit>
+	<unit bitflag="1345" id1="680004" id2="17" version="1065353216">
+		<source>You seem as if you were expecting me.</source>
+		<target>Кажется, ты меня ждал.</target>
+	</unit>
+	<unit bitflag="1360" id1="680004" id2="17" version="1065353216">
+		<source>Didn't know I was so popular.</source>
+		<target>Не знал, что я так популярен.</target>
+	</unit>
+	<unit bitflag="1345" id1="680005" id2="17" version="1065353216">
+		<source>I have come to humble myself in your presence, oh great one.</source>
+		<target>Я пришёл, чтобы пасть к твоим ногам, о великий.</target>
+	</unit>
+	<unit bitflag="1360" id1="680005" id2="17" version="1065353216">
+		<source>I bow before you, my lord.</source>
+		<target>Я склоняюсь перед вами, владыка.</target>
+	</unit>
+	<unit bitflag="1345" id1="680006" id2="17" version="1065353216">
+		<source>What are you talking about?</source>
+		<target>О чём ты говоришь?</target>
+	</unit>
+	<unit bitflag="1360" id1="680006" id2="17" version="1065353216">
+		<source>Blood of my blood?</source>
+		<target>Кровь от моей крови?</target>
+	</unit>
+	<unit bitflag="1345" id1="680007" id2="17" version="1065353216">
+		<source>Ah, you don't know me.</source>
+		<target>А, ты же меня не знаешь.</target>
+	</unit>
+	<unit bitflag="1345" id1="680009" id2="17" version="1065353216">
+		<source>Has our family fallen so far that the son of my sons does not know the name of Kallig, the name so long revered in the annals of the Sith?</source>
+		<target>Так ли пала наша семья, что сын моих сыновей не знает имени Каллиг, имени, так долго почитаемого в летописях ситов?</target>
+	</unit>
+	<unit bitflag="1345" id1="680011" id2="17" version="1065353216">
+		<source>Has our family fallen so far that the daughter of my daughters does not know the name of Kallig, the name so long revered in the annals of the Sith?</source>
+		<target>Так ли пала наша семья, что дочь моих дочерей не знает имени Каллиг, имени, так долго почитаемого в летописях ситов?</target>
+	</unit>
+	<unit bitflag="1345" id1="680013" id2="17" version="1065353216">
+		<source>You are my descendant--by how many generations, I do not know--but know this: Your strength in the Force has awakened me from my stupor.</source>
+		<target>Ты мой потомок... не знаю, в какой степени... но знаю вот что: твоё величие в Силе пробудило меня и сняло с меня оцепенение.</target>
+	</unit>
+	<unit bitflag="1345" id1="680014" id2="17" version="1065353216">
+		<source>What do you mean I awakened you?</source>
+		<target>Что ты имеешь в виду под тем, что я тебя пробудил?</target>
+	</unit>
+	<unit bitflag="1360" id1="680014" id2="17" version="1065353216">
+		<source>I don't understand.</source>
+		<target>Я не понимаю.</target>
+	</unit>
+	<unit bitflag="1360" id1="680015" id2="17" version="1065353216">
+		<source>Just get to the point.</source>
+		<target>Давай перейдём к сути.</target>
+	</unit>
+	<unit bitflag="1360" id1="680016" id2="17" version="1065353216">
+		<source>This is nuts.</source>
+		<target>Это безумие.</target>
+	</unit>
+	<unit bitflag="1345" id1="680017" id2="17" version="1065353216">
+		<source>Do not mock me, child. You do not even begin to understand who you are dealing with.</source>
+		<target>Не шути со мной, дитя. Ты даже и близко не понимаешь, с кем имеешь дело.</target>
+	</unit>
+	<unit bitflag="1345" id1="680019" id2="17" version="1065353216">
+		<source>When the weaklings of this planet trespassed my tomb, I rose, resuming my former life. This temple became my kingdom, and I was once more a Lord of the Sith.</source>
+		<target>Когда слабаки с этой планеты посягнули на мою гробницу, я восстал, возобновив свою прежнюю жизнь. Этот храм перешёл мне во владение, и я вновь превратился в лорда ситов.</target>
+	</unit>
+	<unit bitflag="1345" id1="680021" id2="17" version="1065353216">
+		<source>But when you first grasped the hilt of your lightsaber, I knew my hour had come and gone--that your strength, not mine, would return our family to glory.</source>
+		<target>Но когда ты впервые коснулся рукояти светового меча, я уже знал, что моё время пришло и прошло... что твоя сила, а не моя, вернёт славу нашей семье.</target>
+	</unit>
+	<unit bitflag="1345" id1="680022" id2="17" version="1065353216">
+		<source>I'm going to return our family to glory?</source>
+		<target>Я верну славу нашей семье?</target>
+	</unit>
+	<unit bitflag="1360" id1="680022" id2="17" version="1065353216">
+		<source>What?</source>
+		<target>Что?</target>
+	</unit>
+	<unit bitflag="1345" id1="680023" id2="17" version="1065353216">
+		<source>Our family was torn from greatness, crushed by the treachery of another--a man named Tulak Hord.</source>
+		<target>Величие нашей семьи было уничтожено предательством другого... человека по имени Тулак Хорд.</target>
+	</unit>
+	<unit bitflag="1345" id1="680025" id2="17" version="1065353216">
+		<source>But I'm a former slave!</source>
+		<target>Но я бывший раб!</target>
+	</unit>
+	<unit bitflag="1360" id1="680025" id2="17" version="1065353216">
+		<source>I'm not from a Sith family!</source>
+		<target>Я не из семьи ситов!</target>
+	</unit>
+	<unit bitflag="1345" id1="680026" id2="17" version="1065353216">
+		<source>That is my shame. I was once one of the greatest Lords of the Sith. If I'd been wiser, I could have secured my family's greatness.</source>
+		<target>Это целиком мой позор. Когда-то я был одним из величайших лордов ситов. Будь я мудрее, я мог бы защитить величие своей семьи.</target>
+	</unit>
+	<unit bitflag="1345" id1="680028" id2="17" version="1065353216">
+		<source>But I let down my guard and was betrayed by a man called Tulak Hord, whom I trusted as a friend.</source>
+		<target>Но я потерял бдительность и был предан человеком по имени Тулак Хорд, которому доверял как другу.</target>
+	</unit>
+	<unit bitflag="1345" id1="680030" id2="17" version="1065353216">
+		<source>In restoring our bloodline to glory, you must not make the same mistake. Treachery is the Sith's endless game--you must win it.</source>
+		<target>Восстанавливая славу нашего рода, ты должен не допустить ту же ошибку. Игра ситов в предательство не закончится никогда... и ты должен в ней победить.</target>
+	</unit>
+	<unit bitflag="1345" id1="680031" id2="17" version="1065353216">
+		<source>Just because you were betrayed doesn't mean I will be.</source>
+		<target>То, что предали тебя, не значит, что то же случится и со мной.</target>
+	</unit>
+	<unit bitflag="1360" id1="680031" id2="17" version="1065353216">
+		<source>You're paranoid.</source>
+		<target>Ты параноик.</target>
+	</unit>
+	<unit bitflag="1345" id1="680032" id2="17" version="1065353216">
+		<source>Ah, such foolish innocence. I had the same--I lived in the same naive, foolish innocence. And now....</source>
+		<target>А, такое глупое простодушие. Я был точно таким же... я был таким же наивным, простодушным глупцом. А теперь...</target>
+	</unit>
+	<unit bitflag="1345" id1="680034" id2="17" version="1065353216">
+		<source>Look around you at my loyal subjects. See how they betray and murder each other, masters and apprentices alike.</source>
+		<target>Взгляни на моих верноподданных. Посмотри, как они предают и убивают друг друга, как учителя, так и ученики.</target>
+	</unit>
+	<unit bitflag="1360" id1="680036" id2="17" version="1065353216">
+		<source>Then I will win.</source>
+		<target>В этой игре победа будет за мной.</target>
+	</unit>
+	<unit bitflag="1345" id1="680037" id2="17" version="1065353216">
+		<source>I couldn't care less about our &quot;bloodline.&quot;</source>
+		<target>Мне по барабану на твой «род».</target>
+	</unit>
+	<unit bitflag="1360" id1="680037" id2="17" version="1065353216">
+		<source>Your bloodline, not mine.</source>
+		<target>Это твой род, а не мой.</target>
+	</unit>
+	<unit bitflag="1345" id1="680038" id2="17" version="1065353216">
+		<source>Fool! You think that you have risen to power in spite of your nothingness, but your nothingness must have had a purpose.</source>
+		<target>Глупец! Ты думаешь, что твоя мощь возросла вопреки твоей ничтожности, но в твоей ничтожности должен был быть смысл.</target>
+	</unit>
+	<unit bitflag="1345" id1="680040" id2="17" version="1065353216">
+		<source>And when that purpose is exhausted, you will go back to being nothing.</source>
+		<target>А когда смысл будет исчерпан, ты вновь обратишься в ничтожество.</target>
+	</unit>
+	<unit bitflag="1345" id1="680042" id2="17" version="1065353216">
+		<source>Beware your master, beware your apprentice. Never be taken by surprise. Do these things, and you will be unstoppable.</source>
+		<target>Остерегайся своего учителя, остерегайся своего ученика. Никогда не позволяй застать себя врасплох. Придерживайся этого, и ты будешь непобедим.</target>
+	</unit>
+	<unit bitflag="1345" id1="680045" id2="17" version="1065353216">
+		<source>No surprises. Got it.</source>
+		<target>Врасплох — это плохо. Понятно.</target>
+	</unit>
+	<unit bitflag="1360" id1="680045" id2="17" version="1065353216">
+		<source>I'll watch out.</source>
+		<target>Я буду осторожен.</target>
+	</unit>
+	<unit bitflag="1345" id1="680046" id2="17" version="1065353216">
+		<source>My master would never betray me.</source>
+		<target>Мой учитель никогда бы меня не предал.</target>
+	</unit>
+	<unit bitflag="1360" id1="680046" id2="17" version="1065353216">
+		<source>I don't believe you.</source>
+		<target>Я тебе не верю.</target>
+	</unit>
+	<unit bitflag="1345" id1="680047" id2="17" version="1065353216">
+		<source>So you think. But the time will come--your master will start to do and say things you never expected to see or hear.</source>
+		<target>Ты так думаешь. Но настанет время... твой учитель начнёт делать и говорить вещи, которых ты ни увидеть, ни услышать совершенно не ожидал.</target>
+	</unit>
+	<unit bitflag="1360" id1="680049" id2="17" version="1065353216">
+		<source>You're an idiot.</source>
+		<target>Ты идиот.</target>
+	</unit>
+	<unit bitflag="1345" id1="680050" id2="17" version="1065353216">
+		<source>I am guilty on both charges. Do not make my mistakes.</source>
+		<target>Я вдвойне виноват. Не повторяй моих ошибок.</target>
+	</unit>
+	<unit bitflag="1345" id1="680052" id2="17" version="1065353216">
+		<source>But you have not come to see me; you have come for the artifact I managed to wrest from Tulak Hord before he died.</source>
+		<target>Но ты пришёл не чтобы со мной повидаться; ты пришёл за артефактом, который мне удалось вырвать из рук Тулака Хорда перед его смертью.</target>
+	</unit>
+	<unit bitflag="1345" id1="680054" id2="17" version="1065353216">
+		<source>Take the artifact, but be careful--I know not what it does. Only that betrayal follows it everywhere.</source>
+		<target>Возьми артефакт, но будь осторожнее... я не знаю его предназначения. Только предательство следует за ним повсюду.</target>
+	</unit>
+	<unit bitflag="1345" id1="680055" id2="17" version="1065353216">
+		<source>It wouldn't be worth taking otherwise.</source>
+		<target>Иначе его бы не стоило и брать.</target>
+	</unit>
+	<unit bitflag="1360" id1="680055" id2="17" version="1065353216">
+		<source>I like the sound of that.</source>
+		<target>Мне это нравится.</target>
+	</unit>
+	<unit bitflag="1345" id1="680056" id2="17" version="1065353216">
+		<source>Just keep your eyes open.</source>
+		<target>Просто смотри в оба.</target>
+	</unit>
+	<unit bitflag="1345" id1="680058" id2="17" version="1065353216">
+		<source>When betrayal shows up, I'll kill it.</source>
+		<target>Когда придёт предательство, я с ним покончу.</target>
+	</unit>
+	<unit bitflag="1360" id1="680058" id2="17" version="1065353216">
+		<source>I fear nothing.</source>
+		<target>Я ничего не боюсь..</target>
+	</unit>
+	<unit bitflag="1345" id1="680059" id2="17" version="1065353216">
+		<source>If only all things were so simple. Keep your eyes open.</source>
+		<target>Если бы только всё было так просто. Смотри в оба.</target>
+	</unit>
+	<unit bitflag="1360" id1="680061" id2="17" version="1065353216">
+		<source>Don't worry.</source>
+		<target>Не беспокойся.</target>
+	</unit>
+	<unit bitflag="1345" id1="680062" id2="17" version="1065353216">
+		<source>I hunger for the day when our power will be restored. We will meet again.</source>
+		<target>Я жажду увидеть день, когда наше могущество будет восстановлено. Мы ещё встретимся.</target>
+	</unit>
+	<unit bitflag="1345" id1="680064" id2="17" version="1065353216">
+		<source>But my mother was a Jedi!</source>
+		<target>Но моя мать была джедаем!</target>
+	</unit>
+	<unit bitflag="1360" id1="680064" id2="17" version="1065353216">
+		<source>Our family?</source>
+		<target>Нашей семьи?</target>
+	</unit>
+	<unit bitflag="1345" id1="680065" id2="17" version="1065353216">
+		<source>But my father was a Jedi!</source>
+		<target>Но мой отец был джедаем!</target>
+	</unit>
+	<unit bitflag="1360" id1="680065" id2="17" version="1065353216">
+		<source>Our family?</source>
+		<target>Нашей семьи?</target>
+	</unit>
+	<unit bitflag="1345" id1="680066" id2="17" version="1065353216">
+		<source>But my mother was a smuggler!</source>
+		<target>Но моя мать была контрабандисткой!</target>
+	</unit>
+	<unit bitflag="1360" id1="680066" id2="17" version="1065353216">
+		<source>Our family?</source>
+		<target>Нашей семьи?</target>
+	</unit>
+	<unit bitflag="1345" id1="680067" id2="17" version="1065353216">
+		<source>But my father was a smuggler!</source>
+		<target>Но мой отец был контрабандистом!</target>
+	</unit>
+	<unit bitflag="1360" id1="680067" id2="17" version="1065353216">
+		<source>Our family?</source>
+		<target>Нашей семьи?</target>
+	</unit>
+	<unit bitflag="1345" id1="680068" id2="17" version="1065353216">
+		<source>But my father was a Sith!</source>
+		<target>Но мой отец был ситом!</target>
+	</unit>
+	<unit bitflag="1360" id1="680068" id2="17" version="1065353216">
+		<source>Our family?</source>
+		<target>Нашей семьи?</target>
+	</unit>
+	<unit bitflag="1345" id1="680069" id2="17" version="1065353216">
+		<source>But my mother was a Sith!</source>
+		<target>Но моя мать была ситом!</target>
+	</unit>
+	<unit bitflag="1360" id1="680069" id2="17" version="1065353216">
+		<source>Our family?</source>
+		<target>Нашей семьи?</target>
+	</unit>
+	<unit bitflag="1345" id1="680070" id2="17" version="1065353216">
+		<source>So it has been off and on for generations--our family rises again, only to be put down.</source>
+		<target>Так всё менялось на протяжение столетий... наша семья восстаёт из пепла только чтобы её низвергнули обратно.</target>
+	</unit>
+	<unit bitflag="1345" id1="680072" id2="17" version="1065353216">
+		<source>I should've secured our greatness. Instead I let myself be betrayed--by a man called Tulak Hord, by a friend.</source>
+		<target>Я должен был защитить наше величие. Вместо этого я допустил, чтобы меня предали... человек по имени Тулак Хорд, друг.</target>
+	</unit>
+	<unit bitflag="3393" id1="680074" id2="17" version="1065353216">
+		<source>And yet you speak as if alive. I would serve my master well to correct that.</source>
+		<target>И всё же ты говоришь, будто живой. Я бы хорошо послужил своему хозяину, исправив это.</target>
+	</unit>
+	<unit bitflag="1345" id1="680076" id2="17" version="1065353216">
+		<source>But my mother was a Republic trooper!</source>
+		<target>Но моя мать была республиканским солдатом!</target>
+	</unit>
+	<unit bitflag="1360" id1="680076" id2="17" version="1065353216">
+		<source>Our family?</source>
+		<target>Нашей семьи?</target>
+	</unit>
+	<unit bitflag="1345" id1="680077" id2="17" version="1065353216">
+		<source>But my father was a Republic trooper!</source>
+		<target>Но мой отец был республиканским солдатом!</target>
+	</unit>
+	<unit bitflag="1360" id1="680077" id2="17" version="1065353216">
+		<source>Our family?</source>
+		<target>Нашей семьи?</target>
+	</unit>
+	<unit bitflag="1345" id1="680078" id2="17" version="1065353216">
+		<source>But my mother was an Imperial spy!</source>
+		<target>Но моя мать была имперским шпионом!</target>
+	</unit>
+	<unit bitflag="1360" id1="680078" id2="17" version="1065353216">
+		<source>Our family?</source>
+		<target>Нашей семьи?</target>
+	</unit>
+	<unit bitflag="1345" id1="680079" id2="17" version="1065353216">
+		<source>But my father was an Imperial spy!</source>
+		<target>Но мой отец был имперским шпионом!</target>
+	</unit>
+	<unit bitflag="1360" id1="680079" id2="17" version="1065353216">
+		<source>Our family?</source>
+		<target>Нашей семьи?</target>
+	</unit>
+	<unit bitflag="1345" id1="680080" id2="17" version="1065353216">
+		<source>But my mother was a bounty hunter!</source>
+		<target>Но моя мать была наёмником!</target>
+	</unit>
+	<unit bitflag="1360" id1="680080" id2="17" version="1065353216">
+		<source>Our family?</source>
+		<target>Нашей семьи?</target>
+	</unit>
+	<unit bitflag="1345" id1="680081" id2="17" version="1065353216">
+		<source>But my father was a bounty hunter!</source>
+		<target>Но мой отец был наёмником?</target>
+	</unit>
+	<unit bitflag="1360" id1="680081" id2="17" version="1065353216">
+		<source>Our family?</source>
+		<target>Нашей семьи?</target>
+	</unit>
+	<unit bitflag="1345" id1="680082" id2="17" version="1065353216">
+		<source>But my mother wasn't Sith!</source>
+		<target>Но моя мать не была ситом!</target>
+	</unit>
+	<unit bitflag="1360" id1="680082" id2="17" version="1065353216">
+		<source>Our family?</source>
+		<target>Нашей семьи?</target>
+	</unit>
+	<unit bitflag="1345" id1="680083" id2="17" version="1065353216">
+		<source>But my father wasn't Sith!</source>
+		<target>Но мой отец не был ситом!</target>
+	</unit>
+	<unit bitflag="1360" id1="680083" id2="17" version="1065353216">
+		<source>Our family?</source>
+		<target>Нашей семьи?</target>
+	</unit>
+	<unit bitflag="1345" id1="680084" id2="17" version="1065353216">
+		<source>Yes, our family has lost its way. Ever since Tulak Hord betrayed and murdered me on this very planet.</source>
+		<target>Да, наша семья сбилась с пути. С тех самых пор, как Тулак Хорд предал и убил меня на этой самой планете.</target>
+	</unit>
+	<unit bitflag="1345" id1="680086" id2="17" version="1065353216">
+		<source>Tell me where Tulak Hord's artifact is.</source>
+		<target>Скажи мне, где тут артефакт Тулака Хорда.</target>
+	</unit>
+	<unit bitflag="1360" id1="680086" id2="17" version="1065353216">
+		<source>Just give me what I want.</source>
+		<target>Просто отдай мне, что мне нужно.</target>
+	</unit>
+	<unit bitflag="1345" id1="680087" id2="17" version="1065353216">
+		<source>Don't speak of it. Wretched thing. Its master murdered me and laid me to rest in this catacomb.</source>
+		<target>Не говори о нём. Проклятая вещь. Её хозяин убил меня и оставил покоиться в этих катакомбах.</target>
+	</unit>
+	<unit bitflag="3393" id1="680089" id2="17" version="1065353216">
+		<source>And it is there you should have stayed, weak one. I would serve my master well to devour you a second time.</source>
+		<target>Там тебе и следовало оставаться, слабый. Я бы сослужил своему хозяину хорошую службу, пожрав тебя во второй раз.</target>
+	</unit>
+	<unit bitflag="1345" id1="680091" id2="17" version="1065353216">
+		<source>Ha! Your master is dead, beast. You serve the child of Kallig now. Flesh of my flesh, you should teach your servant to obey.</source>
+		<target>Ха! Твой хозяин мёртв, чудовище. Теперь ты служишь потомку Каллига. Плоть от моей плоти, тебе следует научить своего слугу повиновению.</target>
+	</unit>
+	<unit bitflag="1345" id1="680092" id2="17" version="1065353216">
+		<source>I will deal with him as I see fit.</source>
+		<target>Я разберусь с ним тогда, когда сочту нужным.</target>
+	</unit>
+	<unit bitflag="1360" id1="680092" id2="17" version="1065353216">
+		<source>That's not your call.</source>
+		<target>Это не тебе решать.</target>
+	</unit>
+	<unit bitflag="1345" id1="680093" id2="17" version="1065353216">
+		<source>Fair enough. I only caution you not to take obedience for granted.</source>
+		<target>Разумеется. Я только предостерегаю тебя не принимать его повиновение за должное.</target>
+	</unit>
+	<unit bitflag="1345" id1="680095" id2="17" version="1065353216">
+		<source>I defeated him once. I can control him.</source>
+		<target>Однажды я уже победил его. Я могу его контролировать.</target>
+	</unit>
+	<unit bitflag="1360" id1="680095" id2="17" version="1065353216">
+		<source>I'm not worried.</source>
+		<target>Меня это не волнует.</target>
+	</unit>
+	<unit bitflag="1345" id1="680096" id2="17" version="1065353216">
+		<source>Such confidence. Such pride.</source>
+		<target>Такая самоуверенность. Такая гордыня.</target>
+	</unit>
+	<unit bitflag="1345" id1="680098" id2="17" version="1065353216">
+		<source>Do not interrupt again or there will be no feeding for you for a long time.</source>
+		<target>Больше не вмешивайся, или ты долго не сможешь хорошо поесть.</target>
+	</unit>
+	<unit bitflag="1360" id1="680098" id2="17" version="1065353216">
+		<source>Fall in line, Khem.</source>
+		<target>Отставить, Кхем.</target>
+	</unit>
+	<unit bitflag="3393" id1="680099" id2="17" version="1065353216">
+		<source>Of course... my master.</source>
+		<target>Конечно... хозяин.</target>
+	</unit>
+	<unit bitflag="1345" id1="680101" id2="17" version="1065353216">
+		<source>Good. You must not take obedience for granted.</source>
+		<target>Хорошо. Ты не должен принимать повиновение за должное.</target>
+	</unit>
+	<unit bitflag="1345" id1="680103" id2="17" version="1065353216">
+		<source>Still, if you came to possess Tulak Hord's power--that could be very useful indeed. But you must be careful.</source>
+		<target>Но всё же, если ты пришёл завладеть могуществом Тулака Хорда... это действительно может оказаться полезно. Но ты должен быть осторожен.</target>
+	</unit>
+	<unit bitflag="1345" id1="680105" id2="17" version="1065353216">
+		<source>Leave me. I have plans to make, a kingdom to rule!</source>
+		<target>Оставь меня. Мне нужно строить планы, править своими владениями!</target>
+	</unit>
+</dialogue_file>

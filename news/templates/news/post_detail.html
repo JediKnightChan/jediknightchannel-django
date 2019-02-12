@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+
+{% block title %}JediKnightChannel — {{ post.title }}{% endblock %}
+
+{% block content %}
+    <div id="body">
+		<div class="header">
+			<div>
+				<h1 id="h-news">{{ post.title }}</h1>
+                {% if post.image %}
+                    <a class="fancybox" data-fancybox="gallery" href="{{ post.image.url }}">
+                        <img src="{{ post.image.url }}" style="width: 770px">
+                    </a>
+                {% endif %}
+
+				<p class="post-text">{{ post.text|safe }}</p>
+			</div>
+		</div>
+	</div>
+{% endblock %}

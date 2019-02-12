@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="54">
+	<unit bitflag="1345" id1="660736" id2="17" version="1065353216">
+		<source>You have my judgment. Return to your master and let me rest.</source>
+		<target>Я вынес решение. Возвращайся к своему учителю и позволь мне отдохнуть.</target>
+	</unit>
+	<unit bitflag="1345" id1="660737" id2="17" version="1065353216">
+		<source>Excellent. These former acolytes wanted nothing more than to earn their second chance for glory by killing you and taking your place.</source>
+		<target>Отлично. Эти бывшие служители ничего не желали больше, чем заслужить второй шанс на возвышение к славе, убив тебя и заняв твоё место.</target>
+	</unit>
+	<unit bitflag="1345" id1="660739" id2="17" version="1065353216">
+		<source>But your desire proved stronger, and their blood became the mantle of your victory. Well done--but you are not Sith yet.</source>
+		<target>Но твоё желание оказалось сильнее, и их кровь привела тебя к победе. Отлично, но ты всё ещё не сит.</target>
+	</unit>
+	<unit bitflag="1345" id1="660741" id2="17" version="1065353216">
+		<source>You will need your wits, and your passion, and you will need to shed far more blood than this to become Sith.</source>
+		<target>Чтобы стать ситом, тебе понадобится твой разум и твоя страсть, и тебе придётся пролить куда больше крови.</target>
+	</unit>
+	<unit bitflag="1345" id1="660742" id2="17" version="1065353216">
+		<source>I have wits and passion to spare.</source>
+		<target>У меня есть в запасе и разум, и страсть.</target>
+	</unit>
+	<unit bitflag="1360" id1="660742" id2="17" version="1065353216">
+		<source>No problem.</source>
+		<target>Без проблем.</target>
+	</unit>
+	<unit bitflag="1345" id1="660743" id2="17" version="1065353216">
+		<source>Do not let your confidence become complacency. You must always be hungry for power.</source>
+		<target>Не дай самоуверенности превратиться в самодовольство. Ты всегда должен жаждать могущества.</target>
+	</unit>
+	<unit bitflag="1345" id1="660745" id2="17" version="1065353216">
+		<source>So was that the test? Did I pass?</source>
+		<target>Так что с испытанием? Я прошёл его?</target>
+	</unit>
+	<unit bitflag="1360" id1="660745" id2="17" version="1065353216">
+		<source>Did I do it right?</source>
+		<target>Я всё сделал правильно?</target>
+	</unit>
+	<unit bitflag="1345" id1="660746" id2="17" version="1065353216">
+		<source>That is only part of the test.</source>
+		<target>Это была лишь часть испытания.</target>
+	</unit>
+	<unit bitflag="1360" id1="660748" id2="17" version="1065353216">
+		<source>Don't waste my time.</source>
+		<target>Не трать моё время.</target>
+	</unit>
+	<unit bitflag="1345" id1="660749" id2="17" version="1065353216">
+		<source>The point is to learn the ways of the Sith, young acolyte.</source>
+		<target>Суть в том, чтобы научиться премудростям ситов, юный служитель.</target>
+	</unit>
+	<unit bitflag="1345" id1="660751" id2="17" version="1065353216">
+		<source>Peace is a lie, there is only passion. Through passion, I gain strength. Through strength, power. Through power, victory. Through victory, my chains are broken.</source>
+		<target>Покой — это ложь, есть только страсть. Со страстью я обретаю силу. С силой — мощь. С мощью — победу. С победой мои оковы рвутся.</target>
+	</unit>
+	<unit bitflag="1345" id1="660753" id2="17" version="1065353216">
+		<source>This is the Sith Code. Commit it to your heart, and you will have the strength to crush your enemies. Do you understand?</source>
+		<target>Это Кодекс ситов. Посвяти ему себя, и ты обретёшь силу, чтобы сокрушить своих врагов. Ты понимаешь?</target>
+	</unit>
+	<unit bitflag="1345" id1="660754" id2="17" version="1065353216">
+		<source>Yes, I think I do. I must use my emotions to grow strong.</source>
+		<target>Да, думаю, понимаю. Я должен использовать свои эмоции, чтобы стать сильнее.</target>
+	</unit>
+	<unit bitflag="1360" id1="660754" id2="17" version="1065353216">
+		<source>Maybe....</source>
+		<target>Возможно...</target>
+	</unit>
+	<unit bitflag="1345" id1="660755" id2="17" version="1065353216">
+		<source>Do not be timid. Humility is the attitude of a slave, not a Sith. Now go.</source>
+		<target>Не будь робок. Скромность свойственна рабу, а не ситу. Теперь иди.</target>
+	</unit>
+	<unit bitflag="1345" id1="660757" id2="17" version="1065353216">
+		<source>Of course! I was born to be Sith!</source>
+		<target>Конечно! Я рождён, чтобы стать ситом.</target>
+	</unit>
+	<unit bitflag="1360" id1="660757" id2="17" version="1065353216">
+		<source>Absolutely!</source>
+		<target>Абсолютно!</target>
+	</unit>
+	<unit bitflag="1345" id1="660758" id2="17" version="1065353216">
+		<source>Good. Then go.</source>
+		<target>Хорошо. Теперь иди.</target>
+	</unit>
+	<unit bitflag="1345" id1="660760" id2="17" version="1065353216">
+		<source>There is nothing that you can teach me that I don't already know, old man.</source>
+		<target>Ты не можешь научить меня ничему, что я бы ещё не знал, старик.</target>
+	</unit>
+	<unit bitflag="1360" id1="660760" id2="17" version="1065353216">
+		<source>Shut up already.</source>
+		<target>Заткнись уже.</target>
+	</unit>
+	<unit bitflag="1345" id1="660761" id2="17" version="1065353216">
+		<source>There is nothing you can teach me that I don't already know, old man.</source>
+		<target>Ты не можешь научить меня ничему, что я бы ещё не знал, старик.</target>
+	</unit>
+	<unit bitflag="1360" id1="660761" id2="17" version="1065353216">
+		<source>Shut up already.</source>
+		<target>Заткнись уже.</target>
+	</unit>
+	<unit bitflag="1345" id1="660762" id2="17" version="1065353216">
+		<source>Then leave.</source>
+		<target>Тогда уходи.</target>
+	</unit>
+	<unit bitflag="1345" id1="660764" id2="17" version="1065353216">
+		<source>Return to Harkun and nurture your hatred for him. And use your fear of him to grow stronger.</source>
+		<target>Возвращайся к Харкуну и лелей свою ненависть к нему. И используй свой страх перед ним, чтобы стать сильнее.</target>
+	</unit>
+	<unit bitflag="1345" id1="660766" id2="17" version="1065353216">
+		<source>He may raise his fist to strike, but it is Lord Zash who determines where the blow will land.</source>
+		<target>Он может замахнуться, чтобы ударить, но только лорд Заш решает, куда придётся удар.</target>
+	</unit>
+	<unit bitflag="1345" id1="660767" id2="17" version="1065353216">
+		<source>How do you know Harkun and Lord Zash?</source>
+		<target>Откуда ты знаешь Харкуна и лорда Заш?</target>
+	</unit>
+	<unit bitflag="1360" id1="660767" id2="17" version="1065353216">
+		<source>Wait--you know them?</source>
+		<target>Стой... ты их знаешь?</target>
+	</unit>
+	<unit bitflag="1345" id1="660768" id2="17" version="1065353216">
+		<source>Both of them have been through here in my time, and they have gone their separate paths since.</source>
+		<target>Они оба побывали здесь в своё время, и с тех пор они пошли разными путями.</target>
+	</unit>
+	<unit bitflag="1345" id1="660770" id2="17" version="1065353216">
+		<source>But who controls Zash, I wonder?</source>
+		<target>Но кто, интересно, контролирует Заш?</target>
+	</unit>
+	<unit bitflag="1360" id1="660770" id2="17" version="1065353216">
+		<source>What about Lord Zash?</source>
+		<target>А что насчёт лорда Заш?</target>
+	</unit>
+	<unit bitflag="1345" id1="660771" id2="17" version="1065353216">
+		<source>When you know the answer to that, you will have power over both your masters.</source>
+		<target>Когда ты узнаешь это, твоя мощь будет больше, чем у обоих твоих наставников.</target>
+	</unit>
+	<unit bitflag="1345" id1="660773" id2="17" version="1065353216">
+		<source>And what if she tells him to strike me?</source>
+		<target>А что если она прикажет ему нанести удар по мне?</target>
+	</unit>
+	<unit bitflag="1360" id1="660773" id2="17" version="1065353216">
+		<source>I just hope it's not me.</source>
+		<target>Надеюсь, не по мне.</target>
+	</unit>
+	<unit bitflag="1345" id1="660774" id2="17" version="1065353216">
+		<source>If you do not already know the answer to that question, then you are not worthy of being Sith.</source>
+		<target>Если ты до сих пор не знаешь ответ на этот вопрос, то ты не достоин быть ситом.</target>
+	</unit>
+	<unit bitflag="1345" id1="660776" id2="17" version="1065353216">
+		<source>Now go! Leave me to my rest.</source>
+		<target>Теперь иди! Оставь меня в покое.</target>
+	</unit>
+	<unit bitflag="1345" id1="660778" id2="17" version="1065353216">
+		<source>I will speak with you no more until you have slain these mad acolytes of mine.</source>
+		<target>Я не стану разговаривать с тобой, пока ты не убьёшь моих сумасшедших служителей.</target>
+	</unit>
+	<unit bitflag="1345" id1="660781" id2="17" version="1065353216">
+		<source>Ah, an alien acolyte. Unusual, but not unexpected. The Sith are not friendly to your kind, but that will be an advantage, I think.</source>
+		<target>А, служитель-ксенос. Необычно, но не неожиданно. Ситы недружелюбны к твоему виду, но, думаю, это станет преимуществом.</target>
+	</unit>
+	<unit bitflag="1345" id1="660783" id2="17" version="1065353216">
+		<source>Slave. Welcome to my humble hole.</source>
+		<target>Раб. Приветствую тебя в моей скромной дыре.</target>
+	</unit>
+	<unit bitflag="1345" id1="660785" id2="17" version="1065353216">
+		<source>You are here for your trial, yes? Learn the ways of the Sith from a doddering old man in a tomb.</source>
+		<target>Ты здесь из-за своих испытаний, да? Учиться премудростям ситов от дряхлого старика в гробнице.</target>
+	</unit>
+	<unit bitflag="1345" id1="660787" id2="17" version="1065353216">
+		<source>And hopefully to return to your master with the mark of my approval.</source>
+		<target>И надеешься вернуться к своему учителю со знаком моего одобрения.</target>
+	</unit>
+	<unit bitflag="1345" id1="660788" id2="17" version="1065353216">
+		<source>Yes, my lord. That's right.</source>
+		<target>Да, владыка. Это так.</target>
+	</unit>
+	<unit bitflag="1360" id1="660788" id2="17" version="1065353216">
+		<source>As you say.</source>
+		<target>Именно так.</target>
+	</unit>
+	<unit bitflag="1345" id1="660789" id2="17" version="1065353216">
+		<source>Of course it is. I know the way of things on the surface.</source>
+		<target>Конечно так. Мне известны порядки на поверхности.</target>
+	</unit>
+	<unit bitflag="1360" id1="660791" id2="17" version="1065353216">
+		<source>Hurry it up.</source>
+		<target>Поторопись.</target>
+	</unit>
+	<unit bitflag="1345" id1="660792" id2="17" version="1065353216">
+		<source>Don't worry, I wouldn't dare rob you of your precious time.</source>
+		<target>Не беспокойся, я бы не посмел лишить тебя твоего драгоценного времени.</target>
+	</unit>
+	<unit bitflag="1345" id1="660794" id2="17" version="1065353216">
+		<source>But before I answer either way--you must pass a trial of blood. Survive, and I will teach you what I know.</source>
+		<target>Но прежде чем я вынесу решение, ты должен пройти испытание кровью. Выживи, и я научу тебя тому, что знаю.</target>
+	</unit>
+	<unit bitflag="1345" id1="660795" id2="17" version="1065353216">
+		<source>Actually, I just came to get some fresh air.</source>
+		<target>Вообще-то, я просто пришёл подышать свежим воздухом.</target>
+	</unit>
+	<unit bitflag="1360" id1="660795" id2="17" version="1065353216">
+		<source>No, I do this for fun.</source>
+		<target>Нет, это ради забавы.</target>
+	</unit>
+	<unit bitflag="1345" id1="660796" id2="17" version="1065353216">
+		<source>Do you take me for a fool? No one comes into these tombs for the sheer pleasure of it--not even me.</source>
+		<target>Ты держишь меня за дурака? Никто не приходит в эти гробницы чисто ради удовольствия... даже я.</target>
+	</unit>
+	<unit bitflag="1345" id1="660798" id2="17" version="1065353216">
+		<source>No, they come for power, because they sense that these tombs hold secrets of the dark side.</source>
+		<target>Нет, приходят ради мощи, ибо чувствуют, что в стенах этих гробниц сокрыты тайны Тёмной стороны.</target>
+	</unit>
+	<unit bitflag="1345" id1="660800" id2="17" version="1065353216">
+		<source>And they do--but before you can learn them, you must pass a trial of blood. Survive this, and I will teach you what I know.</source>
+		<target>Так и есть... но прежде чем ты узнаешь их, ты должен будешь пройти испытание кровью. Выживи, и я научу тебя тому, что знаю.</target>
+	</unit>
+	<unit bitflag="1345" id1="660806" id2="17" version="1065353216">
+		<source>Please, leave Spindrall to his rest.</source>
+		<target>Пожалуйста, оставь Спиндралла в покое.</target>
+	</unit>
+</dialogue_file>

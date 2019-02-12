@@ -1,0 +1,12 @@
+*.pyc
+*~
+__pycache__
+venv
+JKSite/settings.py
+translation/add/
+datadump.json
+out.json
+editing_messages.txt
+JKSite.log
+.DS_Store
+.idea

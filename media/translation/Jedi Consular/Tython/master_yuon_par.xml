@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="259">
+	<unit bitflag="1345" id1="91166" id2="17" version="1065353216">
+		<source>Go, Padawan. Please. If anything's happened to Qyzen....</source>
+		<target>Иди, падаван. Прошу. Если с Кайзеном что-то случилось...</target>
+	</unit>
+	<unit bitflag="5441" id1="91167" id2="17" version="1065353216">
+		<source>Wait. Where is Qyzen? It's been... how long was I working?</source>
+		<target>Погоди. Где Кайзен? Уже... как долго я работала?</target>
+	</unit>
+	<unit bitflag="1345" id1="91168" id2="17" version="1065353216">
+		<source>I could go and find Qyzen, just to make sure he's alright.</source>
+		<target>Я могу попробовать найти Кайзена, просто чтобы убедиться, что он в порядке.</target>
+	</unit>
+	<unit bitflag="1360" id1="91168" id2="17" version="1065353216">
+		<source>Should I look for him?</source>
+		<target>Мне поискать его?</target>
+	</unit>
+	<unit bitflag="1345" id1="91169" id2="17" version="1065353216">
+		<source>Don't worry, Master Yuon. If anyone can take care of himself, it's Qyzen.</source>
+		<target>Не волнуйтесь, мастер Юон. Если кто и может о себе позаботиться, то это Кайзен.</target>
+	</unit>
+	<unit bitflag="1360" id1="91169" id2="17" version="1065353216">
+		<source>I'm sure he's fine.</source>
+		<target>Уверен, он в порядке.</target>
+	</unit>
+	<unit bitflag="1345" id1="91170" id2="17" version="1065353216">
+		<source>While Qyzen's out there dawdling, the Fount of Rajivari could already have been breached.</source>
+		<target>Пока Кайзен там бродит, Исток Радживари уже мог быть найден.</target>
+	</unit>
+	<unit bitflag="1360" id1="91170" id2="17" version="1065353216">
+		<source>I need that last coordinate!</source>
+		<target>Мне нужна последняя координата!</target>
+	</unit>
+	<unit bitflag="1345" id1="91171" id2="17" version="1065353216">
+		<source>Padawan, Qyzen is never late. Please, you must look for him.</source>
+		<target>Падаван, Кайзен никогда не опаздывает. Прошу, поищи его.</target>
+	</unit>
+	<unit bitflag="1345" id1="91173" id2="17" version="1065353216">
+		<source>He mentioned the waterfall caves. Didn't he? If Qyzen has the last coordinate, you can triangulate the Fount of Rajivari.</source>
+		<target>Он упомянул пещеры за водопадом. Не так ли? Если Кайзен раздобыл последнюю координату, ты сможешь вычислить месторасположение Истока Радживари.</target>
+	</unit>
+	<unit bitflag="1345" id1="91175" id2="17" version="1065353216">
+		<source>There's no time to waste, Padawan. Go. And may the Force be with you both.</source>
+		<target>У нас мало времени, падаван. Иди. И да пребудет с вами обоими Сила.</target>
+	</unit>
+	<unit bitflag="1345" id1="91182" id2="17" version="1065353216">
+		<source>Master Yuon? I have the clues we need.</source>
+		<target>Мастер Юон? У меня есть нужные нам подсказки.</target>
+	</unit>
+	<unit bitflag="1345" id1="91183" id2="17" version="1065353216">
+		<source>Oh. Padawan? Back already? What clues did you find?</source>
+		<target>О. Падаван? Уже вернулся? Какие подсказки ты нашёл?</target>
+	</unit>
+	<unit bitflag="1345" id1="91184" id2="17" version="1065353216">
+		<source>The terminals held the last words of Rajivari's apprentices....</source>
+		<target>В терминалах были последние слова учеников Радживари...</target>
+	</unit>
+	<unit bitflag="1360" id1="91184" id2="17" version="1065353216">
+		<source>I found ancient recordings.</source>
+		<target>Я нашёл древние записи.</target>
+	</unit>
+	<unit bitflag="1345" id1="91185" id2="17" version="1065353216">
+		<source>I think I recovered enough of Rajivari's philosophy to help me....</source>
+		<target>Думаю, я извлёк достаточно философии Радживари, чтобы она помогла нам...</target>
+	</unit>
+	<unit bitflag="1360" id1="91185" id2="17" version="1065353216">
+		<source>Old teachings.</source>
+		<target>Старые учения.</target>
+	</unit>
+	<unit bitflag="1345" id1="91186" id2="17" version="1065353216">
+		<source>I got a few of Rajivari's sayings, and some scraps of history....</source>
+		<target>У меня есть несколько изречений Радживари и отрывков истории...</target>
+	</unit>
+	<unit bitflag="1360" id1="91186" id2="17" version="1065353216">
+		<source>I don't know if it will help.</source>
+		<target>Не знаю, будет ли это полезно.</target>
+	</unit>
+	<unit bitflag="1345" id1="91189" id2="17" version="1065353216">
+		<source>So the Jedi besieged Kaleth, after Rajivari tried to kill the Council. And his apprentices held the line, all by themselves. Remarkable.</source>
+		<target>Значит, джедаи осадили Калет после попытки Радживари убить Совет. И его ученики оборонялись самостоятельно. Впечатляет.</target>
+	</unit>
+	<unit bitflag="1345" id1="91190" id2="17" version="1065353216">
+		<source>I think I have everything I need. Should we focus on getting to the Fount of Rajivari?</source>
+		<target>Думаю, у меня есть всё, что нужно. Нам стоит сконцентрироваться на том, чтобы попасть в Исток Радживари?</target>
+	</unit>
+	<unit bitflag="1360" id1="91190" id2="17" version="1065353216">
+		<source>What next, Master?</source>
+		<target>Что дальше, учитель?</target>
+	</unit>
+	<unit bitflag="1345" id1="91191" id2="17" version="1065353216">
+		<source>Yes, and when Qyzen brings us the final coordinate, you can....</source>
+		<target>Да, и когда Кайзен раздобудет нам последнюю координату, ты сможешь...</target>
+	</unit>
+	<unit bitflag="1345" id1="91193" id2="17" version="1065353216">
+		<source>Rajivari's apprentices knew there was no hope, but they defended their beliefs to the last.</source>
+		<target>Ученики Радживари знали, что надежды не было, но защищали свои верования до последнего.</target>
+	</unit>
+	<unit bitflag="1360" id1="91193" id2="17" version="1065353216">
+		<source>They were brave, and loyal.</source>
+		<target>Они были верными и храбрыми.</target>
+	</unit>
+	<unit bitflag="1345" id1="91194" id2="17" version="1065353216">
+		<source>Yes. With a different master, they could have been great Jedi.</source>
+		<target>Да. С другим учителем они могли бы стать великими джедаями.</target>
+	</unit>
+	<unit bitflag="1345" id1="91196" id2="17" version="1065353216">
+		<source>If preserving their master's ideas was so important, those apprentices should have done anything to survive.</source>
+		<target>Если сохранить идеи их учителя было так важно, эти ученики должны были сделать всё, чтобы выжить.</target>
+	</unit>
+	<unit bitflag="1360" id1="91196" id2="17" version="1065353216">
+		<source>They should have surrendered.</source>
+		<target>Им следовало сдаться.</target>
+	</unit>
+	<unit bitflag="1345" id1="91197" id2="17" version="1065353216">
+		<source>Perhaps they believed only one sort of life was worth living.</source>
+		<target>Возможно, они верили, что лишь один вид жизни достоин жить.</target>
+	</unit>
+	<unit bitflag="1345" id1="91199" id2="17" version="1065353216">
+		<source>Hopefully the principles you've recovered will help you pass into the Fount of Rajivari safely. And once Qyzen brings us the last coordinate....</source>
+		<target>Надеюсь, принципы, что ты узнал, помогут тебе благополучно проникнуть в Исток Радживари. И когда Кайзен добудет нам последнюю координату...</target>
+	</unit>
+	<unit bitflag="1345" id1="91201" id2="17" version="1065353216">
+		<source>There's no need to tell the Council about those traps, Padawan. You understand.</source>
+		<target>Не нужно рассказывать Совету об этих ловушках, падаван. Ты понимаешь.</target>
+	</unit>
+	<unit bitflag="1345" id1="91202" id2="17" version="1065353216">
+		<source>Padawan, look. In the map's code--there's something else hidden here. A warning?</source>
+		<target>Падаван, смотри. В коде карты... спрятано что-то ещё. Предупреждение?</target>
+	</unit>
+	<unit bitflag="1345" id1="91204" id2="17" version="1065353216">
+		<source>&quot;The Fount of Rajivari has mechanisms for intruders. Only those who know Rajivari's path will walk through unscathed, to gain his wisdom.&quot;</source>
+		<target>«В Истоке Радживари есть механизмы защиты против незваных гостей. Только те, кто постиг путь Радживари, пройдут невредимыми и получат его мудрость».</target>
+	</unit>
+	<unit bitflag="1345" id1="91205" id2="17" version="1065353216">
+		<source>Rajivari's philosophies are somehow the way past these mechanisms--likely traps.</source>
+		<target>Философия Радживари каким-то образом позволяет пройти эти механизмы — вероятно, ловушки.</target>
+	</unit>
+	<unit bitflag="1360" id1="91205" id2="17" version="1065353216">
+		<source>So I must learn his path.</source>
+		<target>Значит, мне нужно изучить его путь.</target>
+	</unit>
+	<unit bitflag="1345" id1="91206" id2="17" version="1065353216">
+		<source>Mechanisms for intruders can only mean one thing.</source>
+		<target>Механизмы для проникающих могут означать только одно.</target>
+	</unit>
+	<unit bitflag="1360" id1="91206" id2="17" version="1065353216">
+		<source>It's talking about traps.</source>
+		<target>Тут говорится о ловушках.</target>
+	</unit>
+	<unit bitflag="1345" id1="91207" id2="17" version="1065353216">
+		<source>But according to this, knowledge of Rajivari's philosophy will protect you. Fascinating!</source>
+		<target>Но, как здесь указано, знание философии Радживари защитит тебя. Потрясающе!</target>
+	</unit>
+	<unit bitflag="1345" id1="91209" id2="17" version="1065353216">
+		<source>I'll take care of these mechanisms when I get there, Master Yuon.</source>
+		<target>Я разберусь с этими механизмами, когда доберусь туда, мастер Юон.</target>
+	</unit>
+	<unit bitflag="1360" id1="91209" id2="17" version="1065353216">
+		<source>I can handle that.</source>
+		<target>Я справлюсь.</target>
+	</unit>
+	<unit bitflag="1345" id1="91210" id2="17" version="1065353216">
+		<source>Rajivari was ruthless, Padawan, those traps will be fatal if you go unprepared.</source>
+		<target>Радживари был беспощаден, падаван, эти ловушки будут смертельно опасны, если ты пойдёшь без подготовки.</target>
+	</unit>
+	<unit bitflag="1345" id1="91212" id2="17" version="1065353216">
+		<source>We know Kaleth was Rajivari's stronghold. And excavators have uncovered ancient computer terminals in Upper Kaleth.</source>
+		<target>Мы знаем, что Калет был крепостью Радживари. А раскопки обнаружили древние компьютерные терминалы в Верхнем Калете.</target>
+	</unit>
+	<unit bitflag="1345" id1="91214" id2="17" version="1065353216">
+		<source>Those terminals might hold answers, if they weren't all locked with passwords.</source>
+		<target>Эти терминалы могли бы дать нам ответы, если бы они не были под защитой паролей.</target>
+	</unit>
+	<unit bitflag="1345" id1="91215" id2="17" version="1065353216">
+		<source>The hilt of the first blade accessed the coordinates to the Fount of Rajivari. It could unlock these terminals, too.</source>
+		<target>Рукоять первого клинка дала доступ к координатам Истока Радживари. Она может разблокировать и эти терминалы.</target>
+	</unit>
+	<unit bitflag="1360" id1="91215" id2="17" version="1065353216">
+		<source>The hilt I found could help.</source>
+		<target>Найденная мной рукоять может помочь.</target>
+	</unit>
+	<unit bitflag="1345" id1="91216" id2="17" version="1065353216">
+		<source>Of course! Those engravings... some of them resemble security algorithms.</source>
+		<target>Конечно! Эти гравировки... часть их напоминает алгоритмы систем безопасности.</target>
+	</unit>
+	<unit bitflag="1345" id1="91218" id2="17" version="1065353216">
+		<source>Is there anywhere else we could look?</source>
+		<target>Мы можем поискать где-то ещё?</target>
+	</unit>
+	<unit bitflag="1360" id1="91218" id2="17" version="1065353216">
+		<source>Do we have any alternatives?</source>
+		<target>У нас есть другие варианты?</target>
+	</unit>
+	<unit bitflag="1345" id1="91219" id2="17" version="1065353216">
+		<source>Nowhere I can think of. Those terminals would be our best hope....</source>
+		<target>Мне ничего в голову не приходит. Эти терминалы — наша последняя надежда...</target>
+	</unit>
+	<unit bitflag="1345" id1="91221" id2="17" version="1065353216">
+		<source>Anyone who knew those passwords is long dead.</source>
+		<target>Все, кто знал эти пароли, давно мертвы.</target>
+	</unit>
+	<unit bitflag="1360" id1="91221" id2="17" version="1065353216">
+		<source>Then we're stuck.</source>
+		<target>Тогда мы в тупике.</target>
+	</unit>
+	<unit bitflag="1345" id1="91222" id2="17" version="1065353216">
+		<source>Wait. We do have the first blade's hilt. It accessed the map; maybe it could access those terminals.</source>
+		<target>Погоди. У нас же есть рукоять первого клинка. Она открыла доступ к карте; возможно, откроет его и к терминалам.</target>
+	</unit>
+	<unit bitflag="5441" id1="91224" id2="17" version="1065353216">
+		<source>Go to Upper Kaleth, and investigate those terminals for any clue. I'll wait here for Qyzen. We're close, Padawan; I know it!</source>
+		<target>Отправляйся в Верхний Калет и исследуй эти терминалы. Я подожду Кайзена здесь. Мы близко, падаван, я знаю!</target>
+	</unit>
+	<unit bitflag="1345" id1="91229" id2="17" version="1065353216">
+		<source>Master Yuon, I believe I have the coordinates for the Fount of Rajivari.</source>
+		<target>Мастер Юон, думаю, у меня есть координаты Истока Радживари.</target>
+	</unit>
+	<unit bitflag="1345" id1="91230" id2="17" version="1065353216">
+		<source>Qyzen mentioned as much--Padawan, I just received a very disturbing message. For you, from Nalen Raloch.</source>
+		<target>Кайзен упомянул об этом... падаван, я только что получила крайне тревожащее сообщение. Для тебя от Налена Ралоха.</target>
+	</unit>
+	<unit bitflag="1345" id1="91232" id2="17" version="1065353216">
+		<source>Survival. Mine, my village's, and yours, Jedi. Interesting to think about.</source>
+		<target>Выживание. Моё, моей деревни и твоё, джедай. Интересно подумать об этом.</target>
+	</unit>
+	<unit bitflag="1345" id1="91234" id2="17" version="1065353216">
+		<source>My people's deaths will be avenged. There's other paths to the Fount of Rajivari. I'll find it, and then I'll kill you.</source>
+		<target>Смерти моего народа будут отомщены. Есть другие пути к Истоку Радживари. Я найду его и затем убью тебя.</target>
+	</unit>
+	<unit bitflag="1345" id1="91236" id2="17" version="1065353216">
+		<source>You killed the villagers. How could you?</source>
+		<target>Ты убил поселенцев. Как ты мог сделать это?</target>
+	</unit>
+	<unit bitflag="1345" id1="91237" id2="17" version="1065353216">
+		<source>They attacked me. I didn't have a choice.</source>
+		<target>Они напали на меня. У меня не было выбора.</target>
+	</unit>
+	<unit bitflag="1360" id1="91237" id2="17" version="1065353216">
+		<source>It was self-defense.</source>
+		<target>Это была самооборона.</target>
+	</unit>
+	<unit bitflag="1345" id1="91238" id2="17" version="1065353216">
+		<source>Let me see those coordinates, Padawan. I hope they're worth such a terrible price.</source>
+		<target>Покажи мне эти координаты, падаван. Надеюсь, они стоили столь ужасной цены.</target>
+	</unit>
+	<unit bitflag="1345" id1="91240" id2="17" version="1065353216">
+		<source>If I could change what happened, Master Yuon, I would.</source>
+		<target>Если бы я мог изменить случившееся, мастер Юон, я бы это сделал.</target>
+	</unit>
+	<unit bitflag="1360" id1="91240" id2="17" version="1065353216">
+		<source>I regret their deaths.</source>
+		<target>Я сожалею об их смертях.</target>
+	</unit>
+	<unit bitflag="1345" id1="91241" id2="17" version="1065353216">
+		<source>Then learn from this. It is the very least you can do for them!</source>
+		<target>Тогда усвой урок. Это наименьшее, что ты можешь для них сделать!</target>
+	</unit>
+	<unit bitflag="1345" id1="91243" id2="17" version="1065353216">
+		<source>If I'd let those villagers go, they would have returned later, in greater numbers.</source>
+		<target>Если бы эти поселенцы ушли, они бы вернулись позже с подкреплением.</target>
+	</unit>
+	<unit bitflag="1360" id1="91243" id2="17" version="1065353216">
+		<source>They'd have kept pursuing me.</source>
+		<target>Они бы преследовали меня и дальше.</target>
+	</unit>
+	<unit bitflag="1345" id1="91244" id2="17" version="1065353216">
+		<source>The future is ever-changing, Padawan. But those people are dead. That cannot be undone!</source>
+		<target>Будущее изменчиво, падаван. Но эти люди мертвы. Этого не изменить!</target>
+	</unit>
+	<unit bitflag="1345" id1="91246" id2="17" version="1065353216">
+		<source>You fooled my people. It doesn't matter. There's other routes to the Fount of Rajivari. Interfere, and I'll kill you.</source>
+		<target>Ты обманул мой народ. Это неважно. Есть другие пути к Истоку Радживари. Попробуй мне помешать, и я убью тебя.</target>
+	</unit>
+	<unit bitflag="1345" id1="91248" id2="17" version="1065353216">
+		<source>Nalen has truly fallen, then. And he wants you dead. You must be vigilant.</source>
+		<target>Тогда Нален действительно пал. И он хочет твоей смерти. Тебе нужно смотреть в оба.</target>
+	</unit>
+	<unit bitflag="1345" id1="91249" id2="17" version="1065353216">
+		<source>He may have found another route, but we're the ones with the map.</source>
+		<target>Возможно, он нашёл другой маршрут, но карта у нас.</target>
+	</unit>
+	<unit bitflag="1360" id1="91249" id2="17" version="1065353216">
+		<source>We're ahead in this race.</source>
+		<target>Мы выигрываем гонку.</target>
+	</unit>
+	<unit bitflag="1345" id1="91250" id2="17" version="1065353216">
+		<source>Yes, the coordinates. Please, let me see them.</source>
+		<target>Да, координаты. Прошу, покажи их мне.</target>
+	</unit>
+	<unit bitflag="1345" id1="91252" id2="17" version="1065353216">
+		<source>There must be a way to save Nalen, Master, or reason with him.</source>
+		<target>Должен быть способ спасти Налена, учитель, или вразумить его.</target>
+	</unit>
+	<unit bitflag="1360" id1="91252" id2="17" version="1065353216">
+		<source>I want to help him.</source>
+		<target>Я хочу помочь ему.</target>
+	</unit>
+	<unit bitflag="1345" id1="91253" id2="17" version="1065353216">
+		<source>He may not give you the chance. You cannot risk yourself!</source>
+		<target>Он может не дать тебе шанса. Ты не можешь так рисковать!</target>
+	</unit>
+	<unit bitflag="1345" id1="91255" id2="17" version="1065353216">
+		<source>If it came to a battle between us, I know I would win.</source>
+		<target>Если бы дошло до битвы между нами, я знаю, что победа была бы за мной.</target>
+	</unit>
+	<unit bitflag="1360" id1="91255" id2="17" version="1065353216">
+		<source>I could defeat him easily.</source>
+		<target>Я с лёгкостью одолею его.</target>
+	</unit>
+	<unit bitflag="1345" id1="91256" id2="17" version="1065353216">
+		<source>No. Don't even consider it, this man is far too dangerous!</source>
+		<target>Нет. Даже не думай, он слишком опасен!</target>
+	</unit>
+	<unit bitflag="3393" id1="91258" id2="17" version="1065353216">
+		<source>Yuon. Is alright.</source>
+		<target>Юон. Всё в порядке.</target>
+	</unit>
+	<unit bitflag="1345" id1="91260" id2="17" version="1065353216">
+		<source>We still have the Fount of Rajivari to find. Let me see those coordinates, Padawan; perhaps I can get us started.</source>
+		<target>Нам всё ещё нужно найти Исток Радживари. Дай мне посмотреть на эти координаты, падаван; возможно, я пойму, с чего начать.</target>
+	</unit>
+	<unit bitflag="1345" id1="91263" id2="17" version="1065353216">
+		<source>I've studied similar depictions. And that coordinate matches ancient mappings of the eastern Tythos Ridge....</source>
+		<target>Я изучал похожие обозначения. И эта координата совпадает с отметкой древними картами восточного хребта Тайтос...</target>
+	</unit>
+	<unit bitflag="1360" id1="91263" id2="17" version="1065353216">
+		<source>I think I understand the map.</source>
+		<target>Думаю, я понимаю карту.</target>
+	</unit>
+	<unit bitflag="1345" id1="91264" id2="17" version="1065353216">
+		<source>Which fits with the first coordinate perfectly. Well done.</source>
+		<target>Что идеально совпадает с первой координатой. Отлично.</target>
+	</unit>
+	<unit bitflag="1345" id1="91266" id2="17" version="1065353216">
+		<source>I can sense it's right, Master Yuon. So the second coordinate... must be the Tythos Ridge.</source>
+		<target>Я чувствую, что это так, мастер Юон. Тогда вторая координата... должно быть, хребет Тайтос.</target>
+	</unit>
+	<unit bitflag="1360" id1="91266" id2="17" version="1065353216">
+		<source>I feel we're getting close.</source>
+		<target>Я чувствую, что мы близко.</target>
+	</unit>
+	<unit bitflag="1345" id1="91267" id2="17" version="1065353216">
+		<source>Yes, those fit exactly.</source>
+		<target>Да, это подходит идеально.</target>
+	</unit>
+	<unit bitflag="1345" id1="91269" id2="17" version="1065353216">
+		<source>And I believe the second coordinate is the Tythos Ridge. Just visualize it from a climber's point of view.</source>
+		<target>И я думаю, что вторая координата — хребет Тайтос. Просто посмотрите на него под углом зрения скалолаза.</target>
+	</unit>
+	<unit bitflag="1360" id1="91269" id2="17" version="1065353216">
+		<source>We're looking at this wrong...</source>
+		<target>Мы смотрим на это не так...</target>
+	</unit>
+	<unit bitflag="1345" id1="91270" id2="17" version="1065353216">
+		<source>Which fits with the first coordinate perfectly. Well done.</source>
+		<target>Что идеально совпадает с первой координатой. Отлично.</target>
+	</unit>
+	<unit bitflag="1345" id1="91272" id2="17" version="1065353216">
+		<source>Ah. Yes! There's truly no substitute for experience.</source>
+		<target>А. Да! И впрямь нет замены опыту.</target>
+	</unit>
+	<unit bitflag="1345" id1="91274" id2="17" version="1065353216">
+		<source>But that leaves... this coordinate. We can't triangulate the Fount of Rajivari without it. Perhaps it's a rock formation....</source>
+		<target>Но так остаётся... эта координата. Мы не можем вычислить местоположение Истока Радживари без неё. Возможно, это горное образование...</target>
+	</unit>
+	<unit bitflag="3393" id1="91276" id2="17" version="1065353216">
+		<source>Hmm. Have seen like formations on hunts. Could scout waterfall caves, try to find.</source>
+		<target>Хм. Видел такие образования на охоте. Могу разведать пещеры за водопадом, попробовать найти.</target>
+	</unit>
+	<unit bitflag="1345" id1="91277" id2="17" version="1065353216">
+		<source>That coordinate will give us the Fount of Rajivari. If you think you can find it, please hurry.</source>
+		<target>Эти координаты укажут нам Исток Радживари. Если думаешь, что сможешь найти его, поторопись.</target>
+	</unit>
+	<unit bitflag="1360" id1="91277" id2="17" version="1065353216">
+		<source>Do it. We're very close.</source>
+		<target>Сделай это. Мы уже близко.</target>
+	</unit>
+	<unit bitflag="1345" id1="91278" id2="17" version="1065353216">
+		<source>With two of us, the search would take half as long.</source>
+		<target>Вдвоём поиск займёт вдвое меньше.</target>
+	</unit>
+	<unit bitflag="1360" id1="91278" id2="17" version="1065353216">
+		<source>Should I go with you?</source>
+		<target>Мне пойти с тобой?</target>
+	</unit>
+	<unit bitflag="3393" id1="91279" id2="17" version="1065353216">
+		<source>Stay. I know caves; is faster searching alone. Scorekeeper watch you.</source>
+		<target>Останься. Я знаю пещеры — быстрее искать в одиночку. Пусть Счетовод присмотрит за тобой.</target>
+	</unit>
+	<unit bitflag="1345" id1="91280" id2="17" version="1065353216">
+		<source>If you want to wander through more cold, dank caves, be my guest.</source>
+		<target>Если ты хочешь ещё бродить по холодным тёмным пещерам, флаг тебе в руки.</target>
+	</unit>
+	<unit bitflag="1360" id1="91280" id2="17" version="1065353216">
+		<source>Rather you than me.</source>
+		<target>Лучше ты, чем я.</target>
+	</unit>
+	<unit bitflag="3393" id1="91281" id2="17" version="1065353216">
+		<source>Better than to stare at old thing forever. Scorekeeper watch you.</source>
+		<target>Лучше, чем без конца глазеть на старую вещь. Пусть Счетовод присмотрит за тобой.</target>
+	</unit>
+	<unit bitflag="1345" id1="91283" id2="17" version="1065353216">
+		<source>Qyzen knows those caves, Padawan. You can trust him to mind your back.</source>
+		<target>Кайзен знает эти пещеры, падаван. Ты можешь доверить ему прикрывать тебя.</target>
+	</unit>
+	<unit bitflag="1345" id1="91284" id2="17" version="1065353216">
+		<source>I deciphered a second clue from Rajivari's hologram. To find the Fount of Rajivari, this hilt must be taken to a cave in the Tythonian mountains.</source>
+		<target>Я расшифровала вторую подсказку в голограмме Радживари. Чтобы найти Исток Радживари, эту рукоять нужно отнести в пещеру в горах Тайтона.</target>
+	</unit>
+	<unit bitflag="1345" id1="91288" id2="17" version="1065353216">
+		<source>The hologram says the founders meditated in that cave. Debated. They became the Jedi Council.</source>
+		<target>Голограмма говорит, что основатели медитировали в этой пещере. Спорили. Они стали Советом джедаев.</target>
+	</unit>
+	<unit bitflag="1345" id1="91289" id2="17" version="1065353216">
+		<source>All our codes, our laws and principles, can be traced back to those debates.</source>
+		<target>Все наши Кодексы, законы и принципы восходят к этим спорам.</target>
+	</unit>
+	<unit bitflag="1360" id1="91289" id2="17" version="1065353216">
+		<source>The very first Council.</source>
+		<target>Самый первый Совет.</target>
+	</unit>
+	<unit bitflag="1345" id1="91290" id2="17" version="1065353216">
+		<source>What should I do with the hilt when I arrive?</source>
+		<target>Что мне делать с рукоятью по прибытии туда?</target>
+	</unit>
+	<unit bitflag="1360" id1="91290" id2="17" version="1065353216">
+		<source>Did it have any other clues?</source>
+		<target>Были другие подсказки?</target>
+	</unit>
+	<unit bitflag="1345" id1="91291" id2="17" version="1065353216">
+		<source>The hologram didn't say. Keep your eyes open.</source>
+		<target>Голограмма не сказала. Найдёшь подсказку там.</target>
+	</unit>
+	<unit bitflag="1345" id1="91293" id2="17" version="1065353216">
+		<source>They had no idea one of their number would eventually succumb to evil.</source>
+		<target>Они понятия не имели, что один из них в конце концов поддастся злу.</target>
+	</unit>
+	<unit bitflag="1360" id1="91293" id2="17" version="1065353216">
+		<source>And Rajivari sat among them.</source>
+		<target>И Радживари был среди них.</target>
+	</unit>
+	<unit bitflag="3393" id1="91294" id2="17" version="1065353216">
+		<source>This cave I know. Is Flesh Raider cave now--good hunting. I would accompany.</source>
+		<target>Эту пещеру я знаю. Теперь пещера раздирателей — хорошая охота. Я бы пошёл с тобой.</target>
+	</unit>
+	<unit bitflag="3393" id1="91296" id2="17" version="1065353216">
+		<source>I go ahead, make a good beginning before search for old things. Shall meet you, small hunter.</source>
+		<target>Я пойду вперёд, будет хорошее начало для поиска старых вещей. Увидимся, маленький охотник.</target>
+	</unit>
+	<unit bitflag="1345" id1="91298" id2="17" version="1065353216">
+		<source>I apologize, Padawan. Qyzen's devotion to the hunt is quite... single-minded.</source>
+		<target>Прошу прощения, падаван. Преданность Кайзена охоте довольно... прямодушна.</target>
+	</unit>
+	<unit bitflag="1345" id1="91299" id2="17" version="1065353216">
+		<source>I don't mind. I welcome his help.</source>
+		<target>Я не против. Мне приятна его помощь.</target>
+	</unit>
+	<unit bitflag="1360" id1="91299" id2="17" version="1065353216">
+		<source>I'm not offended.</source>
+		<target>Я не обижен.</target>
+	</unit>
+	<unit bitflag="1345" id1="91301" id2="17" version="1065353216">
+		<source>He seems to be a gifted hunter already.</source>
+		<target>Кажется, он и так одарённый охотник.</target>
+	</unit>
+	<unit bitflag="1360" id1="91301" id2="17" version="1065353216">
+		<source>Why is he so dedicated?</source>
+		<target>Почему он так посвящает себя этому?</target>
+	</unit>
+	<unit bitflag="1345" id1="91302" id2="17" version="1065353216">
+		<source>Hunting is part of Trandoshan religion and culture. Honing his skills is important.</source>
+		<target>Охота — часть религии трандошан и их культуры. Оттачивать навыки для него важно.</target>
+	</unit>
+	<unit bitflag="1345" id1="91303" id2="17" version="1065353216">
+		<source>I don't want his hunting interfering with my work.</source>
+		<target>Я не хочу, чтобы его охота мешала моей работе.</target>
+	</unit>
+	<unit bitflag="1360" id1="91303" id2="17" version="1065353216">
+		<source>I hope it won't be an issue.</source>
+		<target>Надеюсь, это не будет проблемой.</target>
+	</unit>
+	<unit bitflag="1345" id1="91306" id2="17" version="1065353216">
+		<source>It won't. And I suggest you don't call it &quot;interference&quot; to Qyzen's face.</source>
+		<target>Не будет. И тебе лучше не называть это «помехой» при Кайзене.</target>
+	</unit>
+	<unit bitflag="1345" id1="91308" id2="17" version="1065353216">
+		<source>Good luck, and be careful. The hologram said nothing of what might be waiting in those caves.</source>
+		<target>Удачи, и будь осторожнее. Голограмма ничего не сказала о том, что может поджидать в этих пещерах.</target>
+	</unit>
+	<unit bitflag="1345" id1="91312" id2="17" version="1065353216">
+		<source>Rajivari's hologram proves the same technique existed. Don't you see? It'll resolve that silly debate, once and for all.</source>
+		<target>Голограмма Радживари доказывает, что существовала такая же техника. Ты не видишь? Это разрешит этот глупый спор раз и навсегда.</target>
+	</unit>
+	<unit bitflag="3393" id1="91314" id2="17" version="1065353216">
+		<source>Yuon, is soft thing. Old, soft thing. Do not overexcite for this.</source>
+		<target>Юон, это слабая вещь. Старая, слабая вещь. Не слишком возбуждайся из-за этого.</target>
+	</unit>
+	<unit bitflag="1345" id1="91316" id2="17" version="1065353216">
+		<source>Overexcite. I'm not quite ready to--ah, Padawan!</source>
+		<target>Слишком возбуждаться. Я не вполне готова... а, падаван!</target>
+	</unit>
+	<unit bitflag="1345" id1="91318" id2="17" version="1065353216">
+		<source>Much longer and we'd have come looking for you. I thought you might have crossed paths with Nalen Raloch again.</source>
+		<target>Ещё немного, и мы бы пошли тебя искать. Я подумала, что Нален Ралох мог снова оказаться на твоём пути.</target>
+	</unit>
+	<unit bitflag="1345" id1="91319" id2="17" version="1065353216">
+		<source>Wherever Nalen is, he's not at Kaleth.</source>
+		<target>Где бы ни был Нален, он не в Калете.</target>
+	</unit>
+	<unit bitflag="1360" id1="91319" id2="17" version="1065353216">
+		<source>There was no sign of him.</source>
+		<target>Его признаков не было.</target>
+	</unit>
+	<unit bitflag="1345" id1="91320" id2="17" version="1065353216">
+		<source>How goes your hunting?</source>
+		<target>Как идёт охота?</target>
+	</unit>
+	<unit bitflag="1360" id1="91320" id2="17" version="1065353216">
+		<source>Good to see you, Qyzen.</source>
+		<target>Приятно видеть тебя, Кайзен.</target>
+	</unit>
+	<unit bitflag="3393" id1="91321" id2="17" version="1065353216">
+		<source>Scorekeeper showed favor. And smiled on you also? So Yuon said.</source>
+		<target>Счетовод была благосклонна. Улыбнулась и тебе? Юон сказала.</target>
+	</unit>
+	<unit bitflag="1345" id1="91323" id2="17" version="1065353216">
+		<source>Master Syo and Master Jaric met me outside. They wanted to discuss what you said, about me and the Force.</source>
+		<target>Мастер Сио и мастер Джерик встретили меня снаружи. Они хотели обсудить ваши слова обо мне и Силе.</target>
+	</unit>
+	<unit bitflag="1360" id1="91323" id2="17" version="1065353216">
+		<source>The Council delayed me.</source>
+		<target>Совет задержал меня.</target>
+	</unit>
+	<unit bitflag="1345" id1="91324" id2="17" version="1065353216">
+		<source>Why are they distracting you? Your task is too important.</source>
+		<target>Зачем они отвлекают тебя? Твоё задание слишком важно.</target>
+	</unit>
+	<unit bitflag="1345" id1="91326" id2="17" version="1065353216">
+		<source>You said you found the first blade. Or its hilt, at least. Is it... may I see it?</source>
+		<target>Ты сказал, что нашёл первый клинок. Или, по крайней мере, его рукоять. Она... можно взглянуть?</target>
+	</unit>
+	<unit bitflag="1345" id1="91328" id2="17" version="1065353216">
+		<source>Ah. The folds in the metal. The power cell chamber... these are lost techniques. Our lightsabers began here, with this.</source>
+		<target>А. Впадины в металле. Место для энергоячейки... это утраченные технологии. Наши световые мечи начались с этого.</target>
+	</unit>
+	<unit bitflag="1345" id1="91329" id2="17" version="1065353216">
+		<source>I believe these etch marks are encoded information, Master Yuon.</source>
+		<target>Думаю, эти пометки — зашифрованная информация, мастер Юон.</target>
+	</unit>
+	<unit bitflag="1360" id1="91329" id2="17" version="1065353216">
+		<source>It has data engraved on it.</source>
+		<target>На ней выгравированы данные.</target>
+	</unit>
+	<unit bitflag="1345" id1="91330" id2="17" version="1065353216">
+		<source>And the interior's been modified too, perhaps to hold more.</source>
+		<target>И внутри тоже модифицирована, возможно, для большей вместимости.</target>
+	</unit>
+	<unit bitflag="1345" id1="91332" id2="17" version="1065353216">
+		<source>It's incredible to be in the presence of something so old and influential.</source>
+		<target>Присутствие чего-то столь старого и влиятельного рядом невероятно.</target>
+	</unit>
+	<unit bitflag="1360" id1="91332" id2="17" version="1065353216">
+		<source>Fascinating. And humbling.</source>
+		<target>Поразительно. И подавляет.</target>
+	</unit>
+	<unit bitflag="3393" id1="91333" id2="17" version="1065353216">
+		<source>Please, no encouraging. Already Yuon talks and talks of old things.</source>
+		<target>Прошу, не поощряй. Юон и так уже всё болтает без умолку о старых вещах.</target>
+	</unit>
+	<unit bitflag="1360" id1="91335" id2="17" version="1065353216">
+		<source>It's only junk.</source>
+		<target>Это лишь мусор.</target>
+	</unit>
+	<unit bitflag="1345" id1="91336" id2="17" version="1065353216">
+		<source>Pay attention, Padawan.</source>
+		<target>Обрати внимание, падаван.</target>
+	</unit>
+	<unit bitflag="1345" id1="91338" id2="17" version="1065353216">
+		<source>The Fount of Rajivari. To think it might be real.</source>
+		<target>Исток Радживари. Подумать только, он может быть настоящим.</target>
+	</unit>
+	<unit bitflag="1345" id1="91339" id2="17" version="1065353216">
+		<source>Evidence suggests Kaleth was destroyed in a great battle; old droids still walk those ruins today. But this &quot;first blade&quot; is a puzzle.</source>
+		<target>Данные показывают, что Калет был уничтожен в большой битве; древние дроиды всё ещё бродят по этим руинам. Но этот «первый клинок» — загадка.</target>
+	</unit>
+	<unit bitflag="1345" id1="91340" id2="17" version="1065353216">
+		<source>If it was once a fortress, it could refer to weapons that were stored in Kaleth.</source>
+		<target>Если это когда-то была крепость, это может относиться к оружию, хранившемуся в Калете.</target>
+	</unit>
+	<unit bitflag="1360" id1="91340" id2="17" version="1065353216">
+		<source>Does Kaleth have an armory?</source>
+		<target>В Калете есть арсенал?</target>
+	</unit>
+	<unit bitflag="1345" id1="91341" id2="17" version="1065353216">
+		<source>I can only think of one blade a Jedi would wield.</source>
+		<target>Мне приходит на ум только один клинок в руках джедая.</target>
+	</unit>
+	<unit bitflag="1360" id1="91341" id2="17" version="1065353216">
+		<source>It must be a lightsaber.</source>
+		<target>Это наверняка световой меч.</target>
+	</unit>
+	<unit bitflag="1345" id1="91342" id2="17" version="1065353216">
+		<source>Good deduction, but lightsabers had yet to be invented.</source>
+		<target>Хорошая мысль, но световые мечи тогда ещё не изобрели.</target>
+	</unit>
+	<unit bitflag="1345" id1="91344" id2="17" version="1065353216">
+		<source>I can't help thinking Nalen's had much longer to work this out.</source>
+		<target>Не могу не думать о том, что у Налена было куда больше времени на это.</target>
+	</unit>
+	<unit bitflag="1360" id1="91344" id2="17" version="1065353216">
+		<source>A puzzle Nalen is solving too.</source>
+		<target>Загадка, которую решает и Нален.</target>
+	</unit>
+	<unit bitflag="1345" id1="91345" id2="17" version="1065353216">
+		<source>We have found several old weapons in one section of Kaleth... nothing like a &quot;first blade,&quot; but a good place to begin.</source>
+		<target>Мы нашли немного старого оружия в одной секции Калета... ничего похожего на «первый клинок», но хороший отправной пункт.</target>
+	</unit>
+	<unit bitflag="1345" id1="91347" id2="17" version="1065353216">
+		<source>Ha. I planned your training so carefully. But the Force has intervened. Finding the Fount of Rajivari and stopping Nalen, must be... a greater test.</source>
+		<target>Ха. Я так тщательно планировала твоё обучение. Но Сила вмешалась. Найти Ключ Радживари и остановить Налена должно быть... испытанием посильнее.</target>
+	</unit>
+	<unit bitflag="1345" id1="91348" id2="17" version="1065353216">
+		<source>Are you saying the Force is guiding me?</source>
+		<target>Говорите, Сила ведёт меня?</target>
+	</unit>
+	<unit bitflag="1360" id1="91348" id2="17" version="1065353216">
+		<source>What does that mean?</source>
+		<target>Что это значит?</target>
+	</unit>
+	<unit bitflag="1345" id1="91349" id2="17" version="1065353216">
+		<source>Sometimes the Force, not the Master, shapes a Padawan's trials. This seems to be such a time.</source>
+		<target>Иногда Сила, а не учитель формирует испытания падавана. Кажется, это как раз тот случай.</target>
+	</unit>
+	<unit bitflag="1345" id1="91351" id2="17" version="1065353216">
+		<source>Even if the Force is shaping my training, I want your help, Master Yuon.</source>
+		<target>Даже если Сила формирует моё обучение, мне нужна ваша помощь, мастер Юон.</target>
+	</unit>
+	<unit bitflag="1360" id1="91351" id2="17" version="1065353216">
+		<source>You're still my Master.</source>
+		<target>Вы всё ещё мой учитель.</target>
+	</unit>
+	<unit bitflag="1345" id1="91352" id2="17" version="1065353216">
+		<source>I... thank you.</source>
+		<target>Я... спасибо.</target>
+	</unit>
+	<unit bitflag="1345" id1="91354" id2="17" version="1065353216">
+		<source>Obviously, finding the Fount of Rajivari is more suited to my talents.</source>
+		<target>Очевидно, поиск Истока Радживари больше подходит моим талантам.</target>
+	</unit>
+	<unit bitflag="1360" id1="91354" id2="17" version="1065353216">
+		<source>This is better than training.</source>
+		<target>Это лучше обучения.</target>
+	</unit>
+	<unit bitflag="1345" id1="91355" id2="17" version="1065353216">
+		<source>You should know, Padawan. The Council tends to disapprove of such &quot;training,&quot; but I'll explain everything to them.</source>
+		<target>Ты должен знать, падаван. Совет обычно не одобряет такое «обучение», но я им всё объясню.</target>
+	</unit>
+	<unit bitflag="1345" id1="91357" id2="17" version="1065353216">
+		<source>For now, focus on exploring Kaleth for this &quot;first blade.&quot; Call me on your holocommunicator at once if you have any success.</source>
+		<target>Пока сконцентрируйся на поиске в Калете этого «первого клинка». Позвони мне по голокоммуникатору тут же, если преуспеешь.</target>
+	</unit>
+	<unit bitflag="1345" id1="91359" id2="17" version="1065353216">
+		<source>Padawan, I just spoke to Ranna Tao'Ven, the daughter of Kalikori village's matriarch, concerning your visit there.</source>
+		<target>Падаван, я только что говорила с Ранной Тао'Вен, дочерью матриарха деревни Каликори, относительно твоего визита туда.</target>
+	</unit>
+	<unit bitflag="1345" id1="91361" id2="17" version="1065353216">
+		<source>I was appalled. Threatening innocent people is unacceptable. Aggression and impatience only lead to ruin.</source>
+		<target>Я была в шоке. Угрожать невинным людям неприемлемо. Агрессия и нетерпение ведут только к краху.</target>
+	</unit>
+	<unit bitflag="1345" id1="91362" id2="17" version="1065353216">
+		<source>I'm sorry, Master. I will try and remember.</source>
+		<target>Простите, учитель. Я постараюсь запомнить это.</target>
+	</unit>
+	<unit bitflag="1360" id1="91362" id2="17" version="1065353216">
+		<source>I apologize.</source>
+		<target>Извиняюсь.</target>
+	</unit>
+	<unit bitflag="1345" id1="91363" id2="17" version="1065353216">
+		<source>We'll say no more of it for now. Let me see Rajivari's hologram.</source>
+		<target>Мы пока больше не будем говорить об этом. Покажи мне голограмму Радживари.</target>
+	</unit>
+	<unit bitflag="1345" id1="91364" id2="17" version="1065353216">
+		<source>I'm strong enough to shape my own path, Master Yuon.</source>
+		<target>Мне хватит сил, чтобы создать свой путь, мастер Юон.</target>
+	</unit>
+	<unit bitflag="1360" id1="91364" id2="17" version="1065353216">
+		<source>I can cope.</source>
+		<target>Я справлюсь.</target>
+	</unit>
+	<unit bitflag="1345" id1="91365" id2="17" version="1065353216">
+		<source>Consider that strength is a function of power, and control. Now, let us examine Rajivari's hologram.</source>
+		<target>Считай, что эта сила зависит от мощи и контроля. Теперь давай изучим голограмму Радживари.</target>
+	</unit>
+	<unit bitflag="1345" id1="91366" id2="17" version="1065353216">
+		<source>I want you to meditate on what you learned. Such experiences are what shape us as Jedi.</source>
+		<target>Я хочу увидеть твою медитацию над изученным. Такой опыт формирует нас как джедаев.</target>
+	</unit>
+	<unit bitflag="1360" id1="91367" id2="17" version="1065353216">
+		<source>I will do so.</source>
+		<target>Так и сделаю.</target>
+	</unit>
+	<unit bitflag="1345" id1="91368" id2="17" version="1065353216">
+		<source>I found the holoprojector, as you asked.</source>
+		<target>Голопроектор найден, как вы и просили.</target>
+	</unit>
+	<unit bitflag="1360" id1="91368" id2="17" version="1065353216">
+		<source>We must discuss my mission.</source>
+		<target>Нужно обсудить моё задание.</target>
+	</unit>
+	<unit bitflag="1345" id1="91369" id2="17" version="1065353216">
+		<source>We should check that Rajivari's hologram is safe.</source>
+		<target>Нужно проверить, что голограмма Радживари цела.</target>
+	</unit>
+	<unit bitflag="1345" id1="91370" id2="17" version="1065353216">
+		<source>All I did was speak to the villagers.</source>
+		<target>Это всего лишь разговор с поселенцами.</target>
+	</unit>
+	<unit bitflag="1360" id1="91370" id2="17" version="1065353216">
+		<source>But it was trivial.</source>
+		<target>Но это было тривиально.</target>
+	</unit>
+	<unit bitflag="1345" id1="91371" id2="17" version="1065353216">
+		<source>And we'll see what comes of it. Now, Rajivari's hologram.</source>
+		<target>И мы увидим, что из этого вышло. Теперь голограмма Радживари.</target>
+	</unit>
+	<unit bitflag="1345" id1="91372" id2="17" version="1065353216">
+		<source>The holoprojector was stolen by a Twi'lek, Nalen Raloch. He'd learned Force techniques from Rajivari's hologram--he was obviously unstable.</source>
+		<target>Голопроектор был украден тви'леком, Наленом Ралохом. Он изучил техники Силы у голограммы Радживари... он был явно не в себе.</target>
+	</unit>
+	<unit bitflag="1345" id1="91373" id2="17" version="1065353216">
+		<source>A villager? Very unusual. Then this Nalen is Force sensitive.... Let's see what he saw.</source>
+		<target>Поселенец? Очень необычно. Тогда этот Нален чувствителен к Силе... посмотрим, что он видел.</target>
+	</unit>
+	<unit bitflag="1345" id1="91375" id2="17" version="1065353216">
+		<source>Activation protocol begins. A few words--shall this be all my legacy? No. My enemies are long dead. It is time.</source>
+		<target>Начат протокол активации. Несколько слов — это будет всё моё наследие? Нет. Мои враги давно мертвы. Пора.</target>
+	</unit>
+	<unit bitflag="1345" id1="91377" id2="17" version="1065353216">
+		<source>Hear me. I have left true wisdom behind. For those who follow where the first blade points, from the sanctuary of the order. All else is fleeting....</source>
+		<target>Слушай меня. Я оставил истинную мудрость. Для тех, кто последует, куда указывает первый клинок, из убежища Ордена. Всё прочее меняется...</target>
+	</unit>
+	<unit bitflag="1345" id1="91379" id2="17" version="1065353216">
+		<source>My word. &quot;True wisdom.&quot; Padawan, he... he's talking about the Fount of Rajivari.</source>
+		<target>Моё слово. «Истинная мудрость». Падаван, он... он говорит о Истоке Радживари.</target>
+	</unit>
+	<unit bitflag="1345" id1="91380" id2="17" version="1065353216">
+		<source>What is this &quot;Fount of Rajivari&quot;?</source>
+		<target>Что это за «Исток Радживари»?</target>
+	</unit>
+	<unit bitflag="1360" id1="91380" id2="17" version="1065353216">
+		<source>Now I'm intrigued.</source>
+		<target>Теперь мне интересно.</target>
+	</unit>
+	<unit bitflag="1345" id1="91381" id2="17" version="1065353216">
+		<source>Master, you seem shaken.</source>
+		<target>Учитель, вы, кажется, потрясёны.</target>
+	</unit>
+	<unit bitflag="1360" id1="91381" id2="17" version="1065353216">
+		<source>Are you alright?</source>
+		<target>Вы в порядке?</target>
+	</unit>
+	<unit bitflag="1345" id1="91382" id2="17" version="1065353216">
+		<source>I--I'm fine. This is just... hard to believe.</source>
+		<target>Я... я в порядке. В это просто... трудно поверить.</target>
+	</unit>
+	<unit bitflag="1345" id1="91384" id2="17" version="1065353216">
+		<source>Nothing Rajivari left behind can be safe.</source>
+		<target>Ничто, оставленное Радживари, не может быть безопасным.</target>
+	</unit>
+	<unit bitflag="1360" id1="91384" id2="17" version="1065353216">
+		<source>That cannot be good.</source>
+		<target>Это не к добру.</target>
+	</unit>
+	<unit bitflag="1345" id1="91385" id2="17" version="1065353216">
+		<source>After Rajivari fell, sources claimed he created a great archive of his knowledge and teachings. The Fount of Rajivari.</source>
+		<target>После падения Радживари, по некоторым данным, он создал большой архив своих знаний и учений. Исток Радживари.</target>
+	</unit>
+	<unit bitflag="1345" id1="91387" id2="17" version="1065353216">
+		<source>Generations of Jedi searched for it, finding nothing. The Fount's considered a hoax by all reputable scholars, but... we just heard proof.</source>
+		<target>Поколения джедаев искали его — безрезультатно. Ключ считается мистификацией всеми уважаемыми учёными, но... мы только что слышали доказательство.</target>
+	</unit>
+	<unit bitflag="1345" id1="91388" id2="17" version="1065353216">
+		<source>It said to follow where the first blade points, from the sanctuary of the order. What sanctuary?</source>
+		<target>Голограмма сказала следовать туда, куда указывает первый клинок, из убежища Ордена. Что за убежище?</target>
+	</unit>
+	<unit bitflag="1360" id1="91388" id2="17" version="1065353216">
+		<source>The hologram was giving clues.</source>
+		<target>Голограмма давала подсказки.</target>
+	</unit>
+	<unit bitflag="1345" id1="91389" id2="17" version="1065353216">
+		<source>Nalen Raloch saw this hologram, Master. More of Rajivari's knowledge could make him incredibly dangerous.</source>
+		<target>Нален Ралох видел эту голограмму, учитель. Новые знания Радживари могут сделать его невероятно опасным.</target>
+	</unit>
+	<unit bitflag="1360" id1="91389" id2="17" version="1065353216">
+		<source>So did Nalen.</source>
+		<target>Нален тоже искал его.</target>
+	</unit>
+	<unit bitflag="1345" id1="91390" id2="17" version="1065353216">
+		<source>An untouched archive of ancient Jedi knowledge. Imagine what could be learned from it.</source>
+		<target>Нетронутый архив древних знаний джедаев. Представьте, что можно из него узнать.</target>
+	</unit>
+	<unit bitflag="1360" id1="91390" id2="17" version="1065353216">
+		<source>It must be very powerful.</source>
+		<target>Он должен обладать огромной мощью.</target>
+	</unit>
+	<unit bitflag="1345" id1="91391" id2="17" version="1065353216">
+		<source>The hologram said, follow where the first blade points, from the sanctuary of the order....</source>
+		<target>Голограмма сказала следовать туда, куда указывает первый клинок, из убежища Ордена...</target>
+	</unit>
+	<unit bitflag="1345" id1="91393" id2="17" version="1065353216">
+		<source>Kaleth! The ruins at Kaleth--the name means &quot;sanctum.&quot; It's the remains of an ancient fortress.</source>
+		<target>Калет! Руины Калета... название означает «убежище». Это остатки древней крепости.</target>
+	</unit>
+	<unit bitflag="1345" id1="91395" id2="17" version="1065353216">
+		<source>Go to Kalikori village, and ask Bashenn about the holoprojector. I must do some reading; my Rajivari scholarship is rusty.</source>
+		<target>Сходи в деревню Каликори и спроси Башенна о голопроекторе. Мне нужно почитать; мои знания о Радживари уже устарели.</target>
+	</unit>
+	<unit bitflag="1345" id1="91396" id2="17" version="1065353216">
+		<source>The thief is likely from Kalikori village. Local Twi'lek Pilgrims, here illegally; many of them are poor, or hungry.</source>
+		<target>Вор, вероятно, из деревни Каликори. Местные тви'леки-пилигримы, здесь они незаконно; многие из них бедны или голодны.</target>
+	</unit>
+	<unit bitflag="1345" id1="91397" id2="17" version="1065353216">
+		<source>Selling an ancient holoprojector could feed those villagers for months.</source>
+		<target>Продажа древнего голопроектора могла бы дать этим поселенцам еду на месяцы.</target>
+	</unit>
+	<unit bitflag="1360" id1="91397" id2="17" version="1065353216">
+		<source>And Jedi relics are valuable.</source>
+		<target>А реликвии джедаев ценны.</target>
+	</unit>
+	<unit bitflag="1345" id1="91398" id2="17" version="1065353216">
+		<source>Why are these Twi'leks here?</source>
+		<target>Почему эти тви'леки здесь?</target>
+	</unit>
+	<unit bitflag="1360" id1="91398" id2="17" version="1065353216">
+		<source>You called them &quot;Pilgrims.&quot;</source>
+		<target>Вы назвали их «пилигримами».</target>
+	</unit>
+	<unit bitflag="1345" id1="91399" id2="17" version="1065353216">
+		<source>Religious persecution drove them from their homeworld. They've found sanctuary here, but without the Republic's permission.</source>
+		<target>Религиозные гонения изгнали их с их родины. Они нашли убежище здесь, но без разрешения Республики.</target>
+	</unit>
+	<unit bitflag="1345" id1="91401" id2="17" version="1065353216">
+		<source>You said Kalikori village isn't a legal settlement. I didn't think Tython had such laws.</source>
+		<target>Вы сказали, что деревня Каликори — незаконное поселение. Мне казалось, у Тайтона нет таких законов.</target>
+	</unit>
+	<unit bitflag="1360" id1="91401" id2="17" version="1065353216">
+		<source>Why is their village illegal?</source>
+		<target>Почему их поселение нелегально?</target>
+	</unit>
+	<unit bitflag="1345" id1="91402" id2="17" version="1065353216">
+		<source>The Republic couldn't give the Twi'leks permission to colonize Tython--too dangerous--but they came regardless.</source>
+		<target>Республика не могла дать тви'лекам разрешение заселить Тайтон — слишком опасно — но они всё равно прибыли.</target>
+	</unit>
+	<unit bitflag="1345" id1="91404" id2="17" version="1065353216">
+		<source>I'd like you to go to Kalikori village, discover who took the holoprojector, and retrieve it. But, tread lightly.</source>
+		<target>Тебе нужно отправиться в деревню Каликори, узнать, кто взял голопроектор, и забрать его. Но действуй осторожно.</target>
+	</unit>
+	<unit bitflag="1345" id1="91406" id2="17" version="1065353216">
+		<source>The Twi'leks are here in defiance of Republic law. We're forbidden to fully defend them, even when the Flesh Raiders attack. Relations are... strained.</source>
+		<target>Тви'леки здесь в нарушение законов Республики. Нам нельзя полноценно защищать их, даже когда нападают раздиратели. Отношения... натянутые.</target>
+	</unit>
+	<unit bitflag="1345" id1="91407" id2="17" version="1065353216">
+		<source>We're Jedi. Aren't we obligated to help those in need?</source>
+		<target>Мы джедаи. Разве мы не должны помогать нуждающимся?</target>
+	</unit>
+	<unit bitflag="1360" id1="91407" id2="17" version="1065353216">
+		<source>So we just do nothing?</source>
+		<target>То есть мы просто ничего не делаем?</target>
+	</unit>
+	<unit bitflag="1345" id1="91408" id2="17" version="1065353216">
+		<source>This is the Jedi Council's judgment. I might disagree, but the decision is made.</source>
+		<target>Это суждение Совета джедаев. Я могу не соглашаться, но решение принято.</target>
+	</unit>
+	<unit bitflag="1345" id1="91410" id2="17" version="1065353216">
+		<source>Once the villagers understand the situation, I'm sure we can reach an accord.</source>
+		<target>Когда поселенцам будет понятна ситуация, уверен, мы достигнем согласия.</target>
+	</unit>
+	<unit bitflag="1360" id1="91410" id2="17" version="1065353216">
+		<source>I'll be diplomatic.</source>
+		<target>Проведу переговоры.</target>
+	</unit>
+	<unit bitflag="1345" id1="91411" id2="17" version="1065353216">
+		<source>If the Twi'leks can't survive here without help, they should leave.</source>
+		<target>Если тви'леки не могут выжить здесь без нашей помощи, им нужно уехать.</target>
+	</unit>
+	<unit bitflag="1360" id1="91411" id2="17" version="1065353216">
+		<source>No one's forcing them to stay.</source>
+		<target>Никто их тут силой не держит.</target>
+	</unit>
+	<unit bitflag="1345" id1="91412" id2="17" version="1065353216">
+		<source>Tython is their home, Padawan. They have nowhere else to go.</source>
+		<target>Тайтон — их дом, падаван. Им больше некуда идти.</target>
+	</unit>
+	<unit bitflag="1345" id1="91414" id2="17" version="1065353216">
+		<source>When you reach Kalikori village, find Bashenn, captain of the village guard. He knows everyone, he may have seen the holoprojector.</source>
+		<target>Когда прибудешь в деревню Каликори, найди Башенна, капитана охраны деревни. Он знает всех и мог видеть голопроектор.</target>
+	</unit>
+	<unit bitflag="1345" id1="91416" id2="17" version="1065353216">
+		<source>I think meeting these Pilgrims will be a good lesson for you, Padawan. Go carefully.</source>
+		<target>Думаю, встреча с этими пилигримами будет для тебя хорошим уроком, падаван. Береги себя.</target>
+	</unit>
+	<unit bitflag="1345" id1="91418" id2="17" version="1065353216">
+		<source>There isn't. It's out of my hands, Qyzen.</source>
+		<target>Нет. Это не в моей власти, Кайзен.</target>
+	</unit>
+	<unit bitflag="3393" id1="91420" id2="17" version="1065353216">
+		<source>&quot;Out of hands. Can do nothing.&quot; From you, is strange to hear.</source>
+		<target>«Не в моей власти. Не могу ничего сделать». От тебя странно слышать.</target>
+	</unit>
+	<unit bitflag="1345" id1="91422" id2="17" version="1065353216">
+		<source>I haven't--Padawan. Come in. This is Qyzen Fess, an old friend. He's here on a hunting expedition; a sacred Trandoshan tradition.</source>
+		<target>Я не... падаван. Заходи. Это Кайзен Фесс, мой старый друг. Он здесь в составе охотничьей экспедиции — священная традиция трандошан.</target>
+	</unit>
+	<unit bitflag="1345" id1="91423" id2="17" version="1065353216">
+		<source>Did you train Qyzen, too, Master Yuon?</source>
+		<target>Вы обучали и Кайзена, мастер Юон?</target>
+	</unit>
+	<unit bitflag="1360" id1="91423" id2="17" version="1065353216">
+		<source>Is he a Jedi?</source>
+		<target>Он джедай?</target>
+	</unit>
+	<unit bitflag="3393" id1="91424" id2="17" version="1065353216">
+		<source>Am no Jedi. Am hunter of beasts. And must scout, before light changes--Scorekeeper watch over.</source>
+		<target>Я не джедай. Охотник на чудовищ. И должен разведывать, пока не сменится свет: Счетовод следит.</target>
+	</unit>
+	<unit bitflag="1345" id1="91426" id2="17" version="1065353216">
+		<source>It's an honor to meet you.</source>
+		<target>Честь встретить тебя.</target>
+	</unit>
+	<unit bitflag="1360" id1="91426" id2="17" version="1065353216">
+		<source>A pleasure, Qyzen.</source>
+		<target>Приятно, Кайзен.</target>
+	</unit>
+	<unit bitflag="3393" id1="91427" id2="17" version="1065353216">
+		<source>Is welcome, small hunter. But have scouting, before light changes. Scorekeeper watch over.</source>
+		<target>Спасибо, маленький охотник. Но нужно разведывать, пока не сменится свет. Счетовод следит.</target>
+	</unit>
+	<unit bitflag="1345" id1="91429" id2="17" version="1065353216">
+		<source>This thing doesn't look like anybody's friend.</source>
+		<target>Это создание не выглядит дружелюбно.</target>
+	</unit>
+	<unit bitflag="1360" id1="91429" id2="17" version="1065353216">
+		<source>It's a freaky giant lizard.</source>
+		<target>Это странная большая ящерица.</target>
+	</unit>
+	<unit bitflag="1345" id1="91430" id2="17" version="1065353216">
+		<source>Padawan! That is enough.</source>
+		<target>Падаван! Довольно.</target>
+	</unit>
+	<unit bitflag="3393" id1="91432" id2="17" version="1065353216">
+		<source>Is no matter. Have scouting, before light changes. Scorekeeper watch over, Yuon.</source>
+		<target>Неважно. Нужно разведывать, пока не сменится свет. Счетовод следит, Юон.</target>
+	</unit>
+	<unit bitflag="1345" id1="91436" id2="17" version="1065353216">
+		<source>Some people, even some Jedi, disapprove of my friendship with Qyzen. I wanted you to meet, before rumors prejudiced you.</source>
+		<target>Некоторые, даже среди джедаев, не одобряют мою дружбу с Кайзеном. Я хотела, чтобы вы встретились, прежде чем слухи повлияют на тебя.</target>
+	</unit>
+	<unit bitflag="1345" id1="91438" id2="17" version="1065353216">
+		<source>First, thank you for saving the holograms. The Jedi have lost enough lately without losing our history, too.</source>
+		<target>Прежде всего, спасибо за спасение голограмм. Джедаи потеряли достаточно в последнее время и без потери истории.</target>
+	</unit>
+	<unit bitflag="1345" id1="91439" id2="17" version="1065353216">
+		<source>One of the holoprojectors was taken before I could reach it.</source>
+		<target>Один из голопроекторов был украден раньше, чем мне удалось добраться до него.</target>
+	</unit>
+	<unit bitflag="1360" id1="91439" id2="17" version="1065353216">
+		<source>About the missing hologram.</source>
+		<target>О пропавшей голограмме.</target>
+	</unit>
+	<unit bitflag="1345" id1="91440" id2="17" version="1065353216">
+		<source>I recall, and not just one at random, it seems. That hologram is of the infamous Master Rajivari.</source>
+		<target>Я помню, и это не случайность, похоже. Это голограмма печально известного мастера Радживари.</target>
+	</unit>
+	<unit bitflag="1345" id1="91442" id2="17" version="1065353216">
+		<source>I was glad to help, Master.</source>
+		<target>Было приятно помочь, учитель.</target>
+	</unit>
+	<unit bitflag="1360" id1="91442" id2="17" version="1065353216">
+		<source>It was no trouble.</source>
+		<target>Нет проблем.</target>
+	</unit>
+	<unit bitflag="1345" id1="91443" id2="17" version="1065353216">
+		<source>&quot;Loss&quot; is a small word for what we suffered at the Empire's hands.</source>
+		<target>«Потеря» — не то слово для описания наших страданий от рук Империи.</target>
+	</unit>
+	<unit bitflag="1360" id1="91443" id2="17" version="1065353216">
+		<source>You mean, in the war.</source>
+		<target>Вы хотели сказать, в войне.</target>
+	</unit>
+	<unit bitflag="1345" id1="91444" id2="17" version="1065353216">
+		<source>That discussion will have to wait.</source>
+		<target>Этой дискуссии придётся подождать.</target>
+	</unit>
+	<unit bitflag="1345" id1="91446" id2="17" version="1065353216">
+		<source>I've identified the holoprojector that was stolen. It contained a hologram of... Master Rajivari.</source>
+		<target>Я определила украденный голопроектор. Он содержал голограмму... мастера Радживари.</target>
+	</unit>
+	<unit bitflag="1345" id1="91448" id2="17" version="1065353216">
+		<source>Rajivari was another of the Jedi founders. He... turned to the dark side. He betrayed the very order he helped to create.</source>
+		<target>Радживари тоже был основателем джедаев. Он... пал на Тёмную сторону. Он предал тот самый Орден, который помог создать.</target>
+	</unit>
+	<unit bitflag="1345" id1="91449" id2="17" version="1065353216">
+		<source>This Rajivari's betrayal paved the way for the Sith.</source>
+		<target>Предательство этого Радживари проложило путь ситам.</target>
+	</unit>
+	<unit bitflag="1360" id1="91449" id2="17" version="1065353216">
+		<source>One of the first fallen Jedi.</source>
+		<target>Один из первых падших джедаев.</target>
+	</unit>
+	<unit bitflag="1345" id1="91450" id2="17" version="1065353216">
+		<source>What exactly did Rajivari do?</source>
+		<target>Что именно сделал Радживари?</target>
+	</unit>
+	<unit bitflag="1360" id1="91450" id2="17" version="1065353216">
+		<source>He betrayed the order? How?</source>
+		<target>Он предал Орден? Как?</target>
+	</unit>
+	<unit bitflag="1345" id1="91451" id2="17" version="1065353216">
+		<source>Details of his life are maddeningly sparse.</source>
+		<target>Подробности его жизни крайне немногочисленны.</target>
+	</unit>
+	<unit bitflag="1345" id1="91453" id2="17" version="1065353216">
+		<source>Why would the founders keep Rajivari's image among them, after what he did?</source>
+		<target>Почему основатели сохранили образ Радживари в своих рядах после того, что он сделал?</target>
+	</unit>
+	<unit bitflag="1360" id1="91453" id2="17" version="1065353216">
+		<source>Yet he had his own hologram.</source>
+		<target>Но у него была своя голограмма.</target>
+	</unit>
+	<unit bitflag="1345" id1="91454" id2="17" version="1065353216">
+		<source>Excellent question. To honor his previous contributions? Or a gesture of healing? Hmm.</source>
+		<target>Отличный вопрос. Чтобы почтить его прошлые заслуги? Или как жест исцеления? Хм.</target>
+	</unit>
+	<unit bitflag="1345" id1="91456" id2="17" version="1065353216">
+		<source>Rajivari was immensely powerful. That stolen hologram could hold his darkest secrets.</source>
+		<target>Радживари был невероятно могуч. Эта украденная голограмма может хранить его темнейшие тайны.</target>
+	</unit>
+</dialogue_file>

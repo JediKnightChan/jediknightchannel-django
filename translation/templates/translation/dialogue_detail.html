@@ -1,0 +1,50 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}JediKnightChannel — {{ dialogue.npc_name }}{% endblock %}
+
+{% block head_additional %}
+    <link rel="stylesheet" type="text/css" href="{% static "css/button.css" %}">
+{% endblock %}
+
+{% block content %}
+    <div id="body" class="noselect">
+        <div class="translation">
+            <div>
+                <table>
+                    <tr><th>Оригинал</th><th>Перевод</th><th>Правка</th></tr>
+                    {% for string_pair in string_pairs %}
+                        <tr>
+                            <td>{{ string_pair.0 }}</td>
+                            <td>{{ string_pair.1 }}</td>
+                            <td>
+                                <div class="input-group">
+                                    <p class="invisible">{{ string_pair.2 }}</p>
+                                    <textarea class="form-control custom-control" rows="3" cols="90" style="resize:none;font-size:20px;"></textarea>
+                                    <span class="input-group-addon btn btn-primary" onclick="send_data(this)">Send</span>
+                                </div>
+                            </td>
+                    {% endfor %}
+                </table>
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block additional_end_of_body %}
+    <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+    <script>
+    var filename = "{{ dialogue.dialogue_file.name }}";
+
+    function send_data(button) {
+        var text_area = button.previousElementSibling;
+        var message = text_area.value;
+        var index = text_area.previousSibling.previousSibling.textContent;
+        $.ajax({
+            url: "/translation/handler/",
+            data: {"filename": filename, "index": index, "message": message, "key": "JKCorrection"},
+            dataType: "json",
+        });
+    }
+    </script>
+{% endblock %}

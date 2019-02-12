@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="62">
+	<unit bitflag="1345" id1="90603" id2="17" version="1065353216">
+		<source>Everyone's saying Nalen went crazy. Who can you trust anymore?</source>
+		<target>Все говорят, что Нален сошёл с ума. Кому теперь можно доверять?</target>
+	</unit>
+	<unit bitflag="1345" id1="90604" id2="17" version="1065353216">
+		<source>They found Nalen's body. Someone said he died fighting thirty Flesh Raiders, can you believe it?</source>
+		<target>Тело Налена нашли. Кое-кто говорит, он умер, сражаясь с тридцатью раздирателями, представляешь?</target>
+	</unit>
+	<unit bitflag="1345" id1="90607" id2="17" version="1065353216">
+		<source>I thought I told you to leave.</source>
+		<target>Мне казалось, тебе было сказано уйти.</target>
+	</unit>
+	<unit bitflag="1345" id1="90610" id2="17" version="1065353216">
+		<source>Sorry. Got a whole festival to keep organized.</source>
+		<target>Прости. Нужно было организовывать целый фестиваль.</target>
+	</unit>
+	<unit bitflag="1345" id1="90611" id2="17" version="1065353216">
+		<source>Break out another cask. Or three. The festival only comes once a year; our stores can take it.</source>
+		<target>Открой ещё одну бочку. Или три. Фестиваль только раз в году, наши запасы сильно не пострадают.</target>
+	</unit>
+	<unit bitflag="1345" id1="90613" id2="17" version="1065353216">
+		<source>Just as well. We have an uninvited guest.</source>
+		<target>Отлично. Незваный гость.</target>
+	</unit>
+	<unit bitflag="1345" id1="90615" id2="17" version="1065353216">
+		<source>I see. Festival of Awakening, Jedi. You're not welcome here.</source>
+		<target>Ясно. Фестиваль пробуждения, джедай. Тебе здесь не место.</target>
+	</unit>
+	<unit bitflag="1345" id1="90616" id2="17" version="1065353216">
+		<source>I apologize for interrupting. Master Yuon Par asks if you've seen a Jedi holoprojector.</source>
+		<target>Прошу прощения, что прерываю. Мастер Юон Пар спрашивает, не видели ли вы голопроектор джедаев.</target>
+	</unit>
+	<unit bitflag="1360" id1="90616" id2="17" version="1065353216">
+		<source>Sorry, but my Master sent me.</source>
+		<target>Простите, но меня сюда послала учитель.</target>
+	</unit>
+	<unit bitflag="1345" id1="90617" id2="17" version="1065353216">
+		<source>Huh. If Yuon Par's asking, guess we could try and remember.</source>
+		<target>Ха. Если спрашивает Юон Пар, думаю, мы можем попытаться вспомнить.</target>
+	</unit>
+	<unit bitflag="1345" id1="90619" id2="17" version="1065353216">
+		<source>What's the &quot;Festival of Awakening&quot;? It sounds like fun.</source>
+		<target>Что такое «Фестиваль пробуждения»? Звучит весело.</target>
+	</unit>
+	<unit bitflag="1360" id1="90619" id2="17" version="1065353216">
+		<source>You're having a party?</source>
+		<target>У вас вечеринка?</target>
+	</unit>
+	<unit bitflag="1345" id1="90620" id2="17" version="1065353216">
+		<source>It is, and Jedi aren't invited.</source>
+		<target>Да, и джедаев на неё не звали.</target>
+	</unit>
+	<unit bitflag="1345" id1="90622" id2="17" version="1065353216">
+		<source>This is a Jedi world. I'll come and go as I please.</source>
+		<target>Это планета джедаев. Я прихожу и ухожу по своей воле.</target>
+	</unit>
+	<unit bitflag="1360" id1="90622" id2="17" version="1065353216">
+		<source>I can go where I like.</source>
+		<target>Я могу ходить там, где хочу.</target>
+	</unit>
+	<unit bitflag="1345" id1="90623" id2="17" version="1065353216">
+		<source>What were you expecting, Bashenn, an apology?</source>
+		<target>Чего ты ждал, Башенн, извинений?</target>
+	</unit>
+	<unit bitflag="1345" id1="90625" id2="17" version="1065353216">
+		<source>What do you want?</source>
+		<target>Что ты хочешь?</target>
+	</unit>
+	<unit bitflag="1345" id1="90626" id2="17" version="1065353216">
+		<source>Someone took a Jedi relic from the Gnarls, a holoprojector. I was hoping you might have seen it.</source>
+		<target>Кто-то забрал из Узлов реликвию джедаев, голопроектор. Я надеялся, что вы, возможно, видели его.</target>
+	</unit>
+	<unit bitflag="1360" id1="90626" id2="17" version="1065353216">
+		<source>I need your help.</source>
+		<target>Мне нужна ваша помощь.</target>
+	</unit>
+	<unit bitflag="1345" id1="90627" id2="17" version="1065353216">
+		<source>I think someone brought an ancient Jedi holoprojector here. Its information could be harmful.</source>
+		<target>Думаю, кто-то принёс сюда древний голопроектор джедаев. Информация в нём может повредить вам.</target>
+	</unit>
+	<unit bitflag="1360" id1="90627" id2="17" version="1065353216">
+		<source>I seek a dangerous artifact.</source>
+		<target>Я ищу опасный артефакт.</target>
+	</unit>
+	<unit bitflag="1345" id1="90628" id2="17" version="1065353216">
+		<source>We know dangerous, Jedi. This is our one day to forget it.</source>
+		<target>Нам известно много опасностей, джедай. Сегодня тот день, когда мы их забываем.</target>
+	</unit>
+	<unit bitflag="1345" id1="90630" id2="17" version="1065353216">
+		<source>A valuable Jedi holoprojector has been stolen. I want it, and the name of whoever took it.</source>
+		<target>Кто-то украл ценный голопроектор джедаев. Я хочу это устройство и имя того, кто его взял.</target>
+	</unit>
+	<unit bitflag="1360" id1="90630" id2="17" version="1065353216">
+		<source>I'm hunting a thief.</source>
+		<target>Я охочусь на вора.</target>
+	</unit>
+	<unit bitflag="1345" id1="90631" id2="17" version="1065353216">
+		<source>We don't steal! We salvage!</source>
+		<target>Мы не воруем! Мы собираем!</target>
+	</unit>
+	<unit bitflag="1345" id1="90633" id2="17" version="1065353216">
+		<source>A holoprojector. Yeah, I know what you mean. Nalen found one--Nalen Raloch. Maybe you've heard of him.</source>
+		<target>Голопроектор. Да, я знаю, о чём ты. Нален нашёл его — Нален Ралох. Возможно, тебе случалось слышать о нём.</target>
+	</unit>
+	<unit bitflag="1345" id1="90634" id2="17" version="1065353216">
+		<source>Sorry. I've only just arrived on this world.</source>
+		<target>Простите. Я только прибыл на эту планету.</target>
+	</unit>
+	<unit bitflag="1360" id1="90634" id2="17" version="1065353216">
+		<source>I'm new to Tython.</source>
+		<target>Я совсем недолго на Тайтоне.</target>
+	</unit>
+	<unit bitflag="1345" id1="90635" id2="17" version="1065353216">
+		<source>I haven't, but it sounds like he has a reputation.</source>
+		<target>Нет, но, похоже, он имеет какую-то репутацию.</target>
+	</unit>
+	<unit bitflag="1360" id1="90635" id2="17" version="1065353216">
+		<source>No, but please explain.</source>
+		<target>Нет, но, прошу, объясните.</target>
+	</unit>
+	<unit bitflag="1345" id1="90636" id2="17" version="1065353216">
+		<source>If Nalen took the holoprojector, he's a thief. What else is there to know?</source>
+		<target>Если Нален забрал голопроектор, он вор. Что ещё мне нужно знать?</target>
+	</unit>
+	<unit bitflag="1360" id1="90636" id2="17" version="1065353216">
+		<source>I don't care who he is.</source>
+		<target>Мне неважно, кто он.</target>
+	</unit>
+	<unit bitflag="1345" id1="90637" id2="17" version="1065353216">
+		<source>Nalen Raloch. Our dueling champion for nine years straight. He once rescued an entire scouting party from Flesh Raiders, single-handed.</source>
+		<target>Нален Ралох. Наш чемпион-дуэлянт уже на протяжении девяти лет. Однажды он в одиночку спас от раздирателей целую разведывательную группу.</target>
+	</unit>
+	<unit bitflag="1345" id1="90639" id2="17" version="1065353216">
+		<source>He planned our defenses. Protects us when we go foraging. Without him, we wouldn't even be having the festival.</source>
+		<target>Он организовал нашу оборону. Защищает наших собирателей. Без него у нас и фестиваля бы не было.</target>
+	</unit>
+	<unit bitflag="1345" id1="90641" id2="17" version="1065353216">
+		<source>And no, I'm not telling you where he is. Nalen earns his peace and quiet.</source>
+		<target>И нет, я не скажу, где он. Нален заслуживает тишины и покоя.</target>
+	</unit>
+	<unit bitflag="1345" id1="90642" id2="17" version="1065353216">
+		<source>That hologram's data isn't safe; Nalen should be warned. Or do you want to risk something happening to him?</source>
+		<target>Данные этой голограммы небезопасны; Налена нужно предупредить. Или вы хотите позволить чему-нибудь с ним случиться?</target>
+	</unit>
+	<unit bitflag="1360" id1="90642" id2="17" version="1065353216">
+		<source>But he could be in danger.</source>
+		<target>Но он может быть в опасности.</target>
+	</unit>
+	<unit bitflag="1345" id1="90643" id2="17" version="1065353216">
+		<source>Nalen can take care of himself.</source>
+		<target>Нален может о себе позаботиться.</target>
+	</unit>
+	<unit bitflag="1345" id1="90645" id2="17" version="1065353216">
+		<source>Against Flesh Raiders, sure. But some of that Jedi tech is weird.</source>
+		<target>Против раздирателей — конечно, но часть этих технологий джедаев сверхъестественная.</target>
+	</unit>
+	<unit bitflag="1345" id1="90647" id2="17" version="1065353216">
+		<source>If you help me find that holoprojector, the Jedi Council will hear of it. And we're generous to our friends.</source>
+		<target>Если вы поможете мне найти голопроектор, Совет джедаев узнает об этом. А мы щедры к нашим друзьям.</target>
+	</unit>
+	<unit bitflag="1360" id1="90647" id2="17" version="1065353216">
+		<source>The Jedi would be grateful....</source>
+		<target>Джедаи были бы благодарны.</target>
+	</unit>
+	<unit bitflag="1345" id1="90648" id2="17" version="1065353216">
+		<source>You expect us to believe that?</source>
+		<target>Думаешь, мы поверим?</target>
+	</unit>
+	<unit bitflag="1345" id1="90650" id2="17" version="1065353216">
+		<source>Bashenn, if the Jedi offer you a favor, you say &quot;yes&quot;!</source>
+		<target>Башенн, если джедай просит тебя от одолжении, ты должен согласиться!</target>
+	</unit>
+	<unit bitflag="5441" id1="90652" id2="17" version="1065353216">
+		<source>You have a choice. Either point me in Nalen's direction, or this festival will be memorable for all the wrong reasons.</source>
+		<target>У тебя есть выбор. Либо скажи мне, где Нален, либо этот фестиваль запомнят не по хорошим причинам.</target>
+	</unit>
+	<unit bitflag="5456" id1="90652" id2="17" version="1065353216">
+		<source>You're making me very angry.</source>
+		<target>Ты выводишь меня из себя.</target>
+	</unit>
+	<unit bitflag="1345" id1="90653" id2="17" version="1065353216">
+		<source>You wouldn't. Not on festival day--there's children here!</source>
+		<target>Ты не посмеешь. Не в день фестиваля — тут дети!</target>
+	</unit>
+	<unit bitflag="1345" id1="90655" id2="17" version="1065353216">
+		<source>Just tell her, Bashenn, so she can get out.</source>
+		<target>Просто скажи ей это, Башенн, чтобы она ушла.</target>
+	</unit>
+	<unit bitflag="1345" id1="90657" id2="17" version="1065353216">
+		<source>Just tell him, Bashenn, so he can get out.</source>
+		<target>Просто скажи ему это, Башенн, чтобы он ушёл.</target>
+	</unit>
+	<unit bitflag="1345" id1="90659" id2="17" version="1065353216">
+		<source>Okay, fine. Nalen went into the Flesh Raiders' territory. He's probably still there; he's been gone a while.</source>
+		<target>Ладно. Нален отправился на территорию раздирателей. Он, вероятно, всё ещё там; его долго нет.</target>
+	</unit>
+	<unit bitflag="1345" id1="90660" id2="17" version="1065353216">
+		<source>Then I should look for him. Enjoy your festival.</source>
+		<target>Тогда мне нужно искать его. Наслаждайтесь фестивалем.</target>
+	</unit>
+	<unit bitflag="1360" id1="90660" id2="17" version="1065353216">
+		<source>Thank you.</source>
+		<target>Спасибо.</target>
+	</unit>
+	<unit bitflag="1345" id1="90661" id2="17" version="1065353216">
+		<source>Like you care. Just leave.</source>
+		<target>Как будто тебе есть дело. Просто уходи.</target>
+	</unit>
+	<unit bitflag="1345" id1="90662" id2="17" version="1065353216">
+		<source>I thought this was a special day. Shouldn't he be here celebrating?</source>
+		<target>Мне казалось, это особый день. Он не должен праздновать тут?</target>
+	</unit>
+	<unit bitflag="1360" id1="90662" id2="17" version="1065353216">
+		<source>He's not at your festival?</source>
+		<target>Он не на фестивале?</target>
+	</unit>
+	<unit bitflag="1345" id1="90663" id2="17" version="1065353216">
+		<source>Look, you got what you came for, Jedi. Just leave.</source>
+		<target>Слушай, ты получил то, за чем пришёл, джедай. Просто уходи.</target>
+	</unit>
+	<unit bitflag="1345" id1="90664" id2="17" version="1065353216">
+		<source>Nalen just... likes to be alone these days. And festivals aren't really his thing.</source>
+		<target>Нален просто... предпочитает одиночество в последнее время. И фестивали особо не в его вкусе.</target>
+	</unit>
+	<unit bitflag="1345" id1="90666" id2="17" version="1065353216">
+		<source>Though last year, he did the Waker's Dance with the rest of us.</source>
+		<target>Хотя в прошлом году он танцевал Танец Пробудителя с остальными.</target>
+	</unit>
+	<unit bitflag="1345" id1="90668" id2="17" version="1065353216">
+		<source>I think Nalen's got a camp out there. If you see him, tell him to be back for the feast.</source>
+		<target>Думаю, у Налена там лагерь. Если увидишь его, скажи ему вернуться к пиру.</target>
+	</unit>
+	<unit bitflag="1345" id1="90669" id2="17" version="1065353216">
+		<source>Next time, try giving a simple answer. You'll save everyone a lot of time.</source>
+		<target>В следующий раз попробуй дать простой ответ. Сохранишь всем много времени.</target>
+	</unit>
+	<unit bitflag="1360" id1="90669" id2="17" version="1065353216">
+		<source>There, that wasn't so hard.</source>
+		<target>Вот, всё было не так сложно.</target>
+	</unit>
+	<unit bitflag="1345" id1="90670" id2="17" version="1065353216">
+		<source>Whatever. Just go.</source>
+		<target>Как угодно. Просто уходи.</target>
+	</unit>
+	<unit bitflag="1345" id1="90672" id2="17" version="1065353216">
+		<source>I'm a little busy here.</source>
+		<target>Я тут слегка занят.</target>
+	</unit>
+</dialogue_file>

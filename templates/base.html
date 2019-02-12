@@ -1,0 +1,83 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>{% block title %}{% endblock %}</title>
+	<link rel="stylesheet" type="text/css" href="{% static "css/style.css" %}">
+
+    {% block head_additional %}
+    {% endblock %}
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125480536-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-125480536-1');
+    </script>
+    <script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.4.1/jquery.fancybox.min.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.4.1/jquery.fancybox.min.js"></script>
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ STATIC_URL }}favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ STATIC_URL }}favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ STATIC_URL }}favicon/favicon-16x16.png">
+    <link rel="manifest" href="{{ STATIC_URL }}favicon/site.webmanifest">
+    <link rel="mask-icon" href="{{ STATIC_URL }}favicon/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#000000">
+    <meta name="theme-color" content="#ffffff">
+</head>
+<body id="no-margin-body">
+	<div id="page">
+		<div id="header">
+			<div>
+				<a href="/" class="logo"><img src="{% static "images/logo.png" %}" alt=""></a>
+				<ul id="navigation">
+					<li class="menu">
+						<a href="/">Главная</a>
+					</li>
+
+					<li class="menu">
+						<a href="/news/">Новости</a>
+
+					</li>
+					<li class="menu">
+						<a href="/video/">Видео</a>
+
+					</li>
+					<li>
+						<a href="/contact/">Связаться</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+
+        {% block content %}
+        {% endblock %}
+
+		<div id="footer">
+            {% block footer_additional %}
+            {% endblock %}
+			<div class="connect">
+				<div>
+					<h1>Следите за нами в </h1>
+					<section>
+						<a href="https://twitch.tv/jediknightchannel/"><img src="{% static "images/ext/twitch.jpg" %}" height="40px" width="40px"></a>
+						<a href="https://vk.com/jediknightchannel"><img src="{% static "images/ext/vk.png" %}" height="40px" width="40px"></a>
+						<a href="https://www.youtube.com/channel/UCq3OueoADMdxxYs_Oauodog"><img src="{% static "images/ext/youtube.png" %}" height="40px" width="40px"></a>
+					</section>
+				</div>
+			</div>
+			<div class="footnote">
+				<div>
+                    <p><a href="https://github.com/JediKnightChan/jediknightchannel-django" target="_blank">&#127807; 2017 BY JEDIKNIGHTCHANNEL | ВСЕ ПРАВА — ТРЫН-ТРАВА</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+{% block additional_end_of_body %}
+{% endblock %}
+</body>
+</html>

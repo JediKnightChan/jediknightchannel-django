@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="4">
+	<unit bitflag="321" id1="91928" id2="17" version="1065353216">
+		<source>[This appears to be another recording by one of Master Rajivari's apprentices.]</source>
+		<target>[Это, похоже, другая запись одного из учеников мастера Радживари]</target>
+	</unit>
+	<unit bitflag="1345" id1="91930" id2="17" version="1065353216">
+		<source>Another Jedi today; my seventh. Master Rajivari formed an army from the allies he found past the mountains--we could sure use them now.</source>
+		<target>Ещё один джедай сегодня; седьмой. Мастером Радживари создана армия из союзников, найденных за горами — нам бы они сейчас пригодились.</target>
+	</unit>
+	<unit bitflag="1345" id1="91932" id2="17" version="1065353216">
+		<source>But they've vanished: just left their servants. Those cannibals in their stupid camps.</source>
+		<target>Но они исчезли: оставили только своих слуг. Этих каннибалов в их глупых лагерях.</target>
+	</unit>
+	<unit bitflag="1345" id1="91934" id2="17" version="1065353216">
+		<source>Master Rajivari's second principle says all life is a battle, even to your last breath. But our &quot;allies&quot; didn't leave us a choice.</source>
+		<target>Второй принцип мастера Радживари гласит, что вся жизнь — битва, до последнего вздоха. Но наши «союзники» не оставили нам выбора.</target>
+	</unit>
+</dialogue_file>

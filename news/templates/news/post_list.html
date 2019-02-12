@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+
+{% block title %}JediKnightChannel — Новости{% endblock %}
+
+{% block content %}
+    <div id="body">
+        <div class="header">
+            <div>
+                <h1 class="noimgbelow">SWTOR</h1>
+                <div class="btn">
+                    <a href="/translation/">Принять участие в открытом редактировании</a>
+                </div>
+                <ul>
+                    {% for post in posts %}
+                        <li class="flex-container">
+                            {% if post.image %}
+                                <a href="{{ post.image_href }}" target="_blank" class="post-a">
+                                    <img src="{{ post.image.url }}" class="post-image">
+                                </a>
+                            {% endif %}
+                            <div class="post-text-box">
+                                <h1>{{ post.title }}</h1>
+                                <p>{{ post.summary|safe }}</p>
+                                <div class="post-bottom">
+                                    <a href="{% url 'post_detail' pk=post.pk %}" class="more">Узнать больше</a>
+                                    <p class="post-date">{{ post.date }}</p>
+                                </div>
+                            </div>
+                        </li>
+                    {% endfor %}
+
+                </ul>
+            </div>
+        </div>
+    </div>
+{% endblock %}

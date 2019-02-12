@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="1">
+	<unit bitflag="1345" id1="659848" id2="17" version="1065353216">
+		<source>Um, I'm trying to figure out what's going on here, so I can't talk to you right now.</source>
+		<target>Эм, я пытаюсь понять, что здесь происходит, поэтому я не могу сейчас говорить с тобой.</target>
+	</unit>
+</dialogue_file>

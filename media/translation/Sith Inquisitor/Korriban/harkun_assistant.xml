@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="2">
+	<unit bitflag="1345" id1="448348" id2="17" version="1065353216">
+		<source>Overseer Harkun returned to his chambers in the Academy, slave. I doubt he's expecting to see you again.</source>
+		<target>Надзиратель Харкун вернулся в свои покои в Академии, раб. Сомневаюсь, что он ожидает увидеть тебя вновь.</target>
+	</unit>
+	<unit bitflag="1345" id1="448349" id2="17" version="1065353216">
+		<source>I have nothing to say to you, right now.</source>
+		<target>Сейчас мне не о чем с тобой разговаривать.</target>
+	</unit>
+</dialogue_file>

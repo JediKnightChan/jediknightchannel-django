@@ -1,0 +1,1123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="280">
+	<unit bitflag="1345" id1="658891" id2="17" version="1065353216">
+		<source>The shuttle to Dromund Kaas will be leaving soon, apprentice. I suggest you gather your slave, other belongings, and catch it.</source>
+		<target>Шаттл до Дромунд-Кааса скоро отправляется, ученик. Советую тебе прихватить с собой раба и остальные принадлежности и сесть в него.</target>
+	</unit>
+	<unit bitflag="1345" id1="658892" id2="17" version="1065353216">
+		<source>This is only the beginning. With you as my right hand, we shall strike fear into the Empire's enemies.</source>
+		<target>Это лишь начало. Ты будешь моей правой рукой, и мы вселим ужас в сердца врагов Империи.</target>
+	</unit>
+	<unit bitflag="1345" id1="658894" id2="17" version="1065353216">
+		<source>I must convene with the Emperor and inform him of your progress. This shuttle pass will take you to Dromund Kaas. Meet me at the Citadel there.</source>
+		<target>Я должен встретиться с Императором и доложить ему о твоём развитии. С этим пропуском на шаттл ты легко доберёшься до Дромунд-Кааса. Встретися там, в Цитадели.</target>
+	</unit>
+	<unit bitflag="1360" id1="658895" id2="17" version="1065353216">
+		<source>Yes, master.</source>
+		<target>Да, учитель.</target>
+	</unit>
+	<unit bitflag="1345" id1="658896" id2="17" version="1065353216">
+		<source>As fond as I am of this unyielding planet, it will be a pleasure to leave.</source>
+		<target>Как бы сильно я не любил эту неприветливую планету, мне будет приятно покинуть её.</target>
+	</unit>
+	<unit bitflag="1360" id1="658896" id2="17" version="1065353216">
+		<source>I'm glad to get off Korriban.</source>
+		<target>Я рад выбраться с Коррибана.</target>
+	</unit>
+	<unit bitflag="1345" id1="658897" id2="17" version="1065353216">
+		<source>You will find Dromund Kaas to be considerably more stimulating.</source>
+		<target>Ты сочтёшь Дромунд-Каас значительно более стимулирующим.</target>
+	</unit>
+	<unit bitflag="1345" id1="658899" id2="17" version="1065353216">
+		<source>Tell the Emperor I said hello.</source>
+		<target>Передай Императору привет от меня.</target>
+	</unit>
+	<unit bitflag="1360" id1="658899" id2="17" version="1065353216">
+		<source>My regards to the Dark Lord.</source>
+		<target>Мои пожелания Тёмному лорду.</target>
+	</unit>
+	<unit bitflag="1345" id1="658900" id2="17" version="1065353216">
+		<source>I'm sure he'll be thrilled.</source>
+		<target>Уверен, он будет в восторге.</target>
+	</unit>
+	<unit bitflag="1345" id1="658902" id2="17" version="1065353216">
+		<source>Take the Twi'lek slave as my gift. Do with her as you wish. If she'll be of use, by all means, take her with you to Dromund Kaas.</source>
+		<target>Бери рабыню-тви'лекку в качестве моего дара. Делай с ней что пожелаешь. Если от неё всё же будет польза, в любом смысле этого слова, возьми её с собой на Дромунд-Каас.</target>
+	</unit>
+	<unit bitflag="1345" id1="658905" id2="17" version="1065353216">
+		<source>Take the elevator to the Academy shuttle bay. There is a shuttle leaving soon. Be sure you're on it.</source>
+		<target>Воспользуйся лифтом до взлётной площадки Академии. Шаттл скоро отправляется. Постарайся успеть туда.</target>
+	</unit>
+	<unit bitflag="1345" id1="658909" id2="17" version="1065353216">
+		<source>I am beside myself. Not only did you get the Twi'lek to cooperate, but you completed the task and claimed the ancient lightsaber.</source>
+		<target>Я вне себя от радости. Ты не только заставил тви'лекку содействовать, но к тому же выполнил задание, да ещё и получил древний световой меч.</target>
+	</unit>
+	<unit bitflag="1345" id1="658911" id2="17" version="1065353216">
+		<source>Vemrin was not in my chamber as I instructed. I take it he sought to stop you and claim the ancient weapon as his own.</source>
+		<target>Вемрин не явился в мои покои, как я ему приказал. Полагаю, он попытался остановить тебя и присвоить себе древнее оружие.</target>
+	</unit>
+	<unit bitflag="1345" id1="658912" id2="17" version="1065353216">
+		<source>He tried and failed. Vemrin was nothing if not consistent.</source>
+		<target>Он попытался — и проиграл. Вемрин нельзя отказать в последовательности.</target>
+	</unit>
+	<unit bitflag="1360" id1="658912" id2="17" version="1065353216">
+		<source>Of course he did.</source>
+		<target>Разумеется.</target>
+	</unit>
+	<unit bitflag="1345" id1="658913" id2="17" version="1065353216">
+		<source>Regrettably, he wouldn't take &quot;no&quot; for an answer. I was forced to kill him.</source>
+		<target>К сожалению, он не принял отказ. Пришлось его убить.</target>
+	</unit>
+	<unit bitflag="1360" id1="658913" id2="17" version="1065353216">
+		<source>I tried to spare him.</source>
+		<target>Я попытался пощадить его.</target>
+	</unit>
+	<unit bitflag="1345" id1="658914" id2="17" version="1065353216">
+		<source>Yes, I'm sure it was difficult to bring yourself to do it.</source>
+		<target>Да, уверен тебе было сложно заставить себя сделать это.</target>
+	</unit>
+	<unit bitflag="1345" id1="658916" id2="17" version="1065353216">
+		<source>He did. Now his carcass feeds the tomb's beasts.</source>
+		<target>Так и есть. Сейчас его труп кормит тварей в гробнице.</target>
+	</unit>
+	<unit bitflag="1360" id1="658916" id2="17" version="1065353216">
+		<source>The fool is worm food.</source>
+		<target>Глупец стал кормом для червей.</target>
+	</unit>
+	<unit bitflag="1345" id1="658917" id2="17" version="1065353216">
+		<source>No doubt he will be as tough to digest as he was to defeat.</source>
+		<target>Без сомнений, переварить его будет так же сложно, как и победить.</target>
+	</unit>
+	<unit bitflag="1345" id1="658919" id2="17" version="1065353216">
+		<source>I knew he would confront you. The two of you were equally strong but exact opposites--who better to test one another's mettle?</source>
+		<target>Я знал, что он нападёт на тебя. Вы оба равны по силе, но при этом полные противоположности друг друга — идеально для испытания характера друг друга.</target>
+	</unit>
+	<unit bitflag="1345" id1="658921" id2="17" version="1065353216">
+		<source>It was all part of my plan--one final cataclysmic trial for my two strongest acolytes. Whoever emerged would be my right hand.</source>
+		<target>Всё это было частью моего плана — итоговое роковое испытание для двух моих сильнейших учеников. Выживший стал бы моей правой рукой.</target>
+	</unit>
+	<unit bitflag="1345" id1="658922" id2="17" version="1065353216">
+		<source>I'm disappointed. It should have been obvious I was superior.</source>
+		<target>Я разочарован. Должно быть ясно, что я сильнее.</target>
+	</unit>
+	<unit bitflag="1360" id1="658922" id2="17" version="1065353216">
+		<source>You needed a test?</source>
+		<target>Это было нужно?</target>
+	</unit>
+	<unit bitflag="1345" id1="658923" id2="17" version="1065353216">
+		<source>I do not rely on guesswork. I had to be sure.</source>
+		<target>Я не полагаюсь на догадки. Я должен был быть уверен.</target>
+	</unit>
+	<unit bitflag="1345" id1="658925" id2="17" version="1065353216">
+		<source>If he was so strong, he could have been a valuable asset. Seems like a waste to me.</source>
+		<target>Если он был так силён, он мог бы стать ценным ресурсом. Кажется, всё это было зря.</target>
+	</unit>
+	<unit bitflag="1360" id1="658925" id2="17" version="1065353216">
+		<source>Why throw away a good man?</source>
+		<target>Зачем же разбрасываться хорошими людьми?</target>
+	</unit>
+	<unit bitflag="1345" id1="658926" id2="17" version="1065353216">
+		<source>A necessary sacrifice. It had to be done to bring out your best.</source>
+		<target>Необходимая жертва. Пришлось на это пойти, чтобы раскрыть твой подлинный потенциал.</target>
+	</unit>
+	<unit bitflag="1345" id1="658928" id2="17" version="1065353216">
+		<source>Consider me educated. Now I know you're a master manipulator.</source>
+		<target>Считай, что я в курсе. Теперь я знаю, что ты искусный манипулятор.</target>
+	</unit>
+	<unit bitflag="1360" id1="658928" id2="17" version="1065353216">
+		<source>You're a sneak.</source>
+		<target>А ты подлец.</target>
+	</unit>
+	<unit bitflag="1345" id1="658929" id2="17" version="1065353216">
+		<source>Yes, and don't you forget it.</source>
+		<target>Да, и не забывай об этом.</target>
+	</unit>
+	<unit bitflag="1345" id1="658931" id2="17" version="1065353216">
+		<source>Bravo. I see you may indeed become one of the strongest Sith in the galaxy. Your trials are over. You are now my apprentice.</source>
+		<target>Браво. Вижу, ты действительно можешь стать одним из сильнейших ситов в Галактике. Твои испытания закончены. Теперь ты мой ученик.</target>
+	</unit>
+	<unit bitflag="1345" id1="658932" id2="17" version="1065353216">
+		<source>I am your humble servant, master. I bow before you.</source>
+		<target>Я твой покорный слуга, учитель. Я склоняюсь перед тобой.</target>
+	</unit>
+	<unit bitflag="1360" id1="658932" id2="17" version="1065353216">
+		<source>Command me, my lord.</source>
+		<target>Приказывай, мой лорд.</target>
+	</unit>
+	<unit bitflag="1345" id1="658933" id2="17" version="1065353216">
+		<source>Rise, my apprentice.</source>
+		<target>Встань, мой ученик.</target>
+	</unit>
+	<unit bitflag="1345" id1="658934" id2="17" version="1065353216">
+		<source>I can hardly wait to start, my master.</source>
+		<target>С нетерпением жду начала, учитель.</target>
+	</unit>
+	<unit bitflag="1360" id1="658934" id2="17" version="1065353216">
+		<source>I rush to your service.</source>
+		<target>Спешу служить тебе.</target>
+	</unit>
+	<unit bitflag="1345" id1="658935" id2="17" version="1065353216">
+		<source>Good, because it's time to unleash you.</source>
+		<target>Хорошо, поскольку самое время освободить тебя.</target>
+	</unit>
+	<unit bitflag="1360" id1="658936" id2="17" version="1065353216">
+		<source>It's about time.</source>
+		<target>Самое время.</target>
+	</unit>
+	<unit bitflag="1345" id1="658937" id2="17" version="1065353216">
+		<source>Mind your tone, my young initiate.</source>
+		<target>Следи за своим тоном, мой юный адепт.</target>
+	</unit>
+	<unit bitflag="1345" id1="658940" id2="17" version="1065353216">
+		<source>Ah, you've acquired the Twi'lek slave. Good. The lightsaber is almost yours. Now make her show you the entrance to the forbidden cave in the tomb of Naga Sadow.</source>
+		<target>А, ты заполучил раба-тви'лекку. Хорошо. Световой меч почти твой. Теперь заставь её показать тебе вход в запретную пещеру в гробнице Наги Садоу.</target>
+	</unit>
+	<unit bitflag="1345" id1="658941" id2="17" version="1065353216">
+		<source>Don't make me regret selecting you to get the special lightsaber. Retrieve the Twi'lek from the slave pens and find the forbidden cave in the tomb of Naga Sadow.</source>
+		<target>Не заставляй меня жалеть, что я выбрал тебя для получения особого светового меча. Освободи тви'лекку из рабских оков и разыщи запретную пещеру в гробнице Наги Садоу.</target>
+	</unit>
+	<unit bitflag="1345" id1="658942" id2="17" version="1065353216">
+		<source>Now, I hope you fathom how fortunate you are to be singled out. If you become my apprentice, the galaxy will bend before you.</source>
+		<target>Теперь, надеюсь, ты понимаешь, насколько тебе повезло. Если ты станешь моим учеником, Галактика склонится пред тобой.</target>
+	</unit>
+	<unit bitflag="1360" id1="658943" id2="17" version="1065353216">
+		<source>It fills me with pride.</source>
+		<target>Меня переполняет гордость.</target>
+	</unit>
+	<unit bitflag="1345" id1="658944" id2="17" version="1065353216">
+		<source>You're not going to regret this, Baras. I was born to be Sith.</source>
+		<target>Ты не пожалеешь об этом, Барас. Я был рождён стать ситом.</target>
+	</unit>
+	<unit bitflag="1360" id1="658944" id2="17" version="1065353216">
+		<source>It's only appropriate.</source>
+		<target>Это лишь на руку.</target>
+	</unit>
+	<unit bitflag="1360" id1="658945" id2="17" version="1065353216">
+		<source>Unleash me.</source>
+		<target>Освободи меня.</target>
+	</unit>
+	<unit bitflag="1345" id1="658946" id2="17" version="1065353216">
+		<source>The lightsaber you will seek is old and powerful. It is housed in a forbidden cavern in the tomb of Naga Sadow where few Sith have ever set foot.</source>
+		<target>Световой меч, что ты будешь искать, древний и мощный. Он расположен в запретной пещере в гробнице Наги Садоу, куда вступали немногие ситы.</target>
+	</unit>
+	<unit bitflag="1345" id1="658948" id2="17" version="1065353216">
+		<source>Almost no one knows how to find the secret entrance. But there is a Twi'lek in the holding pens who was caught breaking in there.</source>
+		<target>Почти никто не знает, как найти секретный вход. Но в темнице сидит тви'лекка, пойманная за взломом прохода туда.</target>
+	</unit>
+	<unit bitflag="1345" id1="658950" id2="17" version="1065353216">
+		<source>I hear she is quite willful. Take her and make her show you the entrance to the forbidden cave.</source>
+		<target>Я слышал, она весьма упрямая. Забери её и заставь показать тебе вход в запретную пещеру.</target>
+	</unit>
+	<unit bitflag="1360" id1="658951" id2="17" version="1065353216">
+		<source>Of course.</source>
+		<target>Конечно.</target>
+	</unit>
+	<unit bitflag="1345" id1="658952" id2="17" version="1065353216">
+		<source>You insult me, Baras. I do not need the help of a slave.</source>
+		<target>Ты оскорбляешь меня, Барас. Мне не нужна помощь раба.</target>
+	</unit>
+	<unit bitflag="1360" id1="658952" id2="17" version="1065353216">
+		<source>I can do it myself.</source>
+		<target>Я и сам справлюсь.</target>
+	</unit>
+	<unit bitflag="1345" id1="658953" id2="17" version="1065353216">
+		<source>You will not find the forbidden cave without her.</source>
+		<target>Ты не найдёшь запретную пещеру без её помощи.</target>
+	</unit>
+	<unit bitflag="1345" id1="658955" id2="17" version="1065353216">
+		<source>That sounds like fun. I will enjoy bending her to my will.</source>
+		<target>Звучит многообещающе. Я буду наслаждаться, пока буду склонять её своей воле.</target>
+	</unit>
+	<unit bitflag="1360" id1="658955" id2="17" version="1065353216">
+		<source>Good, someone I get to break.</source>
+		<target>Хорошо, некто, кого я могу сломить.</target>
+	</unit>
+	<unit bitflag="1345" id1="658956" id2="17" version="1065353216">
+		<source>Yes, dominate her as you see fit.</source>
+		<target>Да, распоряжайся ею так, как считаешь нужным.</target>
+	</unit>
+	<unit bitflag="1345" id1="658958" id2="17" version="1065353216">
+		<source>Other acolytes seeking to complete their trials are sent to the tomb, where Academy laws are waived. They will try to murder you.</source>
+		<target>Другие служители, желающие завершить свои испытания, отправляются в гробницу, где не действуют законы Академии. Они попытаются убить тебя.</target>
+	</unit>
+	<unit bitflag="1345" id1="658960" id2="17" version="1065353216">
+		<source>This final test will determine if you become Sith. So, bolster yourself. To set foot in the tomb of Naga Sadow is to breathe in death itself.</source>
+		<target>Это последнее испытание покажет, станешь ли ты ситом. Итак, готовься. Вступить в гробницу Наги Садоу означает вдохнуть запах смерти.</target>
+	</unit>
+	<unit bitflag="1360" id1="658964" id2="17" version="1065353216">
+		<source>I like a challenge.</source>
+		<target>Люблю сложности.</target>
+	</unit>
+	<unit bitflag="1360" id1="658965" id2="17" version="1065353216">
+		<source>Appreciate the advice.</source>
+		<target>Ценный совет.</target>
+	</unit>
+	<unit bitflag="1345" id1="658966" id2="17" version="1065353216">
+		<source>Ah, death. My favorite stench.</source>
+		<target>А, смерть. Мой любимый смрад.</target>
+	</unit>
+	<unit bitflag="1360" id1="658966" id2="17" version="1065353216">
+		<source>I will fill my lungs.</source>
+		<target>Я вдохну всей грудью.</target>
+	</unit>
+	<unit bitflag="1345" id1="658967" id2="17" version="1065353216">
+		<source>Go then. Retrieve the Twi'lek from the Academy slave pens, then seek your lightsaber.</source>
+		<target>Тогда ступай. Освободи тви'лекку из Академии, а затем разыщи свой световой меч.</target>
+	</unit>
+	<unit bitflag="1345" id1="658969" id2="17" version="1065353216">
+		<source>We will see if you belong in the Sith Order, let alone deserve to be my apprentice.</source>
+		<target>Увидим, принадлежишь ли ты всей душой Ордену ситов, и более того, достоин ли ты стать моим учеником.</target>
+	</unit>
+	<unit bitflag="1345" id1="658971" id2="17" version="1065353216">
+		<source>The prodigal supplicant returns--and with all the shards from the tomb of Tulak Hord. Superb.</source>
+		<target>Мой блудный проситель возвращается — и со всеми осколками из гробницы Тулак-Хорда. Великолепно.</target>
+	</unit>
+	<unit bitflag="1345" id1="658973" id2="17" version="1065353216">
+		<source>It appears Klemral was right and you were wrong, Vemrin.</source>
+		<target>Кажется, Клемрал был прав, а ты ошибся, Вемрин.</target>
+	</unit>
+	<unit bitflag="1345" id1="658974" id2="17" version="1065353216">
+		<source>It seems your hopes have been dashed, Vemrin.</source>
+		<target>Похоже, твои надежды разрушены, Вемрин.</target>
+	</unit>
+	<unit bitflag="1345" id1="658976" id2="17" version="1065353216">
+		<source>Appearances can be deceptive.</source>
+		<target>Кажущееся может быть обманчивым.</target>
+	</unit>
+	<unit bitflag="1345" id1="658978" id2="17" version="1065353216">
+		<source>Excuse Vemrin, supplicant. He expected you to fall on your face.</source>
+		<target>Извини Вемрина, проситель. Он ожидал твоего провала.</target>
+	</unit>
+	<unit bitflag="1345" id1="658979" id2="17" version="1065353216">
+		<source>This is old hat for Vemrin. He should be used to disappointment by now.</source>
+		<target>Всё это уже так обыденно для Вемрина. Ему бы уже стоило привыкнуть к разочарованию.</target>
+	</unit>
+	<unit bitflag="1360" id1="658979" id2="17" version="1065353216">
+		<source>He never learns.</source>
+		<target>Он никогда не учится на ошибках.</target>
+	</unit>
+	<unit bitflag="1345" id1="658980" id2="17" version="1065353216">
+		<source>I have little to no interest in anything Vemrin says or does, master.</source>
+		<target>Меня абсолютно не волнует, ни что Вемрин говорит, ни что он делает, учитель.</target>
+	</unit>
+	<unit bitflag="1360" id1="658980" id2="17" version="1065353216">
+		<source>Who cares?</source>
+		<target>Какая разница?</target>
+	</unit>
+	<unit bitflag="1345" id1="658981" id2="17" version="1065353216">
+		<source>Let me explain something to you, master, I have come to realize--Vemrin is a fool.</source>
+		<target>Позволь мне кое-что прояснить, учитель: мне полностью ясно, что Вемрин глупец.</target>
+	</unit>
+	<unit bitflag="1360" id1="658981" id2="17" version="1065353216">
+		<source>I know all about him.</source>
+		<target>Я всё знаю о нём.</target>
+	</unit>
+	<unit bitflag="1345" id1="658982" id2="17" version="1065353216">
+		<source>Excuse Vemrin, supplicant. He didn't take kindly to you turning those young acolytes on him--even though they were only untrained novices.</source>
+		<target>Извини Вемрина, проситель. Он не любезно отнёсся к тебе, завербовав этих молодых служителей себе, хотя при этом они были лишь неподготовленными новичками.</target>
+	</unit>
+	<unit bitflag="1345" id1="658983" id2="17" version="1065353216">
+		<source>He should thank me. Novices or not, I bet he had his hands full.</source>
+		<target>Ему бы стоило поблагодарить меня. Новички они, или нет, но уверен, что у него было полно дел.</target>
+	</unit>
+	<unit bitflag="1360" id1="658983" id2="17" version="1065353216">
+		<source>He needed the practice.</source>
+		<target>Ему следовало бы попрактиковаться.</target>
+	</unit>
+	<unit bitflag="1345" id1="658984" id2="17" version="1065353216">
+		<source>That was a trick I learned from Vemrin himself. I was just giving him a taste of his own medicine.</source>
+		<target>Этому фокусу я научился у самого Вемрина. Я просто дал ему попробовать собственное средство.</target>
+	</unit>
+	<unit bitflag="1360" id1="658984" id2="17" version="1065353216">
+		<source>Turnabout is fair play.</source>
+		<target>Менять сторону — честная игра.</target>
+	</unit>
+	<unit bitflag="1345" id1="658985" id2="17" version="1065353216">
+		<source>I hope he's not holding his breath for an apology. A blowhard like him might suffocate.</source>
+		<target>Надеюсь, он не затаил дыхание в ожидании извинений. Такой хвастун вроде него может задохнуться.</target>
+	</unit>
+	<unit bitflag="1360" id1="658985" id2="17" version="1065353216">
+		<source>I'm not sorry.</source>
+		<target>Я не сожалею.</target>
+	</unit>
+	<unit bitflag="1345" id1="658986" id2="17" version="1065353216">
+		<source>The tension is thick between you two. A great source of emotion to feed on. I wonder what will happen when it boils over.</source>
+		<target>Напряжение между вами нарастает. Великолепный источник эмоций, чтобы их черпать. Хотелось бы знать, что произойдёт, когда он переполнится.</target>
+	</unit>
+	<unit bitflag="1345" id1="658988" id2="17" version="1065353216">
+		<source>But first, a matter to clear up: There is very little that escapes my scrutiny and I know, acolyte, that you provided Klemral with his shards.</source>
+		<target>Но сначала, следует кое-что прояснить: мало что может ускользнуть от моего внимания, и я знаю, служитель: это ты дал Клемралу его осколки.</target>
+	</unit>
+	<unit bitflag="1345" id1="658990" id2="17" version="1065353216">
+		<source>So, since it was only by your tolerance that Klemral stands before me, I leave his fate in your hands. What should I do with him?</source>
+		<target>Итак, поскольку лишь благодаря твоему терпению Клемрал стоит предо мной, я вверю его участь в твои руки. Как же мне с ним поступить?</target>
+	</unit>
+	<unit bitflag="1345" id1="658991" id2="17" version="1065353216">
+		<source>He still managed to succeed. The directive was by any means necessary. That kind of resourcefulness should be rewarded.</source>
+		<target>Он всё же сумел добиться успеха. Поручение в любом случае было необходимо. Такая изобретательность должна быть вознаграждена.</target>
+	</unit>
+	<unit bitflag="1360" id1="658991" id2="17" version="1065353216">
+		<source>He deserves to be here.</source>
+		<target>Он заслуживает того, чтобы быть здесь.</target>
+	</unit>
+	<unit bitflag="1345" id1="658992" id2="17" version="1065353216">
+		<source>Surviving this long is no small feat, so I agree that he should be allowed to live. But I do not find him to be Sith material.</source>
+		<target>Оставаться живым так долго — немалый подвиг, так что я согласен: он достоин жизни. Но я не считаю его достойным стать ситом.</target>
+	</unit>
+	<unit bitflag="1345" id1="658994" id2="17" version="1065353216">
+		<source>He recognized his limitations, which has its own merit. But those limitations mark him unworthy to continue the journey to being Sith.</source>
+		<target>Он признал свои недостатки, что само по себе похвально, однако они делают его недостойным стать ситом.</target>
+	</unit>
+	<unit bitflag="1360" id1="658994" id2="17" version="1065353216">
+		<source>His training should end.</source>
+		<target>Его обучение должно быть завершено.</target>
+	</unit>
+	<unit bitflag="1345" id1="658995" id2="17" version="1065353216">
+		<source>Yes, the next trial would destroy him instantly. While he is not Sith material, he is a survivor, so perhaps he can be of some use.</source>
+		<target>Да, следующее испытание немедленно его погубит. Хоть он и не сит, он всё же выжил, так что, возможно, от него будет польза.</target>
+	</unit>
+	<unit bitflag="1345" id1="658997" id2="17" version="1065353216">
+		<source>Klemral, I'm assigning you to oversee the Academy prisons. It's not a glamorous post but do your job, and you'll be respected here. Report to Jailer Knash immediately.</source>
+		<target>Клемрал, я поручаю тебе надзирать над темницей Академии. Это не самый роскошный пост, но работай, и тебя там будут уважать. Немедленно сообщи об этом тюремщику Нэшу.</target>
+	</unit>
+	<unit bitflag="1345" id1="658999" id2="17" version="1065353216">
+		<source>Thank you, my lord. Thank you both.</source>
+		<target>Благодарю, мой лорд. Благодарю вас обоих.</target>
+	</unit>
+	<unit bitflag="1360" id1="659003" id2="17" version="1065353216">
+		<source>Take care, Klemral.</source>
+		<target>Береги себя, Клемрал.</target>
+	</unit>
+	<unit bitflag="1345" id1="659004" id2="17" version="1065353216">
+		<source>And to you.</source>
+		<target>Ты тоже.</target>
+	</unit>
+	<unit bitflag="1345" id1="659005" id2="17" version="1065353216">
+		<source>Today sure is your lucky day. You got better than you deserved.</source>
+		<target>Уверен, сегодня тебе повезло. Ты получил больше, чем заслужил.</target>
+	</unit>
+	<unit bitflag="1360" id1="659005" id2="17" version="1065353216">
+		<source>Fortune is smiling on you.</source>
+		<target>Удача улыбается тебе.</target>
+	</unit>
+	<unit bitflag="1345" id1="659006" id2="17" version="1065353216">
+		<source>Thanks to you. Goodbye.</source>
+		<target>Благодарю. Пока.</target>
+	</unit>
+	<unit bitflag="1345" id1="659007" id2="17" version="1065353216">
+		<source>Your groveling sickens me. Prostrate yourself somewhere else.</source>
+		<target>Твоё пресмыкание мне претит. Унижайся где-нибудь ещё.</target>
+	</unit>
+	<unit bitflag="1360" id1="659007" id2="17" version="1065353216">
+		<source>Get out of my sight.</source>
+		<target>Убирайся с глаз моих.</target>
+	</unit>
+	<unit bitflag="1345" id1="659008" id2="17" version="1065353216">
+		<source>I won't bother you anymore.</source>
+		<target>Больше я тебя не побеспокою.</target>
+	</unit>
+	<unit bitflag="1345" id1="659010" id2="17" version="1065353216">
+		<source>He certainly lacks backbone, but perhaps he'll rise above that someday. Now, are the two of you ready for your final trial?</source>
+		<target>Ему, конечно, не хватает характера, но, возможно, он когда-нибудь ещё возвысится. Итак, готовы ли вы к своему последнему испытанию?</target>
+	</unit>
+	<unit bitflag="1345" id1="659012" id2="17" version="1065353216">
+		<source>Klemral proved himself to be useless. If it's up to me, I say he should die.</source>
+		<target>Клемрал доказал свою никчёмность. Как по мне, ему следовало бы умереть.</target>
+	</unit>
+	<unit bitflag="1360" id1="659012" id2="17" version="1065353216">
+		<source>Kill him.</source>
+		<target>Убей его.</target>
+	</unit>
+	<unit bitflag="1345" id1="659013" id2="17" version="1065353216">
+		<source>No less than he deserves.</source>
+		<target>Он это заслужил.</target>
+	</unit>
+	<unit bitflag="1345" id1="659015" id2="17" version="1065353216">
+		<source>No! Please, I don't want to die!</source>
+		<target>Нет! Прошу, я не хочу умирать!</target>
+	</unit>
+	<unit bitflag="1345" id1="659017" id2="17" version="1065353216">
+		<source>Spineless. Now, are the two of you prepared to face your final trial?</source>
+		<target>Тряпка. Так, готовы ли вы оба к своему последнему испытанию?</target>
+	</unit>
+	<unit bitflag="1360" id1="659020" id2="17" version="1065353216">
+		<source>Let's do it.</source>
+		<target>Давай приступим.</target>
+	</unit>
+	<unit bitflag="1345" id1="659021" id2="17" version="1065353216">
+		<source>I can't wait to show you how ready I am, Lord Baras.</source>
+		<target>Мне не терпится показать, насколько я готов, лорд Барас.</target>
+	</unit>
+	<unit bitflag="1345" id1="659022" id2="17" version="1065353216">
+		<source>Nice, Vemrin. Most people have to get on their knees to lick boots like that.</source>
+		<target>Отлично, Вемрин. Большинству людей пришлось бы наклониться, чтоб вот так лизать сапоги.</target>
+	</unit>
+	<unit bitflag="1360" id1="659022" id2="17" version="1065353216">
+		<source>Suck-up.</source>
+		<target>Подлиза.</target>
+	</unit>
+	<unit bitflag="1345" id1="659023" id2="17" version="1065353216">
+		<source>What must be done, my master?</source>
+		<target>Что мне сделать, учитель?</target>
+	</unit>
+	<unit bitflag="1360" id1="659023" id2="17" version="1065353216">
+		<source>As am I.</source>
+		<target>Какой я есть.</target>
+	</unit>
+	<unit bitflag="1345" id1="659024" id2="17" version="1065353216">
+		<source>Then why don't you shut up and let the man talk?</source>
+		<target>Тогда почему бы тебе не заткнуться и не дать ему сказать?</target>
+	</unit>
+	<unit bitflag="1360" id1="659024" id2="17" version="1065353216">
+		<source>Be quiet.</source>
+		<target>Уймись.</target>
+	</unit>
+	<unit bitflag="1345" id1="659025" id2="17" version="1065353216">
+		<source>I love the sound of that--&quot;final trial.&quot; The anticipation is killing me.</source>
+		<target>Люблю, как это звучит — «последнее испытание». Ожидание меня убивает.</target>
+	</unit>
+	<unit bitflag="1360" id1="659025" id2="17" version="1065353216">
+		<source>I'm looking forward to this.</source>
+		<target>Жду не дождусь.</target>
+	</unit>
+	<unit bitflag="1345" id1="659026" id2="17" version="1065353216">
+		<source>Good. It'll save me the trouble of killing you.</source>
+		<target>Хорошо. Это удержит меня от того, чтобы убить тебя.</target>
+	</unit>
+	<unit bitflag="1360" id1="659027" id2="17" version="1065353216">
+		<source>Scared, Vemrin?</source>
+		<target>Струсил, Вемрин?</target>
+	</unit>
+	<unit bitflag="1345" id1="659028" id2="17" version="1065353216">
+		<source>I'm worried about Vemrin. I sincerely doubt he's up for it.</source>
+		<target>Я волнуюсь за Вемрина. Я не сомневаюсь в том, что он не справится.</target>
+	</unit>
+	<unit bitflag="1360" id1="659028" id2="17" version="1065353216">
+		<source>My foe should stay home.</source>
+		<target>Не следовало моему врагу высовываться.</target>
+	</unit>
+	<unit bitflag="1345" id1="659029" id2="17" version="1065353216">
+		<source>I'm gonna make you eat those words.</source>
+		<target>Я заставлю тебя подавиться этими словами.</target>
+	</unit>
+	<unit bitflag="1360" id1="659030" id2="17" version="1065353216">
+		<source>You're all talk.</source>
+		<target>Трепло.</target>
+	</unit>
+	<unit bitflag="1345" id1="659031" id2="17" version="1065353216">
+		<source>I think I'll eat your heart instead.</source>
+		<target>Полагаю, вместо этого я пожру твоё сердце.</target>
+	</unit>
+	<unit bitflag="1360" id1="659031" id2="17" version="1065353216">
+		<source>I will kill you.</source>
+		<target>Я тебя убью.</target>
+	</unit>
+	<unit bitflag="1345" id1="659032" id2="17" version="1065353216">
+		<source>I'm not sure why you think I'm your enemy, Vemrin.</source>
+		<target>Не знаю, почему ты считаешь меня своим врагом, Вемрин.</target>
+	</unit>
+	<unit bitflag="1360" id1="659032" id2="17" version="1065353216">
+		<source>We don't need to fight.</source>
+		<target>Нам не нужно сражаться.</target>
+	</unit>
+	<unit bitflag="1345" id1="659033" id2="17" version="1065353216">
+		<source>You both stand on the precipice of becoming Sith.</source>
+		<target>Вы оба стоите на пороге становления ситами.</target>
+	</unit>
+	<unit bitflag="1345" id1="659034" id2="17" version="1065353216">
+		<source>Yes, such delightful anger--but enough for now. You both stand on the precipice of becoming Sith. You've earned the right to face the final trial.</source>
+		<target>Да, столь восхитительный гнев... впрочем, пока достаточно. Вы оба стоите на пороге становления ситами. Вы получили право на последнее испытание.</target>
+	</unit>
+	<unit bitflag="1345" id1="659036" id2="17" version="1065353216">
+		<source>But only one of you will have the opportunity to claim a special lightsaber and serve as my apprentice. I thought it would be you, Vemrin, but I've changed my mind.</source>
+		<target>Но лишь у одного из вас будет шанс заполучить особый световой меч и стать моим учеником. Я ожидал, что это будешь ты, Вемрин, но моё мнение изменилось.</target>
+	</unit>
+	<unit bitflag="1345" id1="659038" id2="17" version="1065353216">
+		<source>What? I've done everything you've asked. Better than any of the others! The honor should be mine!</source>
+		<target>Что? Я делал всё, что ты мне поручал. Лучше, чем кто бы то ни было! Это должен быть я!</target>
+	</unit>
+	<unit bitflag="1345" id1="659039" id2="17" version="1065353216">
+		<source>This is as it should be. Get used to being in my shadow.</source>
+		<target>Всё так, как и должно быть. Привыкай прозябать в моей тени.</target>
+	</unit>
+	<unit bitflag="1360" id1="659039" id2="17" version="1065353216">
+		<source>I deserve this.</source>
+		<target>Я заслужил это.</target>
+	</unit>
+	<unit bitflag="1345" id1="659040" id2="17" version="1065353216">
+		<source>I'm sorry, Vemrin. I know how much you were gunning for this.</source>
+		<target>Сожалею, Вемрин. Я знаю, как много ты трудился ради этого.</target>
+	</unit>
+	<unit bitflag="1360" id1="659040" id2="17" version="1065353216">
+		<source>I feel for you.</source>
+		<target>Сочувствую тебе.</target>
+	</unit>
+	<unit bitflag="1345" id1="659041" id2="17" version="1065353216">
+		<source>Ignore Vemrin, Lord Baras, his world is crumbling around him.</source>
+		<target>Не обращай на Вемрина внимание, лорд Барас, его мир рушится вокруг него.</target>
+	</unit>
+	<unit bitflag="1360" id1="659041" id2="17" version="1065353216">
+		<source>Having a bad day?</source>
+		<target>Неудачный день?</target>
+	</unit>
+	<unit bitflag="1345" id1="659042" id2="17" version="1065353216">
+		<source>Today, Vemrin is every bit your equal but the Force is stronger with you, acolyte, and there is a power sleeping within you. It was a simple decision.</source>
+		<target>На сегодня Вемрин во многом схож с тобой, но ты могуч в Силе, ученик, и в тебе таится мощь. Это было простое решение.</target>
+	</unit>
+	<unit bitflag="1345" id1="659044" id2="17" version="1065353216">
+		<source>Now, Vemrin, go wait in my antechamber for your instructions. This instant!</source>
+		<target>А теперь, Вемрин, ступай в мои покои и жди там моих указании. Сейчас же!</target>
+	</unit>
+	<unit bitflag="1345" id1="659048" id2="17" version="1065353216">
+		<source>Now with that unpleasantness behind us....</source>
+		<target>А теперь, справившись с этими неприятностями....</target>
+	</unit>
+	<unit bitflag="1360" id1="659048" id2="17" version="1065353216">
+		<source>What's next?</source>
+		<target>Что дальше?</target>
+	</unit>
+	<unit bitflag="1345" id1="659049" id2="17" version="1065353216">
+		<source>This isn't done. Mark my words.</source>
+		<target>Ещё не всё кончено. Попомни мои слова.</target>
+	</unit>
+	<unit bitflag="1345" id1="659050" id2="17" version="1065353216">
+		<source>I know we've had our differences, Vemrin, but good luck to you, nonetheless.</source>
+		<target>Знаю, между нами были разногласия, Вемрин, но, тем не менее, удачи тебе.</target>
+	</unit>
+	<unit bitflag="1360" id1="659050" id2="17" version="1065353216">
+		<source>No hard feelings, Vemrin.</source>
+		<target>Без обид, Вемрин.</target>
+	</unit>
+	<unit bitflag="1345" id1="659051" id2="17" version="1065353216">
+		<source>Know this--when you trip up, I'll be there.</source>
+		<target>Знай: когда ты споткнёшься, я буду рядом.</target>
+	</unit>
+	<unit bitflag="1345" id1="659052" id2="17" version="1065353216">
+		<source>Please, Lord Baras, I wish you'd let him stay. I want to see him cry.</source>
+		<target>Прошу, лорд Барас, позволь ему остаться. Хочу увидеть, как он заплачет.</target>
+	</unit>
+	<unit bitflag="1360" id1="659052" id2="17" version="1065353216">
+		<source>No, come on, let me rub it in.</source>
+		<target>Ой, да ладно, дай мне извести его.</target>
+	</unit>
+	<unit bitflag="1345" id1="659053" id2="17" version="1065353216">
+		<source>This? This is what you want to represent the future of the order, Baras?</source>
+		<target>Вот это? Ты хочешь, чтобы вот это представляло будущее нашего Ордена, Барас?</target>
+	</unit>
+	<unit bitflag="1345" id1="659055" id2="17" version="1065353216">
+		<source>You have yet to acquire the shards from the tomb of Tulak Hord. I suggest you hasten yourself.</source>
+		<target>Тебе ещё предстоит добыть осколки из гробницы Тулак Хорда. Предлагаю поспешить.</target>
+	</unit>
+	<unit bitflag="1345" id1="659056" id2="17" version="1065353216">
+		<source>Now, there are sacred ruins in the tomb of Tulak Hord. The ancient inscriptions that once adorned the walls of each ruin lie in pieces.</source>
+		<target>Сейчас в гробнице Тулака Хорда находятся священные руины. Древние надписи, которые некогда украшали стены этих руин, разбиты вдребезги.</target>
+	</unit>
+	<unit bitflag="1345" id1="659058" id2="17" version="1065353216">
+		<source>You will venture through the entire tomb, search all of the ruins, and bring me a shard from each of these inscriptions. You will do this or you will die.</source>
+		<target>Ты проберёшься через всю гробницу, обыщешь все руины и добудешь мне осколок от каждого из этих надписей. Ты сделаешь это — или умрёшь.</target>
+	</unit>
+	<unit bitflag="1345" id1="659061" id2="17" version="1065353216">
+		<source>I understand what's at stake. You've made it quite clear.</source>
+		<target>Я понимаю, что на кону. Ты изложил это достаточно чётко.</target>
+	</unit>
+	<unit bitflag="1360" id1="659061" id2="17" version="1065353216">
+		<source>I hear and obey.</source>
+		<target>Слушаю и повинуюсь.</target>
+	</unit>
+	<unit bitflag="1360" id1="659062" id2="17" version="1065353216">
+		<source>Uh-huh, sure.</source>
+		<target>Угу, конечно.</target>
+	</unit>
+	<unit bitflag="1345" id1="659063" id2="17" version="1065353216">
+		<source>Do not take this lightly, supplicant.</source>
+		<target>Не воспринимай это несерьёзно, проситель.</target>
+	</unit>
+	<unit bitflag="1345" id1="659065" id2="17" version="1065353216">
+		<source>Dying is never an option. I have a strict policy against it.</source>
+		<target>Умереть никогда не вариант. У меня с этим всё строго.</target>
+	</unit>
+	<unit bitflag="1360" id1="659065" id2="17" version="1065353216">
+		<source>Not much of a choice.</source>
+		<target>Выбор невелик.</target>
+	</unit>
+	<unit bitflag="1345" id1="659066" id2="17" version="1065353216">
+		<source>Then you had better be prepared.</source>
+		<target>Тогда тебе стоило бы быть готовым.</target>
+	</unit>
+	<unit bitflag="1345" id1="659068" id2="17" version="1065353216">
+		<source>Vemrin and my other acolytes have already been sent. There are no rules regarding how they secure the shards, and they will stop at nothing.</source>
+		<target>Вемрин и остальные мои служители уже были мною отосланы. Нет никаких правил насчёт того, как они добудут эти осколки, и их ничто не остановит.</target>
+	</unit>
+	<unit bitflag="1345" id1="659070" id2="17" version="1065353216">
+		<source>Fight your way through the tomb of Tulak Hord in the Valley of the Dark Lords, and bring me the shards from each of the ruined shrines.</source>
+		<target>Пробейся через гробницу Тулака Хорда в Долине Тёмных лордов и доставь мне осколки из каждого разрушенного алтаря.</target>
+	</unit>
+	<unit bitflag="1345" id1="659072" id2="17" version="1065353216">
+		<source>What's this? The acolyte returns and with a bloodied weapon. I assume this means Tremel is no more. Give me his hand.</source>
+		<target>Что это? Служитель вернулся с окровавленным оружием. Полагаю, Тремела больше нет. Дай мне его руку.</target>
+	</unit>
+	<unit bitflag="1345" id1="659074" id2="17" version="1065353216">
+		<source>I'm concerned, supplicant. You left the overseer's rings. They could be valuable and serve as glorious reminders of your potency.</source>
+		<target>Я обеспокоен, проситель. Ты оставил кольца надзирателя. Они могли бы быть ценными и прослужить тебе, как славное напоминание твоей силы.</target>
+	</unit>
+	<unit bitflag="1345" id1="659075" id2="17" version="1065353216">
+		<source>I thought it best to leave them as proof.</source>
+		<target>Я думал, что лучше оставить их в качестве доказательства.</target>
+	</unit>
+	<unit bitflag="1360" id1="659075" id2="17" version="1065353216">
+		<source>They're to ID the corpse.</source>
+		<target>По ним ты опознаешь труп.</target>
+	</unit>
+	<unit bitflag="1345" id1="659076" id2="17" version="1065353216">
+		<source>Smart. They unmistakably mark the hand's owner.</source>
+		<target>Умно. Они безошибочно отмечают владельца руки.</target>
+	</unit>
+	<unit bitflag="1345" id1="659078" id2="17" version="1065353216">
+		<source>What kind of greedy beggar steals trinkets from the dead?</source>
+		<target>Какой жадный нищий крадёт у мертвых побрякушки?</target>
+	</unit>
+	<unit bitflag="1360" id1="659078" id2="17" version="1065353216">
+		<source>I'm not a scavenger.</source>
+		<target>Я не мусорщик.</target>
+	</unit>
+	<unit bitflag="1345" id1="659079" id2="17" version="1065353216">
+		<source>It is not greed to take what is won.</source>
+		<target>Это не жадность — брать то, что выиграно.</target>
+	</unit>
+	<unit bitflag="1345" id1="659081" id2="17" version="1065353216">
+		<source>I don't need trophies to commemorate the past.</source>
+		<target>Мне не нужны трофеи, чтобы помнить о прошлом.</target>
+	</unit>
+	<unit bitflag="1360" id1="659081" id2="17" version="1065353216">
+		<source>I'm not sentimental.</source>
+		<target>Я не сентиментален.</target>
+	</unit>
+	<unit bitflag="1345" id1="659082" id2="17" version="1065353216">
+		<source>Foolish. We are defined by our victories and the quality of our victims.</source>
+		<target>Глупость. Мы определяемся нашими победами и качеством наших жертв.</target>
+	</unit>
+	<unit bitflag="1345" id1="659084" id2="17" version="1065353216">
+		<source>Here. Take this one ring as a memento. Remembering the past can strengthen resolve and embolden the spirit.</source>
+		<target>Вот. Возьми это кольцо на память. Воспоминание о прошлом может усилить решимость и ободрить дух.</target>
+	</unit>
+	<unit bitflag="1345" id1="659086" id2="17" version="1065353216">
+		<source>I am impressed you had the fortitude to destroy him. You know, he thought of you as family. How did it feel to betray him?</source>
+		<target>Я впечатлён тем, что ты оказался достаточно стоек, чтобы убить его. Знаешь, а ведь он считал тебя своей семьёй. Каково это было — предать его?</target>
+	</unit>
+	<unit bitflag="1360" id1="659087" id2="17" version="1065353216">
+		<source>It had to be done.</source>
+		<target>Это пришлось сделать.</target>
+	</unit>
+	<unit bitflag="1345" id1="659088" id2="17" version="1065353216">
+		<source>You mask your feelings well. As long as you don't suppress them.</source>
+		<target>Ты хорошо маскируешь свои чувства. Пока ты не подавляешь их.</target>
+	</unit>
+	<unit bitflag="1345" id1="659090" id2="17" version="1065353216">
+		<source>We worked closely together. It was quite difficult, master.</source>
+		<target>Мы тесно сотрудничали. Это было довольно тяжело, учитель.</target>
+	</unit>
+	<unit bitflag="1360" id1="659090" id2="17" version="1065353216">
+		<source>I took it hard.</source>
+		<target>Это было тяжело.</target>
+	</unit>
+	<unit bitflag="1345" id1="659091" id2="17" version="1065353216">
+		<source>Nothing worthwhile is ever easy. Remember that.</source>
+		<target>Ничто не бывает легко. Запомни это.</target>
+	</unit>
+	<unit bitflag="1345" id1="659093" id2="17" version="1065353216">
+		<source>It was a day I will long remember. I savored it completely.</source>
+		<target>Этот день я запомню надолго. Я насладился этим.</target>
+	</unit>
+	<unit bitflag="1360" id1="659093" id2="17" version="1065353216">
+		<source>It felt great.</source>
+		<target>Это было прекрасно.</target>
+	</unit>
+	<unit bitflag="1345" id1="659094" id2="17" version="1065353216">
+		<source>Good. Feast on that. Not every kill will be as meaningful.</source>
+		<target>Хорошо. Упивайся этим. Не каждое убийство будет столь же значимым.</target>
+	</unit>
+	<unit bitflag="1345" id1="659096" id2="17" version="1065353216">
+		<source>You have taken your first step to understanding the Sith Code. Peace is a lie, there is only passion. Through passion, we gain strength.</source>
+		<target>Ты сделал первый шаг к понимаю Кодекса ситов. Покой — это ложь, есть только страсть. Через страсть мы получаем силу.</target>
+	</unit>
+	<unit bitflag="1345" id1="659098" id2="17" version="1065353216">
+		<source>Through strength, we gain power. Through power, we gain victory, and through victory, our chains are broken. The Force shall set us free.</source>
+		<target>Через силу мы получаем мощь. Через мощь мы получаем победу. Через победу наши оковы разрушены. Сила освободит нас.</target>
+	</unit>
+	<unit bitflag="1345" id1="659101" id2="17" version="1065353216">
+		<source>I will commit that to memory, master.</source>
+		<target>Я запомню это, учитель.</target>
+	</unit>
+	<unit bitflag="1360" id1="659101" id2="17" version="1065353216">
+		<source>I hear you.</source>
+		<target>Я тебя слушаю.</target>
+	</unit>
+	<unit bitflag="1345" id1="659102" id2="17" version="1065353216">
+		<source>That's beautiful. Words to live by.</source>
+		<target>Прекрасно. Слова, по которым живут ситы.</target>
+	</unit>
+	<unit bitflag="1360" id1="659102" id2="17" version="1065353216">
+		<source>Inspirational.</source>
+		<target>Вдохновляюще.</target>
+	</unit>
+	<unit bitflag="1345" id1="659103" id2="17" version="1065353216">
+		<source>Without those words, you will not be alive long.</source>
+		<target>Без этих слов ты долго не протянешь.</target>
+	</unit>
+	<unit bitflag="1345" id1="659105" id2="17" version="1065353216">
+		<source>By embracing the code and destroying Tremel, you have freed yourself from his shackles. And escaped his fate.</source>
+		<target>Приняв Кодекс и убив Тремела, ты освободил себя от его оков. И избежал его участи.</target>
+	</unit>
+	<unit bitflag="1345" id1="659106" id2="17" version="1065353216">
+		<source>And now I'm bound by your shackles.</source>
+		<target>И сейчас я связан уже вашими оковами.</target>
+	</unit>
+	<unit bitflag="1360" id1="659106" id2="17" version="1065353216">
+		<source>Different master, same fate.</source>
+		<target>Другой учитель, та же судьба.</target>
+	</unit>
+	<unit bitflag="1345" id1="659107" id2="17" version="1065353216">
+		<source>You'll find they are a marked improvement, with much greater potential range.</source>
+		<target>Ты сочтёшь их заметно лучшими, и жать они будут не так тесно.</target>
+	</unit>
+	<unit bitflag="1345" id1="659108" id2="17" version="1065353216">
+		<source>Is that code really supposed to be meaningful to me?</source>
+		<target>Этот Кодекс и вправду столь важен для меня?</target>
+	</unit>
+	<unit bitflag="1360" id1="659108" id2="17" version="1065353216">
+		<source>I'm unimpressed.</source>
+		<target>Я не впечатлён.</target>
+	</unit>
+	<unit bitflag="1345" id1="659109" id2="17" version="1065353216">
+		<source>Before the code, you had an indelible association with Tremel.</source>
+		<target>Перед Кодексом у тебя была нестираемая связь с Тремелом.</target>
+	</unit>
+	<unit bitflag="1345" id1="659111" id2="17" version="1065353216">
+		<source>By killing your overseer, you've broken the chain that bound you to him... and to his fate. So you tell me, is the code meaningful to you?</source>
+		<target>Убив своего надзирателя, ты сломал оковы, что связывали тебя с ним... и его судьбой. Вот и скажи мне, является ли Кодекс важным для тебя?</target>
+	</unit>
+	<unit bitflag="1345" id1="659112" id2="17" version="1065353216">
+		<source>You've made your point. I understand.</source>
+		<target>Я тебя понял.</target>
+	</unit>
+	<unit bitflag="1360" id1="659112" id2="17" version="1065353216">
+		<source>Yes, sir.</source>
+		<target>Да, сэр.</target>
+	</unit>
+	<unit bitflag="1345" id1="659113" id2="17" version="1065353216">
+		<source>Tell you what, I'll think about it.</source>
+		<target>Скажем так, я подумаю над этим.</target>
+	</unit>
+	<unit bitflag="1360" id1="659113" id2="17" version="1065353216">
+		<source>Fine. Maybe.</source>
+		<target>Ладно. Может быть.</target>
+	</unit>
+	<unit bitflag="1345" id1="659114" id2="17" version="1065353216">
+		<source>Ha. You have a bold spirit. Rancors must be broken before they can be ridden, too.</source>
+		<target>Ха. Да у тебя смелый дух. Ранкоров тоже нужно сломить, прежде чем на них ездить.</target>
+	</unit>
+	<unit bitflag="1345" id1="659115" id2="17" version="1065353216">
+		<source>I'm glad to be free of Tremel.</source>
+		<target>Я рад, что освободился от Тремела.</target>
+	</unit>
+	<unit bitflag="1360" id1="659115" id2="17" version="1065353216">
+		<source>I am delivered and saved.</source>
+		<target>Я избавлен и спасён.</target>
+	</unit>
+	<unit bitflag="1345" id1="659116" id2="17" version="1065353216">
+		<source>That's more like it. I had a feeling you'd be a fast learner.</source>
+		<target>Похоже на то. У меня было ощущение, что ты быстро учишься.</target>
+	</unit>
+	<unit bitflag="1345" id1="659118" id2="17" version="1065353216">
+		<source>You continue to loiter? My eyes are already narrowing on you. Kill Tremel and bring back his hand. Immediately.</source>
+		<target>Опять мешкаешь? Ты уже мне глаза намозолил. Убей Тремела и принеси мне его руку. Немедленно.</target>
+	</unit>
+	<unit bitflag="1345" id1="659119" id2="17" version="1065353216">
+		<source>Most of you will not return from this endeavor. If you die, you will be forgotten. If you give up, you will be killed. Now, out of my sight.</source>
+		<target>Большинство из вас не вернётся с этого испытания. Если погибнете, будете забыты. Если сдадитесь — будете убиты. А теперь, убирайтесь с глаз моих.</target>
+	</unit>
+	<unit bitflag="1345" id1="659121" id2="17" version="1065353216">
+		<source>I've got a bad feeling about this.</source>
+		<target>У меня плохое предчувствие.</target>
+	</unit>
+	<unit bitflag="1345" id1="659123" id2="17" version="1065353216">
+		<source>You should. This is the end of the line for you, Klemral. Just make sure you stay out of my way.</source>
+		<target>Так и есть. Твоей истории пришёл конец, Клемрал. Просто убедись, что не стоишь у меня на пути.</target>
+	</unit>
+	<unit bitflag="1345" id1="659125" id2="17" version="1065353216">
+		<source>Look here, Vemrin, I see the upstart but no sign of Dolgis.</source>
+		<target>Взгляни, Вемрин, я вижу выскочку, но нет ни следа Долгиса.</target>
+	</unit>
+	<unit bitflag="1345" id1="659128" id2="17" version="1065353216">
+		<source>Dolgis wasn't Sith enough, and neither is Vemrin.</source>
+		<target>Долгис не был ситом достаточно, также, как и Вемрин.</target>
+	</unit>
+	<unit bitflag="1360" id1="659128" id2="17" version="1065353216">
+		<source>That lackey failed.</source>
+		<target>Этот раб проиграл.</target>
+	</unit>
+	<unit bitflag="1345" id1="659129" id2="17" version="1065353216">
+		<source>I just arrived, and it seems everyone already knows who I am.</source>
+		<target>Я только прибыл, и, видимо, уже все знают, кто я такой.</target>
+	</unit>
+	<unit bitflag="1360" id1="659129" id2="17" version="1065353216">
+		<source>My reputation precedes me.</source>
+		<target>Моя репутация опережает меня.</target>
+	</unit>
+	<unit bitflag="1345" id1="659130" id2="17" version="1065353216">
+		<source>Only a coward sends others to do his dirty work. Guess that makes you a coward, Vemrin.</source>
+		<target>Только трус посылает других делать за него всю грязную работу. Полагаю, что и ты таков, Вемрин.</target>
+	</unit>
+	<unit bitflag="1360" id1="659130" id2="17" version="1065353216">
+		<source>Pretty gutless move, Vemrin.</source>
+		<target>Довольно безжалостный ход, Вемрин.</target>
+	</unit>
+	<unit bitflag="1345" id1="659131" id2="17" version="1065353216">
+		<source>So Tremel's last gasp made it all the way here. You're gonna regret stepping into my world.</source>
+		<target>Итак, последнее издыхание Тремела добралось сюда. Ты пожалеешь о том, что связался со мной.</target>
+	</unit>
+	<unit bitflag="1345" id1="659133" id2="17" version="1065353216">
+		<source>Klemral, Vemrin, you have been dismissed.</source>
+		<target>Клемрал, Вемрин, свободны.</target>
+	</unit>
+	<unit bitflag="1345" id1="659135" id2="17" version="1065353216">
+		<source>Yes, master.</source>
+		<target>Да, учитель.</target>
+	</unit>
+	<unit bitflag="1345" id1="659137" id2="17" version="1065353216">
+		<source>This isn't over.</source>
+		<target>Это не конец.</target>
+	</unit>
+	<unit bitflag="1345" id1="659140" id2="17" version="1065353216">
+		<source>Eventually you will have to admit I'm here to stay.</source>
+		<target>В конце концов тебе придётся признать, что я тут.</target>
+	</unit>
+	<unit bitflag="1360" id1="659140" id2="17" version="1065353216">
+		<source>Show some respect.</source>
+		<target>Прояви уважение.</target>
+	</unit>
+	<unit bitflag="1345" id1="659141" id2="17" version="1065353216">
+		<source>It's never going to happen. Never.</source>
+		<target>Это никогда не произойдет. Никогда.</target>
+	</unit>
+	<unit bitflag="1360" id1="659142" id2="17" version="1065353216">
+		<source>We don't have to fight.</source>
+		<target>Нам не нужно сражаться.</target>
+	</unit>
+	<unit bitflag="1345" id1="659143" id2="17" version="1065353216">
+		<source>Once, perhaps, but not anymore. You are most certainly going to get hurt.</source>
+		<target>Один раз, возможно, но не больше. Определённо, ты пострадаешь.</target>
+	</unit>
+	<unit bitflag="1360" id1="659144" id2="17" version="1065353216">
+		<source>You're messing with trouble.</source>
+		<target>Ты ввязываешься в неприятности.</target>
+	</unit>
+	<unit bitflag="1345" id1="659145" id2="17" version="1065353216">
+		<source>I underestimated you by sending Dolgis. It will not happen again.</source>
+		<target>Я недооценил тебя, послав Долгиса. Больше это не повторится.</target>
+	</unit>
+	<unit bitflag="1345" id1="659147" id2="17" version="1065353216">
+		<source>Are you having trouble with acolyte Vemrin, supplicant?</source>
+		<target>У тебя проблемы со служителем Вемрином, проситель?</target>
+	</unit>
+	<unit bitflag="1345" id1="659148" id2="17" version="1065353216">
+		<source>It seems that way. I'm not sure why he's so bothered by me.</source>
+		<target>Похоже на то. Понятия не имею, почему он от меня бесится.</target>
+	</unit>
+	<unit bitflag="1360" id1="659148" id2="17" version="1065353216">
+		<source>You could say that.</source>
+		<target>Можно сказать и так.</target>
+	</unit>
+	<unit bitflag="1345" id1="659149" id2="17" version="1065353216">
+		<source>And why shouldn't he be?</source>
+		<target>А почему бы и нет?</target>
+	</unit>
+	<unit bitflag="1360" id1="659151" id2="17" version="1065353216">
+		<source>I can handle it.</source>
+		<target>Я справлюсь.</target>
+	</unit>
+	<unit bitflag="1345" id1="659152" id2="17" version="1065353216">
+		<source>He is thoroughly capable of backing up his threats.</source>
+		<target>Он вполне способен претворить свои угрозы в жизнь.</target>
+	</unit>
+	<unit bitflag="1345" id1="659154" id2="17" version="1065353216">
+		<source>If he insists on getting in my face like that, he's going to have trouble with me.</source>
+		<target>Если он продолжит так ко мне относиться, у него будут проблемы.</target>
+	</unit>
+	<unit bitflag="1360" id1="659154" id2="17" version="1065353216">
+		<source>He's playing with fire.</source>
+		<target>Он играется с огнём.</target>
+	</unit>
+	<unit bitflag="1345" id1="659155" id2="17" version="1065353216">
+		<source>He has been hardened into a lethal machine.</source>
+		<target>Его превратили в машину для убийств.</target>
+	</unit>
+	<unit bitflag="1345" id1="659157" id2="17" version="1065353216">
+		<source>Vemrin has paid his dues. He's fought a deck stacked against him to get here. You, on the other hand....</source>
+		<target>Вемрин достаточно себя проявил. Он преодолел расклад, возникший против него, и добрался сюда. Ты же, напротив...</target>
+	</unit>
+	<unit bitflag="1345" id1="659159" id2="17" version="1065353216">
+		<source>Let me get a closer look at you. Yes, as I suspected. Overseer Tremel has done you and this Academy a great disservice.</source>
+		<target>Дай мне внимательнее тебя рассмотреть. Да, как я и подозревал. Надзиратель Тремел оказал тебе и этой Академии медвежью услугу.</target>
+	</unit>
+	<unit bitflag="1345" id1="659162" id2="17" version="1065353216">
+		<source>You don't know what you're talking about. Overseer Tremel did a fine job with me.</source>
+		<target>Ты понятия не имеешь, о чём говоришь. Надзиратель Тремел прекрасно поработал со мной.</target>
+	</unit>
+	<unit bitflag="1360" id1="659162" id2="17" version="1065353216">
+		<source>I disagree.</source>
+		<target>Не согласен.</target>
+	</unit>
+	<unit bitflag="1345" id1="659163" id2="17" version="1065353216">
+		<source>You don't have to tell me. I had to put up with the man.</source>
+		<target>И не говори. Мне пришлось с этим смириться.</target>
+	</unit>
+	<unit bitflag="1360" id1="659163" id2="17" version="1065353216">
+		<source>I know what you mean.</source>
+		<target>Понимаю.</target>
+	</unit>
+	<unit bitflag="1345" id1="659164" id2="17" version="1065353216">
+		<source>And yet you followed Tremel's lead without question.</source>
+		<target>И всё же ты следовал за Тремелом без вопросов.</target>
+	</unit>
+	<unit bitflag="1345" id1="659166" id2="17" version="1065353216">
+		<source>Forget Tremel. I excelled at every single task.</source>
+		<target>Забудь о Тремеле. Я преуспел в каждом испытании.</target>
+	</unit>
+	<unit bitflag="1360" id1="659166" id2="17" version="1065353216">
+		<source>But I did so well.</source>
+		<target>Но я же справился.</target>
+	</unit>
+	<unit bitflag="1345" id1="659167" id2="17" version="1065353216">
+		<source>Yes, you have been successful, that can't be argued. But Tremel has rushed your training.</source>
+		<target>Да, ты справился, это неоспоримо. Но Тремел нарушил ход твоего обучения.</target>
+	</unit>
+	<unit bitflag="1345" id1="659169" id2="17" version="1065353216">
+		<source>Your warblade came early, prisoners flown in for your convenience, even a beast here on Korriban instead of offworld in the wild.</source>
+		<target>Ты рано заполучил свой боевой меч, заключённые были у тебя под рукой, и даже чудовище было здесь, на Коррибане, а не на другой планете в дикой местности.</target>
+	</unit>
+	<unit bitflag="1345" id1="659171" id2="17" version="1065353216">
+		<source>The pacing of the trials is deliberate. Only full immersion over time produces results. Your mind is soft, unhoned, undisciplined.</source>
+		<target>Мы преднамеренно делаем испытания долгими. Лишь полное погружение со временем даёт результаты. Твоё сознание слабо, не заточено, не дисциплинированно.</target>
+	</unit>
+	<unit bitflag="1345" id1="659172" id2="17" version="1065353216">
+		<source>It was never my intention to offend.</source>
+		<target>Я никогда не хотел нарушать ход испытаний.</target>
+	</unit>
+	<unit bitflag="1360" id1="659172" id2="17" version="1065353216">
+		<source>Apologies, lord.</source>
+		<target>Прошу прощения, лорд.</target>
+	</unit>
+	<unit bitflag="1345" id1="659173" id2="17" version="1065353216">
+		<source>But it is offensive. To be presented with an acolyte who doesn't even have a rudimentary understanding of what it means to be Sith.</source>
+		<target>Но это и есть нарушение. Мне подарили служителя, у которого нет даже элементарного понимания того, что значит быть ситом.</target>
+	</unit>
+	<unit bitflag="1360" id1="659175" id2="17" version="1065353216">
+		<source>I don't think so.</source>
+		<target>Я так не думаю.</target>
+	</unit>
+	<unit bitflag="1345" id1="659176" id2="17" version="1065353216">
+		<source>I'll remember that. And someday, you'll regret those words.</source>
+		<target>Я это запомню. И однажды ты пожалеешь об этих словах.</target>
+	</unit>
+	<unit bitflag="1360" id1="659176" id2="17" version="1065353216">
+		<source>Have your fun now.</source>
+		<target>Наслаждайся.</target>
+	</unit>
+	<unit bitflag="1345" id1="659177" id2="17" version="1065353216">
+		<source>I wouldn't regret destroying you where you stand.</source>
+		<target>Я не буду сожалеть, если убью тебя на месте.</target>
+	</unit>
+	<unit bitflag="1345" id1="659179" id2="17" version="1065353216">
+		<source>The first month of trials should be dedicated to philosophy, conceptual tactics, understanding of the Sith Code.</source>
+		<target>Первый месяц испытаний должен быть посвящён философии, методам мировоззрения и пониманию Кодекса ситов.</target>
+	</unit>
+	<unit bitflag="1345" id1="659181" id2="17" version="1065353216">
+		<source>Recite the Sith Code for me, acolyte, and explain its meaning in battle, war and politics.</source>
+		<target>Прочти мне Кодекс ситов, служитель, и объясни его смысл в битве, войне и политике.</target>
+	</unit>
+	<unit bitflag="1345" id1="659182" id2="17" version="1065353216">
+		<source>I don't recall learning a Sith Code, my lord.</source>
+		<target>Я не припомню изучения Кодекса ситов, мой лорд.</target>
+	</unit>
+	<unit bitflag="1360" id1="659182" id2="17" version="1065353216">
+		<source>I can't.</source>
+		<target>Я не могу.</target>
+	</unit>
+	<unit bitflag="1345" id1="659183" id2="17" version="1065353216">
+		<source>Sure, give me a minute. Uh, well, you see there's the dark side, um... the light side, and uh... and there you have it.</source>
+		<target>Разумеется, сейчас... Ну хорошо, вот есть Тёмная сторона... Светлая сторона и... и вот и всё.</target>
+	</unit>
+	<unit bitflag="1360" id1="659183" id2="17" version="1065353216">
+		<source>[Bluff] I know the code.</source>
+		<target>[Блеф] Я знаю Кодекс ситов.</target>
+	</unit>
+	<unit bitflag="1345" id1="659184" id2="17" version="1065353216">
+		<source>Sure, give me a minute. See, there's the dark side--</source>
+		<target>Разумеется, дай мне минутку. Вот есть Тёмная сторона...</target>
+	</unit>
+	<unit bitflag="1360" id1="659184" id2="17" version="1065353216">
+		<source>[Bluff] I know the code.</source>
+		<target>[Блеф] Я знаю Кодекс.</target>
+	</unit>
+	<unit bitflag="1345" id1="659185" id2="17" version="1065353216">
+		<source>Pathetic. I can read the lie from a nascent Force user with my eyes closed.</source>
+		<target>Жалкое зрелище. Я могу распознать ложь неопытного адепта Силы с закрытыми глазами.</target>
+	</unit>
+	<unit bitflag="1345" id1="659187" id2="17" version="1065353216">
+		<source>The only code I need to know is kill or be killed.</source>
+		<target>Единственный кодекс, который я знаю — убей или будь убитым.</target>
+	</unit>
+	<unit bitflag="1360" id1="659187" id2="17" version="1065353216">
+		<source>I don't need it.</source>
+		<target>Мне это не нужно.</target>
+	</unit>
+	<unit bitflag="1345" id1="659188" id2="17" version="1065353216">
+		<source>Your ability is undeniable. But your readiness and understanding of the Sith way is woefully lacking.</source>
+		<target>Твоя мощь неоспорима. Но тебе крайне не хватает подготовленности и понимания пути ситов.</target>
+	</unit>
+	<unit bitflag="1345" id1="659190" id2="17" version="1065353216">
+		<source>I am your master now. Tremel was becoming lax before you ever arrived. His unwillingness to adapt to the evolving Sith paradigm has become a liability.</source>
+		<target>Отныне я твой учитель. Тремел становился слаб ещё даже до того, как ты прибыл сюда. Его нежелание приспосабливаться к меняющейся парадигме ситов стало обузой.</target>
+	</unit>
+	<unit bitflag="1345" id1="659192" id2="17" version="1065353216">
+		<source>These are the actions of a traitor. Traitors are executed. I grant you immunity from punishment. Kill Tremel and bring back his hand as proof.</source>
+		<target>Это действия предателя. Предателей казнят. Я даю тебе защиту от наказания. Убей Тремела и принеси мне его руку как доказательство.</target>
+	</unit>
+	<unit bitflag="1360" id1="659193" id2="17" version="1065353216">
+		<source>Of course.</source>
+		<target>Конечно.</target>
+	</unit>
+	<unit bitflag="1345" id1="659194" id2="17" version="1065353216">
+		<source>I do not like the idea of killing him, but I'll do it if I must.</source>
+		<target>Не нравится мне идея убивать его, но если я должен, я сделаю это.</target>
+	</unit>
+	<unit bitflag="1360" id1="659194" id2="17" version="1065353216">
+		<source>If I have to.</source>
+		<target>Раз уж я должен.</target>
+	</unit>
+	<unit bitflag="1345" id1="659195" id2="17" version="1065353216">
+		<source>I do not make requests, supplicant.</source>
+		<target>Это не просьба, проситель.</target>
+	</unit>
+	<unit bitflag="1345" id1="659197" id2="17" version="1065353216">
+		<source>It will be my extreme pleasure.</source>
+		<target>С наибольшим удовольствием.</target>
+	</unit>
+	<unit bitflag="1360" id1="659197" id2="17" version="1065353216">
+		<source>My dream come true.</source>
+		<target>Моя мечта воплощается в жизнь.</target>
+	</unit>
+	<unit bitflag="1345" id1="659198" id2="17" version="1065353216">
+		<source>Now, leave. I'm sure Tremel is still in his chambers. Don't return until you've killed him.</source>
+		<target>Теперь иди. Я уверен, Тремел всё ещё находится в своих покоях. Не возвращайся, пока не убьёшь его.</target>
+	</unit>
+	<unit bitflag="1345" id1="659202" id2="17" version="1065353216">
+		<source>What are you doing here? I believe you are under Overseer Tremel's whip. You have no business here.</source>
+		<target>Что ты здесь делаешь? Кажется, ты под кнутом надзирателя Тремела. Тебе нечего здесь делать.</target>
+	</unit>
+	<unit bitflag="1345" id1="659203" id2="17" version="1065353216">
+		<source>I'm going to give you the benefit of the doubt and assume this intrusion was an accident. But it would be in your best interest to leave.</source>
+		<target>Я последую презумпции невиновности и предположу, что это вторжение случайно. Но в твоих же интересах сейчас же уйти.</target>
+	</unit>
+</dialogue_file>

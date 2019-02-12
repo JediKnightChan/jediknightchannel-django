@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+
+{% block title %}JediKnightChannel — Recaptcha{% endblock %}
+
+{% block head_additional %}
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+    <style>
+        .g-recaptcha div {
+            height: 120px !important;
+        }
+	</style>
+{% endblock %}
+
+{% block content %}
+    <div id="body">
+        <div class="header">
+            <div class="contact">
+                <form method="post">
+                    {% csrf_token %}
+                    <div class="g-recaptcha" data-sitekey="6Lc2z24UAAAAAOzklBDX6fKw8K6oH0eK4VG9TnGM"></div><br>
+                    <input type="submit" value="Отправить" id="submit">
+                </form>
+            </div>
+        </div>
+    </div>
+{% endblock %}

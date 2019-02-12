@@ -1,0 +1,41 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}JediKnightChannel — Страница не найдена{% endblock %}
+{% block head_additional %}
+    <style>
+    #body .header .not-found .margin-top-small {
+        margin-top: 25px;
+    }
+    #body .header .not-found .margin-top-med {
+        margin-top: 50px;
+    }
+    #body .header .not-found a {
+        display: inline-block;
+        color: white;
+        font-family: Calibri;
+        font-size: 25px;
+        padding: 5px 10px;
+        border: 3px solid dodgerblue;
+        border-radius: 15px;
+        margin: 0 20px;
+        width: 50px;
+    }
+    </style>
+{% endblock %}
+
+{% block content %}
+    <div id="body">
+        <div class="header">
+            <div class="not-found noselect">
+                <h1>Страница не найдена</h1>
+                <h2>Вернуться на главную?</h2>
+                <div class="text-center no-padding margin-top-small">
+                    <a href="/">Да</a>
+                    <a href="">Нет</a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+{% endblock %}

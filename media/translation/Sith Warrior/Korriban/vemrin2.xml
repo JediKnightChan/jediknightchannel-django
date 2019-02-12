@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="118">
+	<unit bitflag="1345" id1="659851" id2="17" version="1065353216">
+		<source>Becoming Baras's apprentice was my destiny. Did I come this far and overcome such adversity, only to be proven unworthy?</source>
+		<target>Стать учеником Бараса было моей судьбой. Неужели я зашёл так далеко и преодолел все невзгоды только для того, чтобы оказаться недостойным?</target>
+	</unit>
+	<unit bitflag="1345" id1="659852" id2="17" version="1065353216">
+		<source>I've waited a long time to put you in your place. Consider this--killing you was easy.</source>
+		<target>Я так долго ждал возможности поставить тебя на место. Осознай, что убить тебя было легко.</target>
+	</unit>
+	<unit bitflag="1360" id1="659852" id2="17" version="1065353216">
+		<source>You were weak. [Kill Vemrin]</source>
+		<target>Ты был слаб. [Убить Вемрина]</target>
+	</unit>
+	<unit bitflag="1345" id1="659853" id2="17" version="1065353216">
+		<source>Then do it. Finish me!</source>
+		<target>Тогда давай. Прикончи меня!</target>
+	</unit>
+	<unit bitflag="1345" id1="659854" id2="17" version="1065353216">
+		<source>Don't be so hard on yourself, Vemrin. You have been a worthy opponent.</source>
+		<target>Не кори себя, Вемрин. Ты был достойным соперником.</target>
+	</unit>
+	<unit bitflag="1360" id1="659854" id2="17" version="1065353216">
+		<source>You fought well.</source>
+		<target>Ты хорошо боролся.</target>
+	</unit>
+	<unit bitflag="1345" id1="659855" id2="17" version="1065353216">
+		<source>Shut up! There is only victory or death.</source>
+		<target>Заткнись! Возможна лишь победа или смерть.</target>
+	</unit>
+	<unit bitflag="1345" id1="659857" id2="17" version="1065353216">
+		<source>I refuse to live a... lesser life. Finish me. I will not accept mercy.</source>
+		<target>Я отказываюсь от... меньшего. Прикончи меня. Я не приму пощады.</target>
+	</unit>
+	<unit bitflag="1360" id1="659858" id2="17" version="1065353216">
+		<source>Enough. [Kill Vemrin]</source>
+		<target>Довольно. [Убить Вемрина]</target>
+	</unit>
+	<unit bitflag="1345" id1="659861" id2="17" version="1065353216">
+		<source>Hey, this is it. The secret entrance to the hidden cavern is in here. Just let me get my bearings.</source>
+		<target>Эй, а вот и оно. Здесь находится секретный вход в скрытую пещеру. Просто дай мне соориентироваться.</target>
+	</unit>
+	<unit bitflag="1345" id1="659865" id2="17" version="1065353216">
+		<source>Look out!</source>
+		<target>Осторожно!</target>
+	</unit>
+	<unit bitflag="1345" id1="659867" id2="17" version="1065353216">
+		<source>Klemral! How dare you interfere. This business is far beyond you.</source>
+		<target>Клемрал! Как ты смеешь вмешиваться? Это не твоё дело.</target>
+	</unit>
+	<unit bitflag="1345" id1="659869" id2="17" version="1065353216">
+		<source>He saved my life. I'm not going to let you stab him in the back.</source>
+		<target>Он спас мне жизнь. Я не позволю тебе добить его.</target>
+	</unit>
+	<unit bitflag="1345" id1="659870" id2="17" version="1065353216">
+		<source>I'd be dead if it wasn't for her. I'm not going to let you stab her in the back.</source>
+		<target>Я был бы мертв, если бы не она. Я не позволю тебе добить его.</target>
+	</unit>
+	<unit bitflag="1345" id1="659871" id2="17" version="1065353216">
+		<source>Well, well, Klemral, I'm impressed. You have more nerve than I gave you credit for.</source>
+		<target>Так, так, Клемрал, я впечатлён. У тебя больше дерзости, чем я думал.</target>
+	</unit>
+	<unit bitflag="1360" id1="659871" id2="17" version="1065353216">
+		<source>What a pleasant surprise.</source>
+		<target>Какой приятный сюрприз.</target>
+	</unit>
+	<unit bitflag="1345" id1="659872" id2="17" version="1065353216">
+		<source>I'm surprising myself, too.</source>
+		<target>Я и сам себе удивляюсь.</target>
+	</unit>
+	<unit bitflag="1345" id1="659874" id2="17" version="1065353216">
+		<source>I have a surprise for you.</source>
+		<target>А у меня есть сюрприз для тебя.</target>
+	</unit>
+	<unit bitflag="1360" id1="659875" id2="17" version="1065353216">
+		<source>Thank you.</source>
+		<target>Спасибо.</target>
+	</unit>
+	<unit bitflag="1345" id1="659876" id2="17" version="1065353216">
+		<source>It's the least I could do.</source>
+		<target>Это меньшее, что я могу сделать.</target>
+	</unit>
+	<unit bitflag="1345" id1="659878" id2="17" version="1065353216">
+		<source>No, the least you could do is die.</source>
+		<target>Нет, меньшее, что ты можешь сделать, это умереть.</target>
+	</unit>
+	<unit bitflag="1360" id1="659879" id2="17" version="1065353216">
+		<source>This is my problem.</source>
+		<target>Это моё дело.</target>
+	</unit>
+	<unit bitflag="1345" id1="659880" id2="17" version="1065353216">
+		<source>Sorry, I just couldn't sit back.</source>
+		<target>Прости, я просто не мог сидеть сложа руки.</target>
+	</unit>
+	<unit bitflag="1345" id1="659882" id2="17" version="1065353216">
+		<source>And now it's time for you to lie down.</source>
+		<target>А теперь самое время тебе прилечь.</target>
+	</unit>
+	<unit bitflag="1345" id1="659884" id2="17" version="1065353216">
+		<source>The fool must have spotted me following you. Too bad his warning will do you no good.</source>
+		<target>Дурак, должно быть, заметил, как я следил за тобой. Жаль, что его предупреждение не принесёт тебе пользы.</target>
+	</unit>
+	<unit bitflag="1345" id1="659886" id2="17" version="1065353216">
+		<source>It ends now. Once I kill you, the slave girl will show me the forbidden cave, and I will claim the lightsaber and my rightful place as Lord Baras's apprentice.</source>
+		<target>Всё закончится здесь. Когда я убью тебя, рабыня укажет мне забытую пещеру, а я заполучу световой меч и моё законное место в качестве ученика лорда Бараса.</target>
+	</unit>
+	<unit bitflag="1360" id1="659887" id2="17" version="1065353216">
+		<source>Not a chance.</source>
+		<target>Без шансов.</target>
+	</unit>
+	<unit bitflag="1345" id1="659888" id2="17" version="1065353216">
+		<source>Please Vemrin, don't let it come to this. I will kill you if I have to.</source>
+		<target>Прошу, Вемрин, не доводи до этого. Я убью тебя, если придётся.</target>
+	</unit>
+	<unit bitflag="1360" id1="659888" id2="17" version="1065353216">
+		<source>Back down. Last chance.</source>
+		<target>Отойди. В последний раз говорю.</target>
+	</unit>
+	<unit bitflag="1345" id1="659891" id2="17" version="1065353216">
+		<source>Take your time, slave. Just have the entrance uncovered by the time I finish killing your new master.</source>
+		<target>Не спеши, рабыня. Просто открой проход к тому времени, когда я убью твоего нового хозяина.</target>
+	</unit>
+	<unit bitflag="1345" id1="659892" id2="17" version="1065353216">
+		<source>Can't say I'm surprised to see you, Vemrin. You're remarkably predictable.</source>
+		<target>Не могу сказать, что удивлён встречей с тобой, Вемрин. Ты удивительно предсказуем.</target>
+	</unit>
+	<unit bitflag="1360" id1="659892" id2="17" version="1065353216">
+		<source>I was expecting this.</source>
+		<target>Я так и знал.</target>
+	</unit>
+	<unit bitflag="1345" id1="659893" id2="17" version="1065353216">
+		<source>Oh good, we were getting lonely and now look who's decided to join the party--my old friend Vemrin.</source>
+		<target>Отлично, нам только начало становиться одиноко, как глянь только, кто решил присоединиться к нашей вечеринке — мой старый друг Вемрин.</target>
+	</unit>
+	<unit bitflag="1360" id1="659893" id2="17" version="1065353216">
+		<source>Not you again.</source>
+		<target>Опять ты.</target>
+	</unit>
+	<unit bitflag="1345" id1="659894" id2="17" version="1065353216">
+		<source>You'll do nothing of the sort. Fitting that you meet your end in a tomb, Vemrin.</source>
+		<target>Ничего такого ты не сделаешь. Смирись, что ты встретишь свой конец в гробнице, Вемрин.</target>
+	</unit>
+	<unit bitflag="1360" id1="659894" id2="17" version="1065353216">
+		<source>Time for you to die.</source>
+		<target>Время тебе умереть.</target>
+	</unit>
+	<unit bitflag="1345" id1="659895" id2="17" version="1065353216">
+		<source>My passions run deeper than yours. I am the true essence of what it is to be Sith.</source>
+		<target>Мои страсти сильнее твоих. Я есть настоящее воплощение того, что значит быть ситом.</target>
+	</unit>
+	<unit bitflag="1345" id1="659897" id2="17" version="1065353216">
+		<source>My legacy has suffered long enough. After today, you will be forgotten. It ends here and now.</source>
+		<target>Мое наследие страдало достаточно долго. После сегодняшнего дня тебя позабудут. Всё закончится здесь и сейчас.</target>
+	</unit>
+	<unit bitflag="1345" id1="659899" id2="17" version="1065353216">
+		<source>Look who's here. I have nothing to say to you.</source>
+		<target>Смотри-ка кто тут. Мне нечего тебе сказать.</target>
+	</unit>
+	<unit bitflag="1345" id1="659900" id2="17" version="1065353216">
+		<source>You're not supposed to be here. You haven't earned the right.</source>
+		<target>Тебя не должно быть здесь. Ты не заслужил на это права.</target>
+	</unit>
+	<unit bitflag="1345" id1="659901" id2="17" version="1065353216">
+		<source>Somebody wandered where they don't belong.</source>
+		<target>Кто-то блуждал там, где ему не следовало бы.</target>
+	</unit>
+	<unit bitflag="1345" id1="659902" id2="17" version="1065353216">
+		<source>Lord Baras has nothing to do with the likes of you.</source>
+		<target>Лорд Барас не связывается с такими, как ты.</target>
+	</unit>
+	<unit bitflag="1345" id1="659903" id2="17" version="1065353216">
+		<source>Hey there, acolyte. Hold on a moment. Let me get a look at you.</source>
+		<target>Ну здравствуй, служитель. Погоди секундочку. Дай-ка мне взглянуть на тебя.</target>
+	</unit>
+	<unit bitflag="1345" id1="659905" id2="17" version="1065353216">
+		<source>Hmm. So you're Overseer Tremel's secret weapon, huh? Impressive, to be sure. Afraid the old man waited too long to make his move, though.</source>
+		<target>Хм. Так значит это ты секретное оружие надзирателя Тремела, так? Впечатляюще, конечно. Впрочем, боюсь, что старик слишком долго ждал, чтобы сделать ход.</target>
+	</unit>
+	<unit bitflag="1345" id1="659908" id2="17" version="1065353216">
+		<source>I don't have time for the likes of you. Explain yourself or get lost.</source>
+		<target>У меня нет времени на таких, как ты. Объясни, что ты хочешь, или проваливай.</target>
+	</unit>
+	<unit bitflag="1360" id1="659908" id2="17" version="1065353216">
+		<source>Don't bother me.</source>
+		<target>Не лезь ко мне.</target>
+	</unit>
+	<unit bitflag="1345" id1="659909" id2="17" version="1065353216">
+		<source>We give the orders around here.</source>
+		<target>Мы здесь отдаём приказы.</target>
+	</unit>
+	<unit bitflag="1360" id1="659911" id2="17" version="1065353216">
+		<source>That's a curious statement.</source>
+		<target>Это любопытное заявление.</target>
+	</unit>
+	<unit bitflag="1345" id1="659912" id2="17" version="1065353216">
+		<source>I'll tell you how--we just say so, and what we say is so.</source>
+		<target>Я тебе объясню: если мы что-то скажем, то будет ровно так, как мы сказали.</target>
+	</unit>
+	<unit bitflag="1345" id1="659914" id2="17" version="1065353216">
+		<source>You must be Vemrin.</source>
+		<target>Ты должно быть Вемрин.</target>
+	</unit>
+	<unit bitflag="1360" id1="659914" id2="17" version="1065353216">
+		<source>I heard about you.</source>
+		<target>Я наслышан о тебе.</target>
+	</unit>
+	<unit bitflag="1345" id1="659915" id2="17" version="1065353216">
+		<source>He's gonna be Lord Vemrin. Better get used to the idea.</source>
+		<target>Он собирается стать лордом Вемрином. Лучше бы привыкнуть к этому.</target>
+	</unit>
+	<unit bitflag="1345" id1="659917" id2="17" version="1065353216">
+		<source>Easy, Dolgis. No way to treat our new brother. He's right off the shuttle, still getting his bearings.</source>
+		<target>Полегче, Долгис. Незачем угрожать нашему новому брату. Он же только с шаттла, ещё толком не сориентировался.</target>
+	</unit>
+	<unit bitflag="1345" id1="659919" id2="17" version="1065353216">
+		<source>Easy, Dolgis. We should be civil with our new sister--at least until she's gotten her bearings.</source>
+		<target>Полегче, Долгис. Мы должны быть вежливы с нашей новой сестрой — по крайней мере пока она не сориентируется.</target>
+	</unit>
+	<unit bitflag="1345" id1="659921" id2="17" version="1065353216">
+		<source>I'm Vemrin, and unlike you I've fought and bled for everything I have. I demand respect.</source>
+		<target>Я Вемрин, и в отличие от тебя я сражался и проливал свою кровь за всё, что у меня есть. Я требую уважения.</target>
+	</unit>
+	<unit bitflag="1345" id1="659922" id2="17" version="1065353216">
+		<source>Are you saying I haven't earned my way?</source>
+		<target>Хочешь сказать, что я недостоин?</target>
+	</unit>
+	<unit bitflag="1360" id1="659922" id2="17" version="1065353216">
+		<source>What are you implying?</source>
+		<target>Что ты имеешь в виду?</target>
+	</unit>
+	<unit bitflag="1345" id1="659923" id2="17" version="1065353216">
+		<source>Please. Everyone knows what Tremel is doing.</source>
+		<target>Хватит. Каждый знает, что делает Тремел.</target>
+	</unit>
+	<unit bitflag="1345" id1="659925" id2="17" version="1065353216">
+		<source>This is a big place, Vemrin. There's more than enough room here for both of us.</source>
+		<target>Это большое место, Вемрин. Здесь достаточно залов для нас обоих.</target>
+	</unit>
+	<unit bitflag="1360" id1="659925" id2="17" version="1065353216">
+		<source>We can get along.</source>
+		<target>Мы можем договориться.</target>
+	</unit>
+	<unit bitflag="1345" id1="659926" id2="17" version="1065353216">
+		<source>I'm glad to hear you say that. There's plenty of room for you behind me.</source>
+		<target>Рад это слышать. Здесь достаточно места для тебя в моей тени.</target>
+	</unit>
+	<unit bitflag="1345" id1="659928" id2="17" version="1065353216">
+		<source>You don't want to make me angry, Vemrin.</source>
+		<target>Лучше бы ты меня не злил, Вемрин.</target>
+	</unit>
+	<unit bitflag="1360" id1="659928" id2="17" version="1065353216">
+		<source>Back off.</source>
+		<target>Отвали.</target>
+	</unit>
+	<unit bitflag="1345" id1="659929" id2="17" version="1065353216">
+		<source>Believe it or not, I'm trying to keep you from getting killed.</source>
+		<target>Веришь этому или нет, я стараюсь спасти тебя от смерти.</target>
+	</unit>
+	<unit bitflag="1345" id1="659931" id2="17" version="1065353216">
+		<source>If Overseer Tremel had made his move a year ago, when I first arrived, you might've had a chance. But now--too little, too late.</source>
+		<target>Если бы надзиратель Тремел сделал это год назад, когда я впервые прибыл, возможно у тебя и был бы шанс. Но сейчас слишком поздно.</target>
+	</unit>
+	<unit bitflag="1345" id1="659934" id2="17" version="1065353216">
+		<source>So overconfidence is your weak point. I'll make a note of it.</source>
+		<target>Так значит твоя самоуверенность и есть твоя слабость. Возьму на заметку.</target>
+	</unit>
+	<unit bitflag="1360" id1="659934" id2="17" version="1065353216">
+		<source>You're a cocky one.</source>
+		<target>А ты высокомерен.</target>
+	</unit>
+	<unit bitflag="1345" id1="659935" id2="17" version="1065353216">
+		<source>So overconfidence is your weak point. Hmm... I'll make a note of it.</source>
+		<target>Так значит твоя самоуверенность и есть твоя слабость. Хм... пожалуй, возьму это на заметку.</target>
+	</unit>
+	<unit bitflag="1360" id1="659935" id2="17" version="1065353216">
+		<source>You're a cocky one.</source>
+		<target>А ты высокомерен.</target>
+	</unit>
+	<unit bitflag="1345" id1="659936" id2="17" version="1065353216">
+		<source>Don't push me, child. I will put you in your place if I have to.</source>
+		<target>Не провоцируй меня, малыш. Я поставлю тебя на место, если придётся.</target>
+	</unit>
+	<unit bitflag="1345" id1="659938" id2="17" version="1065353216">
+		<source>I have no idea what you're talking about, and I don't care.</source>
+		<target>Понятия не имею, о чём ты болтаешь, да мне и всё равно.</target>
+	</unit>
+	<unit bitflag="1360" id1="659938" id2="17" version="1065353216">
+		<source>Are we done here?</source>
+		<target>Мы закончили?</target>
+	</unit>
+	<unit bitflag="1345" id1="659939" id2="17" version="1065353216">
+		<source>Then I'll explain it slowly and use small words.</source>
+		<target>Тогда я объясню медленно и без заумных слов.</target>
+	</unit>
+	<unit bitflag="1345" id1="659941" id2="17" version="1065353216">
+		<source>It's never too late to kill a man.</source>
+		<target>Никогда не поздно убить кого-нибудь.</target>
+	</unit>
+	<unit bitflag="1360" id1="659941" id2="17" version="1065353216">
+		<source>What if you disappear?</source>
+		<target>А что если ты исчезнешь?</target>
+	</unit>
+	<unit bitflag="1345" id1="659942" id2="17" version="1065353216">
+		<source>Believe me, if it were allowed, you'd already be dead.</source>
+		<target>Поверь, если бы это позволялось, ты был бы уже мёртв.</target>
+	</unit>
+	<unit bitflag="1345" id1="659944" id2="17" version="1065353216">
+		<source>This is ridiculous, Vemrin. Let's just kill her and hide the body.</source>
+		<target>Это же просто смешно, Вемрин. Давай просто убьём её и спрячем тело.</target>
+	</unit>
+	<unit bitflag="1345" id1="659945" id2="17" version="1065353216">
+		<source>This is ridiculous, Vemrin. Let's just kill him and hide the body.</source>
+		<target>Это же просто смешно, Вемрин. Давай просто убьём его и спрячем тело.</target>
+	</unit>
+	<unit bitflag="1345" id1="659947" id2="17" version="1065353216">
+		<source>We're not on Balmorra anymore, Dolgis. There are rules. Traditions. We'll leave the shortcuts to Overseer Tremel and his last pathetic hope here.</source>
+		<target>Мы больше не на Балморре, Долгис. Здесь есть правила. Традиции. Мы оставим лёгкие пути надзирателю Тремелу и его последней жалкой надежде.</target>
+	</unit>
+	<unit bitflag="1345" id1="659948" id2="17" version="1065353216">
+		<source>My honor is not to be questioned.</source>
+		<target>Моя честь неоспорима.</target>
+	</unit>
+	<unit bitflag="1360" id1="659948" id2="17" version="1065353216">
+		<source>Don't insult me.</source>
+		<target>Не оскорбляй меня.</target>
+	</unit>
+	<unit bitflag="1345" id1="659949" id2="17" version="1065353216">
+		<source>We'll see about that. Coming, Dolgis?</source>
+		<target>Мы ещё посмотрим. Идёшь, Долгис?</target>
+	</unit>
+	<unit bitflag="1360" id1="659951" id2="17" version="1065353216">
+		<source>Wow, you're unfriendly.</source>
+		<target>Ого, а ты недружелюбный.</target>
+	</unit>
+	<unit bitflag="1345" id1="659952" id2="17" version="1065353216">
+		<source>You're not funny. Just pathetic. And you've been warned. Coming, Dolgis?</source>
+		<target>Ты не смешной. Просто жалкий. И тебя предупредили. Идёшь, Долгис?</target>
+	</unit>
+	<unit bitflag="1345" id1="659954" id2="17" version="1065353216">
+		<source>I'm going to take what's yours and then I'm going to kill you.</source>
+		<target>Я заберу у тебя всё, а затем убью тебя.</target>
+	</unit>
+	<unit bitflag="1360" id1="659954" id2="17" version="1065353216">
+		<source>Prepare to be crushed.</source>
+		<target>Готовься к проигрышу.</target>
+	</unit>
+	<unit bitflag="1345" id1="659955" id2="17" version="1065353216">
+		<source>You have no idea the enemy you're making. Are you coming, Dolgis?</source>
+		<target>Ты даже понятия не имеешь, какого врага себе наживаешь. Ты идёшь, Долгис?</target>
+	</unit>
+	<unit bitflag="1345" id1="659957" id2="17" version="1065353216">
+		<source>Be right there, Vemrin.</source>
+		<target>Сейчас буду, Вемрин.</target>
+	</unit>
+	<unit bitflag="1345" id1="659959" id2="17" version="1065353216">
+		<source>Listen to me, you useless priss. Acolytes aren't allowed to murder each other. But accidents happen. It isn't murder without witnesses.</source>
+		<target>Слушай сюда, ты, ханжа бесполезная. Служителям не дозволено убивать друг друга. Но несчастные случаи всё же случаются. И убийство без свидетелей таковым не является.</target>
+	</unit>
+	<unit bitflag="1345" id1="659961" id2="17" version="1065353216">
+		<source>No more warnings. Vemrin's the alpha monster here. You go after Vemrin, you die.</source>
+		<target>Никаких больше предупреждений. Вемрин является здесь альфа-монстром. Последуешь за Вемрином — умрёшь.</target>
+	</unit>
+	<unit bitflag="1345" id1="659966" id2="17" version="1065353216">
+		<source>Wow, nice work.</source>
+		<target>Ого, хорошая работа.</target>
+	</unit>
+	<unit bitflag="1345" id1="659967" id2="17" version="1065353216">
+		<source>Just find the forbidden cavern.</source>
+		<target>Просто найди запретную пещеру.</target>
+	</unit>
+	<unit bitflag="1360" id1="659967" id2="17" version="1065353216">
+		<source>Back to business.</source>
+		<target>Вернёмся к делу.</target>
+	</unit>
+	<unit bitflag="1345" id1="659968" id2="17" version="1065353216">
+		<source>I already have. See?</source>
+		<target>Уже нашла. Видишь?</target>
+	</unit>
+	<unit bitflag="1345" id1="659970" id2="17" version="1065353216">
+		<source>Glad to impress you.</source>
+		<target>Рад, что впечатлил тебя.</target>
+	</unit>
+	<unit bitflag="1360" id1="659970" id2="17" version="1065353216">
+		<source>Thanks.</source>
+		<target>Благодарю.</target>
+	</unit>
+	<unit bitflag="1345" id1="659971" id2="17" version="1065353216">
+		<source>Speak when spoken to, slave.</source>
+		<target>Говори только когда к тебе обращаются, рабыня.</target>
+	</unit>
+	<unit bitflag="1360" id1="659971" id2="17" version="1065353216">
+		<source>I didn't ask. [Shock Vette]</source>
+		<target>Тебя не спрашивали. [Ударить Ветт током]</target>
+	</unit>
+	<unit bitflag="1345" id1="659974" id2="17" version="1065353216">
+		<source>Ow! Bantha poo! What was that for?</source>
+		<target>Ой! Вот ведь навоз банты! И за что же?</target>
+	</unit>
+	<unit bitflag="1345" id1="659975" id2="17" version="1065353216">
+		<source>Just to put you in your place. So you don't forget your station.</source>
+		<target>Просто знай своё место. И не забывай о своём положении.</target>
+	</unit>
+	<unit bitflag="1360" id1="659975" id2="17" version="1065353216">
+		<source>A reminder.</source>
+		<target>Напоминание.</target>
+	</unit>
+	<unit bitflag="1345" id1="659976" id2="17" version="1065353216">
+		<source>Couldn't you have written a note? Sheesh.</source>
+		<target>Не мог бы ты это записать? Чёрт.</target>
+	</unit>
+	<unit bitflag="1345" id1="659978" id2="17" version="1065353216">
+		<source>My finger must have slipped.</source>
+		<target>Кажется, палец соскользнул.</target>
+	</unit>
+	<unit bitflag="1360" id1="659978" id2="17" version="1065353216">
+		<source>Sorry, my mistake.</source>
+		<target>Извини, моя ошибка.</target>
+	</unit>
+	<unit bitflag="1345" id1="659979" id2="17" version="1065353216">
+		<source>Well, stop dipping it in oil, will ya?</source>
+		<target>Ну, тогда прекрати намазывать его маслом, можно?</target>
+	</unit>
+	<unit bitflag="1345" id1="659981" id2="17" version="1065353216">
+		<source>For losing your focus and slacking off.</source>
+		<target>Ты отвлеклась и расслабилась.</target>
+	</unit>
+	<unit bitflag="1360" id1="659981" id2="17" version="1065353216">
+		<source>You relaxed.</source>
+		<target>Ты расслабилась.</target>
+	</unit>
+	<unit bitflag="1345" id1="659982" id2="17" version="1065353216">
+		<source>I haven't slacked off. Look.</source>
+		<target>Я не расслаблялась. Смотри.</target>
+	</unit>
+	<unit bitflag="1345" id1="659984" id2="17" version="1065353216">
+		<source>The secret entrance is right here.</source>
+		<target>Секретный вход прямо здесь.</target>
+	</unit>
+	<unit bitflag="1345" id1="659986" id2="17" version="1065353216">
+		<source>Uh, you're welcome!</source>
+		<target>Эм, добро пожаловать!</target>
+	</unit>
+	<unit bitflag="1345" id1="659987" id2="17" version="1065353216">
+		<source>Bite that tongue of yours, slave.</source>
+		<target>Прикуси язык, рабыня.</target>
+	</unit>
+	<unit bitflag="1360" id1="659987" id2="17" version="1065353216">
+		<source>Keep the comments to yourself.</source>
+		<target>Держи язык за зубами.</target>
+	</unit>
+	<unit bitflag="1345" id1="659988" id2="17" version="1065353216">
+		<source>Consider it bitten.</source>
+		<target>Считай, что уже прикусила.</target>
+	</unit>
+	<unit bitflag="1345" id1="659990" id2="17" version="1065353216">
+		<source>It's nice to be acknowledged. Thanks.</source>
+		<target>Хорошо быть информированной. Спасибо.</target>
+	</unit>
+	<unit bitflag="1345" id1="659991" id2="17" version="1065353216">
+		<source>Here's my thank you, slave. Choke on it.</source>
+		<target>Вот моя благодарность, рабыня. Угощайся.</target>
+	</unit>
+	<unit bitflag="1360" id1="659991" id2="17" version="1065353216">
+		<source>Shut up. [Shock Vette]</source>
+		<target>Заткнись. [Ударить Ветт током]</target>
+	</unit>
+	<unit bitflag="1345" id1="659994" id2="17" version="1065353216">
+		<source>Ah! Sorry, sorry!</source>
+		<target>Ай! Прости, прости!</target>
+	</unit>
+	<unit bitflag="1360" id1="970725" id2="17" version="1065353216">
+		<source>Appreciate it.</source>
+		<target>Благодарю.</target>
+	</unit>
+</dialogue_file>

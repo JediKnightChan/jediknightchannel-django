@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="32">
+	<unit bitflag="1345" id1="655042" id2="17" version="1065353216">
+		<source>Paladius leads his cult from seclusion, but you can draw him out. I've contacted two of his former cult members.</source>
+		<target>Паладий управляет своим культом из уединения, но ты можешь выманить его. Я связалась с двумя его бывшими культистами.</target>
+	</unit>
+	<unit bitflag="1345" id1="655044" id2="17" version="1065353216">
+		<source>They're in hiding now, fearing retribution, but hungry for revenge. They should prove useful.</source>
+		<target>Они сейчас скрываются, боятся наказания, но жаждут мести. Они должны тебе пригодиться.</target>
+	</unit>
+	<unit bitflag="1345" id1="655045" id2="17" version="1065353216">
+		<source>How did you convince these fools to help?</source>
+		<target>Как ты убедила этих глупцов помочь?</target>
+	</unit>
+	<unit bitflag="1360" id1="655045" id2="17" version="1065353216">
+		<source>And the price of their help?</source>
+		<target>И цена их помощи?</target>
+	</unit>
+	<unit bitflag="1345" id1="655046" id2="17" version="1065353216">
+		<source>I'm certain they will.</source>
+		<target>Уверен, так и будет.</target>
+	</unit>
+	<unit bitflag="1360" id1="655046" id2="17" version="1065353216">
+		<source>Of course.</source>
+		<target>Конечно.</target>
+	</unit>
+	<unit bitflag="1345" id1="655047" id2="17" version="1065353216">
+		<source>I prefer to work alone, master.</source>
+		<target>Я предпочитаю работать один, учитель.</target>
+	</unit>
+	<unit bitflag="1360" id1="655047" id2="17" version="1065353216">
+		<source>Bah. I don't need them.</source>
+		<target>Вот ещё. Они мне не нужны.</target>
+	</unit>
+	<unit bitflag="1345" id1="655048" id2="17" version="1065353216">
+		<source>Don't discount them. They have information, and they're eager to oppose Paladius.</source>
+		<target>Не сбрасывай их со счетов. У них есть информация, и они готовы противостоять Паладию.</target>
+	</unit>
+	<unit bitflag="1345" id1="655050" id2="17" version="1065353216">
+		<source>I have encouraged their cooperation with the assurance that once Paladius is gone, the cult is theirs to lead.</source>
+		<target>Я поощрила их содействие заверением, что, когда Паладия больше не будет, культ перейдёт к ним.</target>
+	</unit>
+	<unit bitflag="1345" id1="655052" id2="17" version="1065353216">
+		<source>Circumstances change, of course. Do whatever you feel is necessary with Paladius and his cult. The artifact is all that matters.</source>
+		<target>Обстоятельства, конечно, меняются. Делай с Паладием и его культом, что посчитаешь нужным. Лишь артефакт имеет значение.</target>
+	</unit>
+	<unit bitflag="1345" id1="655054" id2="17" version="1065353216">
+		<source>Ah, apprentice, you've reached Nar Shaddaa safely. Good.</source>
+		<target>А, ученик, ты благополучно добрался до Нар-Шаддаа. Хорошо.</target>
+	</unit>
+	<unit bitflag="1345" id1="655056" id2="17" version="1065353216">
+		<source>Don't let the glittering towers fool you. Misery and desperation rule the slums below.</source>
+		<target>Не дай сверкающим башням одурачить себя. В трущобах внизу правят нищета и отчаяние.</target>
+	</unit>
+	<unit bitflag="1345" id1="655058" id2="17" version="1065353216">
+		<source>And desperation can drive people to many things. Remember that in your attempts to recover the artifact here.</source>
+		<target>А отчаяние может заставить людей сделать многое. Помни это, пытаясь вернусь артефакт.</target>
+	</unit>
+	<unit bitflag="1345" id1="655059" id2="17" version="1065353216">
+		<source>You believe I can use these people's hopelessness against them.</source>
+		<target>Ты считаешь, что я не могу использовать безысходность этих людей против них?</target>
+	</unit>
+	<unit bitflag="1360" id1="655059" id2="17" version="1065353216">
+		<source>I think I understand.</source>
+		<target>Думаю, я понимаю.</target>
+	</unit>
+	<unit bitflag="1345" id1="655060" id2="17" version="1065353216">
+		<source>Their need for answers should serve you well.</source>
+		<target>Их потребность в ответах должна хорошо послужить тебе.</target>
+	</unit>
+	<unit bitflag="1360" id1="655062" id2="17" version="1065353216">
+		<source>Recover it from where?</source>
+		<target>Вернуть откуда?</target>
+	</unit>
+	<unit bitflag="1345" id1="655063" id2="17" version="1065353216">
+		<source>In this case, the &quot;who&quot; is more important than the &quot;where.&quot;</source>
+		<target>В этот раз «у кого» важнее, чем «откуда».</target>
+	</unit>
+	<unit bitflag="1345" id1="655065" id2="17" version="1065353216">
+		<source>What could I possibly find useful about a bunch of poverty-stricken morons?</source>
+		<target>Что полезного могу я найти в кучке обнищавших кретинов?</target>
+	</unit>
+	<unit bitflag="1360" id1="655065" id2="17" version="1065353216">
+		<source>Why?</source>
+		<target>Зачем?</target>
+	</unit>
+	<unit bitflag="1345" id1="655066" id2="17" version="1065353216">
+		<source>The more you want, the easier you are to exploit. That's the general rule.</source>
+		<target>Чем больше ты хочешь, тем легче тебя использовать. Это общее правило.</target>
+	</unit>
+	<unit bitflag="1345" id1="655068" id2="17" version="1065353216">
+		<source>The artifact--a pendant called the Eye of Tulak--belongs to the Sith Lord Paladius.</source>
+		<target>Артефакт — кулон, называемый Глазом Тулака, — принадлежит лорду ситов Паладию.</target>
+	</unit>
+	<unit bitflag="1345" id1="655070" id2="17" version="1065353216">
+		<source>He's lived here many years, converting Nar Shaddaa's poor and suffering into zealous followers. His own cult.</source>
+		<target>Он прожил здесь много лет, превращая бедных и страдающих людей с Нар-Шаддаа в своих ревностных последователей. В свой собственный культ.</target>
+	</unit>
+	<unit bitflag="1345" id1="655071" id2="17" version="1065353216">
+		<source>He sounds like a very cunning man. I admire that.</source>
+		<target>Похоже, он коварный человек. Мне это нравится.</target>
+	</unit>
+	<unit bitflag="1360" id1="655071" id2="17" version="1065353216">
+		<source>Impressive.</source>
+		<target>Впечатляюще.</target>
+	</unit>
+	<unit bitflag="1345" id1="655072" id2="17" version="1065353216">
+		<source>Cunning, devious, persuasive, yes. And atrociously stubborn.</source>
+		<target>Коварный, изворотливый, убедительный, да. И отвратительно упрямый.</target>
+	</unit>
+	<unit bitflag="1345" id1="655074" id2="17" version="1065353216">
+		<source>He leads a cult of idiots. They won't stop me.</source>
+		<target>Он возглавляет культ идиотов. Они меня не остановят.</target>
+	</unit>
+	<unit bitflag="1360" id1="655074" id2="17" version="1065353216">
+		<source>Am I meant to be scared?</source>
+		<target>То есть мне нужно испугаться?</target>
+	</unit>
+	<unit bitflag="1345" id1="655075" id2="17" version="1065353216">
+		<source>Of course not. But they still must be dealt with.</source>
+		<target>Конечно нет. Но тем не менее их нужно учесть.</target>
+	</unit>
+	<unit bitflag="1360" id1="655077" id2="17" version="1065353216">
+		<source>That's despicable.</source>
+		<target>Это омерзительно.</target>
+	</unit>
+	<unit bitflag="1345" id1="655078" id2="17" version="1065353216">
+		<source>It's no concern of mine that he preys on these people, except that the attention has gone to his head.</source>
+		<target>Меня не волнует, что он эксплуатирует этих людей, но внимание вскружило ему голову.</target>
+	</unit>
+</dialogue_file>

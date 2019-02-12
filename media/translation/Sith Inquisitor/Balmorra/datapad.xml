@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="9">
+	<unit bitflag="321" id1="717270" id2="17" version="1065353216">
+		<source>[The terminal shows a log of the work done on the Colicoids and the toxic waste.]</source>
+		<target>[Терминал показывает журнал учёта работы над коликоидами и токсичными отходами]</target>
+	</unit>
+	<unit bitflag="1345" id1="717272" id2="17" version="1065353216">
+		<source>...Progress on the experiments is not going without a hitch, but we seem to have overcome the initial obstacles we faced when we began.</source>
+		<target>...Эксперименты продвигаются не без перебоев, но, кажется, мы преодолели те препятствия, с которыми столкнулись в самом начале.</target>
+	</unit>
+	<unit bitflag="1345" id1="717274" id2="17" version="1065353216">
+		<source>Recently, Team Five reported that the subjects responded positively to the waste from the hazard vault.</source>
+		<target>Недавно Пятая команда сообщила, что испытуемые положительно отреагировали на отходы из опасного хранилища.</target>
+	</unit>
+	<unit bitflag="1345" id1="717276" id2="17" version="1065353216">
+		<source>Our only remaining concern is that the casualty rate seems to have gone up in this round of testing.</source>
+		<target>Единственным поводом для беспокойства остаётся видимое учащение несчастных случаев на этом этапе тестирования.</target>
+	</unit>
+	<unit bitflag="1345" id1="717278" id2="17" version="1065353216">
+		<source>So far, we've lost two of our best scientists and three research assistants. At this rate, we almost can't afford to be successful.</source>
+		<target>На данный момент мы потеряли двух наших лучших учёных и трёх ассистентов. При таких условиях мы почти не можем позволить себе преуспеть.</target>
+	</unit>
+	<unit bitflag="1345" id1="717280" id2="17" version="1065353216">
+		<source>At any rate, I have recorded the formula for the chemical compound that has thus far produced the best results.</source>
+		<target>Как бы то ни было, я записал формулу химического соединения, которое до сих пор было наиболее эффективным.</target>
+	</unit>
+	<unit bitflag="1345" id1="717282" id2="17" version="1065353216">
+		<source>I have also diagrammed its structure and how I believe it interacts with the Colicoid cell structure and the toxic waste.</source>
+		<target>Я также зарисовал его структуру и вероятное взаимодействие с клеточной структурой коликоидов и токсичными отходами.</target>
+	</unit>
+	<unit bitflag="1345" id1="717284" id2="17" version="1065353216">
+		<source>Hopefully, we will be able to figure out the cause of the rise in the subjects' ferocity and eliminate casualties from here forward....</source>
+		<target>Надеюсь, с этого момента мы сможем выяснить причины повышения свирепости испытуемых и устранить несчастные случаи...</target>
+	</unit>
+	<unit bitflag="1345" id1="717286" id2="17" version="1065353216">
+		<source>[The remainder of the log is a series of chemical formulae and scientific jargon.]</source>
+		<target>[Дальше журнал учёта заполнен рядом химических формул и научными терминами]</target>
+	</unit>
+</dialogue_file>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="43">
+	<unit bitflag="1345" id1="659254" id2="17" version="1065353216">
+		<source>Stop! I--I'm sorry, I made a mistake! I tried to get through the tomb, but there were just too many shyrack. I barely escaped.</source>
+		<target>Стой! П-прости меня, я совершил ошибку! Я попытался пробраться через гробницу, но там слишком много шайраков. Я едва улизнул.</target>
+	</unit>
+	<unit bitflag="1345" id1="659256" id2="17" version="1065353216">
+		<source>I figured better to ambush you and take your shards. But I see that's just as futile.</source>
+		<target>Я решил, что лучше тебя подкараулить и отнять твои осколки. Но, смотрю, это так же бессмысленно.</target>
+	</unit>
+	<unit bitflag="1345" id1="659259" id2="17" version="1065353216">
+		<source>You should have known better. I'm way out of your league.</source>
+		<target>Тебе следовало быть умнее. Я не твоего уровня.</target>
+	</unit>
+	<unit bitflag="1360" id1="659259" id2="17" version="1065353216">
+		<source>You didn't stand a chance.</source>
+		<target>У тебя не было ни шанса.</target>
+	</unit>
+	<unit bitflag="1345" id1="659260" id2="17" version="1065353216">
+		<source>You show great fortitude. It took guts to face me.</source>
+		<target>Ты проявил большую стойкость. Требуется мужество, чтобы встретиться со мной.</target>
+	</unit>
+	<unit bitflag="1360" id1="659260" id2="17" version="1065353216">
+		<source>It was a valiant try.</source>
+		<target>Храбро.</target>
+	</unit>
+	<unit bitflag="1345" id1="659261" id2="17" version="1065353216">
+		<source>You give me more credit than I deserve.</source>
+		<target>Ты меня переоцениваешь.</target>
+	</unit>
+	<unit bitflag="1345" id1="659263" id2="17" version="1065353216">
+		<source>It was a shameless attempt. You have a coward's heart.</source>
+		<target>Это было бессовестно. А сам ты трус.</target>
+	</unit>
+	<unit bitflag="1360" id1="659263" id2="17" version="1065353216">
+		<source>You're pathetic.</source>
+		<target>Ты жалок.</target>
+	</unit>
+	<unit bitflag="1345" id1="659264" id2="17" version="1065353216">
+		<source>I was desperate.</source>
+		<target>Я был в отчаянии.</target>
+	</unit>
+	<unit bitflag="1345" id1="659266" id2="17" version="1065353216">
+		<source>Vemrin is already inside with Baras, all the other acolytes died. You were my only chance.</source>
+		<target>Вемрин уже внутри с Барасом, все прочие служители мертвы. Ты был моей последней надеждой.</target>
+	</unit>
+	<unit bitflag="1345" id1="659268" id2="17" version="1065353216">
+		<source>Now I'm doomed, I'll never become Sith. Unless I return with the shards, Baras will have me killed.</source>
+		<target>И вот сейчас я обречён, мне никогда не стать ситом. Если я не вернусь с осколками, Барас меня убьёт.</target>
+	</unit>
+	<unit bitflag="1345" id1="659269" id2="17" version="1065353216">
+		<source>Why don't you flee, get off the planet, give up trying to be Sith?</source>
+		<target>Почему бы тебе не сбежать? Улетай с планеты и оставь попытки стать ситом.</target>
+	</unit>
+	<unit bitflag="1360" id1="659269" id2="17" version="1065353216">
+		<source>You could run.</source>
+		<target>Ты мог бы сбежать.</target>
+	</unit>
+	<unit bitflag="1345" id1="659270" id2="17" version="1065353216">
+		<source>You can't get off Korriban without official clearance. I might be able to hide in the Wilds, but I wouldn't survive long.</source>
+		<target>Нельзя покинуть Коррибан без официального разрешения. Я мог бы спрятаться в пустошах, но я не протяну там долго.</target>
+	</unit>
+	<unit bitflag="1345" id1="659271" id2="17" version="1065353216">
+		<source>Then be a man and try to get the shards again.</source>
+		<target>Так будь мужчиной и попытайся собрать осколки ещё раз.</target>
+	</unit>
+	<unit bitflag="1360" id1="659271" id2="17" version="1065353216">
+		<source>Go back to the tomb.</source>
+		<target>Возвращайся в гробницу.</target>
+	</unit>
+	<unit bitflag="1345" id1="659272" id2="17" version="1065353216">
+		<source>I--I can't go back in there. I just can't.</source>
+		<target>Я... я не могу вернуться туда. Просто не могу.</target>
+	</unit>
+	<unit bitflag="1345" id1="659274" id2="17" version="1065353216">
+		<source>I've heard of a mad hermit in one of the tombs who welcomes failures from the trials. Maybe I'll... seek him out.</source>
+		<target>Я слышал о безумном отшельнике в одной из гробниц, который помогает провалившим испытания. Может быть, я ... разыщу его.</target>
+	</unit>
+	<unit bitflag="1345" id1="659278" id2="17" version="1065353216">
+		<source>I'll save Baras the trouble of listening to your whimpering. Die!</source>
+		<target>Я избавлю Бараса от необходимости слушать твоё нытьё. Умри!</target>
+	</unit>
+	<unit bitflag="1360" id1="659278" id2="17" version="1065353216">
+		<source>I'll handle that. [Kill him]</source>
+		<target>Я помогу тебе. [Убить его]</target>
+	</unit>
+	<unit bitflag="1345" id1="659280" id2="17" version="1065353216">
+		<source>I don't want to die!</source>
+		<target>Я не хочу умирать!</target>
+	</unit>
+	<unit bitflag="1345" id1="659282" id2="17" version="1065353216">
+		<source>Take my shards to Baras as your own. I'll get more.</source>
+		<target>Возьми мои осколки. Я добуду другие.</target>
+	</unit>
+	<unit bitflag="1360" id1="659282" id2="17" version="1065353216">
+		<source>Take mine. [Give shards]</source>
+		<target>Возьми мои. [Дать осколки]</target>
+	</unit>
+	<unit bitflag="1345" id1="659283" id2="17" version="1065353216">
+		<source>Really? You--you're giving me your shards? Thank you! I--what can I do to repay you?</source>
+		<target>Правда? Ты... ты дашь мне свои осколки? Спасибо тебе! Я... чем я могу отплатить тебе?</target>
+	</unit>
+	<unit bitflag="1345" id1="659284" id2="17" version="1065353216">
+		<source>You are now in my debt.</source>
+		<target>Теперь ты мой должник.</target>
+	</unit>
+	<unit bitflag="1360" id1="659284" id2="17" version="1065353216">
+		<source>You'll owe me.</source>
+		<target>Ты мне должен.</target>
+	</unit>
+	<unit bitflag="1345" id1="659285" id2="17" version="1065353216">
+		<source>That's for certain. You've got yourself an ally for life.</source>
+		<target>Ну само собой. Теперь я на всю жизнь твой союзник.</target>
+	</unit>
+	<unit bitflag="1345" id1="659287" id2="17" version="1065353216">
+		<source>Nothing. Just do me a favor and keep this between us.</source>
+		<target>Ничего. Просто сделай мне одолжение и держи это между нами.</target>
+	</unit>
+	<unit bitflag="1360" id1="659287" id2="17" version="1065353216">
+		<source>It's a gift. Between friends.</source>
+		<target>Это подарок. От друга другу.</target>
+	</unit>
+	<unit bitflag="1345" id1="659288" id2="17" version="1065353216">
+		<source>Are you kidding? I won't breathe a word!</source>
+		<target>Шутишь? Да я не пророню ни слова!</target>
+	</unit>
+	<unit bitflag="1360" id1="659290" id2="17" version="1065353216">
+		<source>Pay me.</source>
+		<target>Плати.</target>
+	</unit>
+	<unit bitflag="1345" id1="659291" id2="17" version="1065353216">
+		<source>Here, absolutely, take it all. It's yours.</source>
+		<target>Вот, это всё, бери. Это твоё.</target>
+	</unit>
+	<unit bitflag="1345" id1="659293" id2="17" version="1065353216">
+		<source>Good luck going back into the tomb for another set of shards. I'll see you in Lord Baras's chamber.</source>
+		<target>Удачи в охоте за другими осколками внутри гробницы. Увидимся в покоях лорда Бараса.</target>
+	</unit>
+	<unit bitflag="1345" id1="659296" id2="17" version="1065353216">
+		<source>You--you did it, didn't you? You got the shards from the tomb, and you're on your way back to Lord Baras.</source>
+		<target>Ты... ты сделал это, не так ли? Ты собрал в гробнице осколки и теперь возвращаешься к лорду Барасу.</target>
+	</unit>
+	<unit bitflag="1345" id1="659297" id2="17" version="1065353216">
+		<source>Are you here to congratulate me?</source>
+		<target>Ты пришёл меня поздравить?</target>
+	</unit>
+	<unit bitflag="1360" id1="659297" id2="17" version="1065353216">
+		<source>What are you, an admirer?</source>
+		<target>А ты что, мой воздыхатель?</target>
+	</unit>
+	<unit bitflag="1360" id1="659298" id2="17" version="1065353216">
+		<source>Of course I did.</source>
+		<target>Ну само собой.</target>
+	</unit>
+	<unit bitflag="1345" id1="659299" id2="17" version="1065353216">
+		<source>That's all I needed to hear.</source>
+		<target>Это я и хотел услышать.</target>
+	</unit>
+	<unit bitflag="1360" id1="659300" id2="17" version="1065353216">
+		<source>I don't have time for this.</source>
+		<target>У меня нет на это времени.</target>
+	</unit>
+	<unit bitflag="1345" id1="659301" id2="17" version="1065353216">
+		<source>I'll take that as a &quot;yes.&quot;</source>
+		<target>Полагаю, это означает «да».</target>
+	</unit>
+	<unit bitflag="1345" id1="659303" id2="17" version="1065353216">
+		<source>You might want to turn around and vacate this particular room.</source>
+		<target>Возможно, ты хочешь развернуться и освободить вот эту комнату.</target>
+	</unit>
+	<unit bitflag="1345" id1="659304" id2="17" version="1065353216">
+		<source>Man, are you lost.</source>
+		<target>Приятель, ты заблудился?</target>
+	</unit>
+</dialogue_file>

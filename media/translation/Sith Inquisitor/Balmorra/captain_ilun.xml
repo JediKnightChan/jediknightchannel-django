@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="6">
+	<unit bitflag="1345" id1="717264" id2="17" version="1065353216">
+		<source>It's a shame about the major, but he should have known better than to oppose a Sith.</source>
+		<target>Досадно вышло с майором, но он должен был знать, что не стоит нападать на сита.</target>
+	</unit>
+	<unit bitflag="1345" id1="717265" id2="17" version="1065353216">
+		<source>Thanks for helping the major's son. It really meant a lot to him.</source>
+		<target>Спасибо, что помогли сыну майора. Это правда много значило для него.</target>
+	</unit>
+	<unit bitflag="1345" id1="717266" id2="17" version="1065353216">
+		<source>Welcome back, my lord. The major's in the adjoining lab with Doctor Tyrek, but he's not too happy.</source>
+		<target>С возвращением, владыка. Майор в соседней лаборатории с доктором Тиреком, но он не слишком рад.</target>
+	</unit>
+	<unit bitflag="1345" id1="717267" id2="17" version="1065353216">
+		<source>Welcome back, my lord. We heard what you did for Major Bessiker's son. The major's in the lab with Doctor Tyrek.</source>
+		<target>С возвращением, владыка. Мы слышали, что вы сделали для сына майора Бессикера. Майор в лаборатории с доктором Тиреком.</target>
+	</unit>
+	<unit bitflag="1345" id1="717268" id2="17" version="1065353216">
+		<source>I hope you find what you're after, my lord.</source>
+		<target>Надеюсь, вы нашли, что хотели, мой лорд.</target>
+	</unit>
+	<unit bitflag="1345" id1="717269" id2="17" version="1065353216">
+		<source>Please speak with Major Bessiker.</source>
+		<target>Пожалуйста, поговорите с майором Бессикером.</target>
+	</unit>
+</dialogue_file>

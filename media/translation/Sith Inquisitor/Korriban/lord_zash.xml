@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="178">
+	<unit bitflag="1345" id1="660531" id2="17" version="1065353216">
+		<source>Hurry to Dromund Kaas, apprentice. We can talk more there.</source>
+		<target>Поторопись на Дромунд-Каас, ученик. Мы поговорим там.</target>
+	</unit>
+	<unit bitflag="1345" id1="660532" id2="17" version="1065353216">
+		<source>You must meet me on Dromund Kaas. There we can talk more.</source>
+		<target>Ты должен встретиться со мной на Дромунд-Каасе. Мы поговорим там.</target>
+	</unit>
+	<unit bitflag="1345" id1="660533" id2="17" version="1065353216">
+		<source>Dromund Kaas. Got it.</source>
+		<target>Дромунд-Каас. Понял.</target>
+	</unit>
+	<unit bitflag="1360" id1="660533" id2="17" version="1065353216">
+		<source>Understood.</source>
+		<target>Понятно.</target>
+	</unit>
+	<unit bitflag="1345" id1="660534" id2="17" version="1065353216">
+		<source>Yes, the map guides us there... to the capital of the Sith Empire.</source>
+		<target>Да, карта указывает туда... в столицу Империи ситов.</target>
+	</unit>
+	<unit bitflag="1345" id1="660536" id2="17" version="1065353216">
+		<source>Why must we go there?</source>
+		<target>Зачем нам туда лететь?</target>
+	</unit>
+	<unit bitflag="1360" id1="660536" id2="17" version="1065353216">
+		<source>Dromund Kaas?</source>
+		<target>На Дромунд-Каасе?</target>
+	</unit>
+	<unit bitflag="1345" id1="660537" id2="17" version="1065353216">
+		<source>That is where the map leads--though I likely would have taken you there anyway. The capital of the Sith Empire is a good place for an apprentice to start.</source>
+		<target>Туда указывает карта... хотя я бы всё равно тебя туда взяла. Столица Империи ситов — неплохое место для начала обучения.</target>
+	</unit>
+	<unit bitflag="1345" id1="660539" id2="17" version="1065353216">
+		<source>I don't think I've ever heard of it.</source>
+		<target>Кажется, я о нём не слышал.</target>
+	</unit>
+	<unit bitflag="1360" id1="660539" id2="17" version="1065353216">
+		<source>That's new to me.</source>
+		<target>Что-то новенькое.</target>
+	</unit>
+	<unit bitflag="1345" id1="660540" id2="17" version="1065353216">
+		<source>Dromund Kaas is the capital of the Sith Empire. It is a dark place, charged with dark energy. It's also the first location on the map.</source>
+		<target>Дромунд-Каас — столица Империи ситов. Это тёмное место, насыщенное тёмной энергией. Также это первая отметка на карте.</target>
+	</unit>
+	<unit bitflag="1345" id1="660542" id2="17" version="1065353216">
+		<source>I must finish some things here first, but you should board the shuttle to Dromund Kaas as soon as possible. You've made enemies here on Korriban.</source>
+		<target>Сначала я должна уладить здесь кое-какие вопросы, но тебе следует взойти на шаттл на Дромунд-Каас как можно скорее. Ты нажил себе врагов на Коррибане.</target>
+	</unit>
+	<unit bitflag="1345" id1="660544" id2="17" version="1065353216">
+		<source>I will meet you in my chambers in the Citadel in Kaas City. There we can speak more freely of the work ahead--without the fear of unfriendly ears.</source>
+		<target>Я встречусь с тобой в своих покоях в Цитадели Каас-Сити. Там мы сможем поговорить начистоту о предстоящей работе... не опасаясь чужих ушей.</target>
+	</unit>
+	<unit bitflag="1345" id1="660547" id2="17" version="1065353216">
+		<source>I'll go just as soon as I finish up here.</source>
+		<target>Я отправлюсь туда как только закончу свои дела.</target>
+	</unit>
+	<unit bitflag="1360" id1="660547" id2="17" version="1065353216">
+		<source>I still have work here.</source>
+		<target>Мне всё ещё нужно тут кое-что доделать.</target>
+	</unit>
+	<unit bitflag="1345" id1="660548" id2="17" version="1065353216">
+		<source>Good. Do what you must, then meet me there.</source>
+		<target>Хорошо. Сделай, что должно, а затем встреться со мной там.</target>
+	</unit>
+	<unit bitflag="1360" id1="660550" id2="17" version="1065353216">
+		<source>On my way.</source>
+		<target>Уже в пути.</target>
+	</unit>
+	<unit bitflag="1345" id1="660551" id2="17" version="1065353216">
+		<source>If anyone's listening, I'll cut their ears off.</source>
+		<target>Если кто-то подслушивает, я отрежу им ушки.</target>
+	</unit>
+	<unit bitflag="1360" id1="660551" id2="17" version="1065353216">
+		<source>Eavesdroppers will suffer.</source>
+		<target>Соглядатаи будут страдать.</target>
+	</unit>
+	<unit bitflag="1345" id1="660552" id2="17" version="1065353216">
+		<source>No need for that. My chambers on Dromund Kaas are well-guarded against that sort of thing.</source>
+		<target>В этом нет необходимости. Мои покои на Дромунд-Каасе хорошо защищены от подобного рода вещей.</target>
+	</unit>
+	<unit bitflag="1345" id1="660554" id2="17" version="1065353216">
+		<source>Oh--and one more thing. You're Sith now, which means you get your own lightsaber.</source>
+		<target>О... и кое-что ещё. Теперь ты сит, а значит, тебе нужен собственный световой меч.</target>
+	</unit>
+	<unit bitflag="5441" id1="660556" id2="17" version="1065353216">
+		<source>This is the lightsaber I had as an apprentice. I want you to have it.</source>
+		<target>Этот световой меч очень пригодился мне во время моего ученичества. Я хочу, чтобы он был у тебя.</target>
+	</unit>
+	<unit bitflag="1360" id1="660559" id2="17" version="1065353216">
+		<source>My pleasure.</source>
+		<target>С радостью.</target>
+	</unit>
+	<unit bitflag="1345" id1="660560" id2="17" version="1065353216">
+		<source>And what a fine weapon of murder it is. I've always wanted one of these.</source>
+		<target>И какое это отличное орудие убийства. Всегда такое хотел.</target>
+	</unit>
+	<unit bitflag="1360" id1="660560" id2="17" version="1065353216">
+		<source>Great.</source>
+		<target>Великолепно.</target>
+	</unit>
+	<unit bitflag="1345" id1="660561" id2="17" version="1065353216">
+		<source>Excellent. I'm glad you like it. It served me well.</source>
+		<target>Отлично. Рада, что он тебе нравится. Он хорошо послужил мне.</target>
+	</unit>
+	<unit bitflag="1345" id1="660563" id2="17" version="1065353216">
+		<source>I shall wreak havoc with it wherever I go.</source>
+		<target>Я буду сеять хаос, куда бы ни пошёл.</target>
+	</unit>
+	<unit bitflag="1360" id1="660563" id2="17" version="1065353216">
+		<source>I'll use it well.</source>
+		<target>Я использую его по назначению.</target>
+	</unit>
+	<unit bitflag="1345" id1="660564" id2="17" version="1065353216">
+		<source>Magnificent. No doubt you will.</source>
+		<target>Восхитительно. Не сомневаюсь, что так и будет.</target>
+	</unit>
+	<unit bitflag="1345" id1="660566" id2="17" version="1065353216">
+		<source>Now, remember. My chambers. The Citadel. Dromund Kaas. It's imperative that we get to work on this as soon as possible.</source>
+		<target>Ну, не забудь. Мои покои. Цитадель. Дромунд-Каас. Нам крайне важно приступить к работе как можно скорее.</target>
+	</unit>
+	<unit bitflag="1345" id1="660568" id2="17" version="1065353216">
+		<source>Stop right there, alien scum. Darth Skotia has a message for you.</source>
+		<target>Стой, где стоишь, отродье ксеносов. У Дарта Скоушии есть для тебя сообщение.</target>
+	</unit>
+	<unit bitflag="1345" id1="660569" id2="17" version="1065353216">
+		<source>Stop right there, slave. Darth Skotia has a message for you.</source>
+		<target>Стой, где стоишь, раб. У Дарта Скоушии есть для тебя сообщение.</target>
+	</unit>
+	<unit bitflag="1345" id1="660570" id2="17" version="1065353216">
+		<source>I am a Sith apprentice. Show some respect or I'll smash your face in.</source>
+		<target>Я сит-ученик. Прояви уважение, или я разобью тебе лицо.</target>
+	</unit>
+	<unit bitflag="1360" id1="660570" id2="17" version="1065353216">
+		<source>You're asking for trouble.</source>
+		<target>Ты напрашиваешься на неприятности.</target>
+	</unit>
+	<unit bitflag="1345" id1="660571" id2="17" version="1065353216">
+		<source>Shut up, you insignificant worm.</source>
+		<target>Заткнись, ничтожный червь.</target>
+	</unit>
+	<unit bitflag="1345" id1="660573" id2="17" version="1065353216">
+		<source>Who is this Darth Skotia?</source>
+		<target>Кто такой этот Дарт Скоушия?</target>
+	</unit>
+	<unit bitflag="1360" id1="660573" id2="17" version="1065353216">
+		<source>Darth Skotia?</source>
+		<target>Дарт Скоушия?</target>
+	</unit>
+	<unit bitflag="1345" id1="660574" id2="17" version="1065353216">
+		<source>Darth Skotia is Lord Zash's superior and your worst nightmare.</source>
+		<target>Дарт Скоушия — начальник лорда Заш и твой самый худший ночной кошмар.</target>
+	</unit>
+	<unit bitflag="1345" id1="660576" id2="17" version="1065353216">
+		<source>Give me the message.</source>
+		<target>Передай мне его сообщение.</target>
+	</unit>
+	<unit bitflag="1360" id1="660576" id2="17" version="1065353216">
+		<source>Speak.</source>
+		<target>Говори.</target>
+	</unit>
+	<unit bitflag="1345" id1="660577" id2="17" version="1065353216">
+		<source>The message is this: You will not go to Dromund Kaas.</source>
+		<target>Сообщение вот какое: ты не станешь лететь на Дромунд-Каас.</target>
+	</unit>
+	<unit bitflag="1345" id1="660582" id2="17" version="1065353216">
+		<source>Who said anything about going to Dromund Kaas?</source>
+		<target>Кто сказал, что я лечу на Дромунд-Каас.</target>
+	</unit>
+	<unit bitflag="1360" id1="660582" id2="17" version="1065353216">
+		<source>I'm not going.</source>
+		<target>Я и не лечу.</target>
+	</unit>
+	<unit bitflag="1345" id1="660583" id2="17" version="1065353216">
+		<source>Everything you've done here, everyone you dealt with--Lord Zash included--is insignificant.</source>
+		<target>Всё, что ты здесь делал, все, с кем ты имел дело, включая лорда Заш, — всё это не имеет никакого значения.</target>
+	</unit>
+	<unit bitflag="1345" id1="660585" id2="17" version="1065353216">
+		<source>Darth Skotia has eyes and ears on Korriban. He knows what your master is up to, and he is displeased to say the least.</source>
+		<target>У Дарта Скоушии есть на Коррибане и глаза, и уши. Он знает, что задумала твой учитель, и он, мягко говоря, недоволен.</target>
+	</unit>
+	<unit bitflag="1345" id1="660587" id2="17" version="1065353216">
+		<source>On Korriban, Lord Zash may have her way. But on Dromund Kaas, it's a different story. So you see, you have to die.</source>
+		<target>На Коррибане лорд Заш может делать, что хочет. Но на Дромунд-Каасе всё по-другому. Как видишь, тебе нужно умереть.</target>
+	</unit>
+	<unit bitflag="1345" id1="660588" id2="17" version="1065353216">
+		<source>Khem, what is it you do to Force users again?</source>
+		<target>Кхем, так что ты там делаешь с адептами Силы?</target>
+	</unit>
+	<unit bitflag="1360" id1="660588" id2="17" version="1065353216">
+		<source>Khem, show him your talent.</source>
+		<target>Кхем, раскрой им свои таланты.</target>
+	</unit>
+	<unit bitflag="1345" id1="660591" id2="17" version="1065353216">
+		<source>Um, Ortosin--is that a Dashade? Maybe this isn't such a good idea.</source>
+		<target>Эм, Ортозин... это дашад? Может быть, это плохая идея.</target>
+	</unit>
+	<unit bitflag="1345" id1="660593" id2="17" version="1065353216">
+		<source>Coward! Fight, you fool!</source>
+		<target>Трус! Сражайся, глупец!</target>
+	</unit>
+	<unit bitflag="1345" id1="660594" id2="17" version="1065353216">
+		<source>Actually, you're the one who's going to die.</source>
+		<target>Вообще-то, если кому-то тут и нужно умереть, так это тебе.</target>
+	</unit>
+	<unit bitflag="1360" id1="660594" id2="17" version="1065353216">
+		<source>You will suffer.</source>
+		<target>Ты будешь страдать</target>
+	</unit>
+	<unit bitflag="1345" id1="660596" id2="17" version="1065353216">
+		<source>I've been waiting to give my new lightsaber a try!</source>
+		<target>Я как раз хотел опробовать свой новый световой меч!</target>
+	</unit>
+	<unit bitflag="1360" id1="660596" id2="17" version="1065353216">
+		<source>This'll be fun!</source>
+		<target>Это будет весело!</target>
+	</unit>
+	<unit bitflag="1345" id1="660597" id2="17" version="1065353216">
+		<source>Oh, slave, I'm going to enjoy tearing you to bits.</source>
+		<target>О, раб, я буду наслаждаться, разрывая тебя на куски.</target>
+	</unit>
+	<unit bitflag="1345" id1="660601" id2="17" version="1065353216">
+		<source>Ah, my magnificent new apprentice. Congratulations are in order, I believe.</source>
+		<target>А, мой восхитительный новый ученик. Полагаю, тебя можно поздравить.</target>
+	</unit>
+	<unit bitflag="1345" id1="660602" id2="17" version="1065353216">
+		<source>You know, I could have taken Ffon. You didn't need to kill him for me.</source>
+		<target>Знаешь, я мог бы и сам разобраться с Ффоном. Тебе не нужно было его убивать.</target>
+	</unit>
+	<unit bitflag="1360" id1="660602" id2="17" version="1065353216">
+		<source>I didn't need your help.</source>
+		<target>Мне не нужна была помощь.</target>
+	</unit>
+	<unit bitflag="1345" id1="660603" id2="17" version="1065353216">
+		<source>You know, I could have taken Ffon. I didn't need you to kill him for me.</source>
+		<target>Знаешь, я мог бы и сам разобраться с Ффоном. Тебе не нужно было его убивать.</target>
+	</unit>
+	<unit bitflag="1360" id1="660603" id2="17" version="1065353216">
+		<source>I didn't need your help.</source>
+		<target>Мне не нужна была помощь.</target>
+	</unit>
+	<unit bitflag="1345" id1="660604" id2="17" version="1065353216">
+		<source>Yes, of course, but it wouldn't have made that stubborn overseer respect your power. So I reminded him of mine instead.</source>
+		<target>Да, разумеется, но это не заставило бы того упрямого надзирателя уважать твою мощь. Так что вместо этого я напомнила ему о своей.</target>
+	</unit>
+	<unit bitflag="1360" id1="660606" id2="17" version="1065353216">
+		<source>I'm grateful.</source>
+		<target>Благодарю.</target>
+	</unit>
+	<unit bitflag="1345" id1="660607" id2="17" version="1065353216">
+		<source>You've earned it, my apprentice.</source>
+		<target>Ты заслужил это, мой ученик.</target>
+	</unit>
+	<unit bitflag="1345" id1="660609" id2="17" version="1065353216">
+		<source>Was killing Ffon really necessary? He couldn't help it that Harkun was a jerk.</source>
+		<target>Разве нужно было убивать Ффона? Он же не виноват, что Харкун придурок.</target>
+	</unit>
+	<unit bitflag="1360" id1="660609" id2="17" version="1065353216">
+		<source>I feel bad for Ffon.</source>
+		<target>Мне жаль Ффона.</target>
+	</unit>
+	<unit bitflag="1345" id1="660610" id2="17" version="1065353216">
+		<source>Was killing Ffon really necessary? He couldn't help it that Harkun is a fool.</source>
+		<target>Разве нужно было убивать Ффона? Он же не виноват, что Харкун придурок.</target>
+	</unit>
+	<unit bitflag="1360" id1="660610" id2="17" version="1065353216">
+		<source>I feel bad for Ffon.</source>
+		<target>Мне жаль Ффона.</target>
+	</unit>
+	<unit bitflag="1345" id1="660611" id2="17" version="1065353216">
+		<source>Of course it was. I can only have one apprentice.</source>
+		<target>Конечно же нужно. У меня может быть только один ученик.</target>
+	</unit>
+	<unit bitflag="1345" id1="660613" id2="17" version="1065353216">
+		<source>Now, I was just looking over this astonishing map you brought back, and I can tell we have a lot of work ahead of us.</source>
+		<target>Ну, я только что изучила ту поразительную карту, которую ты принёс, и могу сказать, что нам предстоит многое сделать.</target>
+	</unit>
+	<unit bitflag="1345" id1="660614" id2="17" version="1065353216">
+		<source>What is this map of, exactly?</source>
+		<target>Что это вообще за карта такая?</target>
+	</unit>
+	<unit bitflag="1360" id1="660614" id2="17" version="1065353216">
+		<source>Map?</source>
+		<target>Карту?</target>
+	</unit>
+	<unit bitflag="1345" id1="660615" id2="17" version="1065353216">
+		<source>What is this a map of, exactly?</source>
+		<target>Что это вообще за карта такая?</target>
+	</unit>
+	<unit bitflag="1360" id1="660615" id2="17" version="1065353216">
+		<source>Map?</source>
+		<target>Карту?</target>
+	</unit>
+	<unit bitflag="1345" id1="660616" id2="17" version="1065353216">
+		<source>We can't talk about it here--too many unfriendly ears.</source>
+		<target>Мы не можем здесь это обсуждать... тут даже у стен есть уши.</target>
+	</unit>
+	<unit bitflag="1360" id1="660618" id2="17" version="1065353216">
+		<source>Oh boy!</source>
+		<target>Ох ты ж ёжик!</target>
+	</unit>
+	<unit bitflag="1345" id1="660619" id2="17" version="1065353216">
+		<source>Patience, my apprentice. We must go about this with tact. All in good time.</source>
+		<target>Терпение, мой ученик. Мы должны действовать осторожно. Всему своё время.</target>
+	</unit>
+	<unit bitflag="1345" id1="660621" id2="17" version="1065353216">
+		<source>You mean I have a lot of work ahead of me.</source>
+		<target>Ты хочешь сказать, что мне предстоит многое сделать.</target>
+	</unit>
+	<unit bitflag="1360" id1="660621" id2="17" version="1065353216">
+		<source>Us? You mean &quot;me.&quot;</source>
+		<target>Нам? То есть мне.</target>
+	</unit>
+	<unit bitflag="1345" id1="660622" id2="17" version="1065353216">
+		<source>You think I don't work, apprentice? I'd remind you that there is more to being Sith than crushing tuk'ata skulls and mulling about dark tombs.</source>
+		<target>Ты думаешь, что я ничего не делаю, ученик. Хотелось бы тебе напомнить, что быть ситом значит нечто большее, чем ломать черепа тук'атам и прыгать по гробницам.</target>
+	</unit>
+	<unit bitflag="1345" id1="660624" id2="17" version="1065353216">
+		<source>You and I are a special breed. We reach beyond the mere momentary passion of combat into the very heart of the dark side.</source>
+		<target>Мы с тобой особенное племя. Мы выходим за рамки кратковременного боевого азарта и проникаем в самое сердце Тёмной стороны.</target>
+	</unit>
+	<unit bitflag="1345" id1="660626" id2="17" version="1065353216">
+		<source>We are masters of secrets. Even our own shadows don't know our next move. Do you understand?</source>
+		<target>Мы хранители секретов. Даже наши тени не знают нашего следующего шага. Ты меня понимаешь?</target>
+	</unit>
+	<unit bitflag="1360" id1="660627" id2="17" version="1065353216">
+		<source>Yes.</source>
+		<target>Да.</target>
+	</unit>
+	<unit bitflag="1345" id1="660628" id2="17" version="1065353216">
+		<source>But what's the point of having all this power if you can't kill things?</source>
+		<target>Но какой смысл обладать всей этой мощью, если не можешь убивать?</target>
+	</unit>
+	<unit bitflag="1360" id1="660628" id2="17" version="1065353216">
+		<source>But I like causing trouble.</source>
+		<target>Но я люблю доставлять неприятности.</target>
+	</unit>
+	<unit bitflag="1345" id1="660629" id2="17" version="1065353216">
+		<source>There will be plenty of time for that.</source>
+		<target>Для этого ещё будет время.</target>
+	</unit>
+	<unit bitflag="1345" id1="660631" id2="17" version="1065353216">
+		<source>Yes, I am darkness!</source>
+		<target>Да, я сама Тьма!</target>
+	</unit>
+	<unit bitflag="1360" id1="660631" id2="17" version="1065353216">
+		<source>I am powerful!</source>
+		<target>Я могуч!</target>
+	</unit>
+	<unit bitflag="1345" id1="660632" id2="17" version="1065353216">
+		<source>Excellent. This is positively thrilling.</source>
+		<target>Превосходно. Прям мурашки по коже.</target>
+	</unit>
+	<unit bitflag="1345" id1="660634" id2="17" version="1065353216">
+		<source>Please, please--I must work now. This text--so exciting!</source>
+		<target>Прошу, прошу... сейчас я должна работать. Этот текст... такой захватывающий!</target>
+	</unit>
+	<unit bitflag="1345" id1="660635" id2="17" version="1065353216">
+		<source>Remarkable. Magni--oh, hello again, acolyte.</source>
+		<target>Замечательно. Восхи... о, снова привет, служитель.</target>
+	</unit>
+	<unit bitflag="1345" id1="660637" id2="17" version="1065353216">
+		<source>I was just in the midst of decoding the marvelous text you brought back from the tomb of Tulak Hord.</source>
+		<target>Я как раз расшифровываю тот чудесный текст, который ты принёс из гробницы Тулака Хорда.</target>
+	</unit>
+	<unit bitflag="1345" id1="660639" id2="17" version="1065353216">
+		<source>I can't say for sure, but it looks every bit as promising as the holocron.</source>
+		<target>Не могу сказать наверняка, но он, кажется, такой же многообещающий, как и голокрон.</target>
+	</unit>
+	<unit bitflag="1360" id1="660640" id2="17" version="1065353216">
+		<source>Good.</source>
+		<target>Хорошо.</target>
+	</unit>
+	<unit bitflag="1345" id1="660641" id2="17" version="1065353216">
+		<source>You've been an immense help. This is--well, it's beyond my wildest imagination, and I've only skimmed the surface.</source>
+		<target>Твоя помощь безмерна. Это... что ж, это за пределами моего самого смелого воображения, а я сужу только поверхностно.</target>
+	</unit>
+	<unit bitflag="1345" id1="660643" id2="17" version="1065353216">
+		<source>I'd have thought you would have read it by now, if it's so exciting.</source>
+		<target>Я думал, вы бы уже его прочитали, если уж он такой захватывающий.</target>
+	</unit>
+	<unit bitflag="1360" id1="660643" id2="17" version="1065353216">
+		<source>You haven't read it?</source>
+		<target>Вы его не прочитали?</target>
+	</unit>
+	<unit bitflag="1345" id1="660644" id2="17" version="1065353216">
+		<source>Oh, I've read it hundreds of times by now. It's a very pretty verse in the ancient Sith tongue--but it's nonsense.</source>
+		<target>О, я прочитала его уже несколько сотен раз. Это очень красивый стих на древнем языке ситов... но это вздор.</target>
+	</unit>
+	<unit bitflag="1345" id1="660646" id2="17" version="1065353216">
+		<source>My research suggested that the text was important--that's why I sent you for it. That the text and the holocron were connected wasn't clear until I used the holocron.</source>
+		<target>Моё исследование предполагало, что этот текст важен, поэтому я и отправила тебя за ним. То, что текст связан с голокроном, стало ясно, только когда я воспользовалась голокроном.</target>
+	</unit>
+	<unit bitflag="1345" id1="660648" id2="17" version="1065353216">
+		<source>But it's true--there's a second text buried in the first, one which I never would have seen without the holocron! And I am nearly finished decoding it!</source>
+		<target>Но это правда... между строк первого текста скрыт второй, который я бы никогда не заметила без голокрона! И я почти закончила его расшифровывать!</target>
+	</unit>
+	<unit bitflag="1345" id1="660649" id2="17" version="1065353216">
+		<source>Amazing. I never would have imagined it.</source>
+		<target>Потрясающе. Я это и представить себе не мог.</target>
+	</unit>
+	<unit bitflag="1360" id1="660649" id2="17" version="1065353216">
+		<source>Fascinating.</source>
+		<target>Увлекательно.</target>
+	</unit>
+	<unit bitflag="1345" id1="660650" id2="17" version="1065353216">
+		<source>So the text is some sort of code?</source>
+		<target>Так текст — это какой-то шифр?</target>
+	</unit>
+	<unit bitflag="1360" id1="660650" id2="17" version="1065353216">
+		<source>Decoding?</source>
+		<target>Расшифровывать?</target>
+	</unit>
+	<unit bitflag="1345" id1="660651" id2="17" version="1065353216">
+		<source>Yes! It's absolutely magnificent. Ingenious, even.</source>
+		<target>Да! Он совершенно восхитительный. Даже гениальный.</target>
+	</unit>
+	<unit bitflag="1345" id1="660653" id2="17" version="1065353216">
+		<source>Now, if you'll excuse me, I must get back to it immediately--and you have business to go about, certainly.</source>
+		<target>Теперь прошу меня простить, я должна немедленно вернуться к работе... и, конечно, у тебя тоже есть свои дела.</target>
+	</unit>
+	<unit bitflag="1360" id1="660654" id2="17" version="1065353216">
+		<source>Good luck.</source>
+		<target>Удачи.</target>
+	</unit>
+	<unit bitflag="1345" id1="660655" id2="17" version="1065353216">
+		<source>Thank you very much, acolyte.</source>
+		<target>Большое спасибо, служитель.</target>
+	</unit>
+	<unit bitflag="1345" id1="660657" id2="17" version="1065353216">
+		<source>Will you let me know how it turns out?</source>
+		<target>Расскажете мне, что там было?</target>
+	</unit>
+	<unit bitflag="1360" id1="660657" id2="17" version="1065353216">
+		<source>Keep me informed.</source>
+		<target>Держите меня в курсе.</target>
+	</unit>
+	<unit bitflag="1345" id1="660658" id2="17" version="1065353216">
+		<source>Absolutely! Your help has been invaluable. It's the least I can do.</source>
+		<target>Безусловно! Твоя помощь была бесценна. Это меньшее, что я могу сделать.</target>
+	</unit>
+	<unit bitflag="1345" id1="660660" id2="17" version="1065353216">
+		<source>And good luck dealing with Harkun--best not to keep him waiting, I think.</source>
+		<target>И удачи с Харкуном... думаю, лучше не заставлять его ждать.</target>
+	</unit>
+	<unit bitflag="1345" id1="660661" id2="17" version="1065353216">
+		<source>That fool Harkun can wait.</source>
+		<target>Этот дурак Харкун подождёт.</target>
+	</unit>
+	<unit bitflag="1360" id1="660661" id2="17" version="1065353216">
+		<source>I have time.</source>
+		<target>У меня есть время.</target>
+	</unit>
+	<unit bitflag="1345" id1="660662" id2="17" version="1065353216">
+		<source>The trial is nothing. It can wait.</source>
+		<target>Испытание ничего не значит. Оно подождёт.</target>
+	</unit>
+	<unit bitflag="1360" id1="660662" id2="17" version="1065353216">
+		<source>I have time.</source>
+		<target>У меня есть время.</target>
+	</unit>
+	<unit bitflag="1345" id1="660663" id2="17" version="1065353216">
+		<source>Well, I don't think you should keep him waiting. You'd best go.</source>
+		<target>Что ж, думаю, тебе не стоит заставлять его ждать. Тебе лучше идти.</target>
+	</unit>
+	<unit bitflag="1360" id1="660664" id2="17" version="1065353216">
+		<source>Boring.</source>
+		<target>Скучно.</target>
+	</unit>
+	<unit bitflag="1345" id1="660665" id2="17" version="1065353216">
+		<source>Your interests may lie elsewhere, acolyte, but you would do well to remember that knowledge is also a form of strength for the Sith.</source>
+		<target>Возможно, твои интересы заключаются в чём-то другом, но тебе стоило бы помнить, что знание для сита — это форма силы.</target>
+	</unit>
+	<unit bitflag="1345" id1="660667" id2="17" version="1065353216">
+		<source>I won't delay you longer.</source>
+		<target>Не буду больше тебя задерживать.</target>
+	</unit>
+	<unit bitflag="1345" id1="660668" id2="17" version="1065353216">
+		<source>I have to get back to Harkun now.</source>
+		<target>Мне нужно возвращаться к Харкуну.</target>
+	</unit>
+	<unit bitflag="1360" id1="660668" id2="17" version="1065353216">
+		<source>I must leave.</source>
+		<target>Я должен вас оставить.</target>
+	</unit>
+	<unit bitflag="1345" id1="660669" id2="17" version="1065353216">
+		<source>Well, I have to go to the training grounds now.</source>
+		<target>Что ж, сейчас мне нужно идти на тренировочные площадки.</target>
+	</unit>
+	<unit bitflag="1360" id1="660669" id2="17" version="1065353216">
+		<source>I must leave.</source>
+		<target>Я должен вас оставить.</target>
+	</unit>
+	<unit bitflag="1345" id1="660670" id2="17" version="1065353216">
+		<source>All right--better not keep Overseer Harkun waiting. He has a nasty temper.</source>
+		<target>Верно... лучше не заставлять надзирателя Харкуна ждать. У него ужасный характер.</target>
+	</unit>
+	<unit bitflag="1345" id1="660672" id2="17" version="1065353216">
+		<source>I'll be sure to find you when I have the text fully decoded.</source>
+		<target>Я непременно найду тебя, когда закончу расшифровывать текст.</target>
+	</unit>
+	<unit bitflag="1345" id1="660674" id2="17" version="1065353216">
+		<source>Yes--yes. Remarkable. Magnificent.</source>
+		<target>Да... да. Замечательно. Восхитительно.</target>
+	</unit>
+	<unit bitflag="1345" id1="660676" id2="17" version="1065353216">
+		<source>You--you, slave. Wai--no, acolyte, you're the one who brought me this magnificent holocron from the tomb of Marka Ragnos, yes?</source>
+		<target>Ты... ты, раб. Посто... нет, служитель, это же ты принёс мне тот восхитительный голокрон из гробницы Марки Рагноса, да?</target>
+	</unit>
+	<unit bitflag="1345" id1="660677" id2="17" version="1065353216">
+		<source>Yes, my lord. I found the holocron.</source>
+		<target>Да, владыка. Это я нашёл голокрон.</target>
+	</unit>
+	<unit bitflag="1360" id1="660677" id2="17" version="1065353216">
+		<source>Indeed, Lord Zash.</source>
+		<target>Безусловно, лорд Заш.</target>
+	</unit>
+	<unit bitflag="1360" id1="660678" id2="17" version="1065353216">
+		<source>It was nothing.</source>
+		<target>Это пустяки.</target>
+	</unit>
+	<unit bitflag="1345" id1="660679" id2="17" version="1065353216">
+		<source>Is there something wrong?</source>
+		<target>А что-то не так?</target>
+	</unit>
+	<unit bitflag="1360" id1="660679" id2="17" version="1065353216">
+		<source>Why do you ask?</source>
+		<target>А почему вы спрашиваете?</target>
+	</unit>
+	<unit bitflag="1345" id1="660680" id2="17" version="1065353216">
+		<source>Unbelievable. One thousand years, buried in that tomb. Sith Lords passing it by. And then--the most unlikely person comes along.</source>
+		<target>Невероятно. Тысячу лет погребённый в той гробнице. Лорды ситов проходят мимо него. А затем... появляется самая малоподходящая персона.</target>
+	</unit>
+	<unit bitflag="1345" id1="660682" id2="17" version="1065353216">
+		<source>Tell me--how did you manage it?</source>
+		<target>Расскажи мне... как тебе это удалось?</target>
+	</unit>
+	<unit bitflag="1345" id1="660683" id2="17" version="1065353216">
+		<source>I shot lightning at it, and it opened.</source>
+		<target>Я ударил его молнией, и он открылся.</target>
+	</unit>
+	<unit bitflag="1360" id1="660683" id2="17" version="1065353216">
+		<source>It was easy.</source>
+		<target>Это было просто.</target>
+	</unit>
+	<unit bitflag="1345" id1="660684" id2="17" version="1065353216">
+		<source>Such a simple solution--why did none of us think of that?</source>
+		<target>Такое простое решение... почему никто из нас до него не додумался?</target>
+	</unit>
+	<unit bitflag="1345" id1="660686" id2="17" version="1065353216">
+		<source>We must have thought too deeply on it, believed too strongly that it could not be done. Or perhaps we were simply not meant to open it.</source>
+		<target>Должно быть, мы мыслили слишком не поверхностно, слишком сильно верили, что сделать это невозможно. Или, пожалуй, просто не нам суждено было его открыть.</target>
+	</unit>
+	<unit bitflag="1360" id1="660688" id2="17" version="1065353216">
+		<source>I'm not telling.</source>
+		<target>Не скажу.</target>
+	</unit>
+	<unit bitflag="1345" id1="660689" id2="17" version="1065353216">
+		<source>Good. You guard your secrets well. This is a credit to you and a source of power. Though I personally prefer to be more open.</source>
+		<target>Хорошо. Ты стоишь на страже своих секретов. Это делает тебе честь и даёт тебе источник могущества. Хотя лично бы я предпочла быть более открытой.</target>
+	</unit>
+	<unit bitflag="1345" id1="660691" id2="17" version="1065353216">
+		<source>I had to sacrifice seven tuk'ata and eat their hearts.</source>
+		<target>Мне пришлось принести в жертву семь тук'ат и съесть их сердца.</target>
+	</unit>
+	<unit bitflag="1360" id1="660691" id2="17" version="1065353216">
+		<source>[Lie] It was quite the ritual.</source>
+		<target>[Ложь] Это был целый ритуал.</target>
+	</unit>
+	<unit bitflag="1345" id1="660692" id2="17" version="1065353216">
+		<source>Really? How strange. It didn't work when I tried it.</source>
+		<target>Правда? Как странно. У меня это не сработало.</target>
+	</unit>
+	<unit bitflag="1345" id1="660694" id2="17" version="1065353216">
+		<source>Do you realize what a truly magnificent discovery this holocron is?</source>
+		<target>Ты осознаёшь, каким восхитительным открытием является этот голокрон?</target>
+	</unit>
+	<unit bitflag="1345" id1="660695" id2="17" version="1065353216">
+		<source>Judging from your reaction, I'd say I have a good guess.</source>
+		<target>Судя по вашей реакции, в нём что-то есть.</target>
+	</unit>
+	<unit bitflag="1360" id1="660695" id2="17" version="1065353216">
+		<source>Maybe.</source>
+		<target>Возможно.</target>
+	</unit>
+	<unit bitflag="1360" id1="660696" id2="17" version="1065353216">
+		<source>You're going to tell me?</source>
+		<target>Вы расскажете мне?</target>
+	</unit>
+	<unit bitflag="1345" id1="660697" id2="17" version="1065353216">
+		<source>Why wouldn't I tell you? This is far too remarkable a discovery to be kept secret--especially from the person who made it!</source>
+		<target>Почему бы мне тебе не рассказать? Это слишком замечательное открытие, чтобы держать его в секрете... особенно от человека, который его совершил!</target>
+	</unit>
+	<unit bitflag="1345" id1="660699" id2="17" version="1065353216">
+		<source>Well, if I did it, it must be great.</source>
+		<target>Что ж, если я его совершил, это, должно быть, классно.</target>
+	</unit>
+	<unit bitflag="1360" id1="660699" id2="17" version="1065353216">
+		<source>I am amazing.</source>
+		<target>Я потрясающий.</target>
+	</unit>
+	<unit bitflag="1345" id1="660700" id2="17" version="1065353216">
+		<source>I always believed this holocron contained some small secret of Marka Ragnos--an arcane philosophy or an incantation perhaps. It is much bigger than that.</source>
+		<target>Я всегда считала, что в этом голокроне содержится какой-нибудь небольшой секрет Марки Рагноса: непонятная философия или, возможно, колдовство. Но это нечто гораздо более ценное.</target>
+	</unit>
+	<unit bitflag="1345" id1="660702" id2="17" version="1065353216">
+		<source>This isn't Marka Ragnos's holocron. It belonged to Tulak Hord! The most mysterious Dark Lord of them all. It is the key to his long sought-after power!</source>
+		<target>Это не голокрон Марки Рагноса. Он принадлежал Тулаку Хорду! Самому загадочному Тёмному лорду из всех. Это ключ к его долгожданному могуществу!</target>
+	</unit>
+	<unit bitflag="1345" id1="660704" id2="17" version="1065353216">
+		<source>It means Tulak Hord must have built the tombs himself, long before Marka Ragnos or Naga Sadow were even born! And his power is finally in reach!</source>
+		<target>А значит, Тулак Хорд сам построил гробницы, задолго даже до рождения Марки Рагноса и Наги Садоу!</target>
+	</unit>
+	<unit bitflag="1360" id1="660705" id2="17" version="1065353216">
+		<source>I'm happy to help.</source>
+		<target>Рад помочь.</target>
+	</unit>
+	<unit bitflag="1345" id1="660706" id2="17" version="1065353216">
+		<source>I look forward to seeing more of the wonderful fruits of your labor, acolyte.</source>
+		<target>Жду не дождусь, когда увижу ещё больше чудесных плодов твоего труда, служитель.</target>
+	</unit>
+	<unit bitflag="1345" id1="660708" id2="17" version="1065353216">
+		<source>Well aren't you the lucky one?</source>
+		<target>Ну что, разве вам не повезло?</target>
+	</unit>
+	<unit bitflag="1360" id1="660708" id2="17" version="1065353216">
+		<source>Good for you.</source>
+		<target>Отличная новость для вас.</target>
+	</unit>
+	<unit bitflag="1345" id1="660709" id2="17" version="1065353216">
+		<source>And you as well, if my estimation of Harkun's trials is correct.</source>
+		<target>Так же, как и тебе, если моя оценка испытаний Харкуна верна.</target>
+	</unit>
+	<unit bitflag="1345" id1="660711" id2="17" version="1065353216">
+		<source>Look, I've got to get back to Harkun.</source>
+		<target>Слушайте, мне нужно возвращаться к Харкуну</target>
+	</unit>
+	<unit bitflag="1360" id1="660711" id2="17" version="1065353216">
+		<source>I have to go.</source>
+		<target>Мне нужно идти.</target>
+	</unit>
+	<unit bitflag="1345" id1="660712" id2="17" version="1065353216">
+		<source>I won't delay you longer, but you must know--</source>
+		<target>Не буду больше тебя задерживать, но ты должен знать...</target>
+	</unit>
+	<unit bitflag="1345" id1="660714" id2="17" version="1065353216">
+		<source>Your work so far--in bringing back this holocron and now the text from Tulak Hord's tomb--has me intrigued.</source>
+		<target>Твоя работа — по возвращению этого голокрона, а теперь и текста из гробницы Тулака Хорда — очень заинтриговала меня.</target>
+	</unit>
+	<unit bitflag="1345" id1="660716" id2="17" version="1065353216">
+		<source>I am watching your progress eagerly. I have high hopes for you, acolyte. Sky high.</source>
+		<target>Я буду с интересом следить за твоим развитием. Я возлагаю на тебя большие надежды, служитель. Зашкаливающе большие.</target>
+	</unit>
+	<unit bitflag="1345" id1="660717" id2="17" version="1065353216">
+		<source>Really? Harkun seems to favor Ffon.</source>
+		<target>Правда? Кажется, Харкун благоприятствует Ффону.</target>
+	</unit>
+	<unit bitflag="1360" id1="660717" id2="17" version="1065353216">
+		<source>That overseer disagrees.</source>
+		<target>Этот надзиратель не согласен.</target>
+	</unit>
+	<unit bitflag="1345" id1="660718" id2="17" version="1065353216">
+		<source>Harkun's only purpose is to weed out the weak. Beyond that, his opinion means nothing.</source>
+		<target>Единственная задача Харкуна — отсеять слабых. В остальном его мнение ничего не значит.</target>
+	</unit>
+	<unit bitflag="1345" id1="660720" id2="17" version="1065353216">
+		<source>I hope I live up to them.</source>
+		<target>Надеюсь, я их оправдаю.</target>
+	</unit>
+	<unit bitflag="1360" id1="660720" id2="17" version="1065353216">
+		<source>I'm honored.</source>
+		<target>Это честь для меня.</target>
+	</unit>
+	<unit bitflag="1360" id1="660721" id2="17" version="1065353216">
+		<source>Anything to do my part.</source>
+		<target>Я внесу свою лепту.</target>
+	</unit>
+	<unit bitflag="1345" id1="660722" id2="17" version="1065353216">
+		<source>Yes--yes. Remarkable. Magnificent.</source>
+		<target>Да... да. Замечательно. Восхитительно.</target>
+	</unit>
+	<unit bitflag="1345" id1="660724" id2="17" version="1065353216">
+		<source>Good luck, acolyte. Good luck.</source>
+		<target>Удачи, служитель. Удачи.</target>
+	</unit>
+	<unit bitflag="1345" id1="660726" id2="17" version="1065353216">
+		<source>Sorry, can't stop to talk. Too much to plan, too much to do.</source>
+		<target>Прости, не могу остаться поговорить. Слишком многое нужно спланировать, слишком многое нужно сделать.</target>
+	</unit>
+	<unit bitflag="1345" id1="660730" id2="17" version="1065353216">
+		<source>Sorry, I've no time to talk.</source>
+		<target>Прости, но у меня нет времени на разговоры.</target>
+	</unit>
+	<unit bitflag="1345" id1="660731" id2="17" version="1065353216">
+		<source>Now, I am eager to discuss this map with you further, but we can't do it here. There are too many unfriendly ears on Korriban.</source>
+		<target>Теперь я готова поговорить с тобой об этой карте, но здесь этого делать не стоит. На Коррибане даже у стен есть уши.</target>
+	</unit>
+	<unit bitflag="1360" id1="759969" id2="17" version="1065353216">
+		<source>I'm confused.</source>
+		<target>Я сбит с толку.</target>
+	</unit>
+	<unit bitflag="1360" id1="759970" id2="17" version="1065353216">
+		<source>Step aside.</source>
+		<target>В сторону.</target>
+	</unit>
+	<unit bitflag="3393" id1="759973" id2="17" version="1065353216">
+		<source>I consume them and spit out their bones.</source>
+		<target>Я пожру их и выплюну их кости.</target>
+	</unit>
+	<unit bitflag="1360" id1="759976" id2="17" version="1065353216">
+		<source>Let's not fight.</source>
+		<target>Давайте жить дружно.</target>
+	</unit>
+</dialogue_file>

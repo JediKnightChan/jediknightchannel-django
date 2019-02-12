@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="161">
+	<unit bitflag="1345" id1="717352" id2="17" version="1065353216">
+		<source>You've got the serum. Getting to the bottom of the toxic waste pit is your problem now.</source>
+		<target>Сыворотка у тебя. Теперь твоя задача — добраться до дна той ямы с токсичными отходами.</target>
+	</unit>
+	<unit bitflag="1345" id1="717358" id2="17" version="1065353216">
+		<source>So let me get this straight--you kidnapped me away from the Republic so that you could go skinny-dipping in a toxic waste pit?</source>
+		<target>Позволь мне уточнить: ты похитил меня у республиканцев, чтобы сходить искупаться нагишом в яме с токсичными отходами?</target>
+	</unit>
+	<unit bitflag="1345" id1="717359" id2="17" version="1065353216">
+		<source>Just give me my serum.</source>
+		<target>Просто дай мне сыворотку.</target>
+	</unit>
+	<unit bitflag="1360" id1="717359" id2="17" version="1065353216">
+		<source>What does it matter to you?</source>
+		<target>Тебе-то какая разница?</target>
+	</unit>
+	<unit bitflag="1345" id1="717360" id2="17" version="1065353216">
+		<source>I expect to be wearing my robes.</source>
+		<target>Я рассчитываю, что буду в одежде.</target>
+	</unit>
+	<unit bitflag="1360" id1="717360" id2="17" version="1065353216">
+		<source>Not exactly.</source>
+		<target>Не совсем.</target>
+	</unit>
+	<unit bitflag="1345" id1="717361" id2="17" version="1065353216">
+		<source>All right, well I suppose it is none of my business.</source>
+		<target>Ладно, что ж, полагаю, это не моё дело.</target>
+	</unit>
+	<unit bitflag="1345" id1="717363" id2="17" version="1065353216">
+		<source>A Sith's got to find some way to unwind.</source>
+		<target>Ситу же нужно найти способ как-то развеяться.</target>
+	</unit>
+	<unit bitflag="1360" id1="717363" id2="17" version="1065353216">
+		<source>Pretty much.</source>
+		<target>Почти.</target>
+	</unit>
+	<unit bitflag="1345" id1="717364" id2="17" version="1065353216">
+		<source>You're aware that this serum has never been tested on humans, right? I mean, it should work--</source>
+		<target>Тебе известно, что эта сыворотка не испытывалась на людях, так? То есть, она должна сработать...</target>
+	</unit>
+	<unit bitflag="1345" id1="717366" id2="17" version="1065353216">
+		<source>But it was designed for Colicoids.</source>
+		<target>Но её разработали для коликоидов.</target>
+	</unit>
+	<unit bitflag="1345" id1="717367" id2="17" version="1065353216">
+		<source>What are you getting at?</source>
+		<target>Куда ты клонишь?</target>
+	</unit>
+	<unit bitflag="1360" id1="717367" id2="17" version="1065353216">
+		<source>Is that a problem?</source>
+		<target>Это проблема?</target>
+	</unit>
+	<unit bitflag="1345" id1="717368" id2="17" version="1065353216">
+		<source>How do you know I'm not a Colicoid?</source>
+		<target>Откуда ты знаешь, что я не коликоид?</target>
+	</unit>
+	<unit bitflag="1360" id1="717368" id2="17" version="1065353216">
+		<source>Your point?</source>
+		<target>И что?</target>
+	</unit>
+	<unit bitflag="1345" id1="717369" id2="17" version="1065353216">
+		<source>You let me worry about that.</source>
+		<target>Позволь мне об этом позаботиться.</target>
+	</unit>
+	<unit bitflag="1360" id1="717369" id2="17" version="1065353216">
+		<source>That's my problem.</source>
+		<target>Это мои проблемы.</target>
+	</unit>
+	<unit bitflag="1345" id1="717370" id2="17" version="1065353216">
+		<source>Look, I'm just trying to warn you.</source>
+		<target>Слушай, я просто пытаюсь предупредить тебя.</target>
+	</unit>
+	<unit bitflag="1345" id1="717372" id2="17" version="1065353216">
+		<source>This serum could kill you before you even begin, and it might not be the most comfortable of deaths.</source>
+		<target>Эта сыворотка может убить тебя прежде, чем ты даже начнёшь, и это, возможно, будет не самая лёгкая смерть.</target>
+	</unit>
+	<unit bitflag="1345" id1="717373" id2="17" version="1065353216">
+		<source>That's a chance I have to take.</source>
+		<target>Я не могу упустить этот шанс.</target>
+	</unit>
+	<unit bitflag="1360" id1="717373" id2="17" version="1065353216">
+		<source>I'll risk it.</source>
+		<target>Я рискну.</target>
+	</unit>
+	<unit bitflag="1360" id1="717374" id2="17" version="1065353216">
+		<source>I appreciate it.</source>
+		<target>Я благодарен.</target>
+	</unit>
+	<unit bitflag="1345" id1="717375" id2="17" version="1065353216">
+		<source>Give me the serum! Now!</source>
+		<target>Дай мне сыворотку! Ну!</target>
+	</unit>
+	<unit bitflag="1360" id1="717375" id2="17" version="1065353216">
+		<source>Shut up!</source>
+		<target>Заткнись!</target>
+	</unit>
+	<unit bitflag="1345" id1="717376" id2="17" version="1065353216">
+		<source>All right, well, I warned you. I can't expect to change a Sith's mind.</source>
+		<target>Хорошо, ну, я предупредил тебя. Не буду думать, что изменю решение сита.</target>
+	</unit>
+	<unit bitflag="1345" id1="717378" id2="17" version="1065353216">
+		<source>This vial contains enough of the serum for about five doses, but I'd use it sparingly.</source>
+		<target>В этом пузырьке достаточно сыворотки для пяти применений, но я бы расходовал его экономно.</target>
+	</unit>
+	<unit bitflag="1345" id1="717380" id2="17" version="1065353216">
+		<source>You'll have to fight through the main Republic base to get to the vault, but that's the least of your worries--the Colicoids around the vault are the real concern.</source>
+		<target>Тебе придётся пробиться через главную базу Республики, чтобы попасть в хранилище, но, это меньшая из проблем: тебя должны беспокоить коликоиды, живущие там.</target>
+	</unit>
+	<unit bitflag="1345" id1="717381" id2="17" version="1065353216">
+		<source>Enough of your warnings already!</source>
+		<target>Хватит уже предупреждений!</target>
+	</unit>
+	<unit bitflag="1360" id1="717381" id2="17" version="1065353216">
+		<source>I get it.</source>
+		<target>Я понял.</target>
+	</unit>
+	<unit bitflag="1345" id1="717382" id2="17" version="1065353216">
+		<source>I'll be going now.</source>
+		<target>Я выхожу сейчас.</target>
+	</unit>
+	<unit bitflag="1360" id1="717382" id2="17" version="1065353216">
+		<source>Goodbye.</source>
+		<target>Пока.</target>
+	</unit>
+	<unit bitflag="1345" id1="717383" id2="17" version="1065353216">
+		<source>Good riddance to you, Sith. Hope whatever you're after is worth it.</source>
+		<target>Счастливой дороги, сит. Надеюсь, что бы ты не искал, оно того достойно.</target>
+	</unit>
+	<unit bitflag="1345" id1="717384" id2="17" version="1065353216">
+		<source>Whoa, there, Sith. Calm down. I've got your serum right here.</source>
+		<target>Ну, тише, сит. Успокойся. Вот твоя сыворотка.</target>
+	</unit>
+	<unit bitflag="1345" id1="717386" id2="17" version="1065353216">
+		<source>Now, maybe the major deserved what he got--who am I to say? But there's no reason to do anything rash.</source>
+		<target>Ну, может, майор и заслужил это — кто я, чтобы решать? Но нет причин делать глупости.</target>
+	</unit>
+	<unit bitflag="1345" id1="717387" id2="17" version="1065353216">
+		<source>Just give me my serum.</source>
+		<target>Просто дай мне сыворотку.</target>
+	</unit>
+	<unit bitflag="1360" id1="717387" id2="17" version="1065353216">
+		<source>I'm not going to kill you.</source>
+		<target>Я не собираюсь убивать тебя.</target>
+	</unit>
+	<unit bitflag="1360" id1="717388" id2="17" version="1065353216">
+		<source>Then cooperate.</source>
+		<target>Тогда сотрудничай.</target>
+	</unit>
+	<unit bitflag="1345" id1="717389" id2="17" version="1065353216">
+		<source>I don't need a reason to kill you.</source>
+		<target>Мне не нужны причины, чтобы убить тебя.</target>
+	</unit>
+	<unit bitflag="1360" id1="717389" id2="17" version="1065353216">
+		<source>That won't stop me.</source>
+		<target>Это меня не остановит.</target>
+	</unit>
+	<unit bitflag="1345" id1="717390" id2="17" version="1065353216">
+		<source>Look, I see where you're coming from. I do. You have big plans, and the major got in your way. Fine.</source>
+		<target>Слушай, я понимаю, куда ты клонишь. Правда. У тебя большие планы, а майор встал у тебя на пути. Ладно.</target>
+	</unit>
+	<unit bitflag="1345" id1="717392" id2="17" version="1065353216">
+		<source>So, please don't take it the wrong way when I tell you--this plan of yours is completely insane!</source>
+		<target>Так что, прошу, не пойми меня неправильно: этот твой план совершенно безумен!</target>
+	</unit>
+	<unit bitflag="1345" id1="717393" id2="17" version="1065353216">
+		<source>It's too late to worry about that now. I need to know if it will work.</source>
+		<target>Уже слишком поздно беспокоиться об этом. Мне нужно знать, сработает ли он.</target>
+	</unit>
+	<unit bitflag="1360" id1="717393" id2="17" version="1065353216">
+		<source>You may be right.</source>
+		<target>Может, ты и прав.</target>
+	</unit>
+	<unit bitflag="1360" id1="717394" id2="17" version="1065353216">
+		<source>Shut up.</source>
+		<target>Заткнись.</target>
+	</unit>
+	<unit bitflag="1345" id1="717395" id2="17" version="1065353216">
+		<source>The more insane the plan, the better.</source>
+		<target>Чем безумней план, тем лучше.</target>
+	</unit>
+	<unit bitflag="1360" id1="717395" id2="17" version="1065353216">
+		<source>Isn't it great?</source>
+		<target>Разве это не прекрасно?</target>
+	</unit>
+	<unit bitflag="1345" id1="717396" id2="17" version="1065353216">
+		<source>Look, go ahead--take the serum. Take it! I made it just like this datapad specified.</source>
+		<target>Слушай, давай — бери сыворотку. Бери её! Я просто сделал её, как мне указал этот инфопланшет.</target>
+	</unit>
+	<unit bitflag="1345" id1="717398" id2="17" version="1065353216">
+		<source>You're probably on the right track. The serum should give you resistance to the stuff in the blown-out vault.</source>
+		<target>Возможно, ты на верном пути. Сыворотка должна дать тебе устойчивость к той дряни в разнесённом взрывом хранилище.</target>
+	</unit>
+	<unit bitflag="1345" id1="717400" id2="17" version="1065353216">
+		<source>But--there's also a good chance the serum will kill you. I mean, it was designed for Colicoids, not humans!</source>
+		<target>Но... также есть немалый шанс, что сыворотка убьёт тебя. То есть, её придумали для коликоидов, не для людей!</target>
+	</unit>
+	<unit bitflag="1345" id1="717401" id2="17" version="1065353216">
+		<source>I'll consider myself warned.</source>
+		<target>Будем считать, ты меня предупредил.</target>
+	</unit>
+	<unit bitflag="1360" id1="717401" id2="17" version="1065353216">
+		<source>That's my problem.</source>
+		<target>Это мои проблемы.</target>
+	</unit>
+	<unit bitflag="1345" id1="717402" id2="17" version="1065353216">
+		<source>How do you know I'm not a Colicoid?</source>
+		<target>Откуда ты знаешь, что я не коликоид?</target>
+	</unit>
+	<unit bitflag="1360" id1="717402" id2="17" version="1065353216">
+		<source>And?</source>
+		<target>И?</target>
+	</unit>
+	<unit bitflag="1345" id1="717403" id2="17" version="1065353216">
+		<source>Crazy, I say. You're crazy.</source>
+		<target>Сумасшедший, я скажу. Сумасшедший.</target>
+	</unit>
+	<unit bitflag="1345" id1="717405" id2="17" version="1065353216">
+		<source>Just give me the serum. Now!</source>
+		<target>Просто дай мне сыворотку. Ну!</target>
+	</unit>
+	<unit bitflag="1360" id1="717405" id2="17" version="1065353216">
+		<source>I'm running out of patience.</source>
+		<target>У меня заканчивается терпение.</target>
+	</unit>
+	<unit bitflag="1345" id1="717406" id2="17" version="1065353216">
+		<source>All right, fine!</source>
+		<target>Ладно, хорошо!</target>
+	</unit>
+	<unit bitflag="1345" id1="717408" id2="17" version="1065353216">
+		<source>Here you go. It's only a limited number of doses, and like I said, I'd use it sparingly if I were you.</source>
+		<target>Держи. Тут ограниченное количество доз, и, как я говорил, я бы на твоём месте расходовал её экономно.</target>
+	</unit>
+	<unit bitflag="1345" id1="717410" id2="17" version="1065353216">
+		<source>You'll have to fight past the main Republic base to get to the vault, but seriously, whatever the Republic throws at you, the Colicoids will be worse.</source>
+		<target>Тебе придётся пробиться через главную базу Республики, чтобы попасть в хранилище, но, серьёзно, чем бы тебя не порадовала Республика, коликоиды будут хуже.</target>
+	</unit>
+	<unit bitflag="1345" id1="717411" id2="17" version="1065353216">
+		<source>You may have your freedom, doctor. Thank you.</source>
+		<target>Можешь быть свободен, доктор. Спасибо.</target>
+	</unit>
+	<unit bitflag="1360" id1="717411" id2="17" version="1065353216">
+		<source>You can go.</source>
+		<target>Можешь идти.</target>
+	</unit>
+	<unit bitflag="1345" id1="717412" id2="17" version="1065353216">
+		<source>As promised, you may have your freedom, doctor. Thank you.</source>
+		<target>Как я и обещал, ты можешь быть свободен, доктор. Спасибо.</target>
+	</unit>
+	<unit bitflag="1360" id1="717412" id2="17" version="1065353216">
+		<source>You can go.</source>
+		<target>Можешь идти.</target>
+	</unit>
+	<unit bitflag="1345" id1="717413" id2="17" version="1065353216">
+		<source>What? You're not serious. I mean, you're Sith--you can't be serious. You'll let me go back to the Republic?</source>
+		<target>Что? Ты не серьёзно. То есть, ты сит... ты точно не серьёзно. Ты позволишь мне вернуться к республиканцам?</target>
+	</unit>
+	<unit bitflag="1345" id1="717414" id2="17" version="1065353216">
+		<source>I promised, didn't I?</source>
+		<target>Я обещал, ведь так?</target>
+	</unit>
+	<unit bitflag="1360" id1="717414" id2="17" version="1065353216">
+		<source>Yes.</source>
+		<target>Да.</target>
+	</unit>
+	<unit bitflag="1345" id1="717415" id2="17" version="1065353216">
+		<source>I don't know. It was all kind of fuzzy... I wasn't sure you would.</source>
+		<target>Не знаю. Это было похоже на лапшу на уши... Я не думал, что будет так.</target>
+	</unit>
+	<unit bitflag="1345" id1="717417" id2="17" version="1065353216">
+		<source>I'm being very serious here.</source>
+		<target>Я крайне серьёзен.</target>
+	</unit>
+	<unit bitflag="1360" id1="717417" id2="17" version="1065353216">
+		<source>Try me.</source>
+		<target>Рискни.</target>
+	</unit>
+	<unit bitflag="1345" id1="717418" id2="17" version="1065353216">
+		<source>You're making me have second thoughts.</source>
+		<target>Ты заставляешь меня сомневаться.</target>
+	</unit>
+	<unit bitflag="1360" id1="717418" id2="17" version="1065353216">
+		<source>Don't drag this out.</source>
+		<target>Не тяни кота за хвост.</target>
+	</unit>
+	<unit bitflag="1345" id1="717419" id2="17" version="1065353216">
+		<source>Look, you know, I'll never make it out alive. So, if you're serious, you'll authorize a shuttle for me out of here.</source>
+		<target>Слушай, знаешь, я не выберусь отсюда живым. Так что, если ты серьёзно, ты закажешь мне отсюда шаттл.</target>
+	</unit>
+	<unit bitflag="1345" id1="717420" id2="17" version="1065353216">
+		<source>I assure you--no tricks.</source>
+		<target>Уверяю тебя: без обмана.</target>
+	</unit>
+	<unit bitflag="1360" id1="717420" id2="17" version="1065353216">
+		<source>Don't worry.</source>
+		<target>Не беспокойся.</target>
+	</unit>
+	<unit bitflag="1345" id1="717421" id2="17" version="1065353216">
+		<source>Where do I sign?</source>
+		<target>Где мне расписаться?</target>
+	</unit>
+	<unit bitflag="1360" id1="717421" id2="17" version="1065353216">
+		<source>Tell me what you need.</source>
+		<target>Скажи, что тебе нужно.</target>
+	</unit>
+	<unit bitflag="1345" id1="717422" id2="17" version="1065353216">
+		<source>I haven't got time for this.</source>
+		<target>У меня мало времени.</target>
+	</unit>
+	<unit bitflag="1360" id1="717422" id2="17" version="1065353216">
+		<source>Hurry up.</source>
+		<target>Быстрее.</target>
+	</unit>
+	<unit bitflag="1345" id1="717423" id2="17" version="1065353216">
+		<source>Just let me get the transport officer on the holo here... there we go.</source>
+		<target>Просто дай мне связаться с сотрудником транспортной службы... вот так.</target>
+	</unit>
+	<unit bitflag="1345" id1="717425" id2="17" version="1065353216">
+		<source>Doctor Tyrek! Sith! Captain Rollo at your service. What can I do for you?</source>
+		<target>Доктор Тайрек! Сит! Капитан Ролло в ваших услугах. Что мне для вас сделать?</target>
+	</unit>
+	<unit bitflag="1345" id1="717426" id2="17" version="1065353216">
+		<source>I'm authorizing a shuttle for the good doctor.</source>
+		<target>Я заказываю шаттл для этого милого доктора.</target>
+	</unit>
+	<unit bitflag="1360" id1="717426" id2="17" version="1065353216">
+		<source>Assist this man.</source>
+		<target>Помогите ему.</target>
+	</unit>
+	<unit bitflag="1345" id1="717427" id2="17" version="1065353216">
+		<source>Yes. Right away.</source>
+		<target>Да. Прямо сейчас.</target>
+	</unit>
+	<unit bitflag="1345" id1="717429" id2="17" version="1065353216">
+		<source>Thank you, my lord. You're a strange sort of Sith, but I appreciate it.</source>
+		<target>Спасибо, мой лорд. Вы странный для сита, но я вам благодарен.</target>
+	</unit>
+	<unit bitflag="1345" id1="717431" id2="17" version="1065353216">
+		<source>You know, if you ever want to come over to the other side....</source>
+		<target>Знаете, если когда-нибудь захотите перейти на другую сторону...</target>
+	</unit>
+	<unit bitflag="1345" id1="717432" id2="17" version="1065353216">
+		<source>I'll think about it.</source>
+		<target>Я подумаю об этом.</target>
+	</unit>
+	<unit bitflag="1360" id1="717432" id2="17" version="1065353216">
+		<source>Thanks for the offer.</source>
+		<target>Спасибо за предложение.</target>
+	</unit>
+	<unit bitflag="1345" id1="717433" id2="17" version="1065353216">
+		<source>Well, thank you, anyway.</source>
+		<target>Что ж, спасибо вам.</target>
+	</unit>
+	<unit bitflag="1345" id1="717434" id2="17" version="1065353216">
+		<source>I don't think I'm ready to go that far.</source>
+		<target>Не думаю, что готов зайти так далеко.</target>
+	</unit>
+	<unit bitflag="1360" id1="717434" id2="17" version="1065353216">
+		<source>Don't push it, doc.</source>
+		<target>Не дави, док.</target>
+	</unit>
+	<unit bitflag="1345" id1="717435" id2="17" version="1065353216">
+		<source>Just get out of here!</source>
+		<target>Просто убирайся отсюда!</target>
+	</unit>
+	<unit bitflag="1360" id1="717435" id2="17" version="1065353216">
+		<source>No!</source>
+		<target>Нет!</target>
+	</unit>
+	<unit bitflag="1345" id1="717436" id2="17" version="1065353216">
+		<source>Yes, my lord. Of course!</source>
+		<target>Да, мой лорд. Конечно!</target>
+	</unit>
+	<unit bitflag="1345" id1="717438" id2="17" version="1065353216">
+		<source>This man is trying to defect.</source>
+		<target>Этот человек пытается сбежать.</target>
+	</unit>
+	<unit bitflag="1360" id1="717438" id2="17" version="1065353216">
+		<source>We have a traitor here.</source>
+		<target>У нас завёлся предатель.</target>
+	</unit>
+	<unit bitflag="1345" id1="717439" id2="17" version="1065353216">
+		<source>The doctor is a Republic sympathizer and war criminal.</source>
+		<target>Этот доктор — сторонник Республики и военный преступник.</target>
+	</unit>
+	<unit bitflag="1360" id1="717439" id2="17" version="1065353216">
+		<source>Arrest this man.</source>
+		<target>Арестуйте его.</target>
+	</unit>
+	<unit bitflag="1345" id1="717440" id2="17" version="1065353216">
+		<source>What? No, it's not--</source>
+		<target>Что? Нет, это не...</target>
+	</unit>
+	<unit bitflag="1345" id1="717442" id2="17" version="1065353216">
+		<source>As you say, my lord. Deploy guards to Major Bessiker's offices immediately. We have a traitor in our midst!</source>
+		<target>Как скажете, мой лорд. Немедленно отправить охрану в отдел майора Бессикера. В наших рядах предатель!</target>
+	</unit>
+	<unit bitflag="1345" id1="717444" id2="17" version="1065353216">
+		<source>I should have known better than to trust a Sith.</source>
+		<target>Мне следовало догадаться, что не стоит доверять ситу.</target>
+	</unit>
+	<unit bitflag="1345" id1="717446" id2="17" version="1065353216">
+		<source>Get out of here, why don't you? Oh don't worry--I won't run. Where would I run to? Just go!</source>
+		<target>Уходи отсюда, почему ты ещё тут? О, не беспокойся: я не убегу. Куда мне бежать? Просто уходи!</target>
+	</unit>
+	<unit bitflag="1345" id1="717448" id2="17" version="1065353216">
+		<source>I've changed my mind.</source>
+		<target>Я изменил своё мнение.</target>
+	</unit>
+	<unit bitflag="1360" id1="717448" id2="17" version="1065353216">
+		<source>You're right.</source>
+		<target>Ты прав.</target>
+	</unit>
+	<unit bitflag="1345" id1="717449" id2="17" version="1065353216">
+		<source>I knew you couldn't be serious. Anyway, good luck at the vault.</source>
+		<target>Я знал, что ты не серьёзно. Как бы то ни было, удачи в хранилище.</target>
+	</unit>
+	<unit bitflag="1360" id1="717450" id2="17" version="1065353216">
+		<source>Goodbye.</source>
+		<target>Пока.</target>
+	</unit>
+	<unit bitflag="1345" id1="717451" id2="17" version="1065353216">
+		<source>Y--yes, my lord. Good luck.</source>
+		<target>Д-да, мой лорд. Удачи.</target>
+	</unit>
+	<unit bitflag="1345" id1="717453" id2="17" version="1065353216">
+		<source>Thanks, doctor, but you're no longer necessary.</source>
+		<target>Спасибо, доктор, но ты мне больше не нужен.</target>
+	</unit>
+	<unit bitflag="1360" id1="717453" id2="17" version="1065353216">
+		<source>We're done here. [Kill him]</source>
+		<target>Мы здесь закончили. [Убить его]</target>
+	</unit>
+	<unit bitflag="1345" id1="717454" id2="17" version="1065353216">
+		<source>I see. So now you want to kill me. Go ahead. I told you before, I'm not afraid to die.</source>
+		<target>Я понимаю. Теперь ты хочешь убить меня. Давай. Как я уже говорил, я не боюсь умереть.</target>
+	</unit>
+	<unit bitflag="1345" id1="717461" id2="17" version="1065353216">
+		<source>I am still working on the serum. If you'd leave me alone, things might proceed more quickly.</source>
+		<target>Я всё ещё работаю над сывороткой. Если ты оставишь меня в покое, возможно, это будет быстрее.</target>
+	</unit>
+	<unit bitflag="1345" id1="717462" id2="17" version="1065353216">
+		<source>Well, well. I should have known Bessiker wouldn't let me go without a fight.</source>
+		<target>Так, так. Я должен был догадаться, что Бессикер не оставит меня в покое просто так.</target>
+	</unit>
+	<unit bitflag="1345" id1="717464" id2="17" version="1065353216">
+		<source>But sending a Sith seems like a bit of overkill. Are you here to kill me, or are you going to torture me first?</source>
+		<target>Но посылать сита — это, кажется, немного перебор. Ты пришёл убить меня, или хочешь сначала помучать?</target>
+	</unit>
+	<unit bitflag="1345" id1="717465" id2="17" version="1065353216">
+		<source>Come peacefully and no one gets hurt.</source>
+		<target>Веди себя хорошо, и никто не пострадает.</target>
+	</unit>
+	<unit bitflag="1360" id1="717465" id2="17" version="1065353216">
+		<source>Not if you cooperate.</source>
+		<target>Нет, если будешь сотрудничать.</target>
+	</unit>
+	<unit bitflag="1345" id1="717466" id2="17" version="1065353216">
+		<source>Thanks for reminding me.</source>
+		<target>Спасибо, что напомнил.</target>
+	</unit>
+	<unit bitflag="1360" id1="717466" id2="17" version="1065353216">
+		<source>Sounds good. [Use lightning]</source>
+		<target>Звучит неплохо.[Пустить молнию]</target>
+	</unit>
+	<unit bitflag="1345" id1="717467" id2="17" version="1065353216">
+		<source>Aaargh!</source>
+		<target>Ааргх!</target>
+	</unit>
+	<unit bitflag="1345" id1="717469" id2="17" version="1065353216">
+		<source>No! No, listen--listen, I won't be scared into returning. I risked my life to come here.</source>
+		<target>Нет! Нет, слушай... слушай, ты не заставишь меня вернуться. Я рисковал жизнью, чтобы прийти сюда.</target>
+	</unit>
+	<unit bitflag="1345" id1="717471" id2="17" version="1065353216">
+		<source>Being an Imperial scientist--it's a fate worse than death.</source>
+		<target>Быть имперским учёным — это участь, которая хуже смерти.</target>
+	</unit>
+	<unit bitflag="1360" id1="717472" id2="17" version="1065353216">
+		<source>Don't tempt me.</source>
+		<target>Не искушай меня.</target>
+	</unit>
+	<unit bitflag="1345" id1="717473" id2="17" version="1065353216">
+		<source>I risked my life to defect to the Republic. You think you can scare me into returning?</source>
+		<target>Я рисковал жизнью, чтобы сбежать к республиканцам. Думаешь, сможешь заставить меня вернуться?</target>
+	</unit>
+	<unit bitflag="1345" id1="717475" id2="17" version="1065353216">
+		<source>There are fates worse than death--and being an Imperial scientist is one of them.</source>
+		<target>Есть вещи, которые хуже смерти... и быть имперским учёным — среди них.</target>
+	</unit>
+	<unit bitflag="1345" id1="717476" id2="17" version="1065353216">
+		<source>Don't you think you're being a little dramatic?</source>
+		<target>Не думаешь, что ты немного театрален?</target>
+	</unit>
+	<unit bitflag="1360" id1="717476" id2="17" version="1065353216">
+		<source>That seems doubtful.</source>
+		<target>Это кажется сомнительным.</target>
+	</unit>
+	<unit bitflag="1360" id1="717477" id2="17" version="1065353216">
+		<source>Stop complaining.</source>
+		<target>Хватит ныть.</target>
+	</unit>
+	<unit bitflag="1345" id1="717478" id2="17" version="1065353216">
+		<source>Watching as I make a necklace from your entrails is another.</source>
+		<target>Смотреть, как я делаю из твоих внутренностей ожерелье — тоже среди них.</target>
+	</unit>
+	<unit bitflag="1360" id1="717478" id2="17" version="1065353216">
+		<source>I can think of worse.</source>
+		<target>Я могу придумать и хуже.</target>
+	</unit>
+	<unit bitflag="1345" id1="717479" id2="17" version="1065353216">
+		<source>I won't go back to that place! You don't know what it's like!</source>
+		<target>Я не вернусь туда! Ты не знаешь, каково там!</target>
+	</unit>
+	<unit bitflag="1345" id1="717481" id2="17" version="1065353216">
+		<source>We're not expected to be men! We're machines, slaving day in and day out. No intellectual freedom, no creativity....</source>
+		<target>Нас не считают за людей! Мы машины, корячащиеся изо дня в день. Ни интеллектуальной свободы, ни творчества...</target>
+	</unit>
+	<unit bitflag="1345" id1="717483" id2="17" version="1065353216">
+		<source>I'm tired of building killing machines. I want to do some good for humanity. I can't go back there.</source>
+		<target>Я устал строить машины для убийств. Я хочу сделать что-то хорошее для человечества. Я не могу вернуться туда.</target>
+	</unit>
+	<unit bitflag="1345" id1="717484" id2="17" version="1065353216">
+		<source>That's not up for debate--you will go back.</source>
+		<target>Это не обсуждается: ты возвращаешься.</target>
+	</unit>
+	<unit bitflag="1360" id1="717484" id2="17" version="1065353216">
+		<source>Yes you can.</source>
+		<target>Можешь.</target>
+	</unit>
+	<unit bitflag="1345" id1="717485" id2="17" version="1065353216">
+		<source>We'll see how you feel after this.</source>
+		<target>Посмотрим, что ты сейчас запоёшь.</target>
+	</unit>
+	<unit bitflag="1360" id1="717485" id2="17" version="1065353216">
+		<source>You asked for it. [Shock him]</source>
+		<target>Ты сам напросился.[Пустить молнию]</target>
+	</unit>
+	<unit bitflag="1345" id1="717486" id2="17" version="1065353216">
+		<source>Aaargh!</source>
+		<target>Ааргх!</target>
+	</unit>
+	<unit bitflag="1345" id1="717488" id2="17" version="1065353216">
+		<source>Damn Sith!</source>
+		<target>Чёртов сит!</target>
+	</unit>
+	<unit bitflag="1345" id1="717490" id2="17" version="1065353216">
+		<source>I can promise you, I'm not trying to build a killing machine.</source>
+		<target>Уверяю, я не пытаюсь построить машину для убийств.</target>
+	</unit>
+	<unit bitflag="1360" id1="717490" id2="17" version="1065353216">
+		<source>I want to do good, too.</source>
+		<target>Я тоже хочу сделать хорошее.</target>
+	</unit>
+	<unit bitflag="1345" id1="717491" id2="17" version="1065353216">
+		<source>I know better than to believe the promises of a Sith.</source>
+		<target>Я не настолько наивен, чтобы верить ситу.</target>
+	</unit>
+	<unit bitflag="1345" id1="717493" id2="17" version="1065353216">
+		<source>You'll have to kill me! I'll never return to the Empire willingly!</source>
+		<target>Тебе придётся убить меня! Я никогда не вернусь в Империю добровольно!</target>
+	</unit>
+	<unit bitflag="1360" id1="717494" id2="17" version="1065353216">
+		<source>I need you alive. [Subdue him]</source>
+		<target>Ты мне нужен живым. [Вырубить его]</target>
+	</unit>
+	<unit bitflag="1345" id1="717495" id2="17" version="1065353216">
+		<source>I'm sorry--I promise to bring you back to the Republic when this is over.</source>
+		<target>Прости... обещаю, что верну тебя республиканцам, когда всё закончится.</target>
+	</unit>
+	<unit bitflag="1360" id1="717495" id2="17" version="1065353216">
+		<source>I'll return you. [Subdue him]</source>
+		<target>Я верну тебя. [Вырубить его]</target>
+	</unit>
+	<unit bitflag="1345" id1="717496" id2="17" version="1065353216">
+		<source>Ugh!</source>
+		<target>Аах!</target>
+	</unit>
+	<unit bitflag="1345" id1="717498" id2="17" version="1065353216">
+		<source>Do this one thing for me, and I promise to get you back to the Republic.</source>
+		<target>Сделай для меня одну вещь, и, обещаю, я верну тебя республиканцам.</target>
+	</unit>
+	<unit bitflag="1360" id1="717498" id2="17" version="1065353216">
+		<source>I'll return you.</source>
+		<target>Я верну тебя.</target>
+	</unit>
+	<unit bitflag="1345" id1="717499" id2="17" version="1065353216">
+		<source>You're serious, aren't you? What kind of Sith are you, anyway?</source>
+		<target>Ты серьёзно, да? Что ты за сит вообще?</target>
+	</unit>
+	<unit bitflag="1345" id1="717501" id2="17" version="1065353216">
+		<source>Okay, I'll go. But I'm holding you to your promise--I can't be away from my research here for long.</source>
+		<target>Ладно, я пойду. Но ловлю тебя на слове: я не могу надолго отрываться от своих исследований.</target>
+	</unit>
+	<unit bitflag="1345" id1="717503" id2="17" version="1065353216">
+		<source>We're working on a new field medical technology--nothing special, not even classified. Here, you should try one of these.</source>
+		<target>Мы работаем над новой разработкой в полевой медицине — ничего особенного, даже не засекречено. Вот, возьми это.</target>
+	</unit>
+	<unit bitflag="1345" id1="717505" id2="17" version="1065353216">
+		<source>I know just when to stop.</source>
+		<target>Я точно знаю, когда пора остановиться.</target>
+	</unit>
+	<unit bitflag="1360" id1="717505" id2="17" version="1065353216">
+		<source>Don't worry. [Shock him]</source>
+		<target>Не беспокойся. [Пустить молнию]</target>
+	</unit>
+	<unit bitflag="1345" id1="717506" id2="17" version="1065353216">
+		<source>Aaargh!</source>
+		<target>Ааргх!</target>
+	</unit>
+	<unit bitflag="1345" id1="717508" id2="17" version="1065353216">
+		<source>Sith! Major Bessiker sent us in after you to collect the scientist.</source>
+		<target>Сит! Майор Бессикер послал нас за тобой подобрать учёного.</target>
+	</unit>
+	<unit bitflag="1345" id1="717509" id2="17" version="1065353216">
+		<source>Take him, but don't hurt him.</source>
+		<target>Возьмите его, но не причините вреда.</target>
+	</unit>
+	<unit bitflag="1360" id1="717509" id2="17" version="1065353216">
+		<source>Be gentle.</source>
+		<target>Будьте нежней.</target>
+	</unit>
+	<unit bitflag="1345" id1="717510" id2="17" version="1065353216">
+		<source>Just make sure he doesn't try to run.</source>
+		<target>Лишь позаботьтесь, чтобы он не попытался сбежать.</target>
+	</unit>
+	<unit bitflag="1360" id1="717510" id2="17" version="1065353216">
+		<source>Keep your eye on him.</source>
+		<target>Смотрите в оба.</target>
+	</unit>
+	<unit bitflag="1345" id1="717511" id2="17" version="1065353216">
+		<source>Tell the major to get him started on the serum right away.</source>
+		<target>Скажите майору, чтобы сразу приступал к работе над сывороткой.</target>
+	</unit>
+	<unit bitflag="1360" id1="717511" id2="17" version="1065353216">
+		<source>Bessiker knows what to do.</source>
+		<target>Бессикер знает, что делать.</target>
+	</unit>
+	<unit bitflag="1345" id1="717512" id2="17" version="1065353216">
+		<source>Of course. We'll see you back at Sobrik.</source>
+		<target>Конечно. Увидимся в Собрике.</target>
+	</unit>
+	<unit bitflag="1345" id1="717516" id2="17" version="1065353216">
+		<source>I'm sorry. I'm busy right now.</source>
+		<target>Сожалею. Я сейчас занят.</target>
+	</unit>
+</dialogue_file>

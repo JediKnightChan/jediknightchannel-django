@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="1">
+	<unit bitflag="1345" id1="680365" id2="17" version="1065353216">
+		<source>The things that happen on Dromund Kaas these days--it's enough to wake the Emperor!</source>
+		<target>В последнее время на Дромунд-Каасе такое происходит... этого достаточно, чтобы пробудить Императора!</target>
+	</unit>
+</dialogue_file>

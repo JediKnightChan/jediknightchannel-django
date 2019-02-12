@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="56">
+	<unit bitflag="3393" id1="654976" id2="17" version="1065353216">
+		<source>You just head up to Meridian Hall and send me the signal and I'll make sure you get your groundquake.</source>
+		<target>Ты просто отправляешься в зал Меридиан и посылаешь мне сигнал, а я позабочусь о землетрясении.</target>
+	</unit>
+	<unit bitflag="3393" id1="654977" id2="17" version="1065353216">
+		<source>I should have the whole thing in place by the time you reach Meridian Hall, but you might want to give me a few just in case.</source>
+		<target>Всё должно быть готово, когда ты доберёшься в зал Меридин, но, возможно, тебе стоит дать мне несколько просто на всякий случай.</target>
+	</unit>
+	<unit bitflag="3393" id1="654979" id2="17" version="1065353216">
+		<source>Look, we're both businessmen, right? Consider my help an investment in your operations.</source>
+		<target>Слушай, мы же оба деловые люди, так? Считай мою помощь вложением в твои операции.</target>
+	</unit>
+	<unit bitflag="3393" id1="654981" id2="17" version="1065353216">
+		<source>What's so wrong about a businessman seeking a return on his investment? Your boss saves money in the long run.</source>
+		<target>Что такого плохого в деловом человеке, пытающемся получить прибыль из вложения? В конце же концов, твоё босс экономит деньги.</target>
+	</unit>
+	<unit bitflag="3393" id1="654983" id2="17" version="1065353216">
+		<source>All right, Madel, you win this time. But one day you're going to reach too deep into the wrong pockets.</source>
+		<target>Ладно, Мадел, на этот раз ты победил. Но когда-нибудь ты залезешь слишком глубоко не в тот карман.</target>
+	</unit>
+	<unit bitflag="3393" id1="654985" id2="17" version="1065353216">
+		<source>Yeah, sure. It's been a pleasure doing business with you.</source>
+		<target>Да, конечно. Было приятно иметь с тобой дело.</target>
+	</unit>
+	<unit bitflag="3393" id1="654987" id2="17" version="1065353216">
+		<source>Sorry to keep you waiting, Sith, but business is business. What do you need that Gord Madel can help you with?</source>
+		<target>Прости, что заставил тебя ждать, сит, но дела есть дела. Что тебе нужно такого, с чем может помочь Горд Мадел?</target>
+	</unit>
+	<unit bitflag="1345" id1="654988" id2="17" version="1065353216">
+		<source>I need to create a groundquake.</source>
+		<target>Мне нужно устроить землетрясение.</target>
+	</unit>
+	<unit bitflag="1360" id1="654988" id2="17" version="1065353216">
+		<source>A miracle.</source>
+		<target>Чудо.</target>
+	</unit>
+	<unit bitflag="1345" id1="654989" id2="17" version="1065353216">
+		<source>I want to shake Nar Shaddaa at its very foundation!</source>
+		<target>Я хочу сотрясти Нар-Шаддаа до самого её основания!</target>
+	</unit>
+	<unit bitflag="1360" id1="654989" id2="17" version="1065353216">
+		<source>Glory!</source>
+		<target>Честь!</target>
+	</unit>
+	<unit bitflag="1360" id1="654990" id2="17" version="1065353216">
+		<source>Work with me or else.</source>
+		<target>Сотрудничай со мной, иначе...</target>
+	</unit>
+	<unit bitflag="3393" id1="654991" id2="17" version="1065353216">
+		<source>Uh, sure. Yeah. Gord Madel lives to be of service. Why don't you fill me in on the details first?</source>
+		<target>Эм, конечно. Да. Горд Мадел живёт, чтобы быть полезен. Почему бы тебе не посвятить меня сперва в детали?</target>
+	</unit>
+	<unit bitflag="3393" id1="654993" id2="17" version="1065353216">
+		<source>So let me get this straight--you want me to set off a giant groundquake underneath Meridian Hall?</source>
+		<target>Я правильно понял: ты хочешь, чтобы я подстроил огромное землетрясение под залом Меридиан?</target>
+	</unit>
+	<unit bitflag="3393" id1="654995" id2="17" version="1065353216">
+		<source>No. No, that's crazy. I'd need to blow up the pipes to do that. I can't. It'd get me fired.</source>
+		<target>Нет. Нет, это безумие. Для этого мне бы понадобилось взорвать трубы. Я не могу. Меня уволят.</target>
+	</unit>
+	<unit bitflag="1345" id1="654996" id2="17" version="1065353216">
+		<source>What does taking bribes from a gangster get you? Promoted?</source>
+		<target>А что ты получишь за взятку от бандита? Повышение?</target>
+	</unit>
+	<unit bitflag="1360" id1="654996" id2="17" version="1065353216">
+		<source>You're hardly a model worker.</source>
+		<target>Едва ли ты образцовый рабочий.</target>
+	</unit>
+	<unit bitflag="3393" id1="654997" id2="17" version="1065353216">
+		<source>That's just good business. Everyone on Nar Shaddaa lines their pockets with a little supplementary income.</source>
+		<target>Это просто выгодное дело. Все на Нар-Шаддаа набивают свои карманы небольшим дополнительным доходом.</target>
+	</unit>
+	<unit bitflag="1360" id1="654999" id2="17" version="1065353216">
+		<source>Don't fight me.</source>
+		<target>Не спорь со мной.</target>
+	</unit>
+	<unit bitflag="3393" id1="655000" id2="17" version="1065353216">
+		<source>Look, Sith, I don't want trouble, okay? But I got a family to think of.</source>
+		<target>Слушай, сит, я не хочу никаких проблем, ага? Но мне нужно заботиться о семье.</target>
+	</unit>
+	<unit bitflag="3393" id1="655002" id2="17" version="1065353216">
+		<source>Taking bribes is one thing, but you're asking me to damage public property.</source>
+		<target>Брать взятки — это одно, но ты просишь меня нанести ущерб общественной собственности.</target>
+	</unit>
+	<unit bitflag="1345" id1="655004" id2="17" version="1065353216">
+		<source>It's so much more fun for me when you refuse.</source>
+		<target>Мне намного веселее, когда ты отказываешься.</target>
+	</unit>
+	<unit bitflag="1360" id1="655004" id2="17" version="1065353216">
+		<source>Good answer. [Shock him]</source>
+		<target>Правильный ответ. [Ударить его молнией]</target>
+	</unit>
+	<unit bitflag="3393" id1="655005" id2="17" version="1065353216">
+		<source>Aaagh!</source>
+		<target>А-а-а!</target>
+	</unit>
+	<unit bitflag="3393" id1="655007" id2="17" version="1065353216">
+		<source>Please, don't! I don't want trouble, but I got a family to think of.</source>
+		<target>Прошу, не надо! Я не хочу никаких проблем, но мне нужно заботиться о семье.</target>
+	</unit>
+	<unit bitflag="3393" id1="655009" id2="17" version="1065353216">
+		<source>What do you think happens to me when those pipes get damaged and the gang lords of Nar Shaddaa blame me? What happens to my family?</source>
+		<target>Как ты думаешь, что будет со мной, когда трубы сломаются, а главари банд Нар-Шаддаа обвинят в этом меня? Что будет с моей семьёй?</target>
+	</unit>
+	<unit bitflag="1345" id1="655010" id2="17" version="1065353216">
+		<source>I'm sure they'll understand.</source>
+		<target>Уверен, они поймут.</target>
+	</unit>
+	<unit bitflag="1360" id1="655010" id2="17" version="1065353216">
+		<source>[Force Persuade] Nothing.</source>
+		<target>[Убеждение Силы] Ничего.</target>
+	</unit>
+	<unit bitflag="3393" id1="655011" id2="17" version="1065353216">
+		<source>Yes--they'll understand. After all, when a Sith asks for a groundquake, who am I to refuse?</source>
+		<target>Да... они поймут. В конце концов, если сит желает устроить землетрясение, то почему я должен отказать ему?</target>
+	</unit>
+	<unit bitflag="1345" id1="655013" id2="17" version="1065353216">
+		<source>Take your family to the Strell House. My servants will protect you.</source>
+		<target>Приводи свою семью в дом Стрелла. Мои слуги защитят тебя.</target>
+	</unit>
+	<unit bitflag="1360" id1="655013" id2="17" version="1065353216">
+		<source>Don't worry.</source>
+		<target>Не беспокойся.</target>
+	</unit>
+	<unit bitflag="3393" id1="655014" id2="17" version="1065353216">
+		<source>Look, I--what? If I do this, I will destroy my livelihood, and make enemies of every major ganglord on Nar Shaddaa!</source>
+		<target>Слушай, я... что? Если я это сделаю, я уничтожу свои средства к существованию и стану врагом всех главарей крупных банд на Нар-Шаддаа.</target>
+	</unit>
+	<unit bitflag="3393" id1="655016" id2="17" version="1065353216">
+		<source>And in exchange, you are willing to let me live in your house? You're a poor businessman, Sith.</source>
+		<target>И за это ты готов позволить мне поселиться в твоём доме? Из тебя плохой деловой человек, сит.</target>
+	</unit>
+	<unit bitflag="1345" id1="655017" id2="17" version="1065353216">
+		<source>My cult takes in a great deal of money. You'll be set up for life.</source>
+		<target>Мой культ достаточное количество денег. Ты будешь обеспечен до конца жизни.</target>
+	</unit>
+	<unit bitflag="1360" id1="655017" id2="17" version="1065353216">
+		<source>I'll hire you.</source>
+		<target>Я нанимаю тебя.</target>
+	</unit>
+	<unit bitflag="3393" id1="655018" id2="17" version="1065353216">
+		<source>Argh, all right. I'll do it. Your terms are good, and I'm not desperate enough to cross a Sith.</source>
+		<target>Аргх, ну ладно. Я сделаю это. Это хорошие условия, и я не настолько отчаянный, чтобы перейти ситу дорогу.</target>
+	</unit>
+	<unit bitflag="1345" id1="655020" id2="17" version="1065353216">
+		<source>You will set up the groundquake.</source>
+		<target>Ты устроишь землетрясение.</target>
+	</unit>
+	<unit bitflag="1360" id1="655020" id2="17" version="1065353216">
+		<source>[Force Persuade] Just do it.</source>
+		<target>[Убеждение Силы] Просто сделай это.</target>
+	</unit>
+	<unit bitflag="3393" id1="655021" id2="17" version="1065353216">
+		<source>I will set up the groundquake.</source>
+		<target>Я устрою землетрясение.</target>
+	</unit>
+	<unit bitflag="3393" id1="655023" id2="17" version="1065353216">
+		<source>It'll take some time to set up, but that should give you time to get to Meridian Hall. Take this signaling device and signal me when you want the quake.</source>
+		<target>Чтобы устроить его, понадобится некоторое время, но его будет достаточно, чтобы ты добрался до зала Меридиан. Возьми этот сигнализатор и отправь мне сигнал, когда нужно будет начать.</target>
+	</unit>
+	<unit bitflag="3393" id1="655025" id2="17" version="1065353216">
+		<source>Oh and take this as well--it could come in handy.</source>
+		<target>О, и возьми ещё вот это: может пригодиться.</target>
+	</unit>
+	<unit bitflag="1345" id1="655026" id2="17" version="1065353216">
+		<source>You don't say things like that to a Sith.</source>
+		<target>Никогда не говори такое ситу.</target>
+	</unit>
+	<unit bitflag="1360" id1="655026" id2="17" version="1065353216">
+		<source>Don't insult me. [Shock him]</source>
+		<target>Не оскорбляй меня. [Ударить его молнией]</target>
+	</unit>
+	<unit bitflag="1345" id1="655027" id2="17" version="1065353216">
+		<source>Do you still hope to win?</source>
+		<target>Ты всё ещё надеешься победить?</target>
+	</unit>
+	<unit bitflag="1360" id1="655027" id2="17" version="1065353216">
+		<source>Not this. [Shock him]</source>
+		<target>Не так. [Ударить его молнией]</target>
+	</unit>
+	<unit bitflag="3393" id1="655028" id2="17" version="1065353216">
+		<source>Aaagh!</source>
+		<target>А-а-а!</target>
+	</unit>
+	<unit bitflag="3393" id1="655030" id2="17" version="1065353216">
+		<source>All right. No more. No more. I'll--I'll do it. Just please, no more.</source>
+		<target>Хорошо. Не надо больше. Не надо. Я... я сделаю это. Только прошу, не надо больше.</target>
+	</unit>
+	<unit bitflag="3393" id1="655032" id2="17" version="1065353216">
+		<source>It'll take some time to get everything in place, but take this signaling device. When you want your groundquake, signal me.</source>
+		<target>Чтобы всё устроить, понадобится некоторое время, но возьми этот сигнализатор. Когда нужно будет начать, отправь мне сигнал.</target>
+	</unit>
+	<unit bitflag="1345" id1="655033" id2="17" version="1065353216">
+		<source>You better follow through on this.</source>
+		<target>Тебе лучше довести это дело до конца.</target>
+	</unit>
+	<unit bitflag="1360" id1="655033" id2="17" version="1065353216">
+		<source>Don't try anything fancy.</source>
+		<target>Не пытайся как-то извернуться.</target>
+	</unit>
+	<unit bitflag="3393" id1="655034" id2="17" version="1065353216">
+		<source>And I'm counting on you to keep your promise. Protection for me and my family.</source>
+		<target>И я рассчитываю, что ты сдержишь своё обещание. О защите мне и моей семье.</target>
+	</unit>
+	<unit bitflag="3393" id1="655035" id2="17" version="1065353216">
+		<source>Don't worry, I have a very well-developed instinct for self-preservation.</source>
+		<target>Не беспокойся, у меня хорошо развит инстинкт самосохранения.</target>
+	</unit>
+	<unit bitflag="1360" id1="655036" id2="17" version="1065353216">
+		<source>You've done well.</source>
+		<target>Молодец.</target>
+	</unit>
+	<unit bitflag="1345" id1="655038" id2="17" version="1065353216">
+		<source>A signaling device! You shouldn't have!</source>
+		<target>Сигнализатор! Но не стоило же беспокоиться!</target>
+	</unit>
+	<unit bitflag="1360" id1="655038" id2="17" version="1065353216">
+		<source>Oh boy!</source>
+		<target>Ох ты ж ёжик!</target>
+	</unit>
+	<unit bitflag="3393" id1="655039" id2="17" version="1065353216">
+		<source>Yeah, I'm beginning to wonder about that myself.</source>
+		<target>Да, я начинаю сам себе удивляться.</target>
+	</unit>
+</dialogue_file>

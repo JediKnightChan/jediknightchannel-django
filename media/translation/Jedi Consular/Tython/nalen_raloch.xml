@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="125">
+	<unit bitflag="1345" id1="91458" id2="17" version="1065353216">
+		<source>I'd forgotten... the smell of my own blood. I... I yield.</source>
+		<target>Я забыл... запах собственной крови. Я... сдаюсь.</target>
+	</unit>
+	<unit bitflag="1345" id1="91460" id2="17" version="1065353216">
+		<source>But Nalen, he... he's never been beaten. What... what are you going to do with him?</source>
+		<target>Но Нален, его... его никогда не побеждали. Что... что ты собираешься сделать с ним?</target>
+	</unit>
+	<unit bitflag="1345" id1="91461" id2="17" version="1065353216">
+		<source>You... beat Nalen Raloch? Please--you're not going to kill him?</source>
+		<target>Ты... ты победил Налена Ралоха? Прошу... ты же не убьёшь его?</target>
+	</unit>
+	<unit bitflag="1345" id1="91462" id2="17" version="1065353216">
+		<source>That decision isn't up to me. I should consult the Council first.</source>
+		<target>Это решение принимать не мне. Мне нужно сперва поговорить с Советом.</target>
+	</unit>
+	<unit bitflag="1360" id1="91462" id2="17" version="1065353216">
+		<source>The Jedi Council must decide.</source>
+		<target>Совет джедаев должен решать.</target>
+	</unit>
+	<unit bitflag="1345" id1="91463" id2="17" version="1065353216">
+		<source>I won't kill him. He can go to the Jedi Temple until his fate is decided.</source>
+		<target>Я не убью его. Он отправится в Храм джедаев на время, пока его судьба не решится.</target>
+	</unit>
+	<unit bitflag="1360" id1="91463" id2="17" version="1065353216">
+		<source>I'll take him prisoner.</source>
+		<target>Я возьму его в плен.</target>
+	</unit>
+	<unit bitflag="1345" id1="91464" id2="17" version="1065353216">
+		<source>But we still lose him. The village needs Nalen's help. How are we going to keep it together?</source>
+		<target>Но мы всё же теряем его. Деревне нужна помощь Налена. Как мы собираемся держаться вместе?</target>
+	</unit>
+	<unit bitflag="1345" id1="91465" id2="17" version="1065353216">
+		<source>If you need me, I'll do whatever I can.</source>
+		<target>Если вы нуждаетесь во мне, я сделаю всё, что смогу.</target>
+	</unit>
+	<unit bitflag="1360" id1="91465" id2="17" version="1065353216">
+		<source>You can ask for my help.</source>
+		<target>Можете попросить меня помочь.</target>
+	</unit>
+	<unit bitflag="1345" id1="91466" id2="17" version="1065353216">
+		<source>Thank you. We'll remember.</source>
+		<target>Спасибо. Мы запомним.</target>
+	</unit>
+	<unit bitflag="1345" id1="91468" id2="17" version="1065353216">
+		<source>Kalikori village is greater than one man. You will survive if you stand together.</source>
+		<target>В деревне Каликори не один человек. Вы выживете, если будете держаться вместе.</target>
+	</unit>
+	<unit bitflag="1360" id1="91468" id2="17" version="1065353216">
+		<source>[Force Persuade] Have hope.</source>
+		<target>[Убеждение Силой] Надейтесь.</target>
+	</unit>
+	<unit bitflag="1345" id1="91469" id2="17" version="1065353216">
+		<source>Kalikori... it's an ideal, greater than one man. We'll survive if we work together.</source>
+		<target>Каликори... это идеал, и там не один человек. Мы выживем, если будем работать вместе.</target>
+	</unit>
+	<unit bitflag="1345" id1="91471" id2="17" version="1065353216">
+		<source>Here. Nalen gave us these for the journey up here--take it. If we work together, that's all we need.</source>
+		<target>Вот. Нален дал нам это для путешествия сюда — возьми. Если мы работаем вместе, нам больше ничего не нужно.</target>
+	</unit>
+	<unit bitflag="1345" id1="91473" id2="17" version="1065353216">
+		<source>Relying on others to protect you makes you weak. Remember that.</source>
+		<target>Полагаться на других в своей защите делает вас слабыми. Запомните это.</target>
+	</unit>
+	<unit bitflag="1360" id1="91473" id2="17" version="1065353216">
+		<source>Find your own strength.</source>
+		<target>Найдите силу в себе.</target>
+	</unit>
+	<unit bitflag="1345" id1="91474" id2="17" version="1065353216">
+		<source>We could always depend on him. Maybe... we pushed him into becoming this.</source>
+		<target>Мы могли бы всегда зависеть от него. Может... мы заставили его стать этим.</target>
+	</unit>
+	<unit bitflag="1345" id1="91476" id2="17" version="1065353216">
+		<source>We'll carry Nalen to the temple, Master Jedi. We owe him that much.</source>
+		<target>Мы отнесём Налена в Храм, мастер-джедай. Мы должны ему хотя бы это.</target>
+	</unit>
+	<unit bitflag="1345" id1="91477" id2="17" version="1065353216">
+		<source>We can carry Nalen to the temple, Master Jedi. He still belongs to us.</source>
+		<target>Мы можем отнести Налена в Храм, мастер-джедай. Он всё ещё один из нас.</target>
+	</unit>
+	<unit bitflag="1345" id1="91478" id2="17" version="1065353216">
+		<source>There's only one way this can end.</source>
+		<target>Это может закончиться лишь одним образом.</target>
+	</unit>
+	<unit bitflag="1360" id1="91478" id2="17" version="1065353216">
+		<source>He has to die.</source>
+		<target>Он должен умереть.</target>
+	</unit>
+	<unit bitflag="1345" id1="91479" id2="17" version="1065353216">
+		<source>No, you can't do this! He defended our entire village, he's a hero!</source>
+		<target>Нет, ты не можешь! Он защищал всю нашу деревню, он герой!</target>
+	</unit>
+	<unit bitflag="1345" id1="91480" id2="17" version="1065353216">
+		<source>No, please! He's Kalikori's hero, it can't end this way!</source>
+		<target>Нет, пожалуйста! Он герой Каликори, всё не может так закончиться!</target>
+	</unit>
+	<unit bitflag="1345" id1="91481" id2="17" version="1065353216">
+		<source>Put him on trial and everyone will know what he did. But if he dies, he will always be that hero.</source>
+		<target>Осудите его, и все узнают, что он сделал. Но если он умрёт, он навсегда останется героем.</target>
+	</unit>
+	<unit bitflag="1360" id1="91481" id2="17" version="1065353216">
+		<source>Death will protect his legacy.</source>
+		<target>Смерть защитит его наследие.</target>
+	</unit>
+	<unit bitflag="1345" id1="91482" id2="17" version="1065353216">
+		<source>The secrets in his mind are too dangerous. I can't let him live.</source>
+		<target>Секреты в его разуме слишком опасны. Я не могу пощадить его.</target>
+	</unit>
+	<unit bitflag="1360" id1="91482" id2="17" version="1065353216">
+		<source>Rajivari's knowledge must die.</source>
+		<target>Знания Радживари должны умереть.</target>
+	</unit>
+	<unit bitflag="1345" id1="91483" id2="17" version="1065353216">
+		<source>He committed atrocities, risked people's lives. It ends now.</source>
+		<target>Он совершал злодеяния, рисковал жизнями других. Этому пришёл конец.</target>
+	</unit>
+	<unit bitflag="1360" id1="91483" id2="17" version="1065353216">
+		<source>This is what he deserves.</source>
+		<target>Он это заслужил.</target>
+	</unit>
+	<unit bitflag="1345" id1="91484" id2="17" version="1065353216">
+		<source>Just do it right.</source>
+		<target>Просто сделай это правильно.</target>
+	</unit>
+	<unit bitflag="1345" id1="91486" id2="17" version="1065353216">
+		<source>We should... take him home. The others will want to say goodbye.</source>
+		<target>Мы должны... забрать его домой. Другие захотят попрощаться.</target>
+	</unit>
+	<unit bitflag="3393" id1="91488" id2="17" version="1065353216">
+		<source>I have been fool. Spoke false. You are no small hunter.</source>
+		<target>Я был глуп. Говорил неправильно. Ты не маленький охотник.</target>
+	</unit>
+	<unit bitflag="1345" id1="91489" id2="17" version="1065353216">
+		<source>Perhaps not, but this is a beginning, not an end.</source>
+		<target>Возможно, но это начало, а не конец.</target>
+	</unit>
+	<unit bitflag="1360" id1="91489" id2="17" version="1065353216">
+		<source>My training isn't over yet.</source>
+		<target>Моё обучение ещё не окончено.</target>
+	</unit>
+	<unit bitflag="1360" id1="91490" id2="17" version="1065353216">
+		<source>What do you mean?</source>
+		<target>Что ты имеешь в виду?</target>
+	</unit>
+	<unit bitflag="1345" id1="91491" id2="17" version="1065353216">
+		<source>I suppose one can't be right all the time.</source>
+		<target>Полагаю, никто не может быть прав всё время.</target>
+	</unit>
+	<unit bitflag="1360" id1="91491" id2="17" version="1065353216">
+		<source>Everyone makes mistakes.</source>
+		<target>Все делают ошибки.</target>
+	</unit>
+	<unit bitflag="3393" id1="91492" id2="17" version="1065353216">
+		<source>Nalen Raloch. Saw true power here, after becoming dark thing. You had unfamiliar weapon, no preparation... winning could not be. But you stand.</source>
+		<target>Нален Ралох. Увидел истинную силу здесь, став тёмным существом. У тебя было незнакомое оружие, не было подготовки... победа не могла случиться. Но тебе удалось.</target>
+	</unit>
+	<unit bitflag="3393" id1="91494" id2="17" version="1065353216">
+		<source>Cannot be other. Scorekeeper has seen. Chosen for greatest honor.</source>
+		<target>Не может быть иначе. Счетовод увидела. Выбран для величайшей чести.</target>
+	</unit>
+	<unit bitflag="3393" id1="91496" id2="17" version="1065353216">
+		<source>You are Herald of Scorekeeper.</source>
+		<target>Ты Геральд Счетовода.</target>
+	</unit>
+	<unit bitflag="1345" id1="91497" id2="17" version="1065353216">
+		<source>&quot;Herald of the Scorekeeper&quot;? What is that?</source>
+		<target>«Геральд Счетовода»? Что это?</target>
+	</unit>
+	<unit bitflag="1360" id1="91497" id2="17" version="1065353216">
+		<source>I'm the what?</source>
+		<target>Я что?</target>
+	</unit>
+	<unit bitflag="3393" id1="91498" id2="17" version="1065353216">
+		<source>Chosen one, Herald. Of great skill, power, honor. Scorekeeper sees, and favors.</source>
+		<target>Избранный, Геральд. Великих навыков, сил, чести. Счетовод видит и отмечает.</target>
+	</unit>
+	<unit bitflag="1345" id1="91500" id2="17" version="1065353216">
+		<source>Qyzen, I'm nobody special. I just did the best I could.</source>
+		<target>Кайзен, я не кто-то особенный. Я просто сделал всё, что мог.</target>
+	</unit>
+	<unit bitflag="1360" id1="91500" id2="17" version="1065353216">
+		<source>No, you must be mistaken.</source>
+		<target>Нет, ты наверняка ошибаешься.</target>
+	</unit>
+	<unit bitflag="3393" id1="91501" id2="17" version="1065353216">
+		<source>Yes, is good for Herald to be humble. But Scorekeeper has shown favor. Is clear.</source>
+		<target>Да, Геральду хорошо быть скромным. Но Счетовод проявила благосклонность. Ясно.</target>
+	</unit>
+	<unit bitflag="1345" id1="91503" id2="17" version="1065353216">
+		<source>I don't believe in this &quot;Scorekeeper&quot;; how can I be her Herald?</source>
+		<target>Я не верю в этого «Счетовода», как я могу быть её Геральдом?</target>
+	</unit>
+	<unit bitflag="1360" id1="91503" id2="17" version="1065353216">
+		<source>But I'm not a Trandoshan.</source>
+		<target>Но я не трандошанин.</target>
+	</unit>
+	<unit bitflag="3393" id1="91504" id2="17" version="1065353216">
+		<source>Is no importance. You are Herald. Cannot be otherwise.</source>
+		<target>Неважно. Ты Геральд. Не может быть иначе.</target>
+	</unit>
+	<unit bitflag="3393" id1="91506" id2="17" version="1065353216">
+		<source>To lose points was horror. But Scorekeeper has led through darkness to greater thing. You.</source>
+		<target>Потерять очки было ужасно. Но Счетовод провела сквозь Тьму к большей вещи. К тебе.</target>
+	</unit>
+	<unit bitflag="3393" id1="91508" id2="17" version="1065353216">
+		<source>I will follow, Herald. Wherever needed. Scorekeeper has shown path: to serve her Herald.</source>
+		<target>Я буду следовать, Геральд. Куда нужно. Счетовод показала путь: служить её Геральду.</target>
+	</unit>
+	<unit bitflag="1345" id1="91509" id2="17" version="1065353216">
+		<source>If you truly believe I am this &quot;Herald,&quot; I'll do my best to live up to the name.</source>
+		<target>Если ты и впрямь веришь, что я этот «Геральд», я постараюсь оправдать твоё доверие.</target>
+	</unit>
+	<unit bitflag="1360" id1="91509" id2="17" version="1065353216">
+		<source>You do me honor, Qyzen.</source>
+		<target>Ты делаешь мне честь, Кайзен.</target>
+	</unit>
+	<unit bitflag="1345" id1="91510" id2="17" version="1065353216">
+		<source>You're welcome to accompany me, whatever your reasons.</source>
+		<target>Ты всегда можешь сопровождать, вне зависимости от причин.</target>
+	</unit>
+	<unit bitflag="1360" id1="91510" id2="17" version="1065353216">
+		<source>Then, thank you.</source>
+		<target>Тогда спасибо.</target>
+	</unit>
+	<unit bitflag="1345" id1="91511" id2="17" version="1065353216">
+		<source>Being the Herald of the Scorekeeper, having a powerful Trandoshan ally--who would argue?</source>
+		<target>Быть Геральдом Счетовода, иметь мощного союзника-трандошанина — кто бы отказался?</target>
+	</unit>
+	<unit bitflag="1360" id1="91511" id2="17" version="1065353216">
+		<source>I like the sound of this.</source>
+		<target>Мне нравится, как это звучит.</target>
+	</unit>
+	<unit bitflag="3393" id1="91512" id2="17" version="1065353216">
+		<source>Is Scorekeeper I serve first. But you are Herald. I honor, and follow.</source>
+		<target>Счетоводу служу прежде всего. Но ты Геральд. Я чту и следую.</target>
+	</unit>
+	<unit bitflag="3393" id1="91514" id2="17" version="1065353216">
+		<source>Is much news we have, Herald. Should return to Jedi Temple, speak to Council. And Yuon.</source>
+		<target>Много новостей у нас, Геральд. Нужно вернуться в Храм джедаев, поговорить с Советом. И Юон.</target>
+	</unit>
+	<unit bitflag="3393" id1="91516" id2="17" version="1065353216">
+		<source>You as Herald, and victorious--shall please her. Come.</source>
+		<target>Ты, победоносный Геральд, порадуешь её. Идём.</target>
+	</unit>
+	<unit bitflag="1345" id1="91557" id2="17" version="1065353216">
+		<source>You make a lot of noise. I come for a Flesh Raider, I find a Jedi Padawan.</source>
+		<target>Ты сильно шумишь. Я здесь за раздирателем, а нашёл падавана.</target>
+	</unit>
+	<unit bitflag="1345" id1="91559" id2="17" version="1065353216">
+		<source>I come to listen. To think, among the dead. To fight for my people.</source>
+		<target>Я пришёл слушать. Думать среди мёртвых. Сражаться за свой народ.</target>
+	</unit>
+	<unit bitflag="1345" id1="91561" id2="17" version="1065353216">
+		<source>Why have you come?</source>
+		<target>Зачем ты здесь?</target>
+	</unit>
+	<unit bitflag="1345" id1="91562" id2="17" version="1065353216">
+		<source>The villagers said you'd taken this holoprojector, Nalen, and told me where to find you.</source>
+		<target>Поселенцы сказали, что ты взял этот голопроектор, Нален, и сказали мне, где тебя найти.</target>
+	</unit>
+	<unit bitflag="1360" id1="91562" id2="17" version="1065353216">
+		<source>You must be Nalen Raloch.</source>
+		<target>Ты, видимо, Нален Ралох.</target>
+	</unit>
+	<unit bitflag="1345" id1="91563" id2="17" version="1065353216">
+		<source>I suppose they spun the tale of me being a &quot;legendary protector,&quot; too. They don't understand.</source>
+		<target>Полагаю, они также рассказали историю обо мне как «легендарном защитнике». Они не понимают.</target>
+	</unit>
+	<unit bitflag="1345" id1="91565" id2="17" version="1065353216">
+		<source>My Master sent me, to bring Rajivari's holoprojector back to the temple.</source>
+		<target>Мой учитель послал меня вернуть голопроектор Радживари в Храм.</target>
+	</unit>
+	<unit bitflag="1360" id1="91565" id2="17" version="1065353216">
+		<source>To retrieve the holoprojector.</source>
+		<target>Забрать голопроектор.</target>
+	</unit>
+	<unit bitflag="1345" id1="91566" id2="17" version="1065353216">
+		<source>I don't explain my actions to strangers.</source>
+		<target>Я не объясняю свои действия незнакомцам.</target>
+	</unit>
+	<unit bitflag="1360" id1="91566" id2="17" version="1065353216">
+		<source>That's my business.</source>
+		<target>Это моё дело.</target>
+	</unit>
+	<unit bitflag="1345" id1="91567" id2="17" version="1065353216">
+		<source>I'm called Nalen Raloch. The others in the village spin tales of their &quot;legendary protector.&quot; They don't understand.</source>
+		<target>Меня зовут Нален Ралох. Другие в деревне рассказывают истории о своём «легендарном защитнике». Они не понимают.</target>
+	</unit>
+	<unit bitflag="1345" id1="91569" id2="17" version="1065353216">
+		<source>Are the Flesh Raiders destroyed? No. My people aren't safe until my learning's complete.</source>
+		<target>Раздиратели уничтожены? Нет. Мой народ не в безопасности, пока моё обучение не завершено.</target>
+	</unit>
+	<unit bitflag="1345" id1="91571" id2="17" version="1065353216">
+		<source>Tython's relics still have lessons. I listen. I can... do things I never imagined possible. I will be the defender my people deserve.</source>
+		<target>Реликвии Тайтона ещё могут преподать уроки. Я слушаю. Я могу... делать вещи, которые и представить не мог. Я буду защитником, которого мой народ заслуживает.</target>
+	</unit>
+	<unit bitflag="1345" id1="91572" id2="17" version="1065353216">
+		<source>Perhaps your studies are making you into something else.</source>
+		<target>Возможно, твои занятия превращают тебя во что-то ещё.</target>
+	</unit>
+	<unit bitflag="1360" id1="91572" id2="17" version="1065353216">
+		<source>Something's wrong with you.</source>
+		<target>С тобой что-то не так.</target>
+	</unit>
+	<unit bitflag="1345" id1="91573" id2="17" version="1065353216">
+		<source>Jedi condemn what they can't control.</source>
+		<target>Джедаи осуждают то, чем не могут управлять.</target>
+	</unit>
+	<unit bitflag="1345" id1="91575" id2="17" version="1065353216">
+		<source>Once you become this great defender, what's the next step?</source>
+		<target>Когда ты станешь этим великим защитником, каков будет твой следующий шаг?</target>
+	</unit>
+	<unit bitflag="1360" id1="91575" id2="17" version="1065353216">
+		<source>And what of the future?</source>
+		<target>А что насчёт будущего?</target>
+	</unit>
+	<unit bitflag="1345" id1="91576" id2="17" version="1065353216">
+		<source>We make Tython ours. No Jedi. No Republic. Our world to plow, and harvest, and defend.</source>
+		<target>Мы делаем Тайтон нашим. Никаких джедаев. Никакой Республики. Мир, где мы пашем, собираем урожай и защищаемся.</target>
+	</unit>
+	<unit bitflag="1345" id1="91578" id2="17" version="1065353216">
+		<source>We hunt the Flesh Raiders to extinction, and laugh. Rajivari showed me how to punish them.</source>
+		<target>Мы истребляем раздирателей и смеёмся. Радживари научил меня, как их наказать.</target>
+	</unit>
+	<unit bitflag="1345" id1="91580" id2="17" version="1065353216">
+		<source>Help Kalikori village if you wish, but Rajivari's holoprojector wasn't yours to take.</source>
+		<target>Помогай деревне Каликори, если тебе угодно, но голопроектор Радживари не твой.</target>
+	</unit>
+	<unit bitflag="1360" id1="91580" id2="17" version="1065353216">
+		<source>By stealing Jedi artifacts?</source>
+		<target>Воруя артефакты джедаев?</target>
+	</unit>
+	<unit bitflag="1345" id1="91581" id2="17" version="1065353216">
+		<source>Tython is our home, too. We'll use whatever we find to defend ourselves; you Jedi don't have a say.</source>
+		<target>Тайтон и есть наш дом. Мы будем использовать всё, что найдём, для самозащиты; вам, джедаям, слова не давали.</target>
+	</unit>
+	<unit bitflag="1345" id1="91583" id2="17" version="1065353216">
+		<source>But you're not a concern. Only the Flesh Raiders matter. Rajivari's hologram showed me how to punish them.</source>
+		<target>Но вы неважны. Важны только раздиратели. Голограмма Радживари показала мне, как их наказать.</target>
+	</unit>
+	<unit bitflag="1345" id1="91585" id2="17" version="1065353216">
+		<source>The Flesh Raiders will come. But not leave. A merciful death, compared to what my people have suffered.</source>
+		<target>Раздиратели придут. Но не уйдут. Милосердная смерть — по сравнению со страданиями моего народа.</target>
+	</unit>
+	<unit bitflag="1345" id1="91586" id2="17" version="1065353216">
+		<source>What crimes have I committed that deserve being buried alive?</source>
+		<target>Какие преступления я совершил, чтобы заслужить захоронение заживо?</target>
+	</unit>
+	<unit bitflag="1360" id1="91586" id2="17" version="1065353216">
+		<source>Is this to punish me, too?</source>
+		<target>Это должно наказать и меня?</target>
+	</unit>
+	<unit bitflag="1345" id1="91587" id2="17" version="1065353216">
+		<source>You'll get us both killed!</source>
+		<target>Ты убьёшь нас обоих!</target>
+	</unit>
+	<unit bitflag="1360" id1="91587" id2="17" version="1065353216">
+		<source>Stop this!</source>
+		<target>Прекрати!</target>
+	</unit>
+	<unit bitflag="1360" id1="91588" id2="17" version="1065353216">
+		<source>You're crazy.</source>
+		<target>Ты безумец.</target>
+	</unit>
+	<unit bitflag="1345" id1="91589" id2="17" version="1065353216">
+		<source>There are hidden wonders, Jedi, and my journey has just begun.</source>
+		<target>Есть скрытые чудеса, джедай, а моё путешествие лишь началось.</target>
+	</unit>
+	<unit bitflag="1345" id1="91591" id2="17" version="1065353216">
+		<source>Now run. Or die.</source>
+		<target>Теперь беги. Или умри.</target>
+	</unit>
+	<unit bitflag="1345" id1="91804" id2="17" version="1065353216">
+		<source>Fitting that it's you, armed with the last lightsaber this Forge will ever make.</source>
+		<target>Весьма уместно, что это ты, с последним световым мечом в руках, который будет создан в этой Кузнице.</target>
+	</unit>
+	<unit bitflag="1345" id1="91806" id2="17" version="1065353216">
+		<source>Look at her! Another Jedi to nod, and preach, and do nothing while the Flesh Raiders ravage our home!</source>
+		<target>Посмотрите на неё! Ещё один джедай, кивающий, поучающий и бездействующий, пока раздиратели разоряют наш дом!</target>
+	</unit>
+	<unit bitflag="1345" id1="91808" id2="17" version="1065353216">
+		<source>Look at him! Another Jedi to nod, and preach, and do nothing while the Flesh Raiders ravage our home!</source>
+		<target>Посмотрите на него! Ещё один джедай, кивающий, поучающий и бездействующий, пока раздиратели разоряют наш дом!</target>
+	</unit>
+	<unit bitflag="1345" id1="91810" id2="17" version="1065353216">
+		<source>I know Rajivari's secrets. Horrors that the Jedi--this Jedi!--have been chasing. And only I can protect us, our families and our future!</source>
+		<target>Я знаю секреты Радживари. Ужасы, которые преследовал джедай — этот джедай! И только я могу защитить нас, наши семьи и наше будущее.</target>
+	</unit>
+	<unit bitflag="1345" id1="91811" id2="17" version="1065353216">
+		<source>Nalen, your power is destroying you. But it isn't too late to save yourself.</source>
+		<target>Нален, твоя сила уничтожает тебя. Но тебе ещё не поздно спастись.</target>
+	</unit>
+	<unit bitflag="1360" id1="91811" id2="17" version="1065353216">
+		<source>I want to help you.</source>
+		<target>Я хочу тебе помочь.</target>
+	</unit>
+	<unit bitflag="1345" id1="91812" id2="17" version="1065353216">
+		<source>I'd like to hear what the others make of your opinions.</source>
+		<target>Мне бы хотелось услышать, что об этом думают другие.</target>
+	</unit>
+	<unit bitflag="1360" id1="91812" id2="17" version="1065353216">
+		<source>Let your friends speak.</source>
+		<target>Дай слово своим друзьям.</target>
+	</unit>
+	<unit bitflag="1345" id1="91813" id2="17" version="1065353216">
+		<source>Whatever future you'd create for Kalikori village would be tainted by what you've become.</source>
+		<target>Какое бы будущее ты ни создал для деревни Каликори, оно будет испорчено тем, чем ты стал.</target>
+	</unit>
+	<unit bitflag="1360" id1="91813" id2="17" version="1065353216">
+		<source>You'd lead them into darkness.</source>
+		<target>Ты завёл их во тьму.</target>
+	</unit>
+	<unit bitflag="1345" id1="91814" id2="17" version="1065353216">
+		<source>Shut up! You attacked our friends, our brothers, in cold blood!</source>
+		<target>Заткнись! Ты хладнокровно напал на наших друзей, наших братьев!</target>
+	</unit>
+	<unit bitflag="1345" id1="91816" id2="17" version="1065353216">
+		<source>But maybe we don't have all the facts. What Nalen's been saying--something's not right.</source>
+		<target>Но, возможно, нам известно не всё. То, что говорит Нален... что-то не так.</target>
+	</unit>
+	<unit bitflag="1345" id1="91818" id2="17" version="1065353216">
+		<source>Watch, then. Justice needs witnesses.</source>
+		<target>Тогда смотри. Справедливости нужны свидетели.</target>
+	</unit>
+	<unit bitflag="1345" id1="91819" id2="17" version="1065353216">
+		<source>The only thing driving you is power and madness.</source>
+		<target>Тебя ведут только сила и безумие.</target>
+	</unit>
+	<unit bitflag="1360" id1="91819" id2="17" version="1065353216">
+		<source>This isn't justice.</source>
+		<target>Это не справедливость.</target>
+	</unit>
+	<unit bitflag="1345" id1="91820" id2="17" version="1065353216">
+		<source>If you attack me, they'll see you injured, perhaps even killed.</source>
+		<target>Если нападёшь на меня, они увидят тебя раненым, возможно, даже убитым.</target>
+	</unit>
+	<unit bitflag="1360" id1="91820" id2="17" version="1065353216">
+		<source>I will defend myself.</source>
+		<target>Я буду защищаться.</target>
+	</unit>
+	<unit bitflag="1345" id1="91821" id2="17" version="1065353216">
+		<source>Enough. First you, then your great Forge.</source>
+		<target>Довольно. Сперва ты, затем ваша великая Кузница.</target>
+	</unit>
+	<unit bitflag="1345" id1="91824" id2="17" version="1065353216">
+		<source>Nalen, she's done alright by us. You keep saying the Jedi are the enemy, but she's not.</source>
+		<target>Нален, она хорошо себя проявила среди нас. Ты то и дело говоришь, что джедаи враги, но она не враг.</target>
+	</unit>
+	<unit bitflag="1345" id1="91826" id2="17" version="1065353216">
+		<source>Nalen, he's done alright by us. You keep saying the Jedi are the enemy, but he's not.</source>
+		<target>Нален, он хорошо себя проявил среди нас. Ты то и дело говоришь, что джедаи враги, но он не враг.</target>
+	</unit>
+	<unit bitflag="1345" id1="91828" id2="17" version="1065353216">
+		<source>Nalen, this is... you're going too far. How is this protecting us?</source>
+		<target>Нален, это... ты заходишь слишком далеко. Как это защитит нас?</target>
+	</unit>
+	<unit bitflag="1345" id1="91830" id2="17" version="1065353216">
+		<source>I did this for all of you! If you can't see the danger, I'll show you myself!</source>
+		<target>Я сделал это ради вас всех! Если вы не видите опасности, я сам покажу её вам!</target>
+	</unit>
+	<unit bitflag="1345" id1="91831" id2="17" version="1065353216">
+		<source>Listen to your people. This is not what they want.</source>
+		<target>Послушай свой народ. Это не то, чего они хотят.</target>
+	</unit>
+	<unit bitflag="1360" id1="91831" id2="17" version="1065353216">
+		<source>Stop lying to yourself.</source>
+		<target>Прекрати лгать себе.</target>
+	</unit>
+	<unit bitflag="1345" id1="91832" id2="17" version="1065353216">
+		<source>It'll make sense when you're dead.</source>
+		<target>Это станет осмысленно, когда ты умрёшь.</target>
+	</unit>
+	<unit bitflag="1345" id1="91834" id2="17" version="1065353216">
+		<source>Nalen, I don't want to kill you.</source>
+		<target>Нален, я не хочу убивать тебя.</target>
+	</unit>
+	<unit bitflag="1360" id1="91834" id2="17" version="1065353216">
+		<source>Surrender. Please.</source>
+		<target>Сдайся. Прошу.</target>
+	</unit>
+	<unit bitflag="1345" id1="91835" id2="17" version="1065353216">
+		<source>Then don't fight back.</source>
+		<target>Тогда не защищайся.</target>
+	</unit>
+	<unit bitflag="1345" id1="91840" id2="17" version="1065353216">
+		<source>Let's have this done.</source>
+		<target>Давай покончим с этим.</target>
+	</unit>
+	<unit bitflag="1360" id1="572919" id2="17" version="1065353216">
+		<source>Enough talk. [Attack]</source>
+		<target>Хватит разговоров. [Напасть]</target>
+	</unit>
+	<unit bitflag="1360" id1="572925" id2="17" version="1065353216">
+		<source>So be it.</source>
+		<target>Да будет так.</target>
+	</unit>
+	<unit bitflag="3393" id1="572926" id2="17" version="1065353216">
+		<source>Does not fight alone. This is fight of honor--you owe blood, dark thing.</source>
+		<target>Не будет битвы в одиночку. Это бой чести — ты должен кровь, тёмное существо.</target>
+	</unit>
+</dialogue_file>

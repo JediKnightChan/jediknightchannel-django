@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="2">
+	<unit bitflag="1345" id1="659249" id2="17" version="1065353216">
+		<source>Your overseer is eyeing you, acolyte. You may want to see what he needs.</source>
+		<target>Твой надзиратель смотрит на тебя, служитель. Возможно, ты хочешь узнать, чего он желает.</target>
+	</unit>
+	<unit bitflag="1345" id1="659250" id2="17" version="1065353216">
+		<source>We don't get too many like you around here.</source>
+		<target>Здесь таких, как ты, немного.</target>
+	</unit>
+</dialogue_file>

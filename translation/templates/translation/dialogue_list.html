@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+{% load poll_extras %}
+{% load static %}
+
+{% block title %}JediKnightChannel — Открытое редактирование{% endblock %}
+
+{% block content %}
+    <div id="body" class="noselect">
+        <div class="list">
+            <div>
+                <h1>Открытое редактирование</h1>
+                {% for game_class in game_classes %}
+                    <h2 class="{{ game_class.fraction }} collapsible"><span>{{ game_class.ru_name }}</span></h2>
+                    <div class="expandable_content">
+                        {% for planet in game_class.planets.all %}
+                            <h3>{{ planet.ru_name }}</h3>
+                            {% for dialogue in planet.dialogues.all|sort_lower:"npc_name" %}
+                                <p><a href="{% url 'dialogue_detail' pk=dialogue.pk %}">{{ dialogue.npc_name }}</a></p>
+                            {% endfor %}
+                        {% endfor %}
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block additional_end_of_body %}
+    <script src="{% static "js/collapsibles.js" %}"></script>
+{% endblock %}

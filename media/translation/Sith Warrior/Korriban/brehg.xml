@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="4">
+	<unit bitflag="3393" id1="658888" id2="17" version="1065353216">
+		<source>Resigned, I am. Brehg will die of old age in this prison.</source>
+		<target>Смирился я. Брег умрёт от старости в этой темнице.</target>
+	</unit>
+	<unit bitflag="3393" id1="658889" id2="17" version="1065353216">
+		<source>Ceaseless unfairness. You left me to be tortured. I confessed, but it still continues!</source>
+		<target>Бесконечная несправедливость. Вы бросили меня, чтобы меня пытали. Я сознался, но это всё ещё продолжается!</target>
+	</unit>
+	<unit bitflag="3393" id1="658890" id2="17" version="1065353216">
+		<source>Unfairness, locked up like this. Why me?</source>
+		<target>Несправедливость, взаперти вот так. Почему я?</target>
+	</unit>
+	<unit bitflag="3393" id1="755397" id2="17" version="1065353216">
+		<source>You showed mercy. Brehg will see the sky soon!</source>
+		<target>Ты проявил милосердие. Брег вскоре узрит небо!</target>
+	</unit>
+</dialogue_file>

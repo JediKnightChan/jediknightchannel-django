@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="16">
+	<unit bitflag="1345" id1="90689" id2="17" version="1065353216">
+		<source>Activation protocol begins. Ah. Another has come to listen.</source>
+		<target>Начат протокол активации. А. Ещё один пришёл слушать.</target>
+	</unit>
+	<unit bitflag="1345" id1="90691" id2="17" version="1065353216">
+		<source>When the Jedi Order was founded, I, Cala Brin, said we should devote ourselves to justice.</source>
+		<target>Когда был основан Орден джедаев, я, Кала Брин, сказала, что мы должны посвятить себя справедливости.</target>
+	</unit>
+	<unit bitflag="1345" id1="90693" id2="17" version="1065353216">
+		<source>True justice cannot be driven by emotion. We Jedi can set our passions aside, and seek the truth without fear or favor.</source>
+		<target>Эмоции не могут быть движущей силой истинной справедливости. Мы, джедаи, можем забыть наши страсти и искать истину бесстрашно и объективно.</target>
+	</unit>
+	<unit bitflag="1345" id1="90694" id2="17" version="1065353216">
+		<source>If you can't feel mercy, justice suffers.</source>
+		<target>Если не ощущать милосердия, справедливость страдает.</target>
+	</unit>
+	<unit bitflag="1360" id1="90694" id2="17" version="1065353216">
+		<source>But compassion is important.</source>
+		<target>Но сострадание важно.</target>
+	</unit>
+	<unit bitflag="1345" id1="90695" id2="17" version="1065353216">
+		<source>Sorrow for the victim, or outrage at the crime, can blind us. To see clearly, such feelings must be put aside.</source>
+		<target>Скорбь по жертве или ярость от преступления может ослепить нас. Чтобы видеть ясно, нужно забыть такие чувства.</target>
+	</unit>
+	<unit bitflag="1345" id1="90697" id2="17" version="1065353216">
+		<source>It has served us well. We Jedi are renowned for our fairness, our honesty.</source>
+		<target>Это сослужило нам хорошую службу. Нас, джедаев, почитают за нашу справедливость, честность.</target>
+	</unit>
+	<unit bitflag="1345" id1="90699" id2="17" version="1065353216">
+		<source>Now that reputation is yours to keep. Activation protocol complete.</source>
+		<target>Теперь тебе сохранять эту репутацию. Протокол активации завершён.</target>
+	</unit>
+	<unit bitflag="1345" id1="90700" id2="17" version="1065353216">
+		<source>The projector for this hologram is in danger. I'm here to recover it.</source>
+		<target>Проектор этой голограммы в опасности. Я здесь, чтобы забрать его.</target>
+	</unit>
+	<unit bitflag="1360" id1="90700" id2="17" version="1065353216">
+		<source>I must take you to safety.</source>
+		<target>Мне нужно забрать вас в безопасное место.</target>
+	</unit>
+	<unit bitflag="1345" id1="90701" id2="17" version="1065353216">
+		<source>Then do what is needed. That, too, is part of justice. Activation protocol complete.</source>
+		<target>Тогда делай, что должно. Это тоже часть справедливости. Протокол активации завершён.</target>
+	</unit>
+	<unit bitflag="1345" id1="90702" id2="17" version="1065353216">
+		<source>Sometimes a decision must be made quickly, without hours of soul-searching.</source>
+		<target>Иногда решение нужно принять быстро, не тратя часы на самокопания.</target>
+	</unit>
+	<unit bitflag="1360" id1="90702" id2="17" version="1065353216">
+		<source>That can take too long.</source>
+		<target>Это может занять слишком много времени.</target>
+	</unit>
+	<unit bitflag="1345" id1="90703" id2="17" version="1065353216">
+		<source>Perhaps, but then you must live with the consequences.</source>
+		<target>Возможно, но тогда нужно смириться с последствиями.</target>
+	</unit>
+	<unit bitflag="1345" id1="90705" id2="17" version="1065353216">
+		<source>We are Jedi. Every decision we make may affect strangers millions of light-years away.</source>
+		<target>Мы джедаи. Каждое принимаемое нами решение может повлиять на незнакомых нам людей в миллионах световых лет отсюда.</target>
+	</unit>
+	<unit bitflag="1345" id1="90707" id2="17" version="1065353216">
+		<source>That knowledge must guide your judgment. Activation protocol complete.</source>
+		<target>Это знание должно управлять твоими суждениями. Протокол активации завершён.</target>
+	</unit>
+</dialogue_file>

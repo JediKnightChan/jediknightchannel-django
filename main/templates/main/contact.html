@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+
+{% block title %}JediKnightChannel — Связаться{% endblock %}
+{% block head_additional %}
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+    <style>
+        .g-recaptcha div {
+            height: 120px !important;
+        }
+	</style>
+
+{% endblock %}
+
+
+{% block content %}
+    <div id="body">
+			<div class="header">
+				<div class="contact">
+					<h1>Связаться</h1>
+					<h2>Заполните форму ниже</h2>
+					<form action="{% url 'contact_page' %}" method="POST">{% csrf_token %}
+                        {% for hidden in form.hidden_fields %}
+                        {{ hidden }}
+                        {% endfor %}
+                        {% for field in form.visible_fields %}
+                                {{ field.errors }}
+                                {{ field }}
+                        {% endfor %}
+
+                        <div class="g-recaptcha" data-sitekey="6Lc2z24UAAAAAOzklBDX6fKw8K6oH0eK4VG9TnGM"></div><br>
+                        <input type="submit" value="Отправить" id="submit">
+                    </form>
+				</div>
+			</div>
+		</div>
+{% endblock %}

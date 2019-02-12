@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="27">
+	<unit bitflag="321" id1="90772" id2="17" version="1065353216">
+		<source>[The writing carved into this stone is almost illegible with age.]</source>
+		<target>[Надписи на камне уже стёрлись от времени]</target>
+	</unit>
+	<unit bitflag="321" id1="90774" id2="17" version="1065353216">
+		<source>[The more you examine it, the stronger your intuition becomes: the first blade you seek is here.]</source>
+		<target>[Чем больше вы изучаете его, тем больше ваше предчувствие: первый клинок, что вы ищете, находится здесь]</target>
+	</unit>
+	<unit bitflag="321" id1="90776" id2="17" version="1065353216">
+		<source>[Drawing on your knowledge of ancient texts, you puzzle out a translation. The words &quot;first blade&quot; are still readable.]</source>
+		<target>[Опираясь на ваше знание древних текстов, вы выводите перевод. Слова «первый клинок» всё ещё можно разобрать]</target>
+	</unit>
+	<unit bitflag="321" id1="90778" id2="17" version="1065353216">
+		<source>[Your years of travel and experiencing new languages help you comprehend it. The words &quot;first blade&quot; are still readable.]</source>
+		<target>[Ваши годы путешествий и опыт изучения новых языков помогают вам понять надписи. Слова «первый клинок» всё ещё можно разобрать]</target>
+	</unit>
+	<unit bitflag="1345" id1="90780" id2="17" version="1065353216">
+		<source>Show respect. You stand before greatness.</source>
+		<target>Прояви уважение. Ты стоишь пред самим величием.</target>
+	</unit>
+	<unit bitflag="1345" id1="90782" id2="17" version="1065353216">
+		<source>The first blade. I guard. It rests with the ashes of its maker. The Weapon Master.</source>
+		<target>Первый клинок. Я охраняю. Он покоится вместе с прахом его создателя. Мастера Оружия.</target>
+	</unit>
+	<unit bitflag="1345" id1="90783" id2="17" version="1065353216">
+		<source>I don't know the title. Who was he?</source>
+		<target>Я не знаю такого титула. Кто это?</target>
+	</unit>
+	<unit bitflag="1360" id1="90783" id2="17" version="1065353216">
+		<source>The Weapon Master?</source>
+		<target>Мастер Оружия?</target>
+	</unit>
+	<unit bitflag="1345" id1="90784" id2="17" version="1065353216">
+		<source>He saw Jedi as warriors. Not only philosophers. Armed them. Protected them.</source>
+		<target>Он смотрел на джедаев как на воинов. Не только философов. Вооружал их. Защищал их.</target>
+	</unit>
+	<unit bitflag="1345" id1="90786" id2="17" version="1065353216">
+		<source>I must take the first blade. The Jedi have need of it again.</source>
+		<target>Я должен забрать первый клинок. Он снова нужен джедаям.</target>
+	</unit>
+	<unit bitflag="1360" id1="90786" id2="17" version="1065353216">
+		<source>I've come for the first blade.</source>
+		<target>Я пришёл за первым клинком.</target>
+	</unit>
+	<unit bitflag="1345" id1="90787" id2="17" version="1065353216">
+		<source>Why bother protecting this antique?</source>
+		<target>Зачем беспокоиться о защите этого антиквариата?</target>
+	</unit>
+	<unit bitflag="1360" id1="90787" id2="17" version="1065353216">
+		<source>Strange to guard it.</source>
+		<target>Странно охранять его.</target>
+	</unit>
+	<unit bitflag="1345" id1="90788" id2="17" version="1065353216">
+		<source>The first blade. First Jedi weapon. From this beginning, lightsabers came.</source>
+		<target>Первый клинок. Первое оружие джедаев. Именно с него начались световые мечи.</target>
+	</unit>
+	<unit bitflag="1345" id1="90790" id2="17" version="1065353216">
+		<source>Millennia pass. Only hilt of first blade remains. Only disturbed once.</source>
+		<target>Тысячелетия проходят. Лишь рукоять первого клинка остаётся. Лишь потревожена однажды.</target>
+	</unit>
+	<unit bitflag="1345" id1="90792" id2="17" version="1065353216">
+		<source>&quot;Rajivari&quot; came. He proved worthy. Permitted to take the hilt. Later, returned it.</source>
+		<target>«Радживари» приходил. Он доказал, что достоин. Разрешил взять рукоять. Позже вернул её.</target>
+	</unit>
+	<unit bitflag="1345" id1="90793" id2="17" version="1065353216">
+		<source>Why would Master Rajivari take the hilt and then bring it back?</source>
+		<target>Зачем мастеру Радживари сначала брать рукоять, а затем возвращать её назад?</target>
+	</unit>
+	<unit bitflag="1360" id1="90793" id2="17" version="1065353216">
+		<source>He returned it?</source>
+		<target>Он вернул её?</target>
+	</unit>
+	<unit bitflag="1345" id1="90794" id2="17" version="1065353216">
+		<source>Not my concern.</source>
+		<target>Не моя забота.</target>
+	</unit>
+	<unit bitflag="1345" id1="90796" id2="17" version="1065353216">
+		<source>Perhaps I could do as Rajivari did.</source>
+		<target>Возможно, я могу поступить как Радживари.</target>
+	</unit>
+	<unit bitflag="1360" id1="90796" id2="17" version="1065353216">
+		<source>&quot;Proved worthy,&quot; you say.</source>
+		<target>«Доказал, что достоин», говоришь.</target>
+	</unit>
+	<unit bitflag="1345" id1="90797" id2="17" version="1065353216">
+		<source>Enough history lessons. I came for the first blade, or whatever's left of it.</source>
+		<target>Хватит уроков истории. Я пришёл за первым клинком, или тем, что от него осталось.</target>
+	</unit>
+	<unit bitflag="1360" id1="90797" id2="17" version="1065353216">
+		<source>Just give me the hilt.</source>
+		<target>Просто дай мне рукоять.</target>
+	</unit>
+	<unit bitflag="1345" id1="90798" id2="17" version="1065353216">
+		<source>To take the hilt, prove worthy. The philosophy of Jedi combat. Show understanding.</source>
+		<target>Чтобы взять рукоять, докажи, что достоин. Философия боя джедаев. Покажи понимание.</target>
+	</unit>
+	<unit bitflag="1345" id1="90800" id2="17" version="1065353216">
+		<source>The Weapon Master left challenges. Here, in Kaleth. Training droids. To test his students.</source>
+		<target>Мастер Оружия оставил вызовы. Здесь, в Калете. Тренировочные дроиды. Испытать своих учеников.</target>
+	</unit>
+	<unit bitflag="1345" id1="90802" id2="17" version="1065353216">
+		<source>Find them. Prevail. The hilt of the first blade waits.</source>
+		<target>Найди их. Возьми верх. Рукоять первого клинка ждёт.</target>
+	</unit>
+	<unit bitflag="321" id1="90804" id2="17" version="1065353216">
+		<source>[The writing carved into this stone is almost illegible with age.]</source>
+		<target>[Надписи на камне уже практически стёрлись от времени]</target>
+	</unit>
+</dialogue_file>

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="80">
+	<unit bitflag="1345" id1="659749" id2="17" version="1065353216">
+		<source>Ugh. Ow.</source>
+		<target>Ах. Ой.</target>
+	</unit>
+	<unit bitflag="1345" id1="659751" id2="17" version="1065353216">
+		<source>You... still took all four of us apart.</source>
+		<target>Ты... всё-таки сильнее нас четверых.</target>
+	</unit>
+	<unit bitflag="1345" id1="659754" id2="17" version="1065353216">
+		<source>That's because you're a bunch of lightweights.</source>
+		<target>Это потому, что вы кучка слабаков.</target>
+	</unit>
+	<unit bitflag="1360" id1="659754" id2="17" version="1065353216">
+		<source>You're all inferior.</source>
+		<target>Вы все неполноценные.</target>
+	</unit>
+	<unit bitflag="1360" id1="659755" id2="17" version="1065353216">
+		<source>It was easy.</source>
+		<target>Это было легко.</target>
+	</unit>
+	<unit bitflag="1345" id1="659756" id2="17" version="1065353216">
+		<source>Don't be too hard on yourselves. I've had a lot of training.</source>
+		<target>Не будьте столь строги к себе. Я просто натренирован.</target>
+	</unit>
+	<unit bitflag="1360" id1="659756" id2="17" version="1065353216">
+		<source>Keep practicing.</source>
+		<target>Тренируйтесь.</target>
+	</unit>
+	<unit bitflag="1345" id1="659757" id2="17" version="1065353216">
+		<source>Man, I'm not sure there's enough time in the whole galaxy for us to get that good.</source>
+		<target>Парень, не уверена, что хватит времени всей галактики, чтобы нам стать такими, как ты.</target>
+	</unit>
+	<unit bitflag="1345" id1="659759" id2="17" version="1065353216">
+		<source>This changes everything. From what I hear, Vemrin's every bit your physical equal. If we can't even hold up sparring against you, we'll never be able to kill him.</source>
+		<target>Это всё меняет. Судя по тому, что я слышала, Вемрин столь же силён, как и ты. Если мы даже не можем продержаться в спарринге против тебя, его мы точно не сможем убить.</target>
+	</unit>
+	<unit bitflag="1345" id1="659760" id2="17" version="1065353216">
+		<source>I agree, you should steer clear of Vemrin.</source>
+		<target>Согласен, так что вам стоит избегать Вемрина.</target>
+	</unit>
+	<unit bitflag="1360" id1="659760" id2="17" version="1065353216">
+		<source>Yes. Give it up.</source>
+		<target>Да. Оставьте это.</target>
+	</unit>
+	<unit bitflag="1345" id1="659761" id2="17" version="1065353216">
+		<source>Well, this has been quite the sobering experience. Thanks for setting us straight.</source>
+		<target>Ну, это был довольно отрезвляющий опыт. Спасибо, что поставил всё на свои места.</target>
+	</unit>
+	<unit bitflag="1345" id1="659763" id2="17" version="1065353216">
+		<source>Nonsense, I think you're up to the task.</source>
+		<target>Чушь, думаю вы вполне готовы для этого.</target>
+	</unit>
+	<unit bitflag="1360" id1="659763" id2="17" version="1065353216">
+		<source>Go ahead. Try killing him.</source>
+		<target>Ну давайте. Попробуйте убить его.</target>
+	</unit>
+	<unit bitflag="1345" id1="659764" id2="17" version="1065353216">
+		<source>You really think so?</source>
+		<target>Ты правда так думаешь?</target>
+	</unit>
+	<unit bitflag="1345" id1="659766" id2="17" version="1065353216">
+		<source>You got it all wrong. Vemrin is just a lot of big talk and reputation.</source>
+		<target>Вы всё не так поняли. У Вемрина лишь длинный язык и репутация.</target>
+	</unit>
+	<unit bitflag="1360" id1="659766" id2="17" version="1065353216">
+		<source>Vemrin's nothing.</source>
+		<target>Вемрин ничто.</target>
+	</unit>
+	<unit bitflag="1345" id1="659767" id2="17" version="1065353216">
+		<source>Really? You mean he gets by on the illusion of strength.</source>
+		<target>Серьёзно? То есть, он просто создал впечатление своей силы.</target>
+	</unit>
+	<unit bitflag="1345" id1="659769" id2="17" version="1065353216">
+		<source>Everyone says he's a savage killer. Even though you practically slaughtered us with your eyes closed, do you really think we could take him?</source>
+		<target>Все говорят, что он жестокий убийца. Даже если учесть, что ты практически вырезал нас с закрытыми глазами, ты и вправду думаешь, что он нам по зубам?</target>
+	</unit>
+	<unit bitflag="1345" id1="659770" id2="17" version="1065353216">
+		<source>Trust me--Vemrin pales compared to me.</source>
+		<target>Поверь мне: Вемрин блекнет по сравнению со мной.</target>
+	</unit>
+	<unit bitflag="1360" id1="659770" id2="17" version="1065353216">
+		<source>Of course.</source>
+		<target>Ну конечно же.</target>
+	</unit>
+	<unit bitflag="1345" id1="659771" id2="17" version="1065353216">
+		<source>I trust your judgment. If you think we stand a fighting chance, I mean to prove you right.</source>
+		<target>Я верю твоему суждению. Если ты считаешь, что у нас есть шанс, я намерена доказать это.</target>
+	</unit>
+	<unit bitflag="1345" id1="659773" id2="17" version="1065353216">
+		<source>Now that I think of it, he would tear you limb from limb.</source>
+		<target>Ну а сейчас мне кажется, что он просто порвёт вас на куски.</target>
+	</unit>
+	<unit bitflag="1360" id1="659773" id2="17" version="1065353216">
+		<source>Maybe not.</source>
+		<target>А может и нет.</target>
+	</unit>
+	<unit bitflag="1345" id1="659774" id2="17" version="1065353216">
+		<source>Well, I'm glad your conscience got the better of you then. Consider us humbled. Come along, Teeno.</source>
+		<target>Ну, я рада, что у тебя совесть проснулась. Считай, что мы посрамлены. Пойдём, Тино.</target>
+	</unit>
+	<unit bitflag="1345" id1="659776" id2="17" version="1065353216">
+		<source>I don't get it. Are we--are we gonna kill somebody or not?</source>
+		<target>Я что-то не пойму, так мы убьём кого-нибудь или нет?</target>
+	</unit>
+	<unit bitflag="1345" id1="659778" id2="17" version="1065353216">
+		<source>No, Teeno. And I think we ought to rethink this whole Sith training thing.</source>
+		<target>Нет, Тино. И я думаю, нам следовало бы переосмыслить всё это обучение ситов.</target>
+	</unit>
+	<unit bitflag="1345" id1="659782" id2="17" version="1065353216">
+		<source>Just ambush him. Catch him when he isn't expecting it.</source>
+		<target>Просто заманите его в засаду. Поймайте его, когда он этого не ожидает.</target>
+	</unit>
+	<unit bitflag="1360" id1="659782" id2="17" version="1065353216">
+		<source>If you're smart.</source>
+		<target>У вас есть мозги?</target>
+	</unit>
+	<unit bitflag="1345" id1="659783" id2="17" version="1065353216">
+		<source>Ah, true. We would have that to our advantage. He would not have the benefit of foreknowledge. Very good then.</source>
+		<target>А, ну да. Это даст нам преимущество. У него не будет возможности предусмотреть это. Отлично.</target>
+	</unit>
+	<unit bitflag="1345" id1="659785" id2="17" version="1065353216">
+		<source>There, Teeno, I believe that's the one.</source>
+		<target>Вот, Тино, полагаю, это он.</target>
+	</unit>
+	<unit bitflag="1345" id1="659787" id2="17" version="1065353216">
+		<source>Really. All right. Hey, you!</source>
+		<target>И вправду. Ну ладно. Эй ты!</target>
+	</unit>
+	<unit bitflag="1345" id1="659789" id2="17" version="1065353216">
+		<source>Careful, Teeno.</source>
+		<target>Осторожнее, Тино.</target>
+	</unit>
+	<unit bitflag="1345" id1="659791" id2="17" version="1065353216">
+		<source>Come on, I'm antsy for some action. You there! Are you the big shot they're all talking about? The one who's been personally summoned by Darth Baras himself?</source>
+		<target>Да брось, я хочу действовать. Эй ты! Ты — та важная шишка, о котором все говорят? Тот самый, кого вызвал сам Дарт Барас?</target>
+	</unit>
+	<unit bitflag="1345" id1="659792" id2="17" version="1065353216">
+		<source>News sure does travel fast.</source>
+		<target>А новости распространяются быстро.</target>
+	</unit>
+	<unit bitflag="1360" id1="659792" id2="17" version="1065353216">
+		<source>That's me.</source>
+		<target>Тот самый.</target>
+	</unit>
+	<unit bitflag="1360" id1="659793" id2="17" version="1065353216">
+		<source>What do you want?</source>
+		<target>Чего тебе надо?</target>
+	</unit>
+	<unit bitflag="1360" id1="659794" id2="17" version="1065353216">
+		<source>Back off.</source>
+		<target>Отойди.</target>
+	</unit>
+	<unit bitflag="1345" id1="659795" id2="17" version="1065353216">
+		<source>Please pardon my overeager friend. It's just that we've heard so much about you.</source>
+		<target>Прошу простить моего вспыльчивого друга. Мы просто о тебе очень наслышаны.</target>
+	</unit>
+	<unit bitflag="1345" id1="659797" id2="17" version="1065353216">
+		<source>And we want to get in good with you.</source>
+		<target>И мы хотим с тобой подружиться.</target>
+	</unit>
+	<unit bitflag="1345" id1="659799" id2="17" version="1065353216">
+		<source>Teeno! What my blunt partner here means is that if you need anything or anyone, say, dealt with, we'd like you to consider us.</source>
+		<target>Тино! Мой тупой коллега хочет сказать, что если тебе понадобится с чем-то или кем-то, скажем, разобраться, мы готовы помочь.</target>
+	</unit>
+	<unit bitflag="1345" id1="659802" id2="17" version="1065353216">
+		<source>Why would I need help from the likes of you?</source>
+		<target>С чего бы это мне ждать помощи от таких, как вы?</target>
+	</unit>
+	<unit bitflag="1360" id1="659802" id2="17" version="1065353216">
+		<source>For what, exactly?</source>
+		<target>Для чего именно?</target>
+	</unit>
+	<unit bitflag="1360" id1="659803" id2="17" version="1065353216">
+		<source>Say what you mean.</source>
+		<target>Говори прямо.</target>
+	</unit>
+	<unit bitflag="1345" id1="659804" id2="17" version="1065353216">
+		<source>Peddle your amateur wares someplace else.</source>
+		<target>Впаривайте свои дилетантские услуги кому-нибудь другому.</target>
+	</unit>
+	<unit bitflag="1360" id1="659804" id2="17" version="1065353216">
+		<source>Consider yourselves rejected.</source>
+		<target>Считайте, ответ отрицательный.</target>
+	</unit>
+	<unit bitflag="1345" id1="659805" id2="17" version="1065353216">
+		<source>Well, I understand we're new here, but working together, we're lethal. And I happen to know you are competing with a certain blowhard.</source>
+		<target>Ну, мы понимаем, что мы новички, но работая вместе мы опасны. И так уж вышло, что я узнала о твоём противостоянии с неким хвастуном.</target>
+	</unit>
+	<unit bitflag="1345" id1="659807" id2="17" version="1065353216">
+		<source>She's talking about Vemrin. We'll kill him for you.</source>
+		<target>Она о Вемрине. Мы убьём его для тебя.</target>
+	</unit>
+	<unit bitflag="1345" id1="659809" id2="17" version="1065353216">
+		<source>Sorry, I should have had Teeno muzzled. So, what do you say? We know Vemrin tried to have you killed. Would you like him eliminated?</source>
+		<target>Извини, мне следовало бы заткнуть Тино рот тряпкой. Ну так что? Мы знаем, что Вемрин уже пытался тебя убить. Хочешь ли ты его смерти?</target>
+	</unit>
+	<unit bitflag="1345" id1="659810" id2="17" version="1065353216">
+		<source>I will not stoop to Vemrin's level.</source>
+		<target>Я не стану опускаться до уровня Вемрина.</target>
+	</unit>
+	<unit bitflag="1360" id1="659810" id2="17" version="1065353216">
+		<source>I'm not as crude as him.</source>
+		<target>Я не такой примитивный, как он.</target>
+	</unit>
+	<unit bitflag="1345" id1="659811" id2="17" version="1065353216">
+		<source>No, no, of course not, you're too smart.</source>
+		<target>Нет, нет, конечно нет, ты слишком умён.</target>
+	</unit>
+	<unit bitflag="1345" id1="659813" id2="17" version="1065353216">
+		<source>Something like this would have to be handled delicately.</source>
+		<target>Что-то вроде этого нужно провернуть деликатно.</target>
+	</unit>
+	<unit bitflag="1360" id1="659813" id2="17" version="1065353216">
+		<source>That would be tricky.</source>
+		<target>Это было бы непросто.</target>
+	</unit>
+	<unit bitflag="1345" id1="659814" id2="17" version="1065353216">
+		<source>Of course, we completely understand.</source>
+		<target>Конечно, мы всё понимаем.</target>
+	</unit>
+	<unit bitflag="1345" id1="659816" id2="17" version="1065353216">
+		<source>I'm preserving the pleasure for myself.</source>
+		<target>Я предпочитаю получать удовольствие сам.</target>
+	</unit>
+	<unit bitflag="1360" id1="659816" id2="17" version="1065353216">
+		<source>Yes--by my own hand.</source>
+		<target>Да — но от своей руки.</target>
+	</unit>
+	<unit bitflag="1345" id1="659817" id2="17" version="1065353216">
+		<source>Far be it for us to rob you of such an experience. But consider this:</source>
+		<target>Мы не хотим лишить тебя такого опыта. Но учти вот что...</target>
+	</unit>
+	<unit bitflag="1345" id1="659819" id2="17" version="1065353216">
+		<source>There are rules. Acolytes are not to openly kill one another. Everyone knows of your rivalry. If you kill him, the lords will presume your guilt.</source>
+		<target>Здесь есть правила. Служители не убивают друг друга в открытую. Все знают о вашем соперничестве. Если ты убьёшь его, лорды тут же обвинят тебя.</target>
+	</unit>
+	<unit bitflag="1345" id1="659821" id2="17" version="1065353216">
+		<source>But if Vemrin croaks while you got an alibi, people might be suspicious, but they won't be able to pin it on you. See?</source>
+		<target>Но если Вемрин умрёт, а у тебя будет алиби, все будут тебя подозревать, но ничего не смогут утверждать наверняка. Ясно?</target>
+	</unit>
+	<unit bitflag="1345" id1="659822" id2="17" version="1065353216">
+		<source>I wouldn't be upset if Vemrin turns up dead.</source>
+		<target>Я не огорчусь, если Вемрин умрёт.</target>
+	</unit>
+	<unit bitflag="1360" id1="659822" id2="17" version="1065353216">
+		<source>Consider me nodding.</source>
+		<target>Считай, что я согласен.</target>
+	</unit>
+	<unit bitflag="1345" id1="659823" id2="17" version="1065353216">
+		<source>Say no more. Go about your business. We'll handle this with utter discretion.</source>
+		<target>Ни слова больше. Иди занимайся своими делами. Мы разберёмся с этим по своему усмотрению.</target>
+	</unit>
+	<unit bitflag="1345" id1="659825" id2="17" version="1065353216">
+		<source>What does this mean, Phyne?</source>
+		<target>И что это значит, Файн?</target>
+	</unit>
+	<unit bitflag="1345" id1="659827" id2="17" version="1065353216">
+		<source>It means Vemrin is a dead man, and we're going to have the most potent of allies.</source>
+		<target>Это значит, что Вемрин покойник, а мы заполучим наиболее сильного союзника.</target>
+	</unit>
+	<unit bitflag="1360" id1="659831" id2="17" version="1065353216">
+		<source>This isn't how I'll handle it.</source>
+		<target>Я действую не так.</target>
+	</unit>
+	<unit bitflag="1345" id1="659832" id2="17" version="1065353216">
+		<source>I don't know. How can I be sure you can pull it off?</source>
+		<target>Не знаю. И с чего бы мне поверить, что вы сможете это сделать?</target>
+	</unit>
+	<unit bitflag="1360" id1="659832" id2="17" version="1065353216">
+		<source>Are you capable?</source>
+		<target>А вы справитесь?</target>
+	</unit>
+	<unit bitflag="1345" id1="659833" id2="17" version="1065353216">
+		<source>Let us prove ourselves to you. Spar with us, then decide if we have the skills to benefit you in this endeavor.</source>
+		<target>Позволь нам показать тебе, на что мы годны. Сразись с нами, а затем реши, есть ли у нас навыки, чтобы принести тебе пользу в этом начинании.</target>
+	</unit>
+	<unit bitflag="1345" id1="659834" id2="17" version="1065353216">
+		<source>All right, let's see what you got.</source>
+		<target>Ну хорошо, посмотрим, насколько вы хороши.</target>
+	</unit>
+	<unit bitflag="1360" id1="659834" id2="17" version="1065353216">
+		<source>Good idea.</source>
+		<target>Хорошая идея.</target>
+	</unit>
+	<unit bitflag="1345" id1="659835" id2="17" version="1065353216">
+		<source>At your best, boys. It's time to audition for the big show.</source>
+		<target>Постарайтесь, мальчики. Нужно пройти испытание перед большой игрой.</target>
+	</unit>
+	<unit bitflag="1345" id1="659836" id2="17" version="1065353216">
+		<source>I don't have time for children's games.</source>
+		<target>У меня нет времени на игры.</target>
+	</unit>
+	<unit bitflag="1360" id1="659836" id2="17" version="1065353216">
+		<source>What a waste of effort.</source>
+		<target>Какая трата сил.</target>
+	</unit>
+	<unit bitflag="1345" id1="659837" id2="17" version="1065353216">
+		<source>Oh, it won't take long. A few passes and it'll be obvious how impressive we are.</source>
+		<target>О, это будет быстро. Несколько ударов — и ты поймёшь, насколько мы впечатляющи.</target>
+	</unit>
+	<unit bitflag="1345" id1="659839" id2="17" version="1065353216">
+		<source>You should be warned. I will not hold back. There will be injuries.</source>
+		<target>Вас следует предупредить. Я не стану сдерживаться. Будут травмы.</target>
+	</unit>
+	<unit bitflag="1360" id1="659839" id2="17" version="1065353216">
+		<source>You risk being mauled.</source>
+		<target>Вы рискуете огрести.</target>
+	</unit>
+	<unit bitflag="1345" id1="659840" id2="17" version="1065353216">
+		<source>Well, that's the chance we're willing to take.</source>
+		<target>Ну, вот шанс, который мы и хотели получить.</target>
+	</unit>
+	<unit bitflag="1345" id1="659842" id2="17" version="1065353216">
+		<source>Come on, boys, time to show our stuff!</source>
+		<target>Ну же, мальчики, время показать, на что мы способны!</target>
+	</unit>
+	<unit bitflag="1345" id1="659844" id2="17" version="1065353216">
+		<source>I'm a little preoccupied here. Sorry.</source>
+		<target>Я тут немного занята. Сожалею.</target>
+	</unit>
+</dialogue_file>

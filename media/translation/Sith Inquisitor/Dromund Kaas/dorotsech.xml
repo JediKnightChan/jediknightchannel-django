@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="61">
+	<unit bitflag="1345" id1="680231" id2="17" version="1065353216">
+		<source>Please tell me Lord Zash sent you. Please. I can't stand it here any longer. I don't want to die!</source>
+		<target>Прошу, скажите, что вы от лорда Заш. Прошу. Я больше это не вынесу. Я не хочу умирать!</target>
+	</unit>
+	<unit bitflag="3393" id1="680233" id2="17" version="1065353216">
+		<source>Ha. Sniveling creature. Not even worth devouring.</source>
+		<target>Ха. Хныкающее существо. Даже не достойно пожирания.</target>
+	</unit>
+	<unit bitflag="1345" id1="680235" id2="17" version="1065353216">
+		<source>Are you Grathan's cyborg expert in chains?</source>
+		<target>Это ты киберэксперт Гратана, закованный в цепи?</target>
+	</unit>
+	<unit bitflag="1360" id1="680235" id2="17" version="1065353216">
+		<source>You the scientist?</source>
+		<target>Ты учёный?</target>
+	</unit>
+	<unit bitflag="1345" id1="680236" id2="17" version="1065353216">
+		<source>Yes, yes, I am and I got just what you need--just what Lord Zash ordered.</source>
+		<target>Да, да, это я, и у меня как раз есть то, что вам нужно... что заказала лорд Заш.</target>
+	</unit>
+	<unit bitflag="1345" id1="680238" id2="17" version="1065353216">
+		<source>I'm a friend. Lord Zash sent me.</source>
+		<target>Я друг. Я от лорда Заш.</target>
+	</unit>
+	<unit bitflag="1360" id1="680238" id2="17" version="1065353216">
+		<source>Calm down.</source>
+		<target>Успокойся.</target>
+	</unit>
+	<unit bitflag="1345" id1="680239" id2="17" version="1065353216">
+		<source>Oh thank goodness. I got just what you need, then. You can tell Lord Zash that Dorotsech did good work.</source>
+		<target>О, слава небесам. Тогда у меня как раз есть то, что вам нужно. Вы можете передать лорду Заш, что Доротсек отлично справился со своей работой.</target>
+	</unit>
+	<unit bitflag="1345" id1="680241" id2="17" version="1065353216">
+		<source>I understand you've created a device that can harm cyborgs. Give it to me.</source>
+		<target>Я так понимаю, ты создал устройство, способное повредить киборга. Дай его сюда.</target>
+	</unit>
+	<unit bitflag="1360" id1="680241" id2="17" version="1065353216">
+		<source>I want your invention.</source>
+		<target>Я хочу твоё изобретение.</target>
+	</unit>
+	<unit bitflag="1345" id1="680242" id2="17" version="1065353216">
+		<source>The device? Oh, you mean the neutralizer, the cyber neutralizer.</source>
+		<target>Устройство? О, вы имеете в виду нейтрализатор, кибернейтрализатор.</target>
+	</unit>
+	<unit bitflag="1345" id1="680244" id2="17" version="1065353216">
+		<source>My finest work yet--though I don't quite see what the use of it is.</source>
+		<target>Моё лучшее творение... хотя я не совсем понимаю, какой от него толк.</target>
+	</unit>
+	<unit bitflag="1345" id1="680245" id2="17" version="1065353216">
+		<source>If you hope to trick me into revealing something, your hopes are poorly placed indeed.</source>
+		<target>Если надеешься уловкой заставить меня что-то тебе рассказать, твои надежды и впрямь беспочвенны.</target>
+	</unit>
+	<unit bitflag="1360" id1="680245" id2="17" version="1065353216">
+		<source>Nice try.</source>
+		<target>И не пытайся.</target>
+	</unit>
+	<unit bitflag="1345" id1="680246" id2="17" version="1065353216">
+		<source>No! I don't want to know any more than is good for me. I'm just warning you.</source>
+		<target>Нет! Я не хочу знать больше, чем мне положено. Я просто предупреждаю.</target>
+	</unit>
+	<unit bitflag="1360" id1="680248" id2="17" version="1065353216">
+		<source>What?</source>
+		<target>К чему это?</target>
+	</unit>
+	<unit bitflag="1345" id1="680249" id2="17" version="1065353216">
+		<source>The neutralizer works by hijacking the cyber neural center, causing it to fire impulses so rapidly it overloads.</source>
+		<target>Работа нейтрализатора заключается в том, что он воздействует на кибернейроцентр, вызывая поток импульсов, приводящих к его перегрузке.</target>
+	</unit>
+	<unit bitflag="1345" id1="680251" id2="17" version="1065353216">
+		<source>Real cutting-edge tech, and real expensive to develop. It'll work like a charm on a droid, but it's a one-off and too expensive for mass production.</source>
+		<target>Это действительно новейшая технология, и очень дорогая в разработке. Она сотворит чудо с дроидом, но только один раз, а для серийного производства слишком дорого.</target>
+	</unit>
+	<unit bitflag="1345" id1="680252" id2="17" version="1065353216">
+		<source>I only need to use it once.</source>
+		<target>Мне нужно использовать её лишь один раз.</target>
+	</unit>
+	<unit bitflag="1360" id1="680252" id2="17" version="1065353216">
+		<source>That's okay.</source>
+		<target>Всё хорошо.</target>
+	</unit>
+	<unit bitflag="1345" id1="680253" id2="17" version="1065353216">
+		<source>If you're sure of that.</source>
+		<target>Раз уж вы так уверены.</target>
+	</unit>
+	<unit bitflag="1345" id1="680255" id2="17" version="1065353216">
+		<source>I don't care how it works, just give me the device.</source>
+		<target>Мне всё равно, как он работает, просто дай мне его.</target>
+	</unit>
+	<unit bitflag="1360" id1="680255" id2="17" version="1065353216">
+		<source>Hand it over already.</source>
+		<target>Давай его уже сюда.</target>
+	</unit>
+	<unit bitflag="1345" id1="680256" id2="17" version="1065353216">
+		<source>Look, I really don't want to be the one telling you this, but it's not that simple.</source>
+		<target>Слушайте, мне правда бы не хотелось вам это говорить, но всё не так просто.</target>
+	</unit>
+	<unit bitflag="1345" id1="680258" id2="17" version="1065353216">
+		<source>What of the mechanical Darth?</source>
+		<target>А как насчёт механического Дарта?</target>
+	</unit>
+	<unit bitflag="1360" id1="680258" id2="17" version="1065353216">
+		<source>And Skotia?</source>
+		<target>А со Скоушией?</target>
+	</unit>
+	<unit bitflag="1345" id1="680259" id2="17" version="1065353216">
+		<source>I don't know who you're talking about, and I don't want to know.</source>
+		<target>Не знаю, о ком вы говорите, и не хочу знать.</target>
+	</unit>
+	<unit bitflag="1345" id1="680261" id2="17" version="1065353216">
+		<source>Why, to fell a Darth, my anxious friend.</source>
+		<target>Толк в том, чтобы разрубить одного Дарта, моего беспокойного друга.</target>
+	</unit>
+	<unit bitflag="1360" id1="680261" id2="17" version="1065353216">
+		<source>To kill Skotia.</source>
+		<target>Убить Скоушию.</target>
+	</unit>
+	<unit bitflag="1345" id1="680262" id2="17" version="1065353216">
+		<source>But that's just what I'm saying--I don't know how useful it actually is.</source>
+		<target>Но это я как раз и говорю... я не знаю, насколько большой от него будет толк.</target>
+	</unit>
+	<unit bitflag="1345" id1="680264" id2="17" version="1065353216">
+		<source>Lord Zash commissioned this weapon against cyborgs--thing is, most cyborgs are only ten percent machine.</source>
+		<target>Лорд Заш заказала это оружие для борьбы с киборгами... но дело в том, что большинство киборгов лишь на десять процентов машины.</target>
+	</unit>
+	<unit bitflag="1345" id1="680266" id2="17" version="1065353216">
+		<source>You'd need someone at least fifty percent machine for the neutralizer to do any real damage.</source>
+		<target>Чтобы нейтрализатор причинил серьёзные повреждения, вам понадобится тот, кто по крайней мере на пятьдесят процентов машина.</target>
+	</unit>
+	<unit bitflag="1345" id1="680267" id2="17" version="1065353216">
+		<source>Oh, my mark's fifty percent machine--at least.</source>
+		<target>О, моя цель на пятьдесят процентов машина... по крайней мере.</target>
+	</unit>
+	<unit bitflag="1360" id1="680267" id2="17" version="1065353216">
+		<source>Perfect.</source>
+		<target>Идеально.</target>
+	</unit>
+	<unit bitflag="1345" id1="680268" id2="17" version="1065353216">
+		<source>I don't want to know! I don't want to know!</source>
+		<target>Я не хочу знать! Я не хочу знать!</target>
+	</unit>
+	<unit bitflag="1360" id1="680270" id2="17" version="1065353216">
+		<source>The heads-up is appreciated.</source>
+		<target>Благодарю за предупреждение.</target>
+	</unit>
+	<unit bitflag="1345" id1="680271" id2="17" version="1065353216">
+		<source>Tell me where it is, or I'll kill you.</source>
+		<target>Скажи мне, где он, или я убью тебя.</target>
+	</unit>
+	<unit bitflag="1360" id1="680271" id2="17" version="1065353216">
+		<source>Give it to me!</source>
+		<target>Отдай мне его!</target>
+	</unit>
+	<unit bitflag="1345" id1="680272" id2="17" version="1065353216">
+		<source>If you want it, take it. It's only a prototype, but I guess it'll work if there's one droid you really want to bash.</source>
+		<target>Если хотите, возьмите его. Это всего лишь прототип, но, полагаю, он сработает против одного дроида, которого вам и правда захочется разнести.</target>
+	</unit>
+	<unit bitflag="1345" id1="680274" id2="17" version="1065353216">
+		<source>It's in the lab building, can't be missed. But Grathan wouldn't let me at the power cells I needed to power it. You'll need to steal those off his droids.</source>
+		<target>Он в здании лаборатории, не пропустите. Но Гратан не дал бы мне энергоячейки, нужные для подзарядки устройства. Вам нужно украсть их у его дроидов.</target>
+	</unit>
+	<unit bitflag="1345" id1="680275" id2="17" version="1065353216">
+		<source>I'm supposed to keep you quiet, and I think you know what that means.</source>
+		<target>Я должен заставить тебя замолчать, и, думаю, ты знаешь, что это значит.</target>
+	</unit>
+	<unit bitflag="1360" id1="680275" id2="17" version="1065353216">
+		<source>Time to shut you up.</source>
+		<target>Время тебя заткнуть.</target>
+	</unit>
+	<unit bitflag="1345" id1="680276" id2="17" version="1065353216">
+		<source>No, please! Zash said she'd free me. I have a wife and children and an astromech droid... I have to live!</source>
+		<target>Нет, пожалуйста! Заш сказала, что освободит меня. У меня жена, дети и дроид-астромеханик... я должен жить!</target>
+	</unit>
+	<unit bitflag="1345" id1="680278" id2="17" version="1065353216">
+		<source>Please. Look, I'm an inventor, right? A damn good inventor. You let me live, I'll invent you something. Whatever you want.</source>
+		<target>Пожалуйста. Послушайте, я же изобретатель, верно? Чертовски хороший изобретатель. Вы сохраните мне жизнь, а я вам что-нибудь изобрету. Всё, что пожелаете.</target>
+	</unit>
+	<unit bitflag="1345" id1="680279" id2="17" version="1065353216">
+		<source>Like something to protect me from my enemies?</source>
+		<target>Что-нибудь, чтобы защитить меня от врагов?</target>
+	</unit>
+	<unit bitflag="1360" id1="680279" id2="17" version="1065353216">
+		<source>I could use defense.</source>
+		<target>Мне бы пригодилась защита.</target>
+	</unit>
+	<unit bitflag="1345" id1="680280" id2="17" version="1065353216">
+		<source>I want to be able to kill Jedi by the hundreds!</source>
+		<target>Я хочу убивать джедаев сотнями!</target>
+	</unit>
+	<unit bitflag="1360" id1="680280" id2="17" version="1065353216">
+		<source>An offensive weapon?</source>
+		<target>Наступательное оружие?</target>
+	</unit>
+	<unit bitflag="1345" id1="680281" id2="17" version="1065353216">
+		<source>I know just the thing! I'll get started on it right away, okay? I'll send it to you, yes?</source>
+		<target>Я как раз знаю, что вам подойдёт! Я сейчас же приступлю к работе, хорошо? Я его вам пришлю, ладно?</target>
+	</unit>
+	<unit bitflag="1345" id1="680283" id2="17" version="1065353216">
+		<source>And as for your plans, no one'll hear a word about it from me. Not one word. Thank you! Thank you!</source>
+		<target>А что до ваших планов, то никто ни слова от меня не услышит. Ни слова. Спасибо! Спасибо!</target>
+	</unit>
+	<unit bitflag="1345" id1="680284" id2="17" version="1065353216">
+		<source>You have been most helpful.</source>
+		<target>Ты очень мне помог.</target>
+	</unit>
+	<unit bitflag="1360" id1="680284" id2="17" version="1065353216">
+		<source>No, thank you.</source>
+		<target>Нет, тебе спасибо.</target>
+	</unit>
+	<unit bitflag="1360" id1="680285" id2="17" version="1065353216">
+		<source>Just don't renege.</source>
+		<target>Только не нарушай обещание.</target>
+	</unit>
+	<unit bitflag="1345" id1="680286" id2="17" version="1065353216">
+		<source>This won't be the last time a pathetic wretch bows to me.</source>
+		<target>Не в последний раз передо мной преклоняется жалкое ничтожество.</target>
+	</unit>
+	<unit bitflag="1360" id1="680286" id2="17" version="1065353216">
+		<source>I love it when you grovel.</source>
+		<target>Обожаю, как ты пресмыкаешься.</target>
+	</unit>
+	<unit bitflag="1345" id1="680287" id2="17" version="1065353216">
+		<source>Thank you, thank you, thank you, thank you.</source>
+		<target>Спасибо, спасибо, спасибо, спасибо.</target>
+	</unit>
+	<unit bitflag="1345" id1="680288" id2="17" version="1065353216">
+		<source>Don't say a word about this to anyone.</source>
+		<target>Никому ни слова об этом.</target>
+	</unit>
+	<unit bitflag="1360" id1="680288" id2="17" version="1065353216">
+		<source>Keep your lips sealed.</source>
+		<target>Держи рот на замке.</target>
+	</unit>
+	<unit bitflag="1360" id1="680289" id2="17" version="1065353216">
+		<source>Goodbye. [Kill him]</source>
+		<target>Прощай. [Убить его]</target>
+	</unit>
+	<unit bitflag="1345" id1="680290" id2="17" version="1065353216">
+		<source>No! Please! Lord Zash said she'd free me!</source>
+		<target>Нет! Пожалуйста! Лорд Заш обещала, что освободит меня!</target>
+	</unit>
+	<unit bitflag="1345" id1="680294" id2="17" version="1065353216">
+		<source>No! Please! Don't hurt me!</source>
+		<target>Нет! Пожалуйста! Не трогайте меня!</target>
+	</unit>
+</dialogue_file>

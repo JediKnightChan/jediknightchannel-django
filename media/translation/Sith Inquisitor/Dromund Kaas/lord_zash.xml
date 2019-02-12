@@ -1,0 +1,1443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="360">
+	<unit bitflag="1345" id1="534241" id2="17" version="1065353216">
+		<source>Fantastic, apprentice. You're just in time for my surprise. Since you left for the Dark Temple, I've been reading and reading and reading.</source>
+		<target>Потрясающе, ученик. Ты пришёл как раз к сюрпризу. С тех пор, как ты ушёл в Тёмный Храм, я всё читала, читала и читала.</target>
+	</unit>
+	<unit bitflag="1345" id1="534243" id2="17" version="1065353216">
+		<source>Skotia's chambers are a treasure trove of research. Who would've thought a man like that had such a curious intellect?</source>
+		<target>Покои Скоушии — целая кладезь знаний. Кто бы мог подумать, что у такого человека был такой пытливый ум?</target>
+	</unit>
+	<unit bitflag="1345" id1="534245" id2="17" version="1065353216">
+		<source>It almost makes me regret that we had to kill him. But let me see this wonderful artifact you found!</source>
+		<target>Мне почти становится жаль, что нам пришлось его убить. Но дай мне взглянуть на тот чудесный артефакт, что ты нашёл!</target>
+	</unit>
+	<unit bitflag="1345" id1="534246" id2="17" version="1065353216">
+		<source>If you knew what I had to go through to get this....</source>
+		<target>Если бы вы знали, через что мне пришлось пройти...</target>
+	</unit>
+	<unit bitflag="1360" id1="534246" id2="17" version="1065353216">
+		<source>It was a lot of trouble.</source>
+		<target>Проблем от него была куча.</target>
+	</unit>
+	<unit bitflag="1345" id1="534247" id2="17" version="1065353216">
+		<source>It was a challenge, and you overcame it utterly.</source>
+		<target>Это было непросто, но ты решительно преодолел всякие сложности.</target>
+	</unit>
+	<unit bitflag="1345" id1="534249" id2="17" version="1065353216">
+		<source>It almost makes me regret that we had to kill him. But I digress--I trust you were successful in the Dark Temple?</source>
+		<target>Мне почти становится жаль, что нам пришлось его убить. Но я отвлекаюсь... полагаю, в Тёмном Храме ты добился успеха?</target>
+	</unit>
+	<unit bitflag="1345" id1="534250" id2="17" version="1065353216">
+		<source>You mentioned you had something for me?</source>
+		<target>Ты говорила, что у тебя что-то для меня есть.</target>
+	</unit>
+	<unit bitflag="1360" id1="534250" id2="17" version="1065353216">
+		<source>About this surprise....</source>
+		<target>Насчёт сюрприза...</target>
+	</unit>
+	<unit bitflag="1345" id1="534251" id2="17" version="1065353216">
+		<source>Indeed. I did. And I'll get to it in a moment.</source>
+		<target>Безусловно. Так и было. И через минутку я до этого дойду.</target>
+	</unit>
+	<unit bitflag="1360" id1="534253" id2="17" version="1065353216">
+		<source>Take it.</source>
+		<target>На, возьми.</target>
+	</unit>
+	<unit bitflag="1345" id1="534254" id2="17" version="1065353216">
+		<source>Excellent. Magnificent. It all begins here, apprentice.</source>
+		<target>Отлично. Восхитительно. Всё начинается здесь, ученик.</target>
+	</unit>
+	<unit bitflag="1345" id1="534256" id2="17" version="1065353216">
+		<source>Did you expect otherwise?</source>
+		<target>Ты ожидала чего-то другого?</target>
+	</unit>
+	<unit bitflag="1360" id1="534256" id2="17" version="1065353216">
+		<source>Are you really surprised?</source>
+		<target>Ты и правда удивлена?</target>
+	</unit>
+	<unit bitflag="1345" id1="534257" id2="17" version="1065353216">
+		<source>Of course not.</source>
+		<target>Конечно нет.</target>
+	</unit>
+	<unit bitflag="1345" id1="534259" id2="17" version="1065353216">
+		<source>But tell me, how did you manage to pacify the apparition?</source>
+		<target>Но скажи мне: как тебе удалось усмирить призрака?</target>
+	</unit>
+	<unit bitflag="1345" id1="534260" id2="17" version="1065353216">
+		<source>Apparently, he was my ancestor.</source>
+		<target>Судя по всему, он мой предок.</target>
+	</unit>
+	<unit bitflag="1360" id1="534260" id2="17" version="1065353216">
+		<source>We were related.</source>
+		<target>Мы родственники.</target>
+	</unit>
+	<unit bitflag="1345" id1="534261" id2="17" version="1065353216">
+		<source>Remarkable. A slave's lost ancestor turns up in the Dark Temple, and I sense your incredible destiny doesn't stop there.</source>
+		<target>Замечательно. Потерянный предок раба появляется в Тёмном Храме, и, чувствую, твоё удивительное будущее на этом не заканчивается.</target>
+	</unit>
+	<unit bitflag="1345" id1="534263" id2="17" version="1065353216">
+		<source>The apparition seemed to think you'd betray me.</source>
+		<target>Кажется, призрак думал, что ты меня предашь.</target>
+	</unit>
+	<unit bitflag="1360" id1="534263" id2="17" version="1065353216">
+		<source>Not sure, but he hates you.</source>
+		<target>Не совсем уверен, но он тебя ненавидит.</target>
+	</unit>
+	<unit bitflag="1345" id1="534264" id2="17" version="1065353216">
+		<source>Then that ghost is an idiot. I am not so stupid, you are my most valued apprentice. Now--</source>
+		<target>Тогда это привидение-идиот. Я не такая тупая, ты мой самый ценный ученик. Теперь же...</target>
+	</unit>
+	<unit bitflag="1345" id1="534266" id2="17" version="1065353216">
+		<source>First I took a magnet, and then a chance cube....</source>
+		<target>Сперва я взял магнит, затем кубик...</target>
+	</unit>
+	<unit bitflag="1360" id1="534266" id2="17" version="1065353216">
+		<source>I had to do a zany puzzle.</source>
+		<target>Мне пришло решить чудную головоломку.</target>
+	</unit>
+	<unit bitflag="1345" id1="534267" id2="17" version="1065353216">
+		<source>Fair enough. Your secrets are your own. I, however, will not be so guarded.</source>
+		<target>Вопрос снят. Твои тайны только твои. Однако я не буду столь замкнутой.</target>
+	</unit>
+	<unit bitflag="1345" id1="534269" id2="17" version="1065353216">
+		<source>I have been studying Tulak Hord's artifacts closely for some time, and one glance at this one you've brought back confirms everything I've suspected.</source>
+		<target>Одно время я очень тщательно изучала артефакты Тулака Хорда, и один только взгляд на тот, что ты принёс, подтверждает все мои подозрения.</target>
+	</unit>
+	<unit bitflag="1345" id1="534271" id2="17" version="1065353216">
+		<source>These artifacts will change everything, apprentice--you, especially. They will make you more powerful than you could imagine. I have foreseen it.</source>
+		<target>Эти артефакты изменят всё, ученик... в особенности, тебя. Они сделают тебя таким могущественным, что ты и представить не можешь. Я это предвидела.</target>
+	</unit>
+	<unit bitflag="1345" id1="534272" id2="17" version="1065353216">
+		<source>What do the artifacts do exactly?</source>
+		<target>Для чего именно нужны эти артефакты?</target>
+	</unit>
+	<unit bitflag="1360" id1="534272" id2="17" version="1065353216">
+		<source>What do they do?</source>
+		<target>Зачем они нужны?</target>
+	</unit>
+	<unit bitflag="1345" id1="534273" id2="17" version="1065353216">
+		<source>I don't know. I can imagine quite a bit of power.</source>
+		<target>Не знаю. Я могу представить довольно большое могущество.</target>
+	</unit>
+	<unit bitflag="1360" id1="534273" id2="17" version="1065353216">
+		<source>Try me.</source>
+		<target>Уж могу.</target>
+	</unit>
+	<unit bitflag="1345" id1="534274" id2="17" version="1065353216">
+		<source>Never such as this.</source>
+		<target>Но и близко не такое.</target>
+	</unit>
+	<unit bitflag="1345" id1="534276" id2="17" version="1065353216">
+		<source>Let me guess, you've been dreaming again.</source>
+		<target>Дай-ка угадаю, тебе опять что-то приснилось.</target>
+	</unit>
+	<unit bitflag="1360" id1="534276" id2="17" version="1065353216">
+		<source>More dreams?</source>
+		<target>Опять сны?</target>
+	</unit>
+	<unit bitflag="1345" id1="534277" id2="17" version="1065353216">
+		<source>Always and ever.</source>
+		<target>Не опять, а снова.</target>
+	</unit>
+	<unit bitflag="1345" id1="534279" id2="17" version="1065353216">
+		<source>This artifact is one of five that together describe a peculiar ritual used by the great Tulak Hord when he conquered the Dromund system.</source>
+		<target>Этот артефакт — один из пяти, необходимых для проведения необычного ритуала. Его использовал великий Тулак Хорд при завоевании системы Дромунд.</target>
+	</unit>
+	<unit bitflag="1345" id1="534281" id2="17" version="1065353216">
+		<source>Until I have all the artifacts, I cannot understand the full nature of the ritual, but I have foreseen that you alone will wield the ritual's power.</source>
+		<target>Пока у меня не будет всех артефактов, я не смогу полностью понять природу ритуала, но я предвидела, что только ты сможешь обладать предоставленным им могуществом.</target>
+	</unit>
+	<unit bitflag="1345" id1="534284" id2="17" version="1065353216">
+		<source>I don't understand. Why me?</source>
+		<target>Я не понимаю. Почему я?</target>
+	</unit>
+	<unit bitflag="1360" id1="534284" id2="17" version="1065353216">
+		<source>Why me?</source>
+		<target>Почему я?</target>
+	</unit>
+	<unit bitflag="1345" id1="534285" id2="17" version="1065353216">
+		<source>Why not you? You're a powerful, promising young Sith.</source>
+		<target>Почему бы и не ты? Ты могущественный, многообещающий юный сит.</target>
+	</unit>
+	<unit bitflag="1345" id1="534287" id2="17" version="1065353216">
+		<source>A natural choice, if I do say so myself.</source>
+		<target>Наилучший выбор, если можно так выразиться.</target>
+	</unit>
+	<unit bitflag="1360" id1="534287" id2="17" version="1065353216">
+		<source>Of course.</source>
+		<target>Естественно.</target>
+	</unit>
+	<unit bitflag="1345" id1="534288" id2="17" version="1065353216">
+		<source>You may, deservedly.</source>
+		<target>Ты заслужил так выразиться.</target>
+	</unit>
+	<unit bitflag="1345" id1="534290" id2="17" version="1065353216">
+		<source>So where are these other artifacts?</source>
+		<target>Так где остальные артефакты?</target>
+	</unit>
+	<unit bitflag="1360" id1="534290" id2="17" version="1065353216">
+		<source>Where are they?</source>
+		<target>Где они?</target>
+	</unit>
+	<unit bitflag="1345" id1="534291" id2="17" version="1065353216">
+		<source>The artifacts are scattered across the galaxy; some hidden by Tulak Hord himself, and some wrenched from his hands by betrayers.</source>
+		<target>Артефакты разбросаны по всей Галактике. Некоторые спрятаны самим Тулаком Хордом, некоторые — вырваны у него из рук предателями.</target>
+	</unit>
+	<unit bitflag="1345" id1="534293" id2="17" version="1065353216">
+		<source>Documents in Skotia's effects point to Balmorra and Nar Shaddaa, but I will need to do more research to locate the other two.</source>
+		<target>Документы, находившиеся в собственности Скоушии, указывают на Балморру и Нар-Шаддаа, но мне придётся потрудиться, чтобы обнаружить два остальных артефакта.</target>
+	</unit>
+	<unit bitflag="1345" id1="534294" id2="17" version="1065353216">
+		<source>I'll get started right away.</source>
+		<target>Я сейчас же приступлю к поискам.</target>
+	</unit>
+	<unit bitflag="1360" id1="534294" id2="17" version="1065353216">
+		<source>I'm on it.</source>
+		<target>Я этим займусь.</target>
+	</unit>
+	<unit bitflag="1345" id1="534295" id2="17" version="1065353216">
+		<source>It's not much to go on, but I will continue my work behind the scenes to get you more information.</source>
+		<target>Не так много для начала, но я буду продолжать свою незаметную работу, чтобы раздобыть для тебя побольше информации.</target>
+	</unit>
+	<unit bitflag="1345" id1="534297" id2="17" version="1065353216">
+		<source>Um, what do I do to get there?</source>
+		<target>Э, как мне туда добраться?</target>
+	</unit>
+	<unit bitflag="1360" id1="534297" id2="17" version="1065353216">
+		<source>Is there a shuttle?</source>
+		<target>Туда ходят шаттлы?</target>
+	</unit>
+	<unit bitflag="1345" id1="534298" id2="17" version="1065353216">
+		<source>Ah, yes, that brings me to my surprise.</source>
+		<target>А, да, теперь я перейду к своему сюрпризу.</target>
+	</unit>
+	<unit bitflag="1345" id1="534300" id2="17" version="1065353216">
+		<source>It seems I'm always stuck serving others.</source>
+		<target>Кажется, я навечно обречён служить другим.</target>
+	</unit>
+	<unit bitflag="1360" id1="534300" id2="17" version="1065353216">
+		<source>I feel like your slave.</source>
+		<target>Я чувствую себя твоим рабом.</target>
+	</unit>
+	<unit bitflag="1345" id1="534301" id2="17" version="1065353216">
+		<source>Nonsense! You are doing this for yourself, apprentice. I have foreseen the power you will gain.</source>
+		<target>Вздор! Ты делаешь это ради себя, ученик. Я предвидела могущество, которого ты достигнешь.</target>
+	</unit>
+	<unit bitflag="1345" id1="534303" id2="17" version="1065353216">
+		<source>But first--I believe I mentioned a surprise earlier.</source>
+		<target>Но сперва... кажется, я говорила о сюрпризе.</target>
+	</unit>
+	<unit bitflag="1345" id1="534305" id2="17" version="1065353216">
+		<source>If you're going to find these artifacts, you'll need a ship and so I have ordered you one. All you need to do is pick it up.</source>
+		<target>Если ты собираешься искать эти артефакты, тебе понадобится корабль, так что я его тебе заказала. Всё, что тебе нужно будет сделать, это забрать его.</target>
+	</unit>
+	<unit bitflag="1345" id1="534306" id2="17" version="1065353216">
+		<source>For me? You're too kind.</source>
+		<target>Мне? Ты слишком добра.</target>
+	</unit>
+	<unit bitflag="1360" id1="534306" id2="17" version="1065353216">
+		<source>A ship!</source>
+		<target>Корабль!</target>
+	</unit>
+	<unit bitflag="1345" id1="534307" id2="17" version="1065353216">
+		<source>About time I got something for all my hardwork.</source>
+		<target>Самое время мне что-нибудь получить за свой труд.</target>
+	</unit>
+	<unit bitflag="1360" id1="534307" id2="17" version="1065353216">
+		<source>You owed me that much.</source>
+		<target>Это твой долг.</target>
+	</unit>
+	<unit bitflag="1345" id1="534308" id2="17" version="1065353216">
+		<source>Yes, you've earned it.</source>
+		<target>Да, ты его заслужил.</target>
+	</unit>
+	<unit bitflag="1360" id1="534310" id2="17" version="1065353216">
+		<source>So where do I go?</source>
+		<target>Так куда мне идти?</target>
+	</unit>
+	<unit bitflag="1345" id1="534311" id2="17" version="1065353216">
+		<source>You'll find your ship at the spaceport. Then, the galaxy is yours to explore.</source>
+		<target>Свой корабль ты найдёшь в космопорту. После этого ты сможешь исследовать Галактику от и до.</target>
+	</unit>
+	<unit bitflag="1345" id1="534315" id2="17" version="1065353216">
+		<source>Don't forget to contact me when you reach each planet for more information on the artifacts' locations. Good luck, and good hunting.</source>
+		<target>Не забывай связываться со мной по прибытии на планеты, чтобы получить больше информации касательно местоположения артефактов. Удачи, и доброй охоты.</target>
+	</unit>
+	<unit bitflag="3393" id1="534317" id2="17" version="1065353216">
+		<source>She will never command the power of Tulak Hord. Remember, little Sith, I am always hungry.</source>
+		<target>Она никогда не будет повелевать могуществом Тулака Хорда. Не забывай, маленький сит, я всегда голоден.</target>
+	</unit>
+	<unit bitflag="1345" id1="534326" id2="17" version="1065353216">
+		<source>If you're going to find these artifacts, you'll need a ship. Luckily, I recovered one that belonged to a relative of yours.</source>
+		<target>Если ты будешь искать эти артефакты, тебе понадобится корабль. К счастью, я нашла тот, что принадлежал твоему родственнику.</target>
+	</unit>
+	<unit bitflag="1345" id1="534327" id2="17" version="1065353216">
+		<source>Apprentice! Do you have the artifact yet?</source>
+		<target>Ученик! Артефакт уже у тебя?</target>
+	</unit>
+	<unit bitflag="1345" id1="534328" id2="17" version="1065353216">
+		<source>I have the artifact in hand.</source>
+		<target>Артефакт у меня в руках.</target>
+	</unit>
+	<unit bitflag="1360" id1="534328" id2="17" version="1065353216">
+		<source>It's yours.</source>
+		<target>Он твой.</target>
+	</unit>
+	<unit bitflag="1345" id1="534329" id2="17" version="1065353216">
+		<source>What do you think?</source>
+		<target>Как ты думаешь?</target>
+	</unit>
+	<unit bitflag="1360" id1="534329" id2="17" version="1065353216">
+		<source>Guess.</source>
+		<target>Угадай.</target>
+	</unit>
+	<unit bitflag="1345" id1="534330" id2="17" version="1065353216">
+		<source>Of course. Brilliant. Magnificent!</source>
+		<target>Конечно. Блестяще. Восхитительно!</target>
+	</unit>
+	<unit bitflag="1345" id1="534332" id2="17" version="1065353216">
+		<source>Hurry back to Skotia's--I mean, my--chambers. I cannot wait to see this artifact, and I have a surprise for you.</source>
+		<target>Поторопись в покои Скоушии... то есть, мои покои. Мне не терпится увидеть этот артефакт, и у меня есть для тебя сюрприз, который застанет тебя врасплох.</target>
+	</unit>
+	<unit bitflag="1345" id1="534333" id2="17" version="1065353216">
+		<source>You wouldn't want to spoil the surprise now, would you?</source>
+		<target>Тебе же не хотелось бы испортить сюрприз, не правда ли?</target>
+	</unit>
+	<unit bitflag="1360" id1="534333" id2="17" version="1065353216">
+		<source>That would be telling.</source>
+		<target>Пусть это останется в секрете.</target>
+	</unit>
+	<unit bitflag="1345" id1="534334" id2="17" version="1065353216">
+		<source>Oh. Oh. You're teasing me, apprentice.</source>
+		<target>Ох. Ох. Ты меня дразнишь, ученик.</target>
+	</unit>
+	<unit bitflag="1345" id1="534336" id2="17" version="1065353216">
+		<source>Hurry back to Skotia's--I mean, my--chambers. I have a surprise for you.</source>
+		<target>Поторопись в покои Скоушии... то есть, мои покои. У меня есть для тебя сюрприз, который застанет тебя врасплох.</target>
+	</unit>
+	<unit bitflag="1345" id1="534337" id2="17" version="1065353216">
+		<source>I'll see you in Skotia's chambers shortly.</source>
+		<target>Скоро увидимся в покоях Скоушии.</target>
+	</unit>
+	<unit bitflag="1360" id1="534337" id2="17" version="1065353216">
+		<source>Understood.</source>
+		<target>Понятно.</target>
+	</unit>
+	<unit bitflag="1345" id1="534338" id2="17" version="1065353216">
+		<source>Good, good. Oh, I can't wait!</source>
+		<target>Хорошо-хорошо. Ох, не могу дождаться!</target>
+	</unit>
+	<unit bitflag="1345" id1="534339" id2="17" version="1065353216">
+		<source>What kind of surprise?</source>
+		<target>Что ещё за сюрприз?</target>
+	</unit>
+	<unit bitflag="1360" id1="534339" id2="17" version="1065353216">
+		<source>Surprise?</source>
+		<target>Сюрприз? Врасплох?</target>
+	</unit>
+	<unit bitflag="1345" id1="534340" id2="17" version="1065353216">
+		<source>Now that's my little secret.</source>
+		<target>А это мой маленький секрет.</target>
+	</unit>
+	<unit bitflag="1345" id1="534342" id2="17" version="1065353216">
+		<source>I love surprises!</source>
+		<target>Обожаю сюрпризы!</target>
+	</unit>
+	<unit bitflag="1360" id1="534342" id2="17" version="1065353216">
+		<source>Oh boy!</source>
+		<target>Ох ты ж ёжик!</target>
+	</unit>
+	<unit bitflag="1345" id1="534343" id2="17" version="1065353216">
+		<source>Trust me--you'll love it.</source>
+		<target>Поверь мне... тебе понравится.</target>
+	</unit>
+	<unit bitflag="1345" id1="534345" id2="17" version="1065353216">
+		<source>Now, hurry back with the artifact! I can't wait!</source>
+		<target>Ну, поспеши, и не забудь артефакт! Жду не дождусь!</target>
+	</unit>
+	<unit bitflag="1345" id1="534347" id2="17" version="1065353216">
+		<source>The artifact is in the Dark Temple. Be careful.</source>
+		<target>Артефакт находится в Тёмном Храме. Будь осторожен.</target>
+	</unit>
+	<unit bitflag="1345" id1="534348" id2="17" version="1065353216">
+		<source>Remember the map you found on Korriban that pointed us to the power of Tulak Hord? The first piece of that artifact, that power, is here on Dromund Kaas.</source>
+		<target>Не забыл ещё найденную на Коррибане карту, которая указала нам путь к могуществу Тулака Хорда? Первый фрагмент этого артефакта, этого могущества, находится здесь, на Дромунд-Каасе.</target>
+	</unit>
+	<unit bitflag="1345" id1="534350" id2="17" version="1065353216">
+		<source>This piece is in the deepest chamber of the Dark Temple. Skotia always hoarded the key to the chamber like a Hutt hoards his credits.</source>
+		<target>Этот фрагмент спрятан в самом дальнем чертоге Тёмного Храма. Скоушия чах над ключом к этому чертогу, как хатт чахнет над своими кредитами.</target>
+	</unit>
+	<unit bitflag="1345" id1="534353" id2="17" version="1065353216">
+		<source>Why didn't he want anyone to enter the chamber?</source>
+		<target>Почему он хотел, чтобы никто не вошёл в чертог?</target>
+	</unit>
+	<unit bitflag="1360" id1="534353" id2="17" version="1065353216">
+		<source>I don't understand.</source>
+		<target>Я не понимаю.</target>
+	</unit>
+	<unit bitflag="1345" id1="534354" id2="17" version="1065353216">
+		<source>He was jealous of my power, for one. He also had this foolish idea some powers are best left undisturbed--hardly the Sith way.</source>
+		<target>Например, он завидовал моему могуществу. Также ему в голову забрела дурацкая мысль, что некоторые силы лучше не тревожить... едва ли это присуще ситу.</target>
+	</unit>
+	<unit bitflag="1345" id1="534356" id2="17" version="1065353216">
+		<source>If he weren't already dead, I'd crush him.</source>
+		<target>Хотелось бы его оживить и убить снова.</target>
+	</unit>
+	<unit bitflag="1360" id1="534356" id2="17" version="1065353216">
+		<source>That fool.</source>
+		<target>Как глупо.</target>
+	</unit>
+	<unit bitflag="1345" id1="534357" id2="17" version="1065353216">
+		<source>Save your vitriol for the living.</source>
+		<target>Прибереги яд своего сарказма для живых.</target>
+	</unit>
+	<unit bitflag="1345" id1="534359" id2="17" version="1065353216">
+		<source>So that's why we had to kill him.</source>
+		<target>Так вот почему нам пришлось его убить.</target>
+	</unit>
+	<unit bitflag="1360" id1="534359" id2="17" version="1065353216">
+		<source>That explains a lot.</source>
+		<target>Это многое объясняет.</target>
+	</unit>
+	<unit bitflag="1345" id1="534360" id2="17" version="1065353216">
+		<source>Precisely.</source>
+		<target>Безусловно.</target>
+	</unit>
+	<unit bitflag="1345" id1="534362" id2="17" version="1065353216">
+		<source>Now I have Skotia's title, his chambers, his research and his key. He always said I would enter the Dark Temple over his rusting corpse.</source>
+		<target>Теперь я получила титул Скоушии, его покои, его изыскания и его ключ. Он всегда говорил, что я войду в Тёмный Храм через его ржавеющий труп.</target>
+	</unit>
+	<unit bitflag="1345" id1="534364" id2="17" version="1065353216">
+		<source>However, I won't be the one to go into the Dark Temple--you will.</source>
+		<target>Однако в Тёмный Храм отправлюсь не я... это сделаешь ты.</target>
+	</unit>
+	<unit bitflag="1345" id1="534365" id2="17" version="1065353216">
+		<source>It will be my pleasure.</source>
+		<target>С удовольствием.</target>
+	</unit>
+	<unit bitflag="1360" id1="534365" id2="17" version="1065353216">
+		<source>As you say.</source>
+		<target>Как скажешь.</target>
+	</unit>
+	<unit bitflag="1345" id1="534366" id2="17" version="1065353216">
+		<source>Why me?</source>
+		<target>Почему я?</target>
+	</unit>
+	<unit bitflag="1360" id1="534366" id2="17" version="1065353216">
+		<source>Why not you?</source>
+		<target>Почему не ты?</target>
+	</unit>
+	<unit bitflag="1345" id1="534367" id2="17" version="1065353216">
+		<source>I always have to do your dirty work.</source>
+		<target>Мне всегда приходится делать за тебя грязную работу.</target>
+	</unit>
+	<unit bitflag="1360" id1="534367" id2="17" version="1065353216">
+		<source>Me again.</source>
+		<target>Снова я.</target>
+	</unit>
+	<unit bitflag="3393" id1="534368" id2="17" version="1065353216">
+		<source>Her breath stinks of Sith lies.</source>
+		<target>Её дыхание смердит ложью ситов.</target>
+	</unit>
+	<unit bitflag="1345" id1="534370" id2="17" version="1065353216">
+		<source>Listen to me: There's a reason I picked my apprentice from the lower classes--a reason you, and not that blue-blood Ffon, had to come here.</source>
+		<target>Послушай меня: есть причина, по которой я взяла ученика из низших слоёв общества... причина, по которой ты, а не тот Ффон, сит голубых кровей, должен был сюда придти.</target>
+	</unit>
+	<unit bitflag="5441" id1="534372" id2="17" version="1065353216">
+		<source>Before I went to Korriban to choose an apprentice, a furious apparition awakened in the Dark Temple, implacable in its anger, murdering all who trespassed on the innermost chamber.</source>
+		<target>Перед тем, как я отправилась на Коррибан выбрать себе ученика, в Тёмном Храме пробудился яростный призрак, неумолимый в своём гневе, который убивал всех, кто посягнул на сокровенный чертог.</target>
+	</unit>
+	<unit bitflag="5441" id1="534374" id2="17" version="1065353216">
+		<source>But I had a dream. An apprentice of low origin humbled himself--or herself, as it happened--before the apparition, pacifying it. That's why you and your peers were chosen.</source>
+		<target>Но мне приснился сон. Ученик низкого происхождения пал — или пала, как повелось, — к ногам призрака, умиротворив его. Вот почему я выбрала тебя и твоих сверстников.</target>
+	</unit>
+	<unit bitflag="5441" id1="534375" id2="17" version="1065353216">
+		<source>But I had a dream. An apprentice of low origin humbled himself before the apparition, pacifying it. That's why you and your peers were singled out.</source>
+		<target>Но мне приснился сон. Ученик низкого происхождения пал к ногам призрака, умиротворив его. Вот почему я выбрала тебя и твоих сверстников.</target>
+	</unit>
+	<unit bitflag="1345" id1="534376" id2="17" version="1065353216">
+		<source>I wouldn't put so much faith in dreams.</source>
+		<target>Я бы не стал слишком полагаться на сны.</target>
+	</unit>
+	<unit bitflag="1360" id1="534376" id2="17" version="1065353216">
+		<source>Maybe it was just a dream.</source>
+		<target>Возможно, это был всего лишь сон.</target>
+	</unit>
+	<unit bitflag="1345" id1="534377" id2="17" version="1065353216">
+		<source>Dreams are when the Force speaks to us most loudly--I believe what I have foreseen.</source>
+		<target>Во снах Сила говорит с нами особенно громко... я верю в то, что я предвидела.</target>
+	</unit>
+	<unit bitflag="1345" id1="534379" id2="17" version="1065353216">
+		<source>I always knew I was special.</source>
+		<target>Я всегда знал, что я особенный.</target>
+	</unit>
+	<unit bitflag="1360" id1="534379" id2="17" version="1065353216">
+		<source>I am great.</source>
+		<target>Я велик и могуч.</target>
+	</unit>
+	<unit bitflag="1345" id1="534380" id2="17" version="1065353216">
+		<source>You've been a far more capable apprentice than I even hoped--but for this task, you must put aside your pride.</source>
+		<target>Ты был гораздо более способным учеником, чем я только могла надеяться... но для этой задачи тебе придётся отбросить свою гордость.</target>
+	</unit>
+	<unit bitflag="1345" id1="534382" id2="17" version="1065353216">
+		<source>Wait--you want me to bow to this apparition?</source>
+		<target>Стой... ты хочешь, чтобы я склонился перед призраком?</target>
+	</unit>
+	<unit bitflag="1360" id1="534382" id2="17" version="1065353216">
+		<source>Humble myself?</source>
+		<target>Пасть к ногам?</target>
+	</unit>
+	<unit bitflag="1345" id1="534383" id2="17" version="1065353216">
+		<source>You must go into the temple and face the apparition, and when you do, I believe that your humility will be the key.</source>
+		<target>Ты должен прийти в храм и встретиться с призраком, и когда это произойдёт, я полагаю, твоё смирение станет ключом.</target>
+	</unit>
+	<unit bitflag="1345" id1="534385" id2="17" version="1065353216">
+		<source>Still, I want you to know--I'm not certain you're the one from my dream. I fear I may be sending you to your death.</source>
+		<target>Я всё равно хочу, чтобы ты знал: я не уверена, что именно тебя я видела во сне. Боюсь, что, возможно, я отправляю тебя на смерть.</target>
+	</unit>
+	<unit bitflag="1345" id1="534386" id2="17" version="1065353216">
+		<source>You're a Sith, start acting like one.</source>
+		<target>Ты сит, так что веди себя достойно.</target>
+	</unit>
+	<unit bitflag="1360" id1="534386" id2="17" version="1065353216">
+		<source>Toughen up, woman.</source>
+		<target>Крепись, женщина.</target>
+	</unit>
+	<unit bitflag="1345" id1="534387" id2="17" version="1065353216">
+		<source>Don't worry about me, master.</source>
+		<target>Не беспокойся обо мне, учитель.</target>
+	</unit>
+	<unit bitflag="1360" id1="534387" id2="17" version="1065353216">
+		<source>Hardly.</source>
+		<target>Едва ли.</target>
+	</unit>
+	<unit bitflag="1345" id1="534388" id2="17" version="1065353216">
+		<source>You're right. You retrieved the holocron on Korriban when no one else could--if that's not proof of your destiny, I don't know what is.</source>
+		<target>Ты прав. Ты получил голокрон на Коррибане, когда никто другой не сумел... и если это не доказательство твоей судьбы, то я не знаю, в чём оно ещё может заключаться.</target>
+	</unit>
+	<unit bitflag="1345" id1="534390" id2="17" version="1065353216">
+		<source>I eat apparitions for dinner!</source>
+		<target>Призраков я ем на завтрак!</target>
+	</unit>
+	<unit bitflag="1360" id1="534390" id2="17" version="1065353216">
+		<source>I like killing ghosts.</source>
+		<target>Люблю убивать привидений.</target>
+	</unit>
+	<unit bitflag="1345" id1="534391" id2="17" version="1065353216">
+		<source>You have a wonderfully deranged mind. And you're right.</source>
+		<target>У тебя совершенно чудесный сумасшедший разум. И ты прав.</target>
+	</unit>
+	<unit bitflag="1345" id1="534393" id2="17" version="1065353216">
+		<source>Tulak Hord's power awaits us both. We must not lose sight of this goal.</source>
+		<target>Нас ждёт могущество Тулака Хорда. Мы должны не упускать эту цель из виду.</target>
+	</unit>
+	<unit bitflag="1345" id1="534395" id2="17" version="1065353216">
+		<source>Use this glyph to enter the innermost chamber of the Dark Temple. Humble yourself before the apparition, and bring back the piece of the artifact.</source>
+		<target>Используй этот глиф, чтобы войти в сокровенный чертог Тёмного Храма. Пади к ногам призрака и принеси мне фрагмент артефакта.</target>
+	</unit>
+	<unit bitflag="3393" id1="534397" id2="17" version="1065353216">
+		<source>Even the great Tulak Hord did not tangle with spirits. Tread lightly, little Sith.</source>
+		<target>Даже великий Тулак Хорд не связывался с духами. Действуй осторожно, маленький сит.</target>
+	</unit>
+	<unit bitflag="1345" id1="534399" id2="17" version="1065353216">
+		<source>Perfect timing, apprentice. I just met with that insufferable Thanaton, and I have good news.</source>
+		<target>Как раз вовремя, ученик. Я только что встретилась с этим невыносимым Танатоном, и у меня хорошие новости.</target>
+	</unit>
+	<unit bitflag="1345" id1="534400" id2="17" version="1065353216">
+		<source>How did your meeting go?</source>
+		<target>Как прошла ваша встреча?</target>
+	</unit>
+	<unit bitflag="1360" id1="534400" id2="17" version="1065353216">
+		<source>How was it?</source>
+		<target>Как всё прошло?</target>
+	</unit>
+	<unit bitflag="1345" id1="534401" id2="17" version="1065353216">
+		<source>Everyone's talking about how you killed Skotia.</source>
+		<target>Все только и болтают о том, как ты убила Скоушию.</target>
+	</unit>
+	<unit bitflag="1360" id1="534401" id2="17" version="1065353216">
+		<source>You've caused quite a stir.</source>
+		<target>Ты вызвала настоящий переполох.</target>
+	</unit>
+	<unit bitflag="1345" id1="534402" id2="17" version="1065353216">
+		<source>Good. Let them talk. They can't prove anything--and it'll drive them mad.</source>
+		<target>Хорошо. Пусть болтают. Они ничего не могут доказать... и это сводит их с ума.</target>
+	</unit>
+	<unit bitflag="1345" id1="534404" id2="17" version="1065353216">
+		<source>And my meeting went exactly as I planned.</source>
+		<target>А моя встреча прошла точно по плану.</target>
+	</unit>
+	<unit bitflag="1345" id1="534406" id2="17" version="1065353216">
+		<source>Who is this &quot;Darth Thanaton&quot;?</source>
+		<target>Кто такой этот Дарт Танатон?</target>
+	</unit>
+	<unit bitflag="1360" id1="534406" id2="17" version="1065353216">
+		<source>Thanaton?</source>
+		<target>Танатоном?</target>
+	</unit>
+	<unit bitflag="1345" id1="534407" id2="17" version="1065353216">
+		<source>Darth Thanaton sits just below the Dark Council in authority. He commands me, he commands you.</source>
+		<target>В иерархической пирамиде Дарт Танатон находится прямо под Тёмным Советом. Он повелевает как мной, так и тобой.</target>
+	</unit>
+	<unit bitflag="1345" id1="534409" id2="17" version="1065353216">
+		<source>Skotia was his little pet, but the other council members were more impressed with our little sleight of hand.</source>
+		<target>Скоушия был его любимчиком, но остальных членов совета больше удивила наша небольшая проделка.</target>
+	</unit>
+	<unit bitflag="1345" id1="534411" id2="17" version="1065353216">
+		<source>You would've been proud of me. I went in to a reprimand--but I emerged a Darth.</source>
+		<target>Ты бы мной гордился. Я получила выговор... но вышла сухой из воды и стала Дартом.</target>
+	</unit>
+	<unit bitflag="1345" id1="534412" id2="17" version="1065353216">
+		<source>You've certainly earned it.</source>
+		<target>Ты безусловно это заслужила.</target>
+	</unit>
+	<unit bitflag="1360" id1="534412" id2="17" version="1065353216">
+		<source>Congratulations.</source>
+		<target>Поздравляю.</target>
+	</unit>
+	<unit bitflag="1345" id1="534413" id2="17" version="1065353216">
+		<source>Do I get a promotion, too?</source>
+		<target>Я тоже получу повышение?</target>
+	</unit>
+	<unit bitflag="1360" id1="534413" id2="17" version="1065353216">
+		<source>And what about me?</source>
+		<target>А как же я?</target>
+	</unit>
+	<unit bitflag="1345" id1="534414" id2="17" version="1065353216">
+		<source>For now you remain my capable apprentice. However, a Darth can raise an apprentice to a lord--so your prospects just improved.</source>
+		<target>Пока ты остаёшься моим способным учеником. Однако Дарт может возвысить ученика до лорда... так что твои перспективы только улучшились.</target>
+	</unit>
+	<unit bitflag="1345" id1="534416" id2="17" version="1065353216">
+		<source>All you did was go to a party.</source>
+		<target>Всё, что ты делала, так это гуляла на вечеринке.</target>
+	</unit>
+	<unit bitflag="1360" id1="534416" id2="17" version="1065353216">
+		<source>I'm not impressed.</source>
+		<target>Не очень впечатляет.</target>
+	</unit>
+	<unit bitflag="1345" id1="534417" id2="17" version="1065353216">
+		<source>I did more than you realize; nevertheless, what's important is that we are finally free to act.</source>
+		<target>Я сделала больше, чем тебе представляется; тем не менее, важно то, что мы наконец обрели свободу действий.</target>
+	</unit>
+	<unit bitflag="1345" id1="534419" id2="17" version="1065353216">
+		<source>Well, when I heard she'd taken up with a Mandalorian, I was scandalized, just scandalized!</source>
+		<target>В общем, когда я узнала, что она бы стала встречаться с мандалорцем, я была шокирована, просто шокирована!</target>
+	</unit>
+	<unit bitflag="1345" id1="534421" id2="17" version="1065353216">
+		<source>A Mandalorian! Does nobody value Sith blood these days?</source>
+		<target>С мандалорцем! Неужели никто больше не ценит кровь ситов?</target>
+	</unit>
+	<unit bitflag="1345" id1="534423" id2="17" version="1065353216">
+		<source>I know, I know. Don't you think so, Zash?</source>
+		<target>Знаю, знаю. Тебе так не кажется, Заш?</target>
+	</unit>
+	<unit bitflag="3393" id1="534425" id2="17" version="1065353216">
+		<source>These prattling creatures call themselves Sith? The legacy of Tulak Hord is lost.</source>
+		<target>Эти болтающие существа называют себя ситами? Наследие Тулака Хорда утрачено безвозвратно.</target>
+	</unit>
+	<unit bitflag="1345" id1="534429" id2="17" version="1065353216">
+		<source>I'm sorry, will you excuse me? I need to have a quick chat with my apprentice.</source>
+		<target>Прошу меня извинить, мне нужно немного побеседовать со своим учеником.</target>
+	</unit>
+	<unit bitflag="1345" id1="534431" id2="17" version="1065353216">
+		<source>If you must. Now, as I was saying....</source>
+		<target>Если так нужно. Ну, как я говорила...</target>
+	</unit>
+	<unit bitflag="1345" id1="534433" id2="17" version="1065353216">
+		<source>Thank the Emperor you've arrived. It doesn't matter how much one drinks--these parties are just dull dull dull dull dull.</source>
+		<target>Слава Императору, ты пришёл. На таких вечеринках неважно, сколько кто выпьет, всегда просто скукота-та-та-та-та-та-та-та.</target>
+	</unit>
+	<unit bitflag="1345" id1="534435" id2="17" version="1065353216">
+		<source>I hope you've come to cheer me up.</source>
+		<target>Надеюсь, ты пришёл меня подбодрить.</target>
+	</unit>
+	<unit bitflag="1345" id1="534436" id2="17" version="1065353216">
+		<source>I have done as you wished, and killed the Darth.</source>
+		<target>Я сделал так, как ты пожелала, и убил нашего Дарта.</target>
+	</unit>
+	<unit bitflag="1360" id1="534436" id2="17" version="1065353216">
+		<source>Skotia's dead.</source>
+		<target>Скоушия мёртв.</target>
+	</unit>
+	<unit bitflag="1345" id1="534437" id2="17" version="1065353216">
+		<source>Brilliant. Simply brilliant.</source>
+		<target>Блестяще. Просто блестяще.</target>
+	</unit>
+	<unit bitflag="1345" id1="534439" id2="17" version="1065353216">
+		<source>Your plan worked perfectly.</source>
+		<target>Твой план полностью сработал.</target>
+	</unit>
+	<unit bitflag="1360" id1="534439" id2="17" version="1065353216">
+		<source>I think you'll be pleased.</source>
+		<target>Думаю, ты будешь довольна.</target>
+	</unit>
+	<unit bitflag="1345" id1="534440" id2="17" version="1065353216">
+		<source>I have dismantled the machine.</source>
+		<target>Я ликвидировал машину.</target>
+	</unit>
+	<unit bitflag="1360" id1="534440" id2="17" version="1065353216">
+		<source>Call me &quot;Darth-killer.&quot;</source>
+		<target>Зови меня Убийца Дартов.</target>
+	</unit>
+	<unit bitflag="1345" id1="534441" id2="17" version="1065353216">
+		<source>He's dead, then. Excellent.</source>
+		<target>Значит, он мёртв. Отлично.</target>
+	</unit>
+	<unit bitflag="1345" id1="534443" id2="17" version="1065353216">
+		<source>You have performed magnificently, apprentice. None of this would've been possible without you.</source>
+		<target>Ты действовал великолепно, ученик. Мы бы не смогли добиться ничего из этого без тебя.</target>
+	</unit>
+	<unit bitflag="1345" id1="534445" id2="17" version="1065353216">
+		<source>Lord Zash.</source>
+		<target>Лорд Заш.</target>
+	</unit>
+	<unit bitflag="1345" id1="534447" id2="17" version="1065353216">
+		<source>Darth Thanaton! I'm honored.</source>
+		<target>Дарт Танатон! Какая честь.</target>
+	</unit>
+	<unit bitflag="1345" id1="534448" id2="17" version="1065353216">
+		<source>Don't let me interrupt you.</source>
+		<target>Не буду вам мешать.</target>
+	</unit>
+	<unit bitflag="1360" id1="534448" id2="17" version="1065353216">
+		<source>Should I be going?</source>
+		<target>Мне уйти?</target>
+	</unit>
+	<unit bitflag="1345" id1="534449" id2="17" version="1065353216">
+		<source>You going to introduce me?</source>
+		<target>Представишь меня?</target>
+	</unit>
+	<unit bitflag="1360" id1="534449" id2="17" version="1065353216">
+		<source>Who's the Darth?</source>
+		<target>Кто этот Дарт?</target>
+	</unit>
+	<unit bitflag="1345" id1="534450" id2="17" version="1065353216">
+		<source>Sorry, I'll just be a minute. Don't go anywhere, I have some further instructions for you.</source>
+		<target>Извини, одну минутку. Никуда не уходи, у меня есть для тебя дальнейшие указания.</target>
+	</unit>
+	<unit bitflag="1345" id1="534452" id2="17" version="1065353216">
+		<source>Uh, yes--I'll just let you two chat.</source>
+		<target>Э, да... предоставлю вас вашей беседе.</target>
+	</unit>
+	<unit bitflag="1360" id1="534452" id2="17" version="1065353216">
+		<source>Whoa, important guy.</source>
+		<target>Ого, важная шишка.</target>
+	</unit>
+	<unit bitflag="1345" id1="534453" id2="17" version="1065353216">
+		<source>Don't go anywhere just yet, apprentice. This call won't take long, and I have some further instructions for you.</source>
+		<target>Никуда пока не уходи, ученик. Этот звонок не займёт много времени, а у меня есть для тебя дальнейшие указания.</target>
+	</unit>
+	<unit bitflag="1345" id1="534455" id2="17" version="1065353216">
+		<source>As I said, my lord, I'm honored, but why call me?</source>
+		<target>Как я уже сказала, владыка, это большая честь для меня, но по какому поводу вы звоните?</target>
+	</unit>
+	<unit bitflag="1345" id1="534457" id2="17" version="1065353216">
+		<source>You have nerve, Zash--nerve. But I thought you were smarter.</source>
+		<target>Нахальства тебе не занимать, Заш. Но я думал, ты умнее.</target>
+	</unit>
+	<unit bitflag="1345" id1="534459" id2="17" version="1065353216">
+		<source>With all respect, Darth Thanaton, I don't know what you're talking about.</source>
+		<target>При всём уважении, Дарт Танатон, я не знаю, о чём вы говорите.</target>
+	</unit>
+	<unit bitflag="1345" id1="534461" id2="17" version="1065353216">
+		<source>Don't play ignorant with me, Zash. Skotia's dead, and you killed him.</source>
+		<target>Не прикидывайся несведущей, Заш. Скоушия мёртв, и это ты его убила.</target>
+	</unit>
+	<unit bitflag="1345" id1="534463" id2="17" version="1065353216">
+		<source>Skotia? Dead? That's the first I've heard of it. When did this happen?</source>
+		<target>Скоушия? Мёртв? Впервые это слышу. Когда это случилось?</target>
+	</unit>
+	<unit bitflag="1345" id1="534465" id2="17" version="1065353216">
+		<source>Just now, Zash--and you know it. What did you expect to gain? His position? His title? You know it doesn't work that way. Where's your discretion!</source>
+		<target>Только что, Заш... и ты это знаешь. Что ты рассчитывала получить? Его положение? Титул? Тебе известно, что так это не работает. Где твоя осмотрительность!</target>
+	</unit>
+	<unit bitflag="1345" id1="534467" id2="17" version="1065353216">
+		<source>Discretion! I've been at this party for ages. I may have had a little much to drink, but I'm fairly certain I haven't murdered anyone.</source>
+		<target>Осмотрительность! Я уже целую вечность сижу на этой вечеринке. Может быть, я и немножко выпила, но я совершенно уверена, что никого не убивала.</target>
+	</unit>
+	<unit bitflag="1345" id1="534469" id2="17" version="1065353216">
+		<source>Though I have always fancied Skotia's chambers--so much more shelf space.</source>
+		<target>Хотя мне всегда нравились покои Скоушии... так много места для книг.</target>
+	</unit>
+	<unit bitflag="1345" id1="534471" id2="17" version="1065353216">
+		<source>Zash! I don't want to have this conversation by holo. Report to my chambers immediately.</source>
+		<target>Заш! Я не хочу обсуждать это по голосвязи. Немедленно отправляйся в мои покои.</target>
+	</unit>
+	<unit bitflag="1345" id1="534473" id2="17" version="1065353216">
+		<source>Yes, Darth Thanaton. It will be my pleasure.</source>
+		<target>Да, Дарт Танатон. С удовольствием.</target>
+	</unit>
+	<unit bitflag="1345" id1="534474" id2="17" version="1065353216">
+		<source>What was that all about?</source>
+		<target>Что это такое было?</target>
+	</unit>
+	<unit bitflag="1360" id1="534474" id2="17" version="1065353216">
+		<source>Care to explain that?</source>
+		<target>Потрудитесь объяснить?</target>
+	</unit>
+	<unit bitflag="1345" id1="534475" id2="17" version="1065353216">
+		<source>Looks like you have a meeting to get to.</source>
+		<target>Похоже, вам нужно идти на встречу.</target>
+	</unit>
+	<unit bitflag="1360" id1="534475" id2="17" version="1065353216">
+		<source>Sounds like you have to go.</source>
+		<target>Похоже, вам нужно идти.</target>
+	</unit>
+	<unit bitflag="1345" id1="534476" id2="17" version="1065353216">
+		<source>Are we in trouble?</source>
+		<target>Мы попали в неприятности?</target>
+	</unit>
+	<unit bitflag="1360" id1="534476" id2="17" version="1065353216">
+		<source>Uh-oh.</source>
+		<target>Ой-ёй.</target>
+	</unit>
+	<unit bitflag="1345" id1="534477" id2="17" version="1065353216">
+		<source>Give me time to talk to Thanaton and then meet me in Darth Skotia's chambers.</source>
+		<target>Дай мне время поговорить с Танатоном и встреться со мной в покоях Дарта Скоушии.</target>
+	</unit>
+	<unit bitflag="1345" id1="534479" id2="17" version="1065353216">
+		<source>And don't worry--you've played your part, now it's time for me to play mine. We did it, apprentice.</source>
+		<target>И не беспокойся... ты сыграл свою роль, теперь пора мне сыграть свою. Мы справились, ученик.</target>
+	</unit>
+	<unit bitflag="1345" id1="534481" id2="17" version="1065353216">
+		<source>Skotia must die. We cannot delay.</source>
+		<target>Со Скоушией нужно покончить. Медлить нельзя.</target>
+	</unit>
+	<unit bitflag="1345" id1="534482" id2="17" version="1065353216">
+		<source>Skotia is in his chambers as we speak. Be ready--even with the power you have over him, he will be a frightful sight.</source>
+		<target>В настоящий момент Скоушия находится в своих покоях. Будь наготове... даже учитывая твою власть над ним, он всё равно представит собой пугающее зрелище.</target>
+	</unit>
+	<unit bitflag="3393" id1="534484" id2="17" version="1065353216">
+		<source>The little Sith and I will feast.</source>
+		<target>Мы с маленьким ситом устроим пир.</target>
+	</unit>
+	<unit bitflag="1345" id1="534486" id2="17" version="1065353216">
+		<source>Set your nerves of cortosis; turn your fear into hatred. Remember--Skotia stands between us and glory.</source>
+		<target>Закали свои нервы кортозисом, обрати свой страх в ненависть. Помни: Скоушия преграждает нам путь к славе.</target>
+	</unit>
+	<unit bitflag="1345" id1="534487" id2="17" version="1065353216">
+		<source>Let's get to the killing.</source>
+		<target>Перейдём к делу.</target>
+	</unit>
+	<unit bitflag="1360" id1="534487" id2="17" version="1065353216">
+		<source>I can't wait.</source>
+		<target>Жду не дождусь.</target>
+	</unit>
+	<unit bitflag="1345" id1="534488" id2="17" version="1065353216">
+		<source>I feel as though I've lived my whole life for this moment.</source>
+		<target>У меня такое чувство, будто я всю жизнь жил ради этого мгновения.</target>
+	</unit>
+	<unit bitflag="1360" id1="534488" id2="17" version="1065353216">
+		<source>Of course.</source>
+		<target>Конечно.</target>
+	</unit>
+	<unit bitflag="1345" id1="534489" id2="17" version="1065353216">
+		<source>Good. Now, listen closely--this is how you will kill Skotia.</source>
+		<target>Хорошо. Ну, слушай внимательно: вот как ты убьёшь Скоушию.</target>
+	</unit>
+	<unit bitflag="1345" id1="534491" id2="17" version="1065353216">
+		<source>I don't see how you plan to make this work.</source>
+		<target>Я не понимаю, как сработает твой план.</target>
+	</unit>
+	<unit bitflag="1360" id1="534491" id2="17" version="1065353216">
+		<source>I'm still skeptical.</source>
+		<target>Я всё ещё настроен скептически.</target>
+	</unit>
+	<unit bitflag="1345" id1="534492" id2="17" version="1065353216">
+		<source>The relic you found under the colossus is the key to Skotia's power over his Trandoshan bodyguards. Go to Skotia's chambers and show them the relic.</source>
+		<target>Реликвия, которую ты нашёл под колоссом, является залогом власти Скоушии над его телохранителями-трандошанами. Отправляйся в покои Скоушии и покажи им реликвию.</target>
+	</unit>
+	<unit bitflag="1345" id1="534494" id2="17" version="1065353216">
+		<source>The Trandoshans should stand down, or attack him, or something--the confusion should be enough. This is the first step.</source>
+		<target>Трандошане должны будут или отступить, или напасть на него, или сделать что-нибудь ещё... замешательства будет достаточно. Это первый шаг.</target>
+	</unit>
+	<unit bitflag="1345" id1="534495" id2="17" version="1065353216">
+		<source>You don't know what'll happen?</source>
+		<target>Ты не знаешь, что произойдёт?</target>
+	</unit>
+	<unit bitflag="1360" id1="534495" id2="17" version="1065353216">
+		<source>I don't like surprises.</source>
+		<target>Я не люблю сюрпризы.</target>
+	</unit>
+	<unit bitflag="1345" id1="534496" id2="17" version="1065353216">
+		<source>Like I said, the confusion should be enough. You'll have to improvise the particulars. That's what makes it fun.</source>
+		<target>Как я уже сказала, замешательства будет достаточно. Тебе придётся импровизировать с деталями. Это привнесёт веселья.</target>
+	</unit>
+	<unit bitflag="1345" id1="534498" id2="17" version="1065353216">
+		<source>Why can't I just use the tech to disable him?</source>
+		<target>Почему я просто не могу использовать прибор, чтобы его покалечить?</target>
+	</unit>
+	<unit bitflag="1360" id1="534498" id2="17" version="1065353216">
+		<source>Why do I have to do that?</source>
+		<target>Зачем мне это делать?</target>
+	</unit>
+	<unit bitflag="1345" id1="534499" id2="17" version="1065353216">
+		<source>You wouldn't be able to get close enough with his bodyguards present.</source>
+		<target>Ты не сможешь подобраться достаточно близко, пока рядом будут его телохранители.</target>
+	</unit>
+	<unit bitflag="1345" id1="534501" id2="17" version="1065353216">
+		<source>Then I use the anti-cyborg prototype to disable him, right?</source>
+		<target>Затем я использую противокиборговый прототип, чтобы его покалечить, верно?</target>
+	</unit>
+	<unit bitflag="1360" id1="534501" id2="17" version="1065353216">
+		<source>And the tech next.</source>
+		<target>А затем прибор?</target>
+	</unit>
+	<unit bitflag="1345" id1="534502" id2="17" version="1065353216">
+		<source>Exactly.</source>
+		<target>Именно.</target>
+	</unit>
+	<unit bitflag="1345" id1="534504" id2="17" version="1065353216">
+		<source>With the bodyguards gone, you can get close enough to Skotia to use the prototype you stole from Grathan's.</source>
+		<target>Когда с телохранителями будет покончено, ты сможешь подобраться к Скоушии поближе и использовать украденный у Гратана прототип.</target>
+	</unit>
+	<unit bitflag="1345" id1="534506" id2="17" version="1065353216">
+		<source>But be mindful--Skotia may be more machine than man, but he's no weakling in the Force. Killing him will still be a challenge.</source>
+		<target>Но учти: может, Скоушия скорее и машина, чем человек, но в Силе он не слаб. Убить его всё равно будет непросто.</target>
+	</unit>
+	<unit bitflag="1345" id1="534507" id2="17" version="1065353216">
+		<source>It wouldn't be fun if it wasn't.</source>
+		<target>Иначе было бы не так весело.</target>
+	</unit>
+	<unit bitflag="1360" id1="534507" id2="17" version="1065353216">
+		<source>Excellent.</source>
+		<target>Отлично.</target>
+	</unit>
+	<unit bitflag="1345" id1="534508" id2="17" version="1065353216">
+		<source>Do you really think I'm ready for this?</source>
+		<target>Ты и правда думаешь, что я готов?</target>
+	</unit>
+	<unit bitflag="1360" id1="534508" id2="17" version="1065353216">
+		<source>You think I can do it?</source>
+		<target>Думаешь, я смогу?</target>
+	</unit>
+	<unit bitflag="1345" id1="534509" id2="17" version="1065353216">
+		<source>Of course. You ravaged four tombs on Korriban and tamed a Dashade--what's a crippled Dark Lord to you?</source>
+		<target>Разумеется. Ты опустошил четыре коррибанских гробницы и укротил дашада... что тебе какой-то искалеченный Тёмный лорд?</target>
+	</unit>
+	<unit bitflag="1345" id1="534511" id2="17" version="1065353216">
+		<source>Challenge! Ha! I spit on challenges!</source>
+		<target>Непросто! Ха! Плевал я на непросто!</target>
+	</unit>
+	<unit bitflag="1360" id1="534511" id2="17" version="1065353216">
+		<source>I doubt it.</source>
+		<target>Сомневаюсь.</target>
+	</unit>
+	<unit bitflag="1345" id1="534512" id2="17" version="1065353216">
+		<source>Oh, I wish I could be there to see the contortions on Skotia's malformed face when you destroy him.</source>
+		<target>Ох, жаль, что я не смогу полюбоваться судорогами на уродливом лице Скоушии, когда ты его уничтожишь.</target>
+	</unit>
+	<unit bitflag="1345" id1="534514" id2="17" version="1065353216">
+		<source>Now if you'll excuse me, I'm due to make an appearance at a party in the Nexus Room cantina. Meet me there when you're done.</source>
+		<target>Теперь прошу меня простить, я должна появиться на вечеринке в кантине Зал Нексус. Когда закончишь, встреться со мной там.</target>
+	</unit>
+	<unit bitflag="1345" id1="534518" id2="17" version="1065353216">
+		<source>Now, go, my little serpent, and strike. Your prey awaits.</source>
+		<target>Теперь иди, мой маленький змий, и нанеси удар. Тебя ждёт добыча.</target>
+	</unit>
+	<unit bitflag="1345" id1="534522" id2="17" version="1065353216">
+		<source>I promise, I will not be long.</source>
+		<target>Обещаю надолго не задерживаться.</target>
+	</unit>
+	<unit bitflag="1360" id1="534522" id2="17" version="1065353216">
+		<source>I'm gone.</source>
+		<target>Я улетел, но обещал вернуться.</target>
+	</unit>
+	<unit bitflag="1360" id1="534523" id2="17" version="1065353216">
+		<source>As you say.</source>
+		<target>Как скажешь.</target>
+	</unit>
+	<unit bitflag="1345" id1="534524" id2="17" version="1065353216">
+		<source>Excellent. Once Skotia's dead, we may pursue Tulak Hord's power in earnest.</source>
+		<target>Отлично. Когда со Скоушией будет покончено, мы сможем всерьёз заняться могуществом Тулака Хорда.</target>
+	</unit>
+	<unit bitflag="1345" id1="534526" id2="17" version="1065353216">
+		<source>What will you be doing while I do your dirty work?</source>
+		<target>Что ты будешь делать, пока я буду заниматься грязной работой?</target>
+	</unit>
+	<unit bitflag="1360" id1="534526" id2="17" version="1065353216">
+		<source>And you?</source>
+		<target>А ты?</target>
+	</unit>
+	<unit bitflag="1345" id1="534527" id2="17" version="1065353216">
+		<source>I'll be sipping Somnaskol Red and drawing lots of attention to myself.</source>
+		<target>Я буду потягивать сомнаскольское красное и привлекать к себе много внимания.</target>
+	</unit>
+	<unit bitflag="1345" id1="534529" id2="17" version="1065353216">
+		<source>Skotia's chambers are on the second floor of this place. Don't forget: relic first to take care of his bodyguards, and then the tech.</source>
+		<target>Покои Скоушии находятся здесь на втором этаже. Не забывай: сначала реликвия, чтобы позаботиться о его телохранителях, а затем прибор.</target>
+	</unit>
+	<unit bitflag="1345" id1="534531" id2="17" version="1065353216">
+		<source>Not a moment too soon, apprentice. Tell me we were successful. Tell me you have the tech we need to destroy Skotia.</source>
+		<target>Лучше поздно, чем никогда, ученик. Скажи мне, что мы добились успеха. Скажи мне, что ты получил прибор, необходимый для ликвидации Скоушии.</target>
+	</unit>
+	<unit bitflag="1345" id1="534532" id2="17" version="1065353216">
+		<source>I have the prototype.</source>
+		<target>Прототип у меня.</target>
+	</unit>
+	<unit bitflag="1360" id1="534532" id2="17" version="1065353216">
+		<source>It is done.</source>
+		<target>Всё готово.</target>
+	</unit>
+	<unit bitflag="1345" id1="534533" id2="17" version="1065353216">
+		<source>Stop saying &quot;we.&quot; I was successful, not you.</source>
+		<target>Хватит говорить «мы». Я добился успеха, не ты.</target>
+	</unit>
+	<unit bitflag="1360" id1="534533" id2="17" version="1065353216">
+		<source>I'm the one doing the work.</source>
+		<target>Работаю тут только я.</target>
+	</unit>
+	<unit bitflag="1345" id1="534534" id2="17" version="1065353216">
+		<source>It's time to kill Skotia!</source>
+		<target>Настало время покончить со Скоушией!</target>
+	</unit>
+	<unit bitflag="1360" id1="534534" id2="17" version="1065353216">
+		<source>Yes!</source>
+		<target>Да!</target>
+	</unit>
+	<unit bitflag="1345" id1="534535" id2="17" version="1065353216">
+		<source>Fantastic. Magnificent. Perfect. Then the time to do the deed is now.</source>
+		<target>Великолепно. Восхитительно. Идеально. Тогда пора взяться за дело.</target>
+	</unit>
+	<unit bitflag="1345" id1="534537" id2="17" version="1065353216">
+		<source>Good work finding the relic, but we still need the prototype from Lord Grathan's estate.</source>
+		<target>Молодец, что нашёл реликвию, но нам всё ещё нужен прототип из поместья лорда Гратана.</target>
+	</unit>
+	<unit bitflag="1345" id1="534540" id2="17" version="1065353216">
+		<source>His greatest weakness is that he's mostly machine. The rogue Sith Lord Grathan is holding a cyborg expert named Dorotsech captive.</source>
+		<target>Его величайшая слабость заключается в том, что он почти стал машиной. Сит-изгой лорд Гратан удерживает у себя в плену киберэксперта по имени Доротсек.</target>
+	</unit>
+	<unit bitflag="1345" id1="534542" id2="17" version="1065353216">
+		<source>He has developed a neutralizer for me, the kind that should destroy Skotia's cyborg elements. Find Dorotsech, get him to tell you where the neutralizer is and then silence him.</source>
+		<target>Он разработал для меня нейтрализатор, который должен уничтожить киберэлементы Скоушии. Найди Доротсека, заставь его рассказать, где спрятан нейтрализатор, и заткни его.</target>
+	</unit>
+	<unit bitflag="1345" id1="534543" id2="17" version="1065353216">
+		<source>You want me to kill him.</source>
+		<target>Ты хочешь, чтобы я его убил.</target>
+	</unit>
+	<unit bitflag="1360" id1="534543" id2="17" version="1065353216">
+		<source>I see.</source>
+		<target>Я понимаю.</target>
+	</unit>
+	<unit bitflag="1345" id1="534544" id2="17" version="1065353216">
+		<source>Whatever it takes.</source>
+		<target>Чего бы это ни стоило.</target>
+	</unit>
+	<unit bitflag="1360" id1="534546" id2="17" version="1065353216">
+		<source>Yes, master.</source>
+		<target>Да, учитель.</target>
+	</unit>
+	<unit bitflag="1345" id1="534547" id2="17" version="1065353216">
+		<source>Do you have any other instructions for me?</source>
+		<target>У тебя есть ещё какие-нибудь указания?</target>
+	</unit>
+	<unit bitflag="1360" id1="534547" id2="17" version="1065353216">
+		<source>Anything else?</source>
+		<target>Что-нибудь ещё?</target>
+	</unit>
+	<unit bitflag="1345" id1="534548" id2="17" version="1065353216">
+		<source>No, that's all, for now.</source>
+		<target>Нет, пока это всё.</target>
+	</unit>
+	<unit bitflag="1345" id1="534550" id2="17" version="1065353216">
+		<source>Grathan's estate is in the jungle--interrogate the scientist.</source>
+		<target>Поместье Гратана находится в джунглях... допроси учёного.</target>
+	</unit>
+	<unit bitflag="1345" id1="534553" id2="17" version="1065353216">
+		<source>Skotia's days are numbered.</source>
+		<target>Дни Скоушии сочтены.</target>
+	</unit>
+	<unit bitflag="1360" id1="534553" id2="17" version="1065353216">
+		<source>We'll be victorious.</source>
+		<target>Победа будет наша.</target>
+	</unit>
+	<unit bitflag="1345" id1="534554" id2="17" version="1065353216">
+		<source>Excellent. I knew you would not fail me.</source>
+		<target>Отлично. Я знала, что ты меня на подведёшь.</target>
+	</unit>
+	<unit bitflag="1360" id1="534556" id2="17" version="1065353216">
+		<source>I will not fail.</source>
+		<target>Я не подведу.</target>
+	</unit>
+	<unit bitflag="1345" id1="534557" id2="17" version="1065353216">
+		<source>I just want to leave.</source>
+		<target>Я просто хочу уже поскорей уйти.</target>
+	</unit>
+	<unit bitflag="1360" id1="534557" id2="17" version="1065353216">
+		<source>Can I go now?</source>
+		<target>Могу я идти?</target>
+	</unit>
+	<unit bitflag="1345" id1="534558" id2="17" version="1065353216">
+		<source>Of course, I won't hold you any longer.</source>
+		<target>Конечно, не буду тебя больше задерживать.</target>
+	</unit>
+	<unit bitflag="1345" id1="534560" id2="17" version="1065353216">
+		<source>With any luck, Skotia will soon be out of our way. And then we'll be free to pursue Tulak Hord's lost power as we please.</source>
+		<target>Если нам повезёт, Скоушия скоро перестанет стоять у нас на пути. А затем мы сможем спокойно заняться утраченным могуществом Тулака Хорда.</target>
+	</unit>
+	<unit bitflag="3393" id1="534562" id2="17" version="1065353216">
+		<source>Ha. The power of Tulak Hord in the hands of a child. What a mockery.</source>
+		<target>Ха. Могущество Тулака Хорда в руках ребёнка. Что за издевательство.</target>
+	</unit>
+	<unit bitflag="1345" id1="534566" id2="17" version="1065353216">
+		<source>I've recovered the Trandoshan relic.</source>
+		<target>Я заполучил реликвию трандошан.</target>
+	</unit>
+	<unit bitflag="1345" id1="534567" id2="17" version="1065353216">
+		<source>Then we've both had success in our endeavors. But the Trandoshan bodyguards are only part of Skotia's defense.</source>
+		<target>Тогда мы оба преуспели в наших начинаниях. Но телохранители-трандошане — лишь часть защиты Скоушии.</target>
+	</unit>
+	<unit bitflag="1345" id1="534569" id2="17" version="1065353216">
+		<source>Does this mean you've found them? You've found the archaeological plans?</source>
+		<target>Значит, ты нашёл их? Ты нашёл планы раскопок?</target>
+	</unit>
+	<unit bitflag="1345" id1="534570" id2="17" version="1065353216">
+		<source>Hope there's not too much blood on them.</source>
+		<target>Надеюсь, я не слишком запачкал их кровью.</target>
+	</unit>
+	<unit bitflag="1360" id1="534570" id2="17" version="1065353216">
+		<source>They got a little dirty.</source>
+		<target>Они немного грязные.</target>
+	</unit>
+	<unit bitflag="1345" id1="534571" id2="17" version="1065353216">
+		<source>Oh no, no--I've read much, much worse.</source>
+		<target>О нет, нет... бывало гораздо, гораздо хуже.</target>
+	</unit>
+	<unit bitflag="1360" id1="534573" id2="17" version="1065353216">
+		<source>Of course.</source>
+		<target>Разумеется.</target>
+	</unit>
+	<unit bitflag="1345" id1="534574" id2="17" version="1065353216">
+		<source>Have I ever failed you?</source>
+		<target>Я тебя когда-нибудь подводил?</target>
+	</unit>
+	<unit bitflag="1360" id1="534574" id2="17" version="1065353216">
+		<source>Do I make mistakes?</source>
+		<target>Я совершаю ошибки?</target>
+	</unit>
+	<unit bitflag="1345" id1="534575" id2="17" version="1065353216">
+		<source>Fantastic. I never doubted you.</source>
+		<target>Великолепно. Я никогда в тебе не сомневалась.</target>
+	</unit>
+	<unit bitflag="1345" id1="534577" id2="17" version="1065353216">
+		<source>Now, let me see.... ah yes. How clever--there's a chamber hidden under the colossus itself!</source>
+		<target>Теперь дай-ка взглянуть... ах, да. Как умно... скрытый чертог находится под самим колоссом!</target>
+	</unit>
+	<unit bitflag="1345" id1="534579" id2="17" version="1065353216">
+		<source>I'd bet my complete collection of Naga Sadow's Yavin Four writings that you'll find what we're looking for in this chamber.</source>
+		<target>Я бы поставила всю свою полную коллекцию сочинений Наги Садоу на Явине Четыре, что в этом чертоге ты найдёшь то, что мы ищем.</target>
+	</unit>
+	<unit bitflag="1345" id1="534580" id2="17" version="1065353216">
+		<source>Tell me how to access this chamber.</source>
+		<target>Расскажи мне, как проникнуть в чертог.</target>
+	</unit>
+	<unit bitflag="1360" id1="534580" id2="17" version="1065353216">
+		<source>How do I get in?</source>
+		<target>Как мне туда попасть?</target>
+	</unit>
+	<unit bitflag="1360" id1="534581" id2="17" version="1065353216">
+		<source>Yes, master.</source>
+		<target>Да, учитель.</target>
+	</unit>
+	<unit bitflag="1345" id1="534582" id2="17" version="1065353216">
+		<source>I'll get inside if I have to destroy the whole colossus!</source>
+		<target>Я проникну внутрь, даже если мне придётся разрушить целый колосс!</target>
+	</unit>
+	<unit bitflag="1360" id1="534582" id2="17" version="1065353216">
+		<source>I'll break my way in!</source>
+		<target>Я пробью себе путь.</target>
+	</unit>
+	<unit bitflag="1345" id1="534583" id2="17" version="1065353216">
+		<source>Such zeal--but destroying the colossus won't be necessary.</source>
+		<target>Такое рвение... но разрушать колосс не обязательно.</target>
+	</unit>
+	<unit bitflag="1345" id1="534585" id2="17" version="1065353216">
+		<source>There should be a hidden entrance near the colossus. It looks like Skotia has an entire underground base. You're looking for a tablet.</source>
+		<target>Рядом с колоссом должен быть спрятанный вход. Похоже, у Скоушии там целая подземная база. Ты ищешь скрижаль.</target>
+	</unit>
+	<unit bitflag="1345" id1="534587" id2="17" version="1065353216">
+		<source>The tablet will be key to defeating Skotia.</source>
+		<target>Скрижаль станет ключом к победе над Скоушией.</target>
+	</unit>
+	<unit bitflag="1345" id1="534588" id2="17" version="1065353216">
+		<source>I'll remove the stone tablet from the chamber.</source>
+		<target>Из этого чертога мне нужно забрать каменную скрижаль.</target>
+	</unit>
+	<unit bitflag="1360" id1="534588" id2="17" version="1065353216">
+		<source>Understood.</source>
+		<target>Понятно.</target>
+	</unit>
+	<unit bitflag="1345" id1="534589" id2="17" version="1065353216">
+		<source>What does this tablet do?</source>
+		<target>Что эта скрижаль делает?</target>
+	</unit>
+	<unit bitflag="1360" id1="534589" id2="17" version="1065353216">
+		<source>Tablet?</source>
+		<target>Скрижаль?</target>
+	</unit>
+	<unit bitflag="1345" id1="534590" id2="17" version="1065353216">
+		<source>It's not what it does, dear apprentice, but what it means.</source>
+		<target>Дело не в том, что она делает, дорогой ученик, а в том, что она значит.</target>
+	</unit>
+	<unit bitflag="1345" id1="534592" id2="17" version="1065353216">
+		<source>What's your fascination with dusty artifacts?</source>
+		<target>Чем тебя привлекают пыльные артефакты?</target>
+	</unit>
+	<unit bitflag="1360" id1="534592" id2="17" version="1065353216">
+		<source>More rocks.</source>
+		<target>Камни-камни.</target>
+	</unit>
+	<unit bitflag="1345" id1="534593" id2="17" version="1065353216">
+		<source>The glory of the Sith is built on dusty artifacts, dear apprentice--but this is not such an artifact.</source>
+		<target>Слава ситов построена именно на пыльных артефактах, дорогой ученик... но это не такой артефакт.</target>
+	</unit>
+	<unit bitflag="1345" id1="534595" id2="17" version="1065353216">
+		<source>The tablet is the symbol of leadership of an obscure Trandoshan cult--the lizards believe it was a gift from their deity, the Scorekeeper.</source>
+		<target>Скрижаль — символ лидерства у скрытого культа трандошан... ящерки верят, что это дар, принесённый их божеством, Счетоводом.</target>
+	</unit>
+	<unit bitflag="1345" id1="534597" id2="17" version="1065353216">
+		<source>Skotia stole the tablet and uses it to exert control over his Trandoshan bodyguards. Give them their relic, and Skotia's power over his bodyguards will turn to vapor.</source>
+		<target>Скоушия украл скрижаль и использовал её, чтобы установить контроль над своими телохранителями-трандошанами. Отдай им их реликвию, и власть Скоушии над его телохранителями обратится в прах.</target>
+	</unit>
+	<unit bitflag="1345" id1="534598" id2="17" version="1065353216">
+		<source>His own defenses will be his downfall.</source>
+		<target>Его собственная защита приведёт его к гибели.</target>
+	</unit>
+	<unit bitflag="1360" id1="534598" id2="17" version="1065353216">
+		<source>And then they'll kill him.</source>
+		<target>И тогда они его убьют.</target>
+	</unit>
+	<unit bitflag="1345" id1="534599" id2="17" version="1065353216">
+		<source>You could try it--it might weaken him a little. Skotia's not stupid enough to retain guards who could actually overpower him.</source>
+		<target>Можешь попробовать... возможно, это его немного ослабит. Скоушия не такой тупой, чтобы нанимать охранников, превосходящих его в силе.</target>
+	</unit>
+	<unit bitflag="1345" id1="534601" id2="17" version="1065353216">
+		<source>The main thing is to keep Skotia's bodyguards off you.</source>
+		<target>Главное — удержать телохранителей Скоушии от нападения на тебя.</target>
+	</unit>
+	<unit bitflag="1345" id1="534603" id2="17" version="1065353216">
+		<source>We'll leave Skotia undefended.</source>
+		<target>Мы оставим Скоушию без защиты.</target>
+	</unit>
+	<unit bitflag="1360" id1="534603" id2="17" version="1065353216">
+		<source>I get it.</source>
+		<target>Я понял.</target>
+	</unit>
+	<unit bitflag="1345" id1="534604" id2="17" version="1065353216">
+		<source>Exactly. You have a sharp mind, apprentice.</source>
+		<target>Именно. У тебя проницательный ум, ученик.</target>
+	</unit>
+	<unit bitflag="1345" id1="534606" id2="17" version="1065353216">
+		<source>How is this going to help me kill Skotia?</source>
+		<target>Как это поможет мне убить Скоушию?</target>
+	</unit>
+	<unit bitflag="1360" id1="534606" id2="17" version="1065353216">
+		<source>I don't understand.</source>
+		<target>Я не понимаю.</target>
+	</unit>
+	<unit bitflag="1345" id1="534607" id2="17" version="1065353216">
+		<source>You won't be able to lay a finger on Skotia with his bodyguards around. Taking them out is essential to our plan.</source>
+		<target>Ты не сможешь тронуть Скоушию и пальцем, пока рядом будут его телохранители. Вывести их из игры крайне важно для исполнения нашего плана.</target>
+	</unit>
+	<unit bitflag="1345" id1="534609" id2="17" version="1065353216">
+		<source>The plans suggest Skotia's apprentices guard this base. I don't doubt they hold the keys to acquiring the Trandoshan tablet. Best kill them all to be sure.</source>
+		<target>Судя по планам, эту базу охраняют ученики Скоушии. Не сомневаюсь, ключи к обретению скрижали трандошан находятся у них. Лучше будет убить их всех для пущей уверенности.</target>
+	</unit>
+	<unit bitflag="3393" id1="534611" id2="17" version="1065353216">
+		<source>Command me and I will eat them.</source>
+		<target>Прикажи, и я сожру их.</target>
+	</unit>
+	<unit bitflag="1345" id1="534614" id2="17" version="1065353216">
+		<source>You must go to the colossus and contact me when you find the plans.</source>
+		<target>Ты должен отправиться к колоссу и связаться со мной, когда найдёшь планы.</target>
+	</unit>
+	<unit bitflag="1345" id1="534615" id2="17" version="1065353216">
+		<source>I've begun to piece together the puzzle for Darth Skotia's destruction--but some elements have yet to fall into place.</source>
+		<target>Я начала решать головоломку, которая погубит Дарта Скоушию... но некоторым её элементам всё ещё предстоит встать на свои места.</target>
+	</unit>
+	<unit bitflag="1345" id1="534617" id2="17" version="1065353216">
+		<source>I need you to look into some things for me--see if we can't get these pieces to fit.</source>
+		<target>Мне нужно, чтобы нашёл недостающие элементы... посмотрим, смогут ли они нам пригодиться.</target>
+	</unit>
+	<unit bitflag="1345" id1="534620" id2="17" version="1065353216">
+		<source>What am I looking for?</source>
+		<target>Что именно я ищу?</target>
+	</unit>
+	<unit bitflag="1360" id1="534620" id2="17" version="1065353216">
+		<source>What do I do?</source>
+		<target>Что мне делать?</target>
+	</unit>
+	<unit bitflag="1345" id1="534621" id2="17" version="1065353216">
+		<source>But what happens if they don't fit?</source>
+		<target>Но что будет, если они нам не пригодятся?</target>
+	</unit>
+	<unit bitflag="1360" id1="534621" id2="17" version="1065353216">
+		<source>What if we fail?</source>
+		<target>Что если у нас не получится?</target>
+	</unit>
+	<unit bitflag="1345" id1="534622" id2="17" version="1065353216">
+		<source>There's always a backup plan--but trust me, I feel we are close.</source>
+		<target>Всегда есть запасной план... но уж поверь мне, я чувствую, что мы близки к триумфу.</target>
+	</unit>
+	<unit bitflag="1345" id1="534624" id2="17" version="1065353216">
+		<source>Wait--I thought you had this all worked out!</source>
+		<target>Постой-ка... я думал, что у тебя всё получилось!</target>
+	</unit>
+	<unit bitflag="1360" id1="534624" id2="17" version="1065353216">
+		<source>This is your plan?</source>
+		<target>Такой у тебя план?</target>
+	</unit>
+	<unit bitflag="1345" id1="534625" id2="17" version="1065353216">
+		<source>The perfect plan is an illusion, but this one, I feel, has a reasonable chance of success.</source>
+		<target>Идеальный план — иллюзия, но я чувствую, что у этого есть значительные шансы на успех.</target>
+	</unit>
+	<unit bitflag="1345" id1="534627" id2="17" version="1065353216">
+		<source>Out in the jungle, a group of slaves has recently revolted. They were working on a colossal statue that has since gone unfinished.</source>
+		<target>Недалеко в джунглях недавно восстала группа рабов. Они работали над огромной статуей, которая с тех пор не завершена.</target>
+	</unit>
+	<unit bitflag="1345" id1="534629" id2="17" version="1065353216">
+		<source>I believe Skotia is hiding something of great importance near this statue. Get the archaeological plans to the area from one of the slaves and contact me by holocommunicator.</source>
+		<target>Мне кажется, что Скоушия скрывает рядом с этой статуей что-то огромной важности. Забери планы раскопок в области у одного из рабов и свяжись со мной по голокоммуникатору.</target>
+	</unit>
+	<unit bitflag="3393" id1="534631" id2="17" version="1065353216">
+		<source>This witch stinks of death. Give me the command and I will devour her.</source>
+		<target>Эта ведьма смердит смертью. Прикажи мне, и я пожру её.</target>
+	</unit>
+	<unit bitflag="1345" id1="534637" id2="17" version="1065353216">
+		<source>Are you acquainted with a big, ugly, half-machine Dark Lord? He had a message for you.</source>
+		<target>Ты знакома с огромным уродливым Тёмным лордом, наполовину ставшим машиной? У него есть для тебя послание.</target>
+	</unit>
+	<unit bitflag="1360" id1="534637" id2="17" version="1065353216">
+		<source>People aren't friendly here.</source>
+		<target>Тут все какие-то недружелюбные.</target>
+	</unit>
+	<unit bitflag="1345" id1="534638" id2="17" version="1065353216">
+		<source>Damn Skotia! What business has he, going behind my back, speaking to my apprentice! Trying to intimidate you, no doubt.</source>
+		<target>Чёртов Скоушия! Что у него за дела такие, что он за моей спиной разговаривает с моим учеником! Без сомнений, пытается тебя запугать.</target>
+	</unit>
+	<unit bitflag="1345" id1="534640" id2="17" version="1065353216">
+		<source>Wretched monster. More machine than man and dangerously powerful. Ever since I arrived on Dromund Kaas as an apprentice, he's made every effort to stand in my way.</source>
+		<target>Проклятый монстр. Скорее машина, чем человек, и ужасно могущественен. С тех пор, как я прибыла на Дромунд-Каас ещё учеником, он делает всё, чтобы встать у меня на пути.</target>
+	</unit>
+	<unit bitflag="3393" id1="534642" id2="17" version="1065353216">
+		<source>He is flesh. He can be killed.</source>
+		<target>Он из плоти. Его можно убить.</target>
+	</unit>
+	<unit bitflag="1345" id1="534644" id2="17" version="1065353216">
+		<source>Ultimately, we cannot even begin the search for Tulak Hord's ancient power with Skotia's rattling breath on our necks.</source>
+		<target>В итоге мы даже не можем начать поиски древнего могущества Тулака Хорда, пока Скоушия дышит нам в спину.</target>
+	</unit>
+	<unit bitflag="1345" id1="534645" id2="17" version="1065353216">
+		<source>There must be something we can do.</source>
+		<target>Должно быть что-то, что можно сделать.</target>
+	</unit>
+	<unit bitflag="1360" id1="534645" id2="17" version="1065353216">
+		<source>We have to stop him.</source>
+		<target>Нам нужно помешать ему.</target>
+	</unit>
+	<unit bitflag="1345" id1="534646" id2="17" version="1065353216">
+		<source>Yes, yes. There is something we can do--or rather, something you can do.</source>
+		<target>Да, да. Есть кое-что, что можно сделать... или, скорее, кое-что, что можно тебе сделать.</target>
+	</unit>
+	<unit bitflag="1345" id1="534648" id2="17" version="1065353216">
+		<source>Sounds like Skotia's got us on this one.</source>
+		<target>Похоже, в этот раз Скоушия взял нас за горло.</target>
+	</unit>
+	<unit bitflag="1360" id1="534648" id2="17" version="1065353216">
+		<source>So we're stuck.</source>
+		<target>Так выхода нет.</target>
+	</unit>
+	<unit bitflag="1345" id1="534649" id2="17" version="1065353216">
+		<source>No. Not quite. You see, I have a plan.</source>
+		<target>Нет. Не совсем. Видишь ли, у меня есть план.</target>
+	</unit>
+	<unit bitflag="1345" id1="534651" id2="17" version="1065353216">
+		<source>Somebody should stop him from breathing, then.</source>
+		<target>Тогда кто-то должен задержать ему дыхание.</target>
+	</unit>
+	<unit bitflag="1360" id1="534651" id2="17" version="1065353216">
+		<source>We should kill him.</source>
+		<target>Нам нужно его убить.</target>
+	</unit>
+	<unit bitflag="1345" id1="534652" id2="17" version="1065353216">
+		<source>Yes--and that somebody is you.</source>
+		<target>Да... и этим кем-то будешь ты.</target>
+	</unit>
+	<unit bitflag="1345" id1="534654" id2="17" version="1065353216">
+		<source>You are going to kill Skotia for me.</source>
+		<target>Ты убьёшь Скоушию.</target>
+	</unit>
+	<unit bitflag="1345" id1="534655" id2="17" version="1065353216">
+		<source>I can't kill him! He's too powerful!</source>
+		<target>Я не могу убить его! Он слишком могущественен!</target>
+	</unit>
+	<unit bitflag="1360" id1="534655" id2="17" version="1065353216">
+		<source>What?</source>
+		<target>Что?</target>
+	</unit>
+	<unit bitflag="1345" id1="534656" id2="17" version="1065353216">
+		<source>Exactly. That's the genius of my plan.</source>
+		<target>Именно. Поэтому мой план и гениален.</target>
+	</unit>
+	<unit bitflag="1360" id1="534658" id2="17" version="1065353216">
+		<source>Why me?</source>
+		<target>Почему я?</target>
+	</unit>
+	<unit bitflag="1345" id1="534659" id2="17" version="1065353216">
+		<source>Wouldn't I love to. It would be much simpler that way.</source>
+		<target>Я бы и рада. Так бы было гораздо проще.</target>
+	</unit>
+	<unit bitflag="1345" id1="534661" id2="17" version="1065353216">
+		<source>Finally, a challenge worthy of me.</source>
+		<target>Наконец-то вызов, меня достойный.</target>
+	</unit>
+	<unit bitflag="1360" id1="534661" id2="17" version="1065353216">
+		<source>No problem.</source>
+		<target>Без проблем.</target>
+	</unit>
+	<unit bitflag="1345" id1="534662" id2="17" version="1065353216">
+		<source>Good. That's precisely the attitude you'll need.</source>
+		<target>Отлично. Это в точности тот настрой, что тебе понадобится.</target>
+	</unit>
+	<unit bitflag="1345" id1="534664" id2="17" version="1065353216">
+		<source>I cannot be tied to Skotia's murder. Brazen power plays make the Dark Council nervous.</source>
+		<target>Я не могу быть связана с убийством Скоушии. Дерзкие демонстрации могущества заставляют Тёмный Совет нервничать.</target>
+	</unit>
+	<unit bitflag="1345" id1="534666" id2="17" version="1065353216">
+		<source>But nobody will believe that a mere apprentice could defeat Skotia. It's impossible, and that's why it will work.</source>
+		<target>Но никто не поверит, что Скоушию смог победить простой ученик. Это невозможно, и именно поэтому это сработает.</target>
+	</unit>
+	<unit bitflag="1345" id1="534667" id2="17" version="1065353216">
+		<source>So what am I supposed to do?</source>
+		<target>Так что я должен сделать?</target>
+	</unit>
+	<unit bitflag="1360" id1="534667" id2="17" version="1065353216">
+		<source>Instructions?</source>
+		<target>Указания?</target>
+	</unit>
+	<unit bitflag="1345" id1="534668" id2="17" version="1065353216">
+		<source>The impossible's my specialty.</source>
+		<target>Невозможное — это по моей части.</target>
+	</unit>
+	<unit bitflag="1360" id1="534668" id2="17" version="1065353216">
+		<source>My pleasure.</source>
+		<target>С удовольствием.</target>
+	</unit>
+	<unit bitflag="1345" id1="534669" id2="17" version="1065353216">
+		<source>So it seems.</source>
+		<target>Похоже на то.</target>
+	</unit>
+	<unit bitflag="1345" id1="534671" id2="17" version="1065353216">
+		<source>Sounds like you relax while I do your dirty work.</source>
+		<target>Похоже, пока я буду делать грязную работу, ты будешь расслабляться.</target>
+	</unit>
+	<unit bitflag="1360" id1="534671" id2="17" version="1065353216">
+		<source>And you can take it easy.</source>
+		<target>Тебе-то не о чем волноваться.</target>
+	</unit>
+	<unit bitflag="1345" id1="534672" id2="17" version="1065353216">
+		<source>Dear apprentice, where I go, you go. If I go up, you come with me. Meanwhile, I must make plans for when we get there. So, listen closely.</source>
+		<target>Дорогой ученик, куда иду я, идёшь и ты. Если я возвышаюсь, то и ты тоже. Между тем, я должна строить планы на то время, когда мы достигнем цели. Так что слушай внимательно.</target>
+	</unit>
+</dialogue_file>

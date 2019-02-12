@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="101">
+	<unit bitflag="1345" id1="680106" id2="17" version="1065353216">
+		<source>What is this? How... did you... Zash! Zash! You've killed me....</source>
+		<target>Что происходит? Как... ты... Заш! Заш! Ты убила меня...</target>
+	</unit>
+	<unit bitflag="1345" id1="680107" id2="17" version="1065353216">
+		<source>Don't blame Zash. This is all me.</source>
+		<target>Не вини Заш. Это всё я сам.</target>
+	</unit>
+	<unit bitflag="1360" id1="680107" id2="17" version="1065353216">
+		<source>No, I did.</source>
+		<target>Нет, я тебя убил.</target>
+	</unit>
+	<unit bitflag="1360" id1="680108" id2="17" version="1065353216">
+		<source>I'm just that powerful.</source>
+		<target>Я просто такой могущественный.</target>
+	</unit>
+	<unit bitflag="1345" id1="680109" id2="17" version="1065353216">
+		<source>How does it feel to be killed by a slave, Skotia?</source>
+		<target>Каково это — погибнуть от руки раба, Скоушия?</target>
+	</unit>
+	<unit bitflag="1360" id1="680109" id2="17" version="1065353216">
+		<source>You're pathetic.</source>
+		<target>Ты жалок.</target>
+	</unit>
+	<unit bitflag="1345" id1="680110" id2="17" version="1065353216">
+		<source>Mindless... you don't know what Zash can do.</source>
+		<target>Безмозглый... ты не знаешь, что может наделать Заш</target>
+	</unit>
+	<unit bitflag="1345" id1="680112" id2="17" version="1065353216">
+		<source>Think--think of how many years she must have spent plotting my death.</source>
+		<target>Подумай... подумай, сколько лет она, должно быть, замышляла мою смерть.</target>
+	</unit>
+	<unit bitflag="1345" id1="680114" id2="17" version="1065353216">
+		<source>I have seen her kill with cold, detached cruelty. She would cut off her own hand if it would make her stronger.</source>
+		<target>Я видел, как она убивает с равнодушной, отстранённой жестокостью. Она бы отрезала себе руку, если бы так стала сильнее.</target>
+	</unit>
+	<unit bitflag="1345" id1="680115" id2="17" version="1065353216">
+		<source>What did you expect? Mercy? Compassion?</source>
+		<target>Чего ты ждал? Пощады? Сострадания?</target>
+	</unit>
+	<unit bitflag="1360" id1="680115" id2="17" version="1065353216">
+		<source>Cruelty's the Sith way.</source>
+		<target>Жестокость — путь ситов.</target>
+	</unit>
+	<unit bitflag="1345" id1="680116" id2="17" version="1065353216">
+		<source>Zash wouldn't be so cruel.</source>
+		<target>Заш не настолько жестока.</target>
+	</unit>
+	<unit bitflag="1360" id1="680116" id2="17" version="1065353216">
+		<source>I don't believe you.</source>
+		<target>Я тебе не верю.</target>
+	</unit>
+	<unit bitflag="1345" id1="680117" id2="17" version="1065353216">
+		<source>Stop complaining, or I'll kick your teeth in.</source>
+		<target>Хватит жаловаться, иначе я повыбиваю тебе зубы.</target>
+	</unit>
+	<unit bitflag="1360" id1="680117" id2="17" version="1065353216">
+		<source>Shut up and die.</source>
+		<target>Заткнись и умри.</target>
+	</unit>
+	<unit bitflag="1345" id1="680118" id2="17" version="1065353216">
+		<source>Foolish slave. You--you are nothing more than Lord Zash's hand--and she will cut you off.</source>
+		<target>Глупый раб. Ты... ты всего лишь рука Заш... которую она отрежет.</target>
+	</unit>
+	<unit bitflag="1345" id1="680120" id2="17" version="1065353216">
+		<source>She will kill you. Just like... she's killed... me.</source>
+		<target>Она убьёт тебя. Точно так же... как убила... меня.</target>
+	</unit>
+	<unit bitflag="1345" id1="680121" id2="17" version="1065353216">
+		<source>If that day comes, I'll be ready for her.</source>
+		<target>Если придёт этот день, я буду наготове.</target>
+	</unit>
+	<unit bitflag="1360" id1="680121" id2="17" version="1065353216">
+		<source>Not if I can help it.</source>
+		<target>Нет, мне решать, когда я умру.</target>
+	</unit>
+	<unit bitflag="1345" id1="680122" id2="17" version="1065353216">
+		<source>Zash would never do such a thing!</source>
+		<target>Заш бы никогда так не поступила!</target>
+	</unit>
+	<unit bitflag="1360" id1="680122" id2="17" version="1065353216">
+		<source>You lie!</source>
+		<target>Лжец!</target>
+	</unit>
+	<unit bitflag="1345" id1="680123" id2="17" version="1065353216">
+		<source>I killed you, not Zash.</source>
+		<target>Я убил тебя, а не Заш.</target>
+	</unit>
+	<unit bitflag="1360" id1="680123" id2="17" version="1065353216">
+		<source>Don't blame Zash.</source>
+		<target>Не вини Заш.</target>
+	</unit>
+	<unit bitflag="1345" id1="680128" id2="17" version="1065353216">
+		<source>You shouldn't have done that. The bodyguards--they're nothing. Show.</source>
+		<target>Тебе не стоило это делать. Телохранители — ничто. Показуха.</target>
+	</unit>
+	<unit bitflag="1345" id1="680130" id2="17" version="1065353216">
+		<source>But you subverted my authority--took my slaves from me. And that--makes me angry. And killing you--will be over too soon.</source>
+		<target>Но ты подорвал мой авторитет... забрал у меня моих же рабов. И это... преисполняет меня гневом. А твоя смерть... наступит очень скоро.</target>
+	</unit>
+	<unit bitflag="1345" id1="680132" id2="17" version="1065353216">
+		<source>No, I think you're going to have to suffer first.</source>
+		<target>Нет, думаю, сначала ты будешь страдать.</target>
+	</unit>
+	<unit bitflag="3393" id1="680134" id2="17" version="1065353216">
+		<source>My master, the soft-skinned one, the toy of Zash approaches.</source>
+		<target>Хозяин, тут мягкокожий, игрушка Заш.</target>
+	</unit>
+	<unit bitflag="1345" id1="680136" id2="17" version="1065353216">
+		<source>I see.</source>
+		<target>Вижу.</target>
+	</unit>
+	<unit bitflag="3393" id1="680138" id2="17" version="1065353216">
+		<source>What would you have us do, my master?</source>
+		<target>Что прикажете нам сделать, хозяин?</target>
+	</unit>
+	<unit bitflag="1345" id1="680140" id2="17" version="1065353216">
+		<source>Nothing--yet. What makes this slave so bold as to enter my chambers? Tell me, slave, are you insane or do you have a death wish?</source>
+		<target>Ничего... пока. Что делает этого раба таким смелым, что он входит в мои покои? Скажи мне раб, ты безумен или жаждешь смерти?</target>
+	</unit>
+	<unit bitflag="1345" id1="680141" id2="17" version="1065353216">
+		<source>My master wants you dead, and I must comply.</source>
+		<target>Мой учитель хочет, чтобы вы были мертвы, и я должен повиноваться.</target>
+	</unit>
+	<unit bitflag="1360" id1="680141" id2="17" version="1065353216">
+		<source>Zash's orders.</source>
+		<target>Приказ Заш.</target>
+	</unit>
+	<unit bitflag="1360" id1="680142" id2="17" version="1065353216">
+		<source>Your death, not mine.</source>
+		<target>Твоей смерти, не моей.</target>
+	</unit>
+	<unit bitflag="1345" id1="680143" id2="17" version="1065353216">
+		<source>If you think this is bad, you should meet my other personality.</source>
+		<target>Если думаешь, что это плохо, ты должен познакомиться с другой стороной моей личности.</target>
+	</unit>
+	<unit bitflag="1360" id1="680143" id2="17" version="1065353216">
+		<source>Definitely mad.</source>
+		<target>Конечно сумасшедший.</target>
+	</unit>
+	<unit bitflag="1345" id1="680144" id2="17" version="1065353216">
+		<source>Heh. Skeesk?</source>
+		<target>Хе. Скиск?</target>
+	</unit>
+	<unit bitflag="3393" id1="680146" id2="17" version="1065353216">
+		<source>Yes, my master.</source>
+		<target>Да, хозяин.</target>
+	</unit>
+	<unit bitflag="1345" id1="680148" id2="17" version="1065353216">
+		<source>Kill her.</source>
+		<target>Убей её.</target>
+	</unit>
+	<unit bitflag="1345" id1="680150" id2="17" version="1065353216">
+		<source>Kill him.</source>
+		<target>Убей его.</target>
+	</unit>
+	<unit bitflag="3393" id1="680152" id2="17" version="1065353216">
+		<source>It will be our pleasure, my master.</source>
+		<target>С удовольствием, хозяин.</target>
+	</unit>
+	<unit bitflag="1345" id1="680153" id2="17" version="1065353216">
+		<source>I believe this belongs to you.</source>
+		<target>Кажется, это ваше.</target>
+	</unit>
+	<unit bitflag="1360" id1="680153" id2="17" version="1065353216">
+		<source>Is this yours? [Show relic]</source>
+		<target>Это ваше? [Показать реликвию]</target>
+	</unit>
+	<unit bitflag="1345" id1="680154" id2="17" version="1065353216">
+		<source>I'm your master now.</source>
+		<target>Теперь я ваш хозяин.</target>
+	</unit>
+	<unit bitflag="1360" id1="680154" id2="17" version="1065353216">
+		<source>Obey me. [Show relic]</source>
+		<target>Подчиняйтесь. [Показать реликвию]</target>
+	</unit>
+	<unit bitflag="3393" id1="680156" id2="17" version="1065353216">
+		<source>The tablet! It has the tablet!</source>
+		<target>Скрижаль! У него скрижаль!</target>
+	</unit>
+	<unit bitflag="3393" id1="680158" id2="17" version="1065353216">
+		<source>Skeesk, my brother, what should we do?</source>
+		<target>Скиск, брат мой, что нам делать?</target>
+	</unit>
+	<unit bitflag="3393" id1="680160" id2="17" version="1065353216">
+		<source>It has the tablet. We must obey.</source>
+		<target>У него скрижаль. Мы должны повиноваться.</target>
+	</unit>
+	<unit bitflag="1345" id1="680162" id2="17" version="1065353216">
+		<source>Heh. Clever. Zash must have stayed up many a night to think of that one.</source>
+		<target>Хе. Умно. Должно быть, Заш много ночей не спала, чтобы такое придумать.</target>
+	</unit>
+	<unit bitflag="1345" id1="680164" id2="17" version="1065353216">
+		<source>I suppose you'll be sending my bodyguards away now. Or maybe you'll order them to kill me?</source>
+		<target>Полагаю, теперь ты отошлёшь моих телохранителей. Или, быть может, ты прикажешь им на меня напасть?</target>
+	</unit>
+	<unit bitflag="1345" id1="680165" id2="17" version="1065353216">
+		<source>It should at least be entertaining. Tear him to pieces.</source>
+		<target>По крайней мере, это будет занимательно. Порвите его на куски.</target>
+	</unit>
+	<unit bitflag="1360" id1="680165" id2="17" version="1065353216">
+		<source>Kill him.</source>
+		<target>Убить его.</target>
+	</unit>
+	<unit bitflag="3393" id1="680166" id2="17" version="1065353216">
+		<source>As you wish, my master.</source>
+		<target>Как вам будет угодно, хозяин.</target>
+	</unit>
+	<unit bitflag="1345" id1="680167" id2="17" version="1065353216">
+		<source>I don't need you. Go home, and take your relic.</source>
+		<target>Вы мне не нужны. Отправляйтесь домой и заберите свою реликвию.</target>
+	</unit>
+	<unit bitflag="1360" id1="680167" id2="17" version="1065353216">
+		<source>Get out of here. You're free.</source>
+		<target>Уходите отсюда. Вы свободны.</target>
+	</unit>
+	<unit bitflag="3393" id1="680175" id2="17" version="1065353216">
+		<source>My master! Isn't this soft-skinned one the toy of Zash, the golden-haired lord?</source>
+		<target>Хозяин! Не этот ли мягкокожий игрушка Заш, златовласого владыки?</target>
+	</unit>
+	<unit bitflag="3393" id1="680177" id2="17" version="1065353216">
+		<source>Yes, my master. It is the slave who became a Sith! The apprentice of Zash!</source>
+		<target>Да, хозяин. Это раб, ставший ситом! Ученик Заш!</target>
+	</unit>
+	<unit bitflag="1345" id1="680179" id2="17" version="1065353216">
+		<source>Quiet, bodyguard. Save your hissing for your own kind.</source>
+		<target>Тише, телохранитель. Прибереги своё шипение для себе подобных.</target>
+	</unit>
+	<unit bitflag="3393" id1="680181" id2="17" version="1065353216">
+		<source>But my master--</source>
+		<target>Но хозяин...</target>
+	</unit>
+	<unit bitflag="1345" id1="680183" id2="17" version="1065353216">
+		<source>Should I remind you of the power I hold over you, animal?</source>
+		<target>Мне напомнить о власти, которой я над тобой обладаю, животное?</target>
+	</unit>
+	<unit bitflag="3393" id1="680185" id2="17" version="1065353216">
+		<source>No, my master, of course not--I am sorry.</source>
+		<target>Нет, хозяин, конечно нет... Простите.</target>
+	</unit>
+	<unit bitflag="1345" id1="680187" id2="17" version="1065353216">
+		<source>As for you, slave, Darth Skotia is passing--best get out of his way.</source>
+		<target>Что до тебя, раб, когда мимо проходит Дарт Скоушия, лучше не стоять у него на пути.</target>
+	</unit>
+	<unit bitflag="1345" id1="680188" id2="17" version="1065353216">
+		<source>You sent that weakling apprentice to kill me.</source>
+		<target>Это вы отправили того слабака убить меня.</target>
+	</unit>
+	<unit bitflag="1360" id1="680188" id2="17" version="1065353216">
+		<source>You tried to have me killed.</source>
+		<target>Вы пытались меня убить.</target>
+	</unit>
+	<unit bitflag="1345" id1="680189" id2="17" version="1065353216">
+		<source>It looks like I didn't try hard enough. I won't make the same mistake twice.</source>
+		<target>Похоже, я недостаточно постарался. Я не повторю эту ошибку.</target>
+	</unit>
+	<unit bitflag="1360" id1="680191" id2="17" version="1065353216">
+		<source>Yes, my lord.</source>
+		<target>Да, владыка.</target>
+	</unit>
+	<unit bitflag="1345" id1="680192" id2="17" version="1065353216">
+		<source>Heh. At least Zash taught your back to bend.</source>
+		<target>Хе. По крайней мере, Заш научила тебя пресмыкаться.</target>
+	</unit>
+	<unit bitflag="1345" id1="680194" id2="17" version="1065353216">
+		<source>Darth Skotia can wait.</source>
+		<target>Дарт Скоушия подождёт.</target>
+	</unit>
+	<unit bitflag="1360" id1="680194" id2="17" version="1065353216">
+		<source>I don't care who you are.</source>
+		<target>Меня не волнует, кто ты.</target>
+	</unit>
+	<unit bitflag="1345" id1="680195" id2="17" version="1065353216">
+		<source>You're making a huge mistake, filth.</source>
+		<target>Ты совершаешь огромную ошибку, мразь.</target>
+	</unit>
+	<unit bitflag="1345" id1="680197" id2="17" version="1065353216">
+		<source>Give your master a message for me: My eye is on her, and I know. Tell her that. I know what she's trying to do here on Dromund Kaas.</source>
+		<target>Передай своему учителю это послание: я слежу за ней, и я знаю. Скажи это ей. Я знаю, что она пытается провернуть на Дромунд-Каасе.</target>
+	</unit>
+	<unit bitflag="1345" id1="680199" id2="17" version="1065353216">
+		<source>You and your master have gotten this far--but it ends here, slave. I alone have the key. Tell her that.</source>
+		<target>Вы с твоим учителем зашли так далеко... но всё закончится здесь, раб. Только у меня есть ключ. Скажи это ей.</target>
+	</unit>
+	<unit bitflag="1345" id1="680202" id2="17" version="1065353216">
+		<source>My master and I don't like threats.</source>
+		<target>Мы с моим учителем не любим, когда нам угрожают.</target>
+	</unit>
+	<unit bitflag="1360" id1="680202" id2="17" version="1065353216">
+		<source>Don't threaten me.</source>
+		<target>Не угрожай мне.</target>
+	</unit>
+	<unit bitflag="1345" id1="680203" id2="17" version="1065353216">
+		<source>You and your master are not in a position to oppose me.</source>
+		<target>Вы с твоим учителем не в состоянии противостоять мне.</target>
+	</unit>
+	<unit bitflag="1360" id1="680205" id2="17" version="1065353216">
+		<source>As you say.</source>
+		<target>Как скажете.</target>
+	</unit>
+	<unit bitflag="1345" id1="680206" id2="17" version="1065353216">
+		<source>What do you have against her?</source>
+		<target>Что вы имеете против неё?</target>
+	</unit>
+	<unit bitflag="1360" id1="680206" id2="17" version="1065353216">
+		<source>Why do you hate Zash?</source>
+		<target>Почему вы ненавидите Заш?</target>
+	</unit>
+	<unit bitflag="1345" id1="680207" id2="17" version="1065353216">
+		<source>She has no more right to be here than you. And she likes to show up in places she doesn't belong.</source>
+		<target>У неё не больше прав находиться здесь, чем у тебя. А она любит объявляться там, где её не любят и не ждут.</target>
+	</unit>
+	<unit bitflag="1345" id1="680209" id2="17" version="1065353216">
+		<source>You and your master have no future on Dromund Kaas or in the Sith Order. Tell her that. Now, get out of my way.</source>
+		<target>У вас с твоим учителем нет будущего ни на Дромунд-Каасе, ни в Ордене ситов. Скажи это ей. А теперь не стой у меня на пути.</target>
+	</unit>
+	<unit bitflag="1345" id1="680210" id2="17" version="1065353216">
+		<source>I think you're the one who needs to move.</source>
+		<target>Думаю, это тебе тут надо подвинуться.</target>
+	</unit>
+	<unit bitflag="1360" id1="680210" id2="17" version="1065353216">
+		<source>I was here first.</source>
+		<target>Дамы вперёд.</target>
+	</unit>
+	<unit bitflag="1345" id1="680211" id2="17" version="1065353216">
+		<source>I would not count on it.</source>
+		<target>Я бы на это не рассчитывал.</target>
+	</unit>
+	<unit bitflag="1345" id1="680212" id2="17" version="1065353216">
+		<source>What do you think? Can you eat him?</source>
+		<target>Как ты думаешь? Сможешь его съесть?</target>
+	</unit>
+	<unit bitflag="1360" id1="680212" id2="17" version="1065353216">
+		<source>Lend a hand, Khem.</source>
+		<target>Руку помощи, Кхем.</target>
+	</unit>
+	<unit bitflag="3393" id1="680213" id2="17" version="1065353216">
+		<source>It is more machine than man, I think. Bad for the digestion.</source>
+		<target>Кажется, это больше машина, чем человек. Плохо для пищеварения.</target>
+	</unit>
+	<unit bitflag="1345" id1="680215" id2="17" version="1065353216">
+		<source>Ha! Fools.</source>
+		<target>Ха! Глупцы.</target>
+	</unit>
+	<unit bitflag="1360" id1="680216" id2="17" version="1065353216">
+		<source>Yes, my lord.</source>
+		<target>Да, владыка.</target>
+	</unit>
+	<unit bitflag="1345" id1="680217" id2="17" version="1065353216">
+		<source>You know your place.</source>
+		<target>Ты знаешь своё место.</target>
+	</unit>
+	<unit bitflag="1345" id1="680218" id2="17" version="1065353216">
+		<source>Oh, go fall in a sarlacc pit.</source>
+		<target>Ох, чтоб ты в яму с сарлакком упал.</target>
+	</unit>
+	<unit bitflag="1360" id1="680218" id2="17" version="1065353216">
+		<source>Why don't you just die.</source>
+		<target>Почему бы тебе просто не умереть.</target>
+	</unit>
+	<unit bitflag="1345" id1="680219" id2="17" version="1065353216">
+		<source>Out of my way!</source>
+		<target>Не стой на пути!</target>
+	</unit>
+	<unit bitflag="1345" id1="680223" id2="17" version="1065353216">
+		<source>Move along. Skotia has no business with you.</source>
+		<target>Не задерживайся. Скоушии не о чем с тобой разговаривать.</target>
+	</unit>
+	<unit bitflag="1345" id1="680225" id2="17" version="1065353216">
+		<source>I want the pleasure of killing you myself.</source>
+		<target>Я с удовольствием убью вас сам.</target>
+	</unit>
+	<unit bitflag="1360" id1="680225" id2="17" version="1065353216">
+		<source>No, I'll handle this.</source>
+		<target>Нет, я справлюсь.</target>
+	</unit>
+	<unit bitflag="1345" id1="680226" id2="17" version="1065353216">
+		<source>It's been a while since I've had a good fight.</source>
+		<target>Давненько мне не хватало хорошенькой драки.</target>
+	</unit>
+	<unit bitflag="1360" id1="680226" id2="17" version="1065353216">
+		<source>This will be fun. [Fight them]</source>
+		<target>Будет весело. [Сразиться с ними]</target>
+	</unit>
+	<unit bitflag="3393" id1="680227" id2="17" version="1065353216">
+		<source>Thank you, my master. Thank you.</source>
+		<target>Спасибо, хозяин. Спасибо.</target>
+	</unit>
+	<unit bitflag="3393" id1="680229" id2="17" version="1065353216">
+		<source>You will be easy prey, soft one.</source>
+		<target>Ты будешь лёгкой добычей, слабак.</target>
+	</unit>
+	<unit bitflag="1360" id1="755553" id2="17" version="1065353216">
+		<source>Enough fighting. [Show relic]</source>
+		<target>Хватит задираться. [Показать реликвию]</target>
+	</unit>
+	<unit bitflag="1360" id1="760940" id2="17" version="1065353216">
+		<source>This is my fight.</source>
+		<target>Это моя битва.</target>
+	</unit>
+	<unit bitflag="3393" id1="760941" id2="17" version="1065353216">
+		<source>No. The mechanical one will pay for enslaving us.</source>
+		<target>Нет. Механический поплатится за то, что нас поработил.</target>
+	</unit>
+</dialogue_file>

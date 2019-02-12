@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="13">
+	<unit bitflag="3393" id1="91906" id2="17" version="1065353216">
+		<source>Forge. Yuon has spoken of. Is maker of weapons, arms Jedi.</source>
+		<target>Кузница. О которой Юон говорила. Производитель оружия, оружия джедаев.</target>
+	</unit>
+	<unit bitflag="3393" id1="91908" id2="17" version="1065353216">
+		<source>Hmm. No scent, no track. Nalen is not here, but should prepare. Perhaps is time enough to build your weapon.</source>
+		<target>Хм. Ни запаха, ни следа. Нален не здесь, но должен готовиться. Возможно, времени хватит создать оружие.</target>
+	</unit>
+	<unit bitflag="1345" id1="91909" id2="17" version="1065353216">
+		<source>This will require a lot of concentration. If you could look out for me....</source>
+		<target>Это потребует сильной концентрации. Если можешь присмотреть за мной...</target>
+	</unit>
+	<unit bitflag="1360" id1="91909" id2="17" version="1065353216">
+		<source>Will you watch my back?</source>
+		<target>Прикроешь меня?</target>
+	</unit>
+	<unit bitflag="3393" id1="91910" id2="17" version="1065353216">
+		<source>Shall do so.</source>
+		<target>Сделаю это.</target>
+	</unit>
+	<unit bitflag="1345" id1="91912" id2="17" version="1065353216">
+		<source>Rajivari instructed me, I have the crystal... I think I'm ready.</source>
+		<target>У меня есть инструкции Радживари и кристалл... думаю, пора.</target>
+	</unit>
+	<unit bitflag="1360" id1="91912" id2="17" version="1065353216">
+		<source>I should begin.</source>
+		<target>Мне стоит начать.</target>
+	</unit>
+	<unit bitflag="1345" id1="91913" id2="17" version="1065353216">
+		<source>Rajivari seemed confident, but this hilt is thousands of years old. It may not survive the process.</source>
+		<target>Радживари казался уверенным, но этой рукояти тысячи лет. Она может не перенести процедуру.</target>
+	</unit>
+	<unit bitflag="1360" id1="91913" id2="17" version="1065353216">
+		<source>I hope this hilt is up to it.</source>
+		<target>Надеюсь, рукоять выдержит.</target>
+	</unit>
+	<unit bitflag="3393" id1="91914" id2="17" version="1065353216">
+		<source>Shall watch path, small hunter. None will interrupt your work.</source>
+		<target>Буду следить за путём, маленький охотник. Никто не прервёт твою работу.</target>
+	</unit>
+	<unit bitflag="3393" id1="91916" id2="17" version="1065353216">
+		<source>Go. Make your weapon. You have earned.</source>
+		<target>Иди. Делай оружие. Ты заслужил.</target>
+	</unit>
+	<unit bitflag="3393" id1="91920" id2="17" version="1065353216">
+		<source>Someone comes. Ready your weapon, small hunter. Hunt begins.</source>
+		<target>Кто-то идёт. Приготовь оружие, маленький охотник. Охота начинается.</target>
+	</unit>
+	<unit bitflag="321" id1="91923" id2="17" version="1065353216">
+		<source>[As you study your new weapon, you sense someone approaching. You should ready your lightsaber and prepare for their arrival.]</source>
+		<target>[Изучая новое оружие, вы чувствуете чьё-то приближение. Вам следует подготовить световой меч и приготовиться к их прибытию]</target>
+	</unit>
+</dialogue_file>

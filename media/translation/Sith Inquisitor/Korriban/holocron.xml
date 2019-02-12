@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="18">
+	<unit bitflag="321" id1="660403" id2="17" version="1065353216">
+		<source>[The monument remains unopened.]</source>
+		<target>[Голокрон всё ещё в монументе]</target>
+	</unit>
+	<unit bitflag="1345" id1="660404" id2="17" version="1065353216">
+		<source>Perhaps a little blood will satiate you.</source>
+		<target>Возможно, тебя насытит немного крови.</target>
+	</unit>
+	<unit bitflag="1360" id1="660404" id2="17" version="1065353216">
+		<source>[Offer blood to it]</source>
+		<target>[Принести кровь Кхорну]</target>
+	</unit>
+	<unit bitflag="321" id1="660405" id2="17" version="1065353216">
+		<source>[Nothing happens.]</source>
+		<target>[Ничего не происходит]</target>
+	</unit>
+	<unit bitflag="1345" id1="660406" id2="17" version="1065353216">
+		<source>Just open damn it!</source>
+		<target>Откройся, чтоб тебя!</target>
+	</unit>
+	<unit bitflag="1360" id1="660406" id2="17" version="1065353216">
+		<source>[Shoot lightning at it]</source>
+		<target>[Выстрелить в него молнией]</target>
+	</unit>
+	<unit bitflag="321" id1="660407" id2="17" version="1065353216">
+		<source>[The monument shudders and then opens, revealing the holocron.]</source>
+		<target>[Монумент содрогается и открывается, высвобождая голокрон]</target>
+	</unit>
+	<unit bitflag="1345" id1="660409" id2="17" version="1065353216">
+		<source>Perhaps calm is necessary....</source>
+		<target>Возможно, необходим покой...</target>
+	</unit>
+	<unit bitflag="1360" id1="660409" id2="17" version="1065353216">
+		<source>[Meditate on the light side]</source>
+		<target>[Медитировать на Светлой стороне]</target>
+	</unit>
+	<unit bitflag="321" id1="660410" id2="17" version="1065353216">
+		<source>[Nothing happens.]</source>
+		<target>[Ничего не происходит]</target>
+	</unit>
+	<unit bitflag="321" id1="660413" id2="17" version="1065353216">
+		<source>[The holocron's monument bears the marks of many hundreds of unsuccessful attempts to pry it open.]</source>
+		<target>[На монументе следы сотен неудачных попыток вытащить голокрон]</target>
+	</unit>
+	<unit bitflag="1345" id1="660414" id2="17" version="1065353216">
+		<source>Peace is a lie, there is only passion....</source>
+		<target>Покой — это ложь, есть только страсть...</target>
+	</unit>
+	<unit bitflag="1360" id1="660414" id2="17" version="1065353216">
+		<source>[Recite the Sith Code]</source>
+		<target>[Прочесть Кодекс ситов]</target>
+	</unit>
+	<unit bitflag="1345" id1="660415" id2="17" version="1065353216">
+		<source>Let's see how you like this!</source>
+		<target>Посмотрим, как тебе такое понравится!</target>
+	</unit>
+	<unit bitflag="1360" id1="660415" id2="17" version="1065353216">
+		<source>[Break it]</source>
+		<target>[Сломать его]</target>
+	</unit>
+	<unit bitflag="1345" id1="660416" id2="17" version="1065353216">
+		<source>The power of the dark side is in me.</source>
+		<target>Мощь Тёмной стороны со мной.</target>
+	</unit>
+	<unit bitflag="1360" id1="660416" id2="17" version="1065353216">
+		<source>[Meditate on the dark side]</source>
+		<target>[Медитировать на Тёмной стороне]</target>
+	</unit>
+	<unit bitflag="321" id1="660417" id2="17" version="1065353216">
+		<source>[The monument shudders, and beasts rush in and attack.]</source>
+		<target>[Монумент содрогается, появляются чудовища и нападают на вас]</target>
+	</unit>
+</dialogue_file>

@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="185">
+	<unit bitflag="1345" id1="475584" id2="17" version="1065353216">
+		<source>M--my lord! I'm sorry. I'm so sorry. They said they'd kill me. They said they'd kill me if I didn't.</source>
+		<target>В-владыка. Простите. Прошу, простите. Они сказали, что убьют меня. Они сказали, что убьют меня, если я это не сделаю.</target>
+	</unit>
+	<unit bitflag="1345" id1="475585" id2="17" version="1065353216">
+		<source>Who said they'd kill you?</source>
+		<target>Кто сказал, что убьёт тебя?</target>
+	</unit>
+	<unit bitflag="1360" id1="475585" id2="17" version="1065353216">
+		<source>Who?</source>
+		<target>Кто?</target>
+	</unit>
+	<unit bitflag="1345" id1="475586" id2="17" version="1065353216">
+		<source>P--P--Paladius's men. They said they'd kill me if I didn't bring you this.</source>
+		<target>Л-л-люди Паладия. Они сказали, что убьют меня, если я не принесу вам это.</target>
+	</unit>
+	<unit bitflag="1360" id1="475588" id2="17" version="1065353216">
+		<source>This is very strange.</source>
+		<target>Это очень странно.</target>
+	</unit>
+	<unit bitflag="1345" id1="475589" id2="17" version="1065353216">
+		<source>This is no place for cowards.</source>
+		<target>Тут нет места трусам.</target>
+	</unit>
+	<unit bitflag="1360" id1="475589" id2="17" version="1065353216">
+		<source>You must pay. [Kill him]</source>
+		<target>Ты должен поплатиться. [Убить его]</target>
+	</unit>
+	<unit bitflag="1345" id1="475590" id2="17" version="1065353216">
+		<source>Aaagh!</source>
+		<target>А-а-а!</target>
+	</unit>
+	<unit bitflag="1345" id1="475592" id2="17" version="1065353216">
+		<source>Sith! Did you have to kill him?</source>
+		<target>Сит! Зачем ты убил его?</target>
+	</unit>
+	<unit bitflag="1345" id1="475593" id2="17" version="1065353216">
+		<source>Members of this cult will fear me and me alone.</source>
+		<target>Мои культисты будут бояться меня и только меня.</target>
+	</unit>
+	<unit bitflag="1360" id1="475593" id2="17" version="1065353216">
+		<source>I had to assert my authority.</source>
+		<target>Мне нужно поддерживать свой авторитет.</target>
+	</unit>
+	<unit bitflag="1345" id1="475594" id2="17" version="1065353216">
+		<source>I suppose it could be a matter of opinion.</source>
+		<target>Полагаю, это может быть спорный вопрос.</target>
+	</unit>
+	<unit bitflag="1360" id1="475594" id2="17" version="1065353216">
+		<source>I guess not.</source>
+		<target>Не знаю.</target>
+	</unit>
+	<unit bitflag="1345" id1="475595" id2="17" version="1065353216">
+		<source>Fair enough. Now what's this thing he brought?</source>
+		<target>Вопрос снят. Так что он за штуку нам принёс?</target>
+	</unit>
+	<unit bitflag="1345" id1="475597" id2="17" version="1065353216">
+		<source>Keep your moral squeamishness to yourself.</source>
+		<target>Держи свою нравственную щепетильность при себе.</target>
+	</unit>
+	<unit bitflag="1360" id1="475597" id2="17" version="1065353216">
+		<source>Don't question me.</source>
+		<target>Не подвергай сомнению мои действия.</target>
+	</unit>
+	<unit bitflag="1345" id1="475598" id2="17" version="1065353216">
+		<source>Yes, my lord. Now what's this thing he brought?</source>
+		<target>Да, владыка. Так что он за штуку нам принёс?</target>
+	</unit>
+	<unit bitflag="1345" id1="475600" id2="17" version="1065353216">
+		<source>It looks like a holodevice. Let me see here....</source>
+		<target>Похоже, это какое-то голоустройство. Давайте-ка посмотрим...</target>
+	</unit>
+	<unit bitflag="1345" id1="475602" id2="17" version="1065353216">
+		<source>Ah, Sith. Good evening. How good to talk to you again.</source>
+		<target>А, сит. Добрый вечер. Как здорово снова поговорить с тобой.</target>
+	</unit>
+	<unit bitflag="1345" id1="475604" id2="17" version="1065353216">
+		<source>I'm sorry to use such an unconventional method to contact you, but I had to be sure you got the message. You understand.</source>
+		<target>Прости, что использовал такой нестандартный метод связаться с тобой, но мне нужно было убедиться, что ты получишь сообщение. Ты понимаешь.</target>
+	</unit>
+	<unit bitflag="1345" id1="475605" id2="17" version="1065353216">
+		<source>If you're trying to intimidate me, you failed.</source>
+		<target>Если ты пытаешься запугать меня, то у тебя не получилось.</target>
+	</unit>
+	<unit bitflag="1360" id1="475605" id2="17" version="1065353216">
+		<source>I'm not easily scared.</source>
+		<target>Я не из пугливых.</target>
+	</unit>
+	<unit bitflag="1345" id1="475606" id2="17" version="1065353216">
+		<source>Yes, but I think your followers understood perfectly. The truth is, when you first attacked my cult, I was angry. Frustrated.</source>
+		<target>Да, но думаю, твои последователи всё прекрасно поняли. Дело в том, что когда ты впервые атаковал мой культ, я был в гневе. Расстроен.</target>
+	</unit>
+	<unit bitflag="1345" id1="475608" id2="17" version="1065353216">
+		<source>A call would have been sufficient.</source>
+		<target>Позвонить было бы достаточно.</target>
+	</unit>
+	<unit bitflag="1360" id1="475608" id2="17" version="1065353216">
+		<source>No, I don't.</source>
+		<target>Нет, не понимаю.</target>
+	</unit>
+	<unit bitflag="1345" id1="475609" id2="17" version="1065353216">
+		<source>No, I like this better--more impact. The truth is, when you first attacked my cult, I was angry, frustrated.</source>
+		<target>Нет, мне так нравится больше: больший эффект. Дело в том, что когда ты впервые атаковал мой культ, я был в гневе, расстроен.</target>
+	</unit>
+	<unit bitflag="1345" id1="475611" id2="17" version="1065353216">
+		<source>You have my attention. For now.</source>
+		<target>Я весь внимание. Пока.</target>
+	</unit>
+	<unit bitflag="1360" id1="475611" id2="17" version="1065353216">
+		<source>What's the message?</source>
+		<target>Что за сообщение?</target>
+	</unit>
+	<unit bitflag="1345" id1="475612" id2="17" version="1065353216">
+		<source>Wonderful. You see, I've had a bit of a revelation. When you first attacked my cult, I took it very personally.</source>
+		<target>Чудесно. Видишь ли, меня будто вдруг озарило. Когда ты впервые атаковал мой культ, я воспринял это очень близко к сердцу.</target>
+	</unit>
+	<unit bitflag="1345" id1="475614" id2="17" version="1065353216">
+		<source>And then I realized--you're Zash's apprentice! All this trouble is just about some silly artifact.</source>
+		<target>А затем я осознал: ты же ученик лорда Заш! И во всей этой ерунде замешан просто какой-то дурацкий артефакт.</target>
+	</unit>
+	<unit bitflag="1345" id1="475616" id2="17" version="1065353216">
+		<source>Let's let bygones be bygones, hm? We can meet at my place, in Network Access. We'll chat, I'll give you the artifact, and all will be mended.</source>
+		<target>Кто старое помянет, тому глаз вон, мм? Мы можем встретиться у меня, в Сетевом доступе. Мы поболтаем, я отдам тебе артефакт, и всё пойдёт на лад.</target>
+	</unit>
+	<unit bitflag="1345" id1="475617" id2="17" version="1065353216">
+		<source>Are you trying to make me laugh?</source>
+		<target>Ты что, пытаешься рассмешить меня?</target>
+	</unit>
+	<unit bitflag="1360" id1="475617" id2="17" version="1065353216">
+		<source>You're kidding.</source>
+		<target>Да ты шутишь.</target>
+	</unit>
+	<unit bitflag="1345" id1="475618" id2="17" version="1065353216">
+		<source>I assure you, Sith, I have no sense of humor.</source>
+		<target>Уверяю тебя, сит, у меня нет чувства юмора.</target>
+	</unit>
+	<unit bitflag="1345" id1="475620" id2="17" version="1065353216">
+		<source>It would be my pleasure to take the artifact off your hands.</source>
+		<target>Я с удовольствием лично заберу у тебя артефакт.</target>
+	</unit>
+	<unit bitflag="1360" id1="475620" id2="17" version="1065353216">
+		<source>Certainly.</source>
+		<target>Конечно.</target>
+	</unit>
+	<unit bitflag="1345" id1="475621" id2="17" version="1065353216">
+		<source>I don't like it. And there's no way I'm walking into this guy's house.</source>
+		<target>Мне это не нравится. И я ни за что не зайду в дом этого человека.</target>
+	</unit>
+	<unit bitflag="1345" id1="475623" id2="17" version="1065353216">
+		<source>I'm not one of your meek little cultists. You lie, you pay.</source>
+		<target>Я не из твоих кротких маленьких культистов. Солжёшь — поплатишься.</target>
+	</unit>
+	<unit bitflag="1360" id1="475623" id2="17" version="1065353216">
+		<source>No tricks or I'll kill you.</source>
+		<target>Без фокусов, или я убью тебя.</target>
+	</unit>
+	<unit bitflag="1345" id1="475624" id2="17" version="1065353216">
+		<source>I promise--no tricks, or may I die creditless on Tatooine scrubbing a Jedi's back.</source>
+		<target>Обещаю: никаких фокусов, или пусть я умру без кредитов на Татуине, скребя джедаю спинку.</target>
+	</unit>
+	<unit bitflag="1345" id1="475626" id2="17" version="1065353216">
+		<source>Take time to consider my offer. But not too long, or my good mood may sour. And bring your friends.</source>
+		<target>Можешь подумать над моим предложением. Но не слишком долго, иначе моё хорошее настроение прокиснет. И приводи своих друзей.</target>
+	</unit>
+	<unit bitflag="1345" id1="475628" id2="17" version="1065353216">
+		<source>Lying son of a Hutt! You're not seriously considering it, are you?</source>
+		<target>Лживый сын хатта! Серьёзно, вы же не согласитесь на это, да?</target>
+	</unit>
+	<unit bitflag="3393" id1="475630" id2="17" version="1065353216">
+		<source>Do not listen to the little coward. We will devour this Sith, my master.</source>
+		<target>Не слушай маленького труса. Мы пожрём этого сита, мой хозяин.</target>
+	</unit>
+	<unit bitflag="1345" id1="475631" id2="17" version="1065353216">
+		<source>You can't expect to go in there without there being some kind of trick!</source>
+		<target>Нельзя ожидать, что когда вы войдёте туда, там не окажется ловушка!</target>
+	</unit>
+	<unit bitflag="1345" id1="475632" id2="17" version="1065353216">
+		<source>I'm going, Destris, and you're coming with me.</source>
+		<target>Я иду туда, Дестрис, и ты идёшь со мной.</target>
+	</unit>
+	<unit bitflag="1360" id1="475632" id2="17" version="1065353216">
+		<source>We must face Paladius.</source>
+		<target>Мы должны встретиться с Паладием.</target>
+	</unit>
+	<unit bitflag="1345" id1="475633" id2="17" version="1065353216">
+		<source>I've been after that artifact this whole time, and now he's offering to give it to me.</source>
+		<target>Всё это время я охотился за тем артефактом, и теперь он предлагает мне получить его.</target>
+	</unit>
+	<unit bitflag="1360" id1="475633" id2="17" version="1065353216">
+		<source>Why not?</source>
+		<target>Почему бы и нет?</target>
+	</unit>
+	<unit bitflag="1345" id1="475634" id2="17" version="1065353216">
+		<source>You can get yourself killed if you want, but I didn't keep out of Paladius's reach this long just to walk into his grip.</source>
+		<target>Вы можете погибнуть, если желаете, но я не для того так долго скрывался от Паладия, чтобы сейчас просто так взять и отправиться в его логово.</target>
+	</unit>
+	<unit bitflag="1345" id1="475636" id2="17" version="1065353216">
+		<source>I'm not stupid enough to fall for that trick.</source>
+		<target>Я не настолько глуп, чтобы попасться на эту удочку.</target>
+	</unit>
+	<unit bitflag="1360" id1="475636" id2="17" version="1065353216">
+		<source>Do you take me for a fool?</source>
+		<target>Вы принимаете меня за дурака?</target>
+	</unit>
+	<unit bitflag="1345" id1="475637" id2="17" version="1065353216">
+		<source>No, don't you see? Sure, it's probably a trap, yes, but this is our chance to strike at him!</source>
+		<target>Нет, разве ты не видишь? Конечно, это, возможно, ловушка, да, но это наш шанс нанести по нему удар!</target>
+	</unit>
+	<unit bitflag="1345" id1="475639" id2="17" version="1065353216">
+		<source>Fine. But I'm going in with both eyes open.</source>
+		<target>Ладно. Но я буду смотреть в оба.</target>
+	</unit>
+	<unit bitflag="1345" id1="475641" id2="17" version="1065353216">
+		<source>Sith! Will you look at this place?</source>
+		<target>Сит! Желаете здесь осмотреться?</target>
+	</unit>
+	<unit bitflag="1345" id1="475643" id2="17" version="1065353216">
+		<source>Daegin Strell himself couldn't generate this kind of crowd--and neither can Paladius anymore, from the looks of it.</source>
+		<target>Сам Дейгин Стрелл не мог бы собрать такую толпу... и даже Паладий, судя по всему, этого большего не может.</target>
+	</unit>
+	<unit bitflag="1345" id1="475644" id2="17" version="1065353216">
+		<source>When will that fool show his face?</source>
+		<target>Когда этот дурак покажет своё лицо?</target>
+	</unit>
+	<unit bitflag="1360" id1="475644" id2="17" version="1065353216">
+		<source>I'm growing tired of all this.</source>
+		<target>Я начинаю от этого уставать.</target>
+	</unit>
+	<unit bitflag="1345" id1="475645" id2="17" version="1065353216">
+		<source>Soon. If he wants to have any cult left. Real soon. I'm sure of it. I--</source>
+		<target>Скоро. Если он хочет, чтобы у него осталось хотя бы подобие культа. Правда скоро. Я уверен. Я...</target>
+	</unit>
+	<unit bitflag="1360" id1="475647" id2="17" version="1065353216">
+		<source>Charisma is natural.</source>
+		<target>Обаяние вполне естественно.</target>
+	</unit>
+	<unit bitflag="1345" id1="475648" id2="17" version="1065353216">
+		<source>I'm guessing the groundquake was a big help--</source>
+		<target>Полагаю, землетрясение нам очень помогло...</target>
+	</unit>
+	<unit bitflag="1345" id1="475650" id2="17" version="1065353216">
+		<source>Aren't you forgetting something?</source>
+		<target>Вы ничего не забыли?</target>
+	</unit>
+	<unit bitflag="1360" id1="475650" id2="17" version="1065353216">
+		<source>Bow, fool!</source>
+		<target>Склонитесь, глупцы!</target>
+	</unit>
+	<unit bitflag="1345" id1="475651" id2="17" version="1065353216">
+		<source>Yes, my lord. I'm sorry. I--</source>
+		<target>Да, владыка. Извините. Из...</target>
+	</unit>
+	<unit bitflag="1345" id1="475654" id2="17" version="1065353216">
+		<source>That was Gar-Nok! You defeated Paladius's right-hand man!</source>
+		<target>Это был Гар-Нок! Вы победили правую руку Паладия!</target>
+	</unit>
+	<unit bitflag="1345" id1="475656" id2="17" version="1065353216">
+		<source>You should hear it. They're calling you the Great Dragon after how you did-in Saben. Look what I found outside!</source>
+		<target>Вам нужно это услышать. Они зовут вас Великим Драконом после того, что вы сделали в Сабене. Посмотрите, что я нашёл!</target>
+	</unit>
+	<unit bitflag="1345" id1="475658" id2="17" version="1065353216">
+		<source>My lord, for getting Saben off our backs and the Krayts off our streets, we humbly present you with this gift.</source>
+		<target>Владыка, за то, что вы избавили нас от Сабена, а наши улицы — от Крайтов, мы смиренно преподносим вам этот дар.</target>
+	</unit>
+	<unit bitflag="1345" id1="475659" id2="17" version="1065353216">
+		<source>You should hear it. They're calling you the Great Healer, after your little trick curing the Rot. Look what I found outside!</source>
+		<target>Вам нужно это услышать. Они зовут вас Великим Целителем после вашей маленькой хитрости, вылечившей Гниль. Посмотрите, что я нашёл!</target>
+	</unit>
+	<unit bitflag="1345" id1="475661" id2="17" version="1065353216">
+		<source>My lord, for helping to cure our families and neighbors of the Rot, we humbly present you with this gift.</source>
+		<target>Владыка, за то, что вы помогли исцелить наши семьи и наших соседей от Гнили, мы смиренно преподносим вам этот дар.</target>
+	</unit>
+	<unit bitflag="1345" id1="475662" id2="17" version="1065353216">
+		<source>Already the masses bow to me.</source>
+		<target>Вот уже и предо мной склоняются массы.</target>
+	</unit>
+	<unit bitflag="1360" id1="475662" id2="17" version="1065353216">
+		<source>Excellent.</source>
+		<target>Отлично.</target>
+	</unit>
+	<unit bitflag="1345" id1="475663" id2="17" version="1065353216">
+		<source>Keep your gift and use it to better your lives.</source>
+		<target>Оставьте свой подарок себе и используйте его, чтобы улучшить свою жизнь.</target>
+	</unit>
+	<unit bitflag="1360" id1="475663" id2="17" version="1065353216">
+		<source>That's not necessary.</source>
+		<target>Это необязательно.</target>
+	</unit>
+	<unit bitflag="1345" id1="475664" id2="17" version="1065353216">
+		<source>Thank you, my lord. You are most generous. Thank you.</source>
+		<target>Спасибо, владыка. Вы очень щедры. Спасибо.</target>
+	</unit>
+	<unit bitflag="1345" id1="475666" id2="17" version="1065353216">
+		<source>I love getting gifts!</source>
+		<target>Люблю получать подарки!</target>
+	</unit>
+	<unit bitflag="1360" id1="475666" id2="17" version="1065353216">
+		<source>Wonderful!</source>
+		<target>Чудесно!</target>
+	</unit>
+	<unit bitflag="1345" id1="475667" id2="17" version="1065353216">
+		<source>We are honored to serve you, my lord.</source>
+		<target>Для нас большая честь служить вам, владыка.</target>
+	</unit>
+	<unit bitflag="1345" id1="475669" id2="17" version="1065353216">
+		<source>Isn't this great? Kill one gang leader and already you got Paladius scared and people lining up with presents.</source>
+		<target>Разве это не великолепно. Убей одного главаря банды, и уже Паладий напуган, а люди с подарками выстраиваются в очередь.</target>
+	</unit>
+	<unit bitflag="1345" id1="475671" id2="17" version="1065353216">
+		<source>Isn't this great? Cure one lousy disease and already you got Paladius scared and people lining up with presents.</source>
+		<target>Разве это не великолепно. Вылечи одну мерзкую болезнь, и уже Паладий напуган, а люди с подарками выстраиваются в очередь.</target>
+	</unit>
+	<unit bitflag="1345" id1="475673" id2="17" version="1065353216">
+		<source>No time for celebrating, Destris. Paladius isn't resting.</source>
+		<target>Нет времени праздновать, Дестрис. Паладий не дремлет.</target>
+	</unit>
+	<unit bitflag="1345" id1="475675" id2="17" version="1065353216">
+		<source>He's called a big meeting at Meridian Hall. If we don't act, he'll rally his cult and stop our whole operation dead.</source>
+		<target>Он проводит большое собрание в зале Меридиан. Если мы будем сидеть сложа руки, он сплотит свой культ и поставит в тупик всю операцию.</target>
+	</unit>
+	<unit bitflag="1345" id1="475676" id2="17" version="1065353216">
+		<source>Sounds like the perfect opportunity to present the virtues of my own cult.</source>
+		<target>Похоже, есть прекрасная возможность продемонстрировать преимущества моего собственного культа.</target>
+	</unit>
+	<unit bitflag="1360" id1="475676" id2="17" version="1065353216">
+		<source>Then we undermine the rally.</source>
+		<target>Тогда мы подорвём митинг.</target>
+	</unit>
+	<unit bitflag="1345" id1="475677" id2="17" version="1065353216">
+		<source>With all respect, these are Paladius's most faithful we're talking about.</source>
+		<target>При всём уважении, речь идёт о самых преданных людях Паладия.</target>
+	</unit>
+	<unit bitflag="1345" id1="475679" id2="17" version="1065353216">
+		<source>If Paladius dares to show his face, I'll make quick work of him.</source>
+		<target>Если Паладий осмелится показать своё лицо, я быстро покончу с ним.</target>
+	</unit>
+	<unit bitflag="1360" id1="475679" id2="17" version="1065353216">
+		<source>He's a dead man.</source>
+		<target>Он покойник.</target>
+	</unit>
+	<unit bitflag="1345" id1="475680" id2="17" version="1065353216">
+		<source>He won't. Paladius only ever broadcasts to his cult by holo.</source>
+		<target>Он не осмелится. Паладий всегда связывается со своим культом только по голокомму.</target>
+	</unit>
+	<unit bitflag="1360" id1="475682" id2="17" version="1065353216">
+		<source>He must be stopped.</source>
+		<target>Его нужно остановить.</target>
+	</unit>
+	<unit bitflag="1345" id1="475683" id2="17" version="1065353216">
+		<source>This is our chance. You just go in, make a big show and boom!</source>
+		<target>Это наш шанс. Ты просто появляешься там, устраиваешь большое шоу и бах!</target>
+	</unit>
+	<unit bitflag="1345" id1="475685" id2="17" version="1065353216">
+		<source>It's gonna take more than a show, Destris.</source>
+		<target>Тут понадобится что-то большее, чем шоу, Дестрис.</target>
+	</unit>
+	<unit bitflag="1345" id1="475687" id2="17" version="1065353216">
+		<source>We need to show that you have more power in your little finger than Paladius has in his... wait! I've got it!</source>
+		<target>Нам нужно продемонстрировать, что в одном твоём пальце больше мощи, чем у Паладия в... стой! Я придумала!</target>
+	</unit>
+	<unit bitflag="1345" id1="475689" id2="17" version="1065353216">
+		<source>It's a crazy idea, but what if you showed that you could move the city itself--make a groundquake?</source>
+		<target>Это безумная идея, но что если ты покажешь, что можешь сдвинуть целый город... устроишь землетрясение?</target>
+	</unit>
+	<unit bitflag="1345" id1="475690" id2="17" version="1065353216">
+		<source>I walk into Paladius's speech and make the very ground shake? I like it.</source>
+		<target>Я прихожу на выступление Паладия и заставляю сотрясаться саму землю? Мне нравится.</target>
+	</unit>
+	<unit bitflag="1360" id1="475690" id2="17" version="1065353216">
+		<source>Like a miracle? I approve.</source>
+		<target>Как по волшебству? Одобряю.</target>
+	</unit>
+	<unit bitflag="1345" id1="475691" id2="17" version="1065353216">
+		<source>What on Nar Shaddaa is a groundquake?</source>
+		<target>Что на Нар-Шаддаа называют землетрясением?</target>
+	</unit>
+	<unit bitflag="1360" id1="475691" id2="17" version="1065353216">
+		<source>Groundquake?</source>
+		<target>Землетрясение?</target>
+	</unit>
+	<unit bitflag="1345" id1="475692" id2="17" version="1065353216">
+		<source>You know, when the ground shakes underneath you. They're pretty rare, so it'd be a big deal.</source>
+		<target>Знаешь, это когда под тобой трясётся земля. Они происходят довольно редко, так что это будет большое событие.</target>
+	</unit>
+	<unit bitflag="1345" id1="475694" id2="17" version="1065353216">
+		<source>How would I even do that?</source>
+		<target>Как же я это проверну?</target>
+	</unit>
+	<unit bitflag="1360" id1="475694" id2="17" version="1065353216">
+		<source>I can't make a groundquake.</source>
+		<target>Я не умею устраивать землетрясения.</target>
+	</unit>
+	<unit bitflag="1345" id1="475695" id2="17" version="1065353216">
+		<source>It is a long shot, but it might be the only shot we got.</source>
+		<target>Это рискованное предприятие, но, наверное, единственное.</target>
+	</unit>
+	<unit bitflag="1345" id1="475697" id2="17" version="1065353216">
+		<source>What've you been putting in your soup, Rylee? Nobody can just make this moon shake!</source>
+		<target>Что ты себе подмешиваешь себе в суп, Райли? Нельзя просто так взять и заставить луну трястись!</target>
+	</unit>
+	<unit bitflag="1345" id1="475699" id2="17" version="1065353216">
+		<source>Stick with me here--you know the gas pipes that run under Meridian Hall? Well, what if we blow up those pipes?</source>
+		<target>Здесь мне нужна твоя помощь... знаешь газовые трубы, проходящие под залом Меридиан? Ну, что если мы взорвём эти трубы?</target>
+	</unit>
+	<unit bitflag="1345" id1="475701" id2="17" version="1065353216">
+		<source>Ooooh! You got brains, girl.</source>
+		<target>О-о-о! У тебя котелок варит, девочка.</target>
+	</unit>
+	<unit bitflag="1345" id1="475703" id2="17" version="1065353216">
+		<source>I know just the guy to set it up. Gord Madel, in the Nar Shaddaa Works Administration, takes bribes on the side.</source>
+		<target>Я знаю одного парня, который может это устроить. Горд Мадел, из Управления работ Нар-Шаддаа, на стороне берёт взятки.</target>
+	</unit>
+	<unit bitflag="1345" id1="475705" id2="17" version="1065353216">
+		<source>He'll rig you something up, no problem.</source>
+		<target>Он вам что-нибудь организует, без проблем.</target>
+	</unit>
+	<unit bitflag="1345" id1="475706" id2="17" version="1065353216">
+		<source>Where do I find this scumbag?</source>
+		<target>Где мне найти этого подонка?</target>
+	</unit>
+	<unit bitflag="1360" id1="475706" id2="17" version="1065353216">
+		<source>Point the way.</source>
+		<target>Укажи мне путь.</target>
+	</unit>
+	<unit bitflag="1345" id1="475707" id2="17" version="1065353216">
+		<source>Your life depends on this, Destris.</source>
+		<target>От этого зависит твоя жизнь, Дестрис.</target>
+	</unit>
+	<unit bitflag="1360" id1="475707" id2="17" version="1065353216">
+		<source>This had better work.</source>
+		<target>Лучше бы это сработало.</target>
+	</unit>
+	<unit bitflag="1345" id1="475708" id2="17" version="1065353216">
+		<source>I can't wait to see the look on Paladius's face.</source>
+		<target>Мне не терпится увидеть выражение лица Паладия.</target>
+	</unit>
+	<unit bitflag="1360" id1="475708" id2="17" version="1065353216">
+		<source>This is going to be fun.</source>
+		<target>Это будет весело.</target>
+	</unit>
+	<unit bitflag="1345" id1="475709" id2="17" version="1065353216">
+		<source>Gord works at the NSWA office in the Duros Sector, not far from Meridian Hall where Paladius is holding his big broadcast.</source>
+		<target>Горд работает в офисе УРНШ в Секторе дуросов, неподалёку от зала Меридин, где Паладий собирается провести демонстрацию.</target>
+	</unit>
+	<unit bitflag="1345" id1="475711" id2="17" version="1065353216">
+		<source>You just tell him ol' Destris sent you.</source>
+		<target>Просто скажите ему, что вы от старины Дестриса.</target>
+	</unit>
+	<unit bitflag="1345" id1="475715" id2="17" version="1065353216">
+		<source>There was a lady Sith a while back, Darth Zash. Said she'd send someone to help us out. You it?</source>
+		<target>С нами недавно разговаривала леди-сит, Дарт Заш. Сказала, что отправит нам кого-нибудь помочь. Это вы?</target>
+	</unit>
+	<unit bitflag="1345" id1="475716" id2="17" version="1065353216">
+		<source>Paladius has something I need--and if helping you will get it for me, then yes.</source>
+		<target>У Паладия есть то, что мне нужно. И если помогая вам, я получу это, то да.</target>
+	</unit>
+	<unit bitflag="1360" id1="475716" id2="17" version="1065353216">
+		<source>In a manner of speaking.</source>
+		<target>Можно и так сказать.</target>
+	</unit>
+	<unit bitflag="1345" id1="475717" id2="17" version="1065353216">
+		<source>I'm not going to help you; you're going to help me.</source>
+		<target>Я не собираюсь вам помогать; вы собираетесь помогать мне.</target>
+	</unit>
+	<unit bitflag="1360" id1="475717" id2="17" version="1065353216">
+		<source>I came for myself.</source>
+		<target>Это не ради вас.</target>
+	</unit>
+	<unit bitflag="1345" id1="475718" id2="17" version="1065353216">
+		<source>Of course that's what he meant, my lord.</source>
+		<target>Конечно, он это и хотел сказать, владыка.</target>
+	</unit>
+	<unit bitflag="1345" id1="475720" id2="17" version="1065353216">
+		<source>Yeah, sure, either way. So long as Paladius is made to swallow dirt.</source>
+		<target>Да, конечно, как бы там ни было. Лишь бы Паладия опустили лицом в грязь.</target>
+	</unit>
+	<unit bitflag="1345" id1="475722" id2="17" version="1065353216">
+		<source>Taking down oppressive cult leaders is a favorite hobby of mine.</source>
+		<target>Уничтожение деспотичных лидеров культов — моё любимое занятие.</target>
+	</unit>
+	<unit bitflag="1360" id1="475722" id2="17" version="1065353216">
+		<source>It would be a pleasure.</source>
+		<target>Я бы с радостью.</target>
+	</unit>
+	<unit bitflag="1345" id1="475723" id2="17" version="1065353216">
+		<source>Good! Because it makes me sick to think Paladius is out there while I'm cooped up in this rat hole.</source>
+		<target>Отлично! Потому что мне становится плохо от одной мысли о том, что Паладий где-то рядом, а я сижу в этой дыре.</target>
+	</unit>
+	<unit bitflag="1345" id1="475725" id2="17" version="1065353216">
+		<source>Paladius built his empire on the backs of the poor. Said he'd save them from their miserable lives.</source>
+		<target>Паладий построил свою империю за счёт бедняков. Сказал, что спасёт их от их жалкого бытия.</target>
+	</unit>
+	<unit bitflag="1345" id1="475727" id2="17" version="1065353216">
+		<source>Said we'd make a--what's it--a mighty sword and strike against our enemies. It was all lies.</source>
+		<target>Сказал, что мы объединимся в... как там... в грозный меч и поразим своих врагов. Всё это было ложью.</target>
+	</unit>
+	<unit bitflag="1345" id1="475729" id2="17" version="1065353216">
+		<source>It was all lies. But you win the support of the poor, you knock Paladius's legs out from under him.</source>
+		<target>Всё это было ложью. Но если вы заручитесь поддержкой бедняков, ты выбьете Паладию землю из-под ног.</target>
+	</unit>
+	<unit bitflag="1345" id1="475730" id2="17" version="1065353216">
+		<source>The masses will worship me by dawn.</source>
+		<target>К рассвету массы уже будут поклоняться мне.</target>
+	</unit>
+	<unit bitflag="1360" id1="475730" id2="17" version="1065353216">
+		<source>Wonderful.</source>
+		<target>Чудесно.</target>
+	</unit>
+	<unit bitflag="1345" id1="475731" id2="17" version="1065353216">
+		<source>Get 'em the way Paladius did--find the biggest, most vicious gang on the block and crush them.</source>
+		<target>Сделайте это так же, как и Паладий: найдите самую большую и жестокую банду в округе и сокрушите её.</target>
+	</unit>
+	<unit bitflag="1360" id1="475733" id2="17" version="1065353216">
+		<source>Helping isn't my thing.</source>
+		<target>Помогать... это не по мне.</target>
+	</unit>
+	<unit bitflag="1345" id1="475734" id2="17" version="1065353216">
+		<source>My lord, it's not a waste--the impoverished of Nar Shaddaa aren't powerful, but they are numerous. Paladius needs them.</source>
+		<target>Владыка, это не пустая трата времени: у бедных на Нар-Шаддаа нет особой власти, но их много. Они нужны Паладию.</target>
+	</unit>
+	<unit bitflag="1345" id1="475736" id2="17" version="1065353216">
+		<source>How do I win the love of these poor, downtrodden souls?</source>
+		<target>И как я завоюю любовь этих бедных, угнетённых душ?</target>
+	</unit>
+	<unit bitflag="1360" id1="475736" id2="17" version="1065353216">
+		<source>Any suggestions?</source>
+		<target>Какие предложения?</target>
+	</unit>
+	<unit bitflag="1345" id1="475737" id2="17" version="1065353216">
+		<source>What Paladius did was find the biggest, most vicious gang on the block and crush them.</source>
+		<target>Паладий сделал так: нашёл самую большую и жестокую в округе и сокрушил её.</target>
+	</unit>
+	<unit bitflag="1345" id1="475739" id2="17" version="1065353216">
+		<source>Right now, that gang's the Krayts, named after the krayt dragon on Tatooine. Their leader Saben thinks he's descended from one.</source>
+		<target>На данный момент такой бандой являются Крайты, в честь крайт-драконов с Татуина. Их главарь Сабен считает, что он их потомок.</target>
+	</unit>
+	<unit bitflag="1345" id1="475741" id2="17" version="1065353216">
+		<source>Take out Saben, and the masses will see you as a regular hero.</source>
+		<target>Уничтожь Сабена, и массы увидят в тебе настоящего героя.</target>
+	</unit>
+	<unit bitflag="1345" id1="475742" id2="17" version="1065353216">
+		<source>He'll need to be a dragon, if he hopes to stand against me.</source>
+		<target>Он должен оказаться драконом, если надеется выстоять против меня.</target>
+	</unit>
+	<unit bitflag="1360" id1="475742" id2="17" version="1065353216">
+		<source>He'd better be tough.</source>
+		<target>Надеюсь, он крутой.</target>
+	</unit>
+	<unit bitflag="1345" id1="475743" id2="17" version="1065353216">
+		<source>With all respect, taking out the Krayts wins you followers only until the next gang rises up. But there may be another way.</source>
+		<target>При всём уважении, уничтожив Крайтов, вы получите последователей только на время до возвышения другой банды. Но, возможно, есть другой способ.</target>
+	</unit>
+	<unit bitflag="1345" id1="475745" id2="17" version="1065353216">
+		<source>Why should I be content to emulate Paladius?</source>
+		<target>Почему я должен довольствоваться подражанием Паладию?</target>
+	</unit>
+	<unit bitflag="1360" id1="475745" id2="17" version="1065353216">
+		<source>That's beneath me.</source>
+		<target>Это ниже меня.</target>
+	</unit>
+	<unit bitflag="1345" id1="475746" id2="17" version="1065353216">
+		<source>You're right, my lord. There are cleverer ways to steal Paladius's power.</source>
+		<target>Вы правы, владыка. Есть способы умнее украсть могущество Паладия.</target>
+	</unit>
+	<unit bitflag="1345" id1="475748" id2="17" version="1065353216">
+		<source>And when another gang rises to take the Krayts' place?</source>
+		<target>А если другая банда возвысится и займёт место Кратов?</target>
+	</unit>
+	<unit bitflag="1360" id1="475748" id2="17" version="1065353216">
+		<source>Is that really a solution?</source>
+		<target>Действительно ли это выход?</target>
+	</unit>
+	<unit bitflag="1345" id1="475749" id2="17" version="1065353216">
+		<source>You're right. Taking out the Krayts wins you followers only until the next gang rises up. But there may be another way.</source>
+		<target>Вы правы. Уничтожив Крайтов, вы получите последователей только на время до возвышения другой банды. Но, возможно, есть другой способ.</target>
+	</unit>
+	<unit bitflag="1345" id1="475751" id2="17" version="1065353216">
+		<source>A plague called &quot;the Rot&quot; afflicts the poorest of Nar Shaddaa's poor.</source>
+		<target>Беднейших из бедняков Нар-Шаддаа поразила чума, названная Гнилью.</target>
+	</unit>
+	<unit bitflag="1345" id1="475753" id2="17" version="1065353216">
+		<source>But it can be cured, and the person who does so will be regarded not just as a hero, but as a prophet.</source>
+		<target>Но её можно вылечить, и человека, сделавшего это, сочтут не просто героем, а пророком.</target>
+	</unit>
+	<unit bitflag="1345" id1="475754" id2="17" version="1065353216">
+		<source>I think I'll stick with what I know best--murder and mayhem.</source>
+		<target>Думаю, я остановлюсь на том, что знаю лучше: убийстве и хаосе.</target>
+	</unit>
+	<unit bitflag="1360" id1="475754" id2="17" version="1065353216">
+		<source>I'd rather fight the gang.</source>
+		<target>Я предпочту сразиться с бандой.</target>
+	</unit>
+	<unit bitflag="1345" id1="475755" id2="17" version="1065353216">
+		<source>&quot;Prophet.&quot; Now that's more to my taste.</source>
+		<target>«Пророком». Так, это мне больше по вкусу.</target>
+	</unit>
+	<unit bitflag="1360" id1="475755" id2="17" version="1065353216">
+		<source>I like the sound of that.</source>
+		<target>Мне это нравится.</target>
+	</unit>
+	<unit bitflag="1345" id1="475756" id2="17" version="1065353216">
+		<source>I'm glad you approve, my lord.</source>
+		<target>Я рада, что вы довольны, владыка.</target>
+	</unit>
+	<unit bitflag="1360" id1="475758" id2="17" version="1065353216">
+		<source>Tell me how.</source>
+		<target>Расскажи мне о ней больше.</target>
+	</unit>
+	<unit bitflag="1345" id1="475759" id2="17" version="1065353216">
+		<source>The cure to the Rot is owned by Tydis Neutronics. You'll have to steal it from their warehouse, then distribute it.</source>
+		<target>Лекарство от Гнили находится в руках Тайдис Нейтроникс. Вам придётся выкрасть его с их склада, а затем распространить его.</target>
+	</unit>
+	<unit bitflag="1345" id1="475761" id2="17" version="1065353216">
+		<source>Then I guess I'll be fighting the Krayts.</source>
+		<target>Тогда, думаю, я лучше сражусь с Крайтами.</target>
+	</unit>
+	<unit bitflag="1360" id1="475761" id2="17" version="1065353216">
+		<source>Gang-busting is more my style.</source>
+		<target>Расправы с бандами мне больше по нраву.</target>
+	</unit>
+	<unit bitflag="1345" id1="475762" id2="17" version="1065353216">
+		<source>I think I'll stick with the killing.</source>
+		<target>Думаю, я остановлюсь на убийству.</target>
+	</unit>
+	<unit bitflag="1360" id1="475762" id2="17" version="1065353216">
+		<source>I'd rather murder people.</source>
+		<target>Я предпочту убивать людей.</target>
+	</unit>
+	<unit bitflag="1345" id1="475763" id2="17" version="1065353216">
+		<source>The direct approach. I like it.</source>
+		<target>Прямой подход. Мне это нравится.</target>
+	</unit>
+	<unit bitflag="1345" id1="475765" id2="17" version="1065353216">
+		<source>The Krayts' lair is in the Corellian Sector. Crush their leader, and the masses will take notice.</source>
+		<target>Логово Крайтов находится в Корреллианском секторе. Сокрушите их главаря, и массы заметят это.</target>
+	</unit>
+	<unit bitflag="1345" id1="475767" id2="17" version="1065353216">
+		<source>In this case, I'd rather be loved than feared.</source>
+		<target>В таком случае, путь лучше меня будут любить, а не бояться.</target>
+	</unit>
+	<unit bitflag="1360" id1="475767" id2="17" version="1065353216">
+		<source>I'll do it then.</source>
+		<target>Тогда я поступлю так.</target>
+	</unit>
+	<unit bitflag="1345" id1="475768" id2="17" version="1065353216">
+		<source>Good, but be careful.</source>
+		<target>Хорошо, но будьте осторожны.</target>
+	</unit>
+	<unit bitflag="1345" id1="475770" id2="17" version="1065353216">
+		<source>The warehouse is heavily guarded, but if you can steal the cure and distribute it in the Corellian Sector, you'll own the lower classes.</source>
+		<target>Склад хорошо защищён, но если вы сможете украсть лекарство и распространить его в Корреллианском секторе, вы покорите сердца нижних слоёв.</target>
+	</unit>
+	<unit bitflag="1345" id1="475772" id2="17" version="1065353216">
+		<source>What have we here? The cavalry looks like. Appreciate the help, but I had it under control.</source>
+		<target>Что у нас тут? Похоже, это тяжёлая кавалерия. Благодарю за помощь, но у меня всё под контролем.</target>
+	</unit>
+	<unit bitflag="3393" id1="475774" id2="17" version="1065353216">
+		<source>Show my master some respect, weakling, or I would be all too happy to consume you.</source>
+		<target>Прояви уважение моему хозяину, слабак, или я с огромной радостью поглощу тебя.</target>
+	</unit>
+	<unit bitflag="1345" id1="475776" id2="17" version="1065353216">
+		<source>Easy, Destris. This isn't some holo you're talking to.</source>
+		<target>Полегче, Дестрис. Ты не с какой-то голограммой разговариваешь.</target>
+	</unit>
+	<unit bitflag="1345" id1="475778" id2="17" version="1065353216">
+		<source>My lord....</source>
+		<target>Владыка...</target>
+	</unit>
+	<unit bitflag="1345" id1="475779" id2="17" version="1065353216">
+		<source>You would be wise to follow her lead.</source>
+		<target>Будет мудро с твоей стороны последовать её примеру.</target>
+	</unit>
+	<unit bitflag="1360" id1="475779" id2="17" version="1065353216">
+		<source>She's right to bow, Destris.</source>
+		<target>Она права.</target>
+	</unit>
+	<unit bitflag="1345" id1="475780" id2="17" version="1065353216">
+		<source>'Course, my lord. Sorry.</source>
+		<target>Конечно, владыка. Простите.</target>
+	</unit>
+	<unit bitflag="1345" id1="475782" id2="17" version="1065353216">
+		<source>I'm not a king, Rylee.</source>
+		<target>Я не какой-то король, Райли.</target>
+	</unit>
+	<unit bitflag="1360" id1="475782" id2="17" version="1065353216">
+		<source>Bowing's unnecessary.</source>
+		<target>Кланяться необязательно.</target>
+	</unit>
+	<unit bitflag="1345" id1="475783" id2="17" version="1065353216">
+		<source>You are most kind, my lord.</source>
+		<target>Вы очень добры, владыка.</target>
+	</unit>
+	<unit bitflag="1345" id1="475785" id2="17" version="1065353216">
+		<source>You are indeed beautiful and intelligent.</source>
+		<target>Ты и вправду прекрасна и умна.</target>
+	</unit>
+	<unit bitflag="1360" id1="475785" id2="17" version="1065353216">
+		<source>Paladius was right about you.</source>
+		<target>Паладий был прав насчёт тебя.</target>
+	</unit>
+	<unit bitflag="1345" id1="475786" id2="17" version="1065353216">
+		<source>Not as much as you are handsome and wise, my lord.</source>
+		<target>Не настолько, насколько вы красивы и мудры, владыка.</target>
+	</unit>
+	<unit bitflag="1345" id1="475788" id2="17" version="1065353216">
+		<source>You are the smart one.</source>
+		<target>Умница.</target>
+	</unit>
+	<unit bitflag="1360" id1="475788" id2="17" version="1065353216">
+		<source>Paladius was right about you.</source>
+		<target>Паладий был прав насчёт тебя.</target>
+	</unit>
+	<unit bitflag="1345" id1="475789" id2="17" version="1065353216">
+		<source>Thank you, my lord.</source>
+		<target>Спасибо, владыка.</target>
+	</unit>
+	<unit bitflag="1345" id1="475792" id2="17" version="1065353216">
+		<source>Oh, Destris, dear brutish Destris. And Rylee--so beautiful and intelligent! You were like children to me, which is why it pains me to do this.</source>
+		<target>Ох, Дестрис, милый глупый Дестрис. И Райли, такая прекрасная и умная! Вы были мне как дети, и потому мне очень тяжело так поступать с вами.</target>
+	</unit>
+	<unit bitflag="1345" id1="475794" id2="17" version="1065353216">
+		<source>You can cut the act, Paladius. You never cared about any of your &quot;children.&quot;</source>
+		<target>Хватит вешать нам лапшу на уши, Паладий. Тебе всегда было плевать на всех своих «детей».</target>
+	</unit>
+	<unit bitflag="1345" id1="475796" id2="17" version="1065353216">
+		<source>We don't need a tyrant for a father.</source>
+		<target>Нам не нужен тиран вместо отца.</target>
+	</unit>
+	<unit bitflag="1345" id1="475798" id2="17" version="1065353216">
+		<source>Ha. Well said. Marvelous last words. Truly, I expected nothing less, which is what makes this so hard.</source>
+		<target>Ха. Хорошо сказано. Изумительные последние слова. По правде говоря, я ничего другого и не ожидал, и поэтому всё так сложно.</target>
+	</unit>
+	<unit bitflag="1345" id1="475800" id2="17" version="1065353216">
+		<source>Now, if you'll excuse me. My other children would like to play with you.</source>
+		<target>Теперь прошу меня извинить. Другие мои дети хотят с вами поиграть.</target>
+	</unit>
+	<unit bitflag="1345" id1="475803" id2="17" version="1065353216">
+		<source>The cure to the Rot is owned by a company called Tydis Neutronics in the Upper Industrial Sector.</source>
+		<target>Лекарство от Гнили находится в руках компании «Тайдис Нейтроникс», в Верхнем промышленном секторе.</target>
+	</unit>
+</dialogue_file>

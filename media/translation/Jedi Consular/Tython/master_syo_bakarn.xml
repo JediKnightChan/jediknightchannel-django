@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="187">
+	<unit bitflag="1345" id1="90937" id2="17" version="1065353216">
+		<source>Go on to Coruscant. Yuon needs you.</source>
+		<target>Отправляйся на Корусант. Юон нуждается в тебе.</target>
+	</unit>
+	<unit bitflag="5441" id1="90938" id2="17" version="1065353216">
+		<source>Yuon is resting comfortably, for now. It seems she's suffering some kind of illness.</source>
+		<target>Пока что Юон отдыхает. Похоже, она страдает от какой-то болезни.</target>
+	</unit>
+	<unit bitflag="5441" id1="90940" id2="17" version="1065353216">
+		<source>I can't lie to you. Her condition is grave.</source>
+		<target>Я не могу лгать тебе. Её состояние тяжёлое.</target>
+	</unit>
+	<unit bitflag="5441" id1="90941" id2="17" version="1065353216">
+		<source>Is Master Yuon going to be alright?</source>
+		<target>С мастером Юон всё будет в порядке?</target>
+	</unit>
+	<unit bitflag="5456" id1="90941" id2="17" version="1065353216">
+		<source>Will she die?</source>
+		<target>Она умрёт?</target>
+	</unit>
+	<unit bitflag="7489" id1="90942" id2="17" version="1065353216">
+		<source>Yuon thought sickness would take her.</source>
+		<target>Юон думала, что болезнь заберёт её.</target>
+	</unit>
+	<unit bitflag="5441" id1="90944" id2="17" version="1065353216">
+		<source>We have some of the finest healers in the galaxy, can't we treat her?</source>
+		<target>У нас наилучшие целители Галактики, и мы не можем излечить её?</target>
+	</unit>
+	<unit bitflag="5456" id1="90944" id2="17" version="1065353216">
+		<source>Then let's help her.</source>
+		<target>Тогда поможем ей.</target>
+	</unit>
+	<unit bitflag="7489" id1="90945" id2="17" version="1065353216">
+		<source>Yuon tried to heal, Herald. Was no sickness she knew.</source>
+		<target>Юон пыталась лечиться, геральд. Не было известной ей болезнью.</target>
+	</unit>
+	<unit bitflag="5441" id1="90947" id2="17" version="1065353216">
+		<source>Master Yuon had been acting strangely....</source>
+		<target>Мастер Юон вела себя странно...</target>
+	</unit>
+	<unit bitflag="5456" id1="90947" id2="17" version="1065353216">
+		<source>I knew something was wrong.</source>
+		<target>Что-то явно было не так.</target>
+	</unit>
+	<unit bitflag="7489" id1="90948" id2="17" version="1065353216">
+		<source>She did best to hide sickness, Herald.</source>
+		<target>Она старалась скрыть болезнь, геральд.</target>
+	</unit>
+	<unit bitflag="5441" id1="90950" id2="17" version="1065353216">
+		<source>You knew Yuon was ill? And didn't inform us?</source>
+		<target>Ты знал о болезни Юон? И не сообщил нам?</target>
+	</unit>
+	<unit bitflag="7489" id1="90952" id2="17" version="1065353216">
+		<source>Is not for me to tell secrets. Was her wish to train one last hunter. I understood.</source>
+		<target>Не мне рассказывать тайны. Её желанием было обучить последнего охотника. Я понял.</target>
+	</unit>
+	<unit bitflag="5441" id1="90953" id2="17" version="1065353216">
+		<source>Now I see why she was so devoted to my training.</source>
+		<target>Теперь ясно, почему она так посвятила себя моему обучению.</target>
+	</unit>
+	<unit bitflag="5456" id1="90953" id2="17" version="1065353216">
+		<source>I was her last student?</source>
+		<target>Я её последний ученик?</target>
+	</unit>
+	<unit bitflag="5456" id1="90954" id2="17" version="1065353216">
+		<source>We must act.</source>
+		<target>Нужно действовать.</target>
+	</unit>
+	<unit bitflag="5441" id1="90955" id2="17" version="1065353216">
+		<source>I thought you were friends. We could have helped her.</source>
+		<target>Мне казалось, вы друзья. Мы могли помочь ей.</target>
+	</unit>
+	<unit bitflag="5456" id1="90955" id2="17" version="1065353216">
+		<source>And now she's dying!</source>
+		<target>А теперь она умирает!</target>
+	</unit>
+	<unit bitflag="7489" id1="90956" id2="17" version="1065353216">
+		<source>I gave oath, Herald.</source>
+		<target>Я дал клятву, геральд.</target>
+	</unit>
+	<unit bitflag="5441" id1="90958" id2="17" version="1065353216">
+		<source>We're sending Yuon to Coruscant. Our researchers there have been recovering artifacts from the first Jedi Temple; they may have something to cure Yuon.</source>
+		<target>Мы посылаем Юон на Корусант. Наши исследователи там добывают артефакты из первого Храма джедаев; возможно, у них есть что-то, что излечит Юон.</target>
+	</unit>
+	<unit bitflag="5441" id1="90960" id2="17" version="1065353216">
+		<source>Take a shuttle, and join Yuon on Coruscant. She will need your help.</source>
+		<target>Отправляйся на шаттле к Юон на Корусант. Ей потребуется твоя помощь.</target>
+	</unit>
+	<unit bitflag="5441" id1="90961" id2="17" version="1065353216">
+		<source>I'll do everything I can to make her well.</source>
+		<target>Сделаю всё что смогу, чтобы улучшить её состояние.</target>
+	</unit>
+	<unit bitflag="5456" id1="90961" id2="17" version="1065353216">
+		<source>I won't let her die.</source>
+		<target>Я не дам ей умереть.</target>
+	</unit>
+	<unit bitflag="5456" id1="90962" id2="17" version="1065353216">
+		<source>I will do so.</source>
+		<target>Так и сделаю.</target>
+	</unit>
+	<unit bitflag="5441" id1="90963" id2="17" version="1065353216">
+		<source>More experienced Jedi should take care of her.</source>
+		<target>Более опытным джедаям следует заботиться о ней.</target>
+	</unit>
+	<unit bitflag="5456" id1="90963" id2="17" version="1065353216">
+		<source>How can I be any help?</source>
+		<target>Чем я могу помочь?</target>
+	</unit>
+	<unit bitflag="5441" id1="90964" id2="17" version="1065353216">
+		<source>You are--were--her student. And you've proved how valuable your help can be.</source>
+		<target>Ты её ученик... был... её учеником. И ты доказал, насколько ценна может быть твоя помощь.</target>
+	</unit>
+	<unit bitflag="7489" id1="90966" id2="17" version="1065353216">
+		<source>Where Herald goes, I go also. Is Scorekeeper's wish.</source>
+		<target>Куда идёт Геральд, туда иду и я. Воля Счетовода.</target>
+	</unit>
+	<unit bitflag="5441" id1="90968" id2="17" version="1065353216">
+		<source>Meantime, assure Yuon we will be studying your discoveries about Rajivari. Some of the claims his apprentices recorded... bear investigation.</source>
+		<target>Тем временем заверь Юон, что мы будем изучать твои открытия о Радживари. Кое-что из записанного его учениками... требует расследования.</target>
+	</unit>
+	<unit bitflag="5441" id1="90970" id2="17" version="1065353216">
+		<source>When you reach Coruscant, go to our embassy in the Senate tower, and find a researcher called Attros Finn. He'll be expecting you.</source>
+		<target>Когда прибудешь на Корусант, отправляйся в наше посольство в башне Сената и найди исследователя по имени Аттрос Финн. Он будет ждать тебя.</target>
+	</unit>
+	<unit bitflag="5441" id1="90972" id2="17" version="1065353216">
+		<source>Good luck. To you both. And may the Force be with you.</source>
+		<target>Удачи. Вам обоим. И да пребудет с вами Сила.</target>
+	</unit>
+	<unit bitflag="5441" id1="90980" id2="17" version="1065353216">
+		<source>We've been waiting for you, Padawan. You've already met Master Jaric; this is Master Satele Shan.</source>
+		<target>Мы ждали тебя, падаван. Ты уже встречался с мастером Джериком; это мастер Сатил Шан.</target>
+	</unit>
+	<unit bitflag="5441" id1="90982" id2="17" version="1065353216">
+		<source>I've been treating Nalen Raloch. The Pilgrims who carried him here told us of your battle. Remarkable.</source>
+		<target>Я лечу Налена Ралоха. Принесшие его сюда пилигримы рассказали нам о вашей битве. Впечатляет.</target>
+	</unit>
+	<unit bitflag="5441" id1="90983" id2="17" version="1065353216">
+		<source>I would have brought a peaceful solution if I could, Master.</source>
+		<target>Я бы решил эту проблему мирно, если бы это было возможно, мастер.</target>
+	</unit>
+	<unit bitflag="5456" id1="90983" id2="17" version="1065353216">
+		<source>I regret it came to violence.</source>
+		<target>Мне жаль, что дошло до насилия.</target>
+	</unit>
+	<unit bitflag="5441" id1="90984" id2="17" version="1065353216">
+		<source>Peace is the ideal, Padawan, but there's no shame in defending yourself.</source>
+		<target>Мирное решение идеально, падаван, но в самозащите нет стыда.</target>
+	</unit>
+	<unit bitflag="5441" id1="90986" id2="17" version="1065353216">
+		<source>How bad are his injuries, Master Satele? I wasn't sure he would survive.</source>
+		<target>Насколько тяжело он ранен, мастер Сатил? Мне казалось, он может не выжить.</target>
+	</unit>
+	<unit bitflag="5456" id1="90986" id2="17" version="1065353216">
+		<source>Will Nalen live?</source>
+		<target>Нален выживет?</target>
+	</unit>
+	<unit bitflag="5441" id1="90987" id2="17" version="1065353216">
+		<source>He will, though it will be a long recovery.</source>
+		<target>Выживет, хотя его восстановление займёт долгое время.</target>
+	</unit>
+	<unit bitflag="5456" id1="90989" id2="17" version="1065353216">
+		<source>I always do good work.</source>
+		<target>Я всегда хорошо справляюсь.</target>
+	</unit>
+	<unit bitflag="5441" id1="90990" id2="17" version="1065353216">
+		<source>You've begun well, Padawan. How you proceed remains to be seen.</source>
+		<target>Хорошее начало, падаван. Как ты будешь продвигаться ещё предстоит выяснить.</target>
+	</unit>
+	<unit bitflag="5441" id1="90992" id2="17" version="1065353216">
+		<source>Kalikori village sent word of the battle at the Forge, and Nalen Raloch's death. He could not be saved, then?</source>
+		<target>Деревня Каликори сообщила о битве на Кузнице и смерти Налена Ралоха. Значит, его нельзя было спасти?</target>
+	</unit>
+	<unit bitflag="5441" id1="90993" id2="17" version="1065353216">
+		<source>Nalen Raloch's reputation will survive. That will benefit Kalikori village more.</source>
+		<target>Репутация Налена Ралоха уцелеет. Это принесёт больше пользы деревне Каликори.</target>
+	</unit>
+	<unit bitflag="5456" id1="90993" id2="17" version="1065353216">
+		<source>I saved his legacy.</source>
+		<target>Его наследие сохранено.</target>
+	</unit>
+	<unit bitflag="5441" id1="90994" id2="17" version="1065353216">
+		<source>I see you've thought this over.</source>
+		<target>Вижу, ты всё продумал.</target>
+	</unit>
+	<unit bitflag="5456" id1="90996" id2="17" version="1065353216">
+		<source>Circumstances forced my hand.</source>
+		<target>Меня вынудили обстоятельства.</target>
+	</unit>
+	<unit bitflag="5441" id1="90997" id2="17" version="1065353216">
+		<source>You protected innocent lives. We cannot ask for more.</source>
+		<target>Ты защищал жизни невинных. О большем просить нельзя.</target>
+	</unit>
+	<unit bitflag="5441" id1="90999" id2="17" version="1065353216">
+		<source>Nalen planned to destroy the Forge, then wage war against us. We're safer with him dead.</source>
+		<target>Нален планировал уничтожить Кузницу, затем объявить нам войну. Мы находимся в большей безопасности, когда он мёртв.</target>
+	</unit>
+	<unit bitflag="5456" id1="90999" id2="17" version="1065353216">
+		<source>He was far too dangerous.</source>
+		<target>Он был слишком опасен.</target>
+	</unit>
+	<unit bitflag="5441" id1="91000" id2="17" version="1065353216">
+		<source>Clearly you believe that. But don't let the urgency of the moment blind you to other paths.</source>
+		<target>Ты явно веришь в это. Но не давай безотлагательности мгновения заслонить собой другие пути.</target>
+	</unit>
+	<unit bitflag="5441" id1="91002" id2="17" version="1065353216">
+		<source>The deaths of the Pilgrims is problematic. It may take years to regain the village's trust--decades, even....</source>
+		<target>Смерти пилигримов являются проблемой. Могут потребоваться годы, чтобы вернуть доверие деревни — даже десятилетия...</target>
+	</unit>
+	<unit bitflag="5441" id1="91004" id2="17" version="1065353216">
+		<source>It seems we have much to learn about the villagers. Perhaps we should rethink our position....</source>
+		<target>Похоже, нам многое нужно узнать о поселенцах. Возможно, нужно пересмотреть нашу позицию...</target>
+	</unit>
+	<unit bitflag="5441" id1="91006" id2="17" version="1065353216">
+		<source>Enough, enough. Padawan--the Fount of Rajivari. You actually set foot there? Please, tell me everything!</source>
+		<target>Хватит, хватит. Падаван... Исток Радживари. Ты действительно был там? Прошу, расскажи мне всё!</target>
+	</unit>
+	<unit bitflag="5441" id1="91007" id2="17" version="1065353216">
+		<source>Master Rajivari himself spoke to me. What was left of him.</source>
+		<target>Сам мастер Радживари говорил со мной. То, что от него осталось.</target>
+	</unit>
+	<unit bitflag="5456" id1="91007" id2="17" version="1065353216">
+		<source>I met Rajivari.</source>
+		<target>Мне явился Радживари.</target>
+	</unit>
+	<unit bitflag="5441" id1="91008" id2="17" version="1065353216">
+		<source>You saw a Force apparition? Of Rajivari? This is extraordinary!</source>
+		<target>Тебе явился призрак Силы? Радживари? Это невероятно!</target>
+	</unit>
+	<unit bitflag="5441" id1="91010" id2="17" version="1065353216">
+		<source>Its relics and technology have survived. Enough to keep our historians busy for years.</source>
+		<target>Его реликвии и технологии уцелели. Хватит, чтобы занять наших историков на годы.</target>
+	</unit>
+	<unit bitflag="5456" id1="91010" id2="17" version="1065353216">
+		<source>It's mostly intact.</source>
+		<target>В общем, он невредим.</target>
+	</unit>
+	<unit bitflag="5441" id1="91011" id2="17" version="1065353216">
+		<source>You must record every detail for me--everything!</source>
+		<target>Запиши каждую деталь для меня — каждую!</target>
+	</unit>
+	<unit bitflag="5441" id1="91013" id2="17" version="1065353216">
+		<source>There was nothing to get excited over.</source>
+		<target>Не из-за чего так возбуждаться.</target>
+	</unit>
+	<unit bitflag="5456" id1="91013" id2="17" version="1065353216">
+		<source>It was only a ruin.</source>
+		<target>Это были лишь руины.</target>
+	</unit>
+	<unit bitflag="5441" id1="91014" id2="17" version="1065353216">
+		<source>Don't be ridiculous, it must have been a wonder! So much to see, to learn--</source>
+		<target>Не смеши, это наверняка было чудом! Так многое увидеть, узнать...</target>
+	</unit>
+	<unit bitflag="5441" id1="91016" id2="17" version="1065353216">
+		<source>It seems you may have been right, Yuon. I... apologize. To you, and your Padawan.</source>
+		<target>Похоже, ты была права, Юон. Я... извиняюсь. Перед тобой и твоим падаваном.</target>
+	</unit>
+	<unit bitflag="5441" id1="91018" id2="17" version="1065353216">
+		<source>No longer a Padawan. She carries a lightsaber; she has proven herself. I have only one last question before her training's complete.</source>
+		<target>Более не падаваном. У неё есть световой меч, она проявила себя. У меня остался только один вопрос, прежде чем её обучение завершится.</target>
+	</unit>
+	<unit bitflag="5441" id1="91020" id2="17" version="1065353216">
+		<source>No longer a Padawan. He carries a lightsaber; he has proven himself. I have only one last question before his training's complete.</source>
+		<target>Более не падаваном. У него есть световой меч, он проявил себя. У меня остался только один вопрос, прежде чем его обучение завершится.</target>
+	</unit>
+	<unit bitflag="5441" id1="91022" id2="17" version="1065353216">
+		<source>At the moment, Nalen Raloch is resting in a kolto tank. When he's well, what should become of him?</source>
+		<target>В данный момент Нален Ралох находится в резервуаре с колто. Когда он придёт в себя, что мы должны с ним делать?</target>
+	</unit>
+	<unit bitflag="5441" id1="91023" id2="17" version="1065353216">
+		<source>Nalen proved he has great strength in the Force. Maybe he has a future with us.</source>
+		<target>Нален доказал, что его мощь в Силе велика. Возможно, у него есть будущее среди нас.</target>
+	</unit>
+	<unit bitflag="5456" id1="91023" id2="17" version="1065353216">
+		<source>Train him as a Jedi.</source>
+		<target>Обучите его путям джедая.</target>
+	</unit>
+	<unit bitflag="5441" id1="91024" id2="17" version="1065353216">
+		<source>And bring reconciliation between us and the villagers--a sound idea.</source>
+		<target>И таким образом обеспечить примирение между нами и поселенцами — разумная идея.</target>
+	</unit>
+	<unit bitflag="5441" id1="91026" id2="17" version="1065353216">
+		<source>Nalen fought and suffered for his village. If you judge it safe, let him go home.</source>
+		<target>Нален сражался и страдал за свою деревню. Если это покажется вам безопасным, отпустите его домой.</target>
+	</unit>
+	<unit bitflag="5456" id1="91026" id2="17" version="1065353216">
+		<source>Release him to his people.</source>
+		<target>Отпустите его к его народу.</target>
+	</unit>
+	<unit bitflag="5441" id1="91027" id2="17" version="1065353216">
+		<source>Compassion. No Jedi should be without it.</source>
+		<target>Сострадание. Ни один джедай не должен быть его лишён.</target>
+	</unit>
+	<unit bitflag="5441" id1="91029" id2="17" version="1065353216">
+		<source>Nalen is still a threat. He should remain in your custody, indefinitely.</source>
+		<target>Нален всё ещё является угрозой. Он должен остаться у вас под стражей на неопределённый срок.</target>
+	</unit>
+	<unit bitflag="5456" id1="91029" id2="17" version="1065353216">
+		<source>Keep him prisoner.</source>
+		<target>Оставьте его в плену.</target>
+	</unit>
+	<unit bitflag="5441" id1="91030" id2="17" version="1065353216">
+		<source>Concern for the safety of others. Very prudent.</source>
+		<target>Забота о безопасности других. Очень благоразумно.</target>
+	</unit>
+	<unit bitflag="5441" id1="91032" id2="17" version="1065353216">
+		<source>Nalen Raloch was corrupted and destroyed. You walked a similar path. Why did you not fall?</source>
+		<target>Нален Ралох был испорчен и уничтожен. Ты прошёл схожий путь. Почему он не завершился падением?</target>
+	</unit>
+	<unit bitflag="5441" id1="91033" id2="17" version="1065353216">
+		<source>If I'd had an entire village to protect, Master Satele, perhaps I would have crossed some lines.</source>
+		<target>Если бы мне нужно было защищать целую деревню, мастер Сатил, возможно, я бы преступил черту.</target>
+	</unit>
+	<unit bitflag="5456" id1="91033" id2="17" version="1065353216">
+		<source>I didn't have Nalen's burdens.</source>
+		<target>На мне не было бремени Налена.</target>
+	</unit>
+	<unit bitflag="5441" id1="91034" id2="17" version="1065353216">
+		<source>Very honest. Always be mindful of your motives.</source>
+		<target>Весьма честно. Всегда обращай внимание на свои мотивы.</target>
+	</unit>
+	<unit bitflag="5441" id1="91036" id2="17" version="1065353216">
+		<source>I had a Master who cared about my progress, and Qyzen as an ally. Nalen had no one.</source>
+		<target>У меня был учитель, заботящийся о моём развитии, и Кайзен в качестве союзника. У Налена — никого.</target>
+	</unit>
+	<unit bitflag="5456" id1="91036" id2="17" version="1065353216">
+		<source>Others helped me.</source>
+		<target>Мне помогали.</target>
+	</unit>
+	<unit bitflag="5441" id1="91037" id2="17" version="1065353216">
+		<source>Yes. No Jedi can stand against darkness alone.</source>
+		<target>Да. Ни один джедай не может в одиночку противостоять Тьме.</target>
+	</unit>
+	<unit bitflag="5441" id1="91039" id2="17" version="1065353216">
+		<source>Nalen let himself be consumed by knowledge. I wouldn't allow such weakness.</source>
+		<target>Нален позволил знанию поглотить себя. Я не позволю себе такой слабости.</target>
+	</unit>
+	<unit bitflag="5456" id1="91039" id2="17" version="1065353216">
+		<source>I'm stronger than that.</source>
+		<target>Я сильнее этого.</target>
+	</unit>
+	<unit bitflag="5441" id1="91040" id2="17" version="1065353216">
+		<source>Humility will be a hard-won lesson for you, I see. But, I'm satisfied.</source>
+		<target>Смирение будет для тебя нелёгким уроком. Но я довольна.</target>
+	</unit>
+	<unit bitflag="5441" id1="91042" id2="17" version="1065353216">
+		<source>We judge you ready to accept your place as a Jedi. Yuon, if you would?</source>
+		<target>Мы считаем, что тебе пора принять своё место джедая. Юон, будь добра?</target>
+	</unit>
+	<unit bitflag="5441" id1="91046" id2="17" version="1065353216">
+		<source>Before this Council, I take from you the title of Padawan. I name you a full Jedi of our order. Honor the past. Work... for the future.</source>
+		<target>Перед этим Советом я лишаю тебя ранга падавана. Я нарекаю тебя полноценным джедаем нашего Ордена. Чти прошлое. Действуй... ради будущего.</target>
+	</unit>
+	<unit bitflag="5441" id1="91048" id2="17" version="1065353216">
+		<source>May the Force be always with you. You've... done so well, my student. I'm....</source>
+		<target>Да пребудет с тобой Сила всегда. У тебя... так хорошо получилось, ученик. Я...</target>
+	</unit>
+	<unit bitflag="5441" id1="91051" id2="17" version="1065353216">
+		<source>Master Yuon?</source>
+		<target>Мастер Юон?</target>
+	</unit>
+	<unit bitflag="5441" id1="91052" id2="17" version="1065353216">
+		<source>Come away. Yuon? Can you hear me?</source>
+		<target>Отойди. Юон? Меня слышно?</target>
+	</unit>
+	<unit bitflag="5441" id1="91056" id2="17" version="1065353216">
+		<source>Hello again, Padawan. I'm glad to see you well.</source>
+		<target>Здравствуй вновь, падаван. Рад видеть, что ты в порядке.</target>
+	</unit>
+	<unit bitflag="5441" id1="91058" id2="17" version="1065353216">
+		<source>Master Syo Bakarn. I was there to greet you when you first arrived.</source>
+		<target>Мастер Сио Бакарн. Я приветствовал тебя при прибытии на Тайтон.</target>
+	</unit>
+	<unit bitflag="5441" id1="91059" id2="17" version="1065353216">
+		<source>Being greeted by a member of the Council is hard to forget, Master Syo.</source>
+		<target>Приветствие от члена Совета трудно забыть, мастер Сио.</target>
+	</unit>
+	<unit bitflag="5456" id1="91059" id2="17" version="1065353216">
+		<source>I remember.</source>
+		<target>Я помню.</target>
+	</unit>
+	<unit bitflag="5441" id1="91060" id2="17" version="1065353216">
+		<source>Interesting. Protocol was never a big focus of Yuon's curriculum.</source>
+		<target>Интересно. Юон никогда не концентрировала своё обучение на этикете.</target>
+	</unit>
+	<unit bitflag="5441" id1="91062" id2="17" version="1065353216">
+		<source>Do you need me for something, Master Syo?</source>
+		<target>Вам нужна моя помощь, мастер Сио?</target>
+	</unit>
+	<unit bitflag="5456" id1="91062" id2="17" version="1065353216">
+		<source>What can I do for you?</source>
+		<target>Что я могу для вас сделать?</target>
+	</unit>
+	<unit bitflag="5441" id1="91063" id2="17" version="1065353216">
+		<source>At least she has a sense of responsibility.</source>
+		<target>Она хотя бы чувствует ответственность.</target>
+	</unit>
+	<unit bitflag="5441" id1="91065" id2="17" version="1065353216">
+		<source>At least he has a sense of responsibility.</source>
+		<target>Он хотя бы чувствует ответственность.</target>
+	</unit>
+	<unit bitflag="5441" id1="91067" id2="17" version="1065353216">
+		<source>I'm sorry. My work for Master Yuon has been keeping me preoccupied.</source>
+		<target>Простите. Моя работа для мастера Юон занимала всё моё время.</target>
+	</unit>
+	<unit bitflag="5456" id1="91067" id2="17" version="1065353216">
+		<source>I don't remember you.</source>
+		<target>Я вас не помню.</target>
+	</unit>
+	<unit bitflag="5441" id1="91068" id2="17" version="1065353216">
+		<source>Yes. Yuon mentioned your &quot;expeditions.&quot;</source>
+		<target>Да. Юон упомянула о твоих «экспедициях».</target>
+	</unit>
+	<unit bitflag="5441" id1="91070" id2="17" version="1065353216">
+		<source>This is Master Jaric Kaedan, another of the Jedi Council. Yuon told us about Nalen Raloch, the Pilgrim seeking Rajivari's secrets.</source>
+		<target>Это мастер Джерик Кейдан, также из Совета джедаев. Юон рассказала нам о Налене Ралохе, пилигриме, ищущем секреты Радживари.</target>
+	</unit>
+	<unit bitflag="5441" id1="91072" id2="17" version="1065353216">
+		<source>She also claimed the Force is &quot;guiding&quot; your training. This isn't unknown, but....</source>
+		<target>Она также заявила, что Сила «управляет» твоим обучением. Это не неизвестно, но...</target>
+	</unit>
+	<unit bitflag="5441" id1="91073" id2="17" version="1065353216">
+		<source>So the Force influencing a Padawan's training is quite rare.</source>
+		<target>Значит влияние Силы на обучение падавана довольно редко.</target>
+	</unit>
+	<unit bitflag="5456" id1="91073" id2="17" version="1065353216">
+		<source>But it is unusual.</source>
+		<target>Но это необычно.</target>
+	</unit>
+	<unit bitflag="5441" id1="91074" id2="17" version="1065353216">
+		<source>Yuon seems convinced. But trusting blindly in the Force isn't the Jedi way. Good judgment and discipline must temper that trust.</source>
+		<target>Юон кажется уверенной. Но слепо верить в Силу не путь джедая. Рассудительность и дисциплина должны уравновешивать эту веру.</target>
+	</unit>
+	<unit bitflag="5441" id1="91076" id2="17" version="1065353216">
+		<source>Master Yuon mentioned this, but she didn't go into details.</source>
+		<target>Мастер Юон упомянула это, но не вдавалась в детали.</target>
+	</unit>
+	<unit bitflag="5456" id1="91076" id2="17" version="1065353216">
+		<source>What did Yuon say, exactly?</source>
+		<target>Что именно сказала Юон?</target>
+	</unit>
+	<unit bitflag="5441" id1="91077" id2="17" version="1065353216">
+		<source>Yuon thinks encountering Nalen, and finding a few relics, proves you're meant to find this Fount of Rajivari. It's baseless.</source>
+		<target>Юон думает, что столкновение с Наленом и находка нескольких реликвий доказывают, что тебе предназначено найти этот Исток Радживари. Это необоснованно.</target>
+	</unit>
+	<unit bitflag="5441" id1="91079" id2="17" version="1065353216">
+		<source>Perhaps the Force needed the right person for this task.</source>
+		<target>Возможно, Силе нужна подходящий человек для этого задания.</target>
+	</unit>
+	<unit bitflag="5456" id1="91079" id2="17" version="1065353216">
+		<source>Maybe I'm just special.</source>
+		<target>Может, я просто не как все.</target>
+	</unit>
+	<unit bitflag="5441" id1="91080" id2="17" version="1065353216">
+		<source>There, Syo. Where there's blind certainty, there's arrogance. Yuon should know better.</source>
+		<target>Тише, Сио. Где есть слепая уверенность, там есть и высокомерие. Юон лучше знать.</target>
+	</unit>
+	<unit bitflag="5441" id1="91082" id2="17" version="1065353216">
+		<source>First she welcomes that Trandoshan into the temple, now this? She's getting more unorthodox by the day.</source>
+		<target>Сперва она принимает этого трандошанина в Храме, теперь это? Она становится всё оригинальнее с каждым днём.</target>
+	</unit>
+	<unit bitflag="5441" id1="91084" id2="17" version="1065353216">
+		<source>What do you make of Yuon's claim, Padawan?</source>
+		<target>Что ты думаешь о заявлении Юон, падаван?</target>
+	</unit>
+	<unit bitflag="5441" id1="91085" id2="17" version="1065353216">
+		<source>I trust in Master Yuon's wisdom.</source>
+		<target>Я доверяю мудрости мастера Юон.</target>
+	</unit>
+	<unit bitflag="5456" id1="91085" id2="17" version="1065353216">
+		<source>I support her beliefs.</source>
+		<target>Я принимаю её взгляды.</target>
+	</unit>
+	<unit bitflag="5441" id1="91086" id2="17" version="1065353216">
+		<source>Master Yuon is my teacher. It isn't my place to question her.</source>
+		<target>Мастер Юон мой учитель. Мне не подобает сомневаться в ней.</target>
+	</unit>
+	<unit bitflag="5456" id1="91086" id2="17" version="1065353216">
+		<source>It's not for me to judge.</source>
+		<target>Не мне судить.</target>
+	</unit>
+	<unit bitflag="5441" id1="91087" id2="17" version="1065353216">
+		<source>Indeed not. That's the Council's responsibility.</source>
+		<target>Верно. За это отвечает Совет.</target>
+	</unit>
+	<unit bitflag="5441" id1="91089" id2="17" version="1065353216">
+		<source>I respect Master Yuon's beliefs, but I don't share them. My path is my own.</source>
+		<target>Я уважаю верования мастера Юон, но не разделяю их. У меня свой путь.</target>
+	</unit>
+	<unit bitflag="5456" id1="91089" id2="17" version="1065353216">
+		<source>I think she's wrong.</source>
+		<target>Думаю, она неправа.</target>
+	</unit>
+	<unit bitflag="5441" id1="91090" id2="17" version="1065353216">
+		<source>The Council has agreed to accept Yuon's opinion. For now. But I am concerned about the dangers this path is leading you through.</source>
+		<target>Совет сошёлся на принятии мнения Юон. Пока. Но меня беспокоят опасности, сквозь которые тебя ведёт этот путь.</target>
+	</unit>
+	<unit bitflag="5441" id1="91092" id2="17" version="1065353216">
+		<source>Finding the Fount of Rajivari before Nalen Raloch does is important. But so is your safety, Padawan. Be mindful.</source>
+		<target>Найти Исток Радживари раньше, чем Нален Ралох, важно. Но важна и твоя безопасность, падаван. Будь внимательнее.</target>
+	</unit>
+	<unit bitflag="1345" id1="91094" id2="17" version="1065353216">
+		<source>Go carefully, Padawan. Yuon is placing a lot of faith in you.</source>
+		<target>Береги себя, падаван. Юон крайне сильно доверяет тебе.</target>
+	</unit>
+	<unit bitflag="5441" id1="91097" id2="17" version="1065353216">
+		<source>Ah, Padawan. I heard your shuttle arriving. I'm Master Syo Bakarn, of the Jedi Council. Welcome to Tython.</source>
+		<target>А, падаван. Я слышал, как прибыл твой шаттл. Я мастер Сио Бакарн из Совета джедаев. Добро пожаловать на Тайтон.</target>
+	</unit>
+	<unit bitflag="5441" id1="91099" id2="17" version="1065353216">
+		<source>This is the ancestral home of our order, where the Jedi first came to be. And where our most promising Padawans complete their training.</source>
+		<target>Это родной дом нашего Ордена, здесь впервые возникли джедаи. И здесь наши самые многообещающие падаваны завершают своё обучение.</target>
+	</unit>
+	<unit bitflag="5441" id1="91100" id2="17" version="1065353216">
+		<source>I'm surprised a member of the Jedi Council would come to meet me.</source>
+		<target>Удивляет, что член Совета джедаев пришёл встретить меня.</target>
+	</unit>
+	<unit bitflag="5456" id1="91100" id2="17" version="1065353216">
+		<source>Do you greet all new arrivals?</source>
+		<target>Вы приветствуете всех новоприбывших?</target>
+	</unit>
+	<unit bitflag="5441" id1="91101" id2="17" version="1065353216">
+		<source>I wanted to meet the student who's caused such a stir.</source>
+		<target>Мне хотелось встретить ученика, вызвавшего такой ажиотаж.</target>
+	</unit>
+	<unit bitflag="5441" id1="91103" id2="17" version="1065353216">
+		<source>The chance to see where the first Jedi walked, train where they trained--it's quite an honor.</source>
+		<target>Шанс увидеть, где ходили первые джедаи, обучаться там же, где они — это такая честь.</target>
+	</unit>
+	<unit bitflag="5456" id1="91103" id2="17" version="1065353216">
+		<source>I'm excited to be here.</source>
+		<target>Мне приятно быть здесь.</target>
+	</unit>
+	<unit bitflag="5441" id1="91104" id2="17" version="1065353216">
+		<source>So eager. You and your new Master should get along nicely.</source>
+		<target>Такое нетерпение. Ты отлично поладишь со своим новым учителем.</target>
+	</unit>
+	<unit bitflag="5441" id1="91106" id2="17" version="1065353216">
+		<source>With respect, Master Syo, I'd rather be training than talking.</source>
+		<target>При всём уважении, мастер Сио, я предпочитаю обучение разговорам.</target>
+	</unit>
+	<unit bitflag="5456" id1="91106" id2="17" version="1065353216">
+		<source>Then I'd like to get started.</source>
+		<target>Тогда мне хотелось бы начать.</target>
+	</unit>
+	<unit bitflag="5441" id1="91107" id2="17" version="1065353216">
+		<source>Your instructors tell me that even in childhood, you had a remarkable connection to the Force. We haven't seen such power in decades.</source>
+		<target>Твои наставники говорят, что даже в детстве у тебя была заметная связь с Силой. Мы не видели такой мощи уже десятилетия.</target>
+	</unit>
+	<unit bitflag="5441" id1="91109" id2="17" version="1065353216">
+		<source>Your instructors say your understanding of Jedi lore and philosophy is unmatched. Such a powerful mind could make you a great Jedi.</source>
+		<target>Твои наставники говорят, что твоё понимание знаний и философии джедаев бесподобно. Столь мощный ум может сделать тебя великим джедаем.</target>
+	</unit>
+	<unit bitflag="5441" id1="91111" id2="17" version="1065353216">
+		<source>Your instructors speak of your visions, that you walked the galaxy to find our order. We are honored to have you.</source>
+		<target>Твои наставники говорят о твоих видениях, о том, что тебе пришлось пересечь Галактику, чтобы найти наш Орден. Для нас честь, что ты с нами.</target>
+	</unit>
+	<unit bitflag="5441" id1="91113" id2="17" version="1065353216">
+		<source>I was... hoping your new Master would be here. Yuon left her dig site and is returning to Tython specifically to train you.</source>
+		<target>Я... надеялся, что твой новый учитель будет здесь. Юон оставила место своих раскопок и возвращается на Тайтон непосредственно ради твоего обучения.</target>
+	</unit>
+	<unit bitflag="5441" id1="91114" id2="17" version="1065353216">
+		<source>Is Master Yuon an archaeologist?</source>
+		<target>Мастер Юон археолог?</target>
+	</unit>
+	<unit bitflag="5456" id1="91114" id2="17" version="1065353216">
+		<source>A dig site?</source>
+		<target>Раскопок?</target>
+	</unit>
+	<unit bitflag="5441" id1="91115" id2="17" version="1065353216">
+		<source>In a way. As you become her Padawan, never forget your initial training, nor the Jedi Code:</source>
+		<target>В некотором роде. Став её падаваном, не забывай своё начальное обучение и Кодекс джедаев:</target>
+	</unit>
+	<unit bitflag="5441" id1="91117" id2="17" version="1065353216">
+		<source>It sounds like Master Yuon's putting a lot of faith in me. We haven't even met.</source>
+		<target>Похоже, мастер Юон сильно верит в меня. Мы ещё даже не виделись.</target>
+	</unit>
+	<unit bitflag="5456" id1="91117" id2="17" version="1065353216">
+		<source>I hope I'm worthy.</source>
+		<target>Надеюсь, я не подведу.</target>
+	</unit>
+	<unit bitflag="5441" id1="91118" id2="17" version="1065353216">
+		<source>Trust in your initial training. And never forget the Jedi Code:</source>
+		<target>Доверяй своему начальному обучению. И не забывай Кодекс джедаев:</target>
+	</unit>
+	<unit bitflag="5441" id1="91120" id2="17" version="1065353216">
+		<source>If Master Yuon's so keen to train me, you'd think she'd show up on time.</source>
+		<target>Если мастер Юон так хочет меня обучать, казалось бы, она должна явиться вовремя.</target>
+	</unit>
+	<unit bitflag="5456" id1="91120" id2="17" version="1065353216">
+		<source>And yet she's late.</source>
+		<target>И всё же она опаздывает.</target>
+	</unit>
+	<unit bitflag="5441" id1="91121" id2="17" version="1065353216">
+		<source>A Jedi Master's time is rarely her own. Patience. Recall the Jedi Code:</source>
+		<target>Мастера-джедая редко свободно распоряжается своим временем. Терпение. Вспомни Кодекс:</target>
+	</unit>
+	<unit bitflag="5441" id1="91123" id2="17" version="1065353216">
+		<source>&quot;There is no emotion, there is peace. There is no ignorance, there is knowledge.&quot;</source>
+		<target>«Нет эмоций, есть покой. Нет невежества, есть знание».</target>
+	</unit>
+	<unit bitflag="5441" id1="91125" id2="17" version="1065353216">
+		<source>&quot;There is no passion, there is serenity. There is no chaos, there is harmony. There is no death, there is the Force.&quot; This is....</source>
+		<target>«Нет страстей, есть ясность мысли. Нет хаоса, есть гармония. Нет смерти, есть Сила». Это...</target>
+	</unit>
+	<unit bitflag="5441" id1="91127" id2="17" version="1065353216">
+		<source>Yuon. I was beginning to worry.</source>
+		<target>Юон. Я уже начал волноваться.</target>
+	</unit>
+	<unit bitflag="5441" id1="91129" id2="17" version="1065353216">
+		<source>So you've arrived safely, my Padawan. I'm sorry I can't greet you properly, but we already have a crisis on our hands.</source>
+		<target>Так ты благополучно прибыл сюда, падаван. Прости, что не приветствую тебя как подобает, но у нас уже возник кризис.</target>
+	</unit>
+	<unit bitflag="5441" id1="91130" id2="17" version="1065353216">
+		<source>I'm at your service, Master.</source>
+		<target>Я к вашим услугам, учитель.</target>
+	</unit>
+	<unit bitflag="5456" id1="91130" id2="17" version="1065353216">
+		<source>I stand ready.</source>
+		<target>В полной готовности.</target>
+	</unit>
+	<unit bitflag="5441" id1="91131" id2="17" version="1065353216">
+		<source>This crisis is the reason you were delayed.</source>
+		<target>Этот кризис задержал вас.</target>
+	</unit>
+	<unit bitflag="5456" id1="91131" id2="17" version="1065353216">
+		<source>That's why you were late.</source>
+		<target>Поэтому вы опоздали.</target>
+	</unit>
+	<unit bitflag="5441" id1="91132" id2="17" version="1065353216">
+		<source>Precisely.</source>
+		<target>Именно.</target>
+	</unit>
+	<unit bitflag="5441" id1="91134" id2="17" version="1065353216">
+		<source>I want to know what's happening.</source>
+		<target>Я хочу знать, что происходит.</target>
+	</unit>
+	<unit bitflag="5456" id1="91134" id2="17" version="1065353216">
+		<source>What do you mean?</source>
+		<target>Что вы имеете в виду?</target>
+	</unit>
+	<unit bitflag="5441" id1="91135" id2="17" version="1065353216">
+		<source>Tython is a treasure trove of ancient Jedi relics. Recently, our researchers uncovered several &quot;teaching holograms,&quot; but they've not been fully studied.</source>
+		<target>Тайтон — сокровищница древних реликвий джедаев. Недавно наши исследователи открыли несколько «обучающих голограмм», ещё не полностью изученных.</target>
+	</unit>
+	<unit bitflag="5441" id1="91137" id2="17" version="1065353216">
+		<source>These holograms may be records of the founders of the Jedi Order--they're absolutely irreplaceable.</source>
+		<target>Эти голограммы, возможно, являются записями основателей Ордена джедаев — они абсолютно незаменимы.</target>
+	</unit>
+	<unit bitflag="5441" id1="91139" id2="17" version="1065353216">
+		<source>But, a large group of Flesh Raiders has begun rampaging through that region. Those priceless holograms are in danger.</source>
+		<target>Но большая группа раздирателей начала бесчинствовать в этой области. Эти бесценные голограммы в опасности.</target>
+	</unit>
+	<unit bitflag="5441" id1="91140" id2="17" version="1065353216">
+		<source>I've never heard of Flesh Raiders before.</source>
+		<target>Мне не приходилось раньше слышать о раздирателях.</target>
+	</unit>
+	<unit bitflag="5456" id1="91140" id2="17" version="1065353216">
+		<source>Flesh Raiders?</source>
+		<target>Раздиратели?</target>
+	</unit>
+	<unit bitflag="5441" id1="91141" id2="17" version="1065353216">
+		<source>Is there a way to protect the holograms?</source>
+		<target>Есть ли способ защитить голограммы?</target>
+	</unit>
+	<unit bitflag="5456" id1="91141" id2="17" version="1065353216">
+		<source>Perhaps we can save them.</source>
+		<target>Возможно, мы можем спасти их.</target>
+	</unit>
+	<unit bitflag="5441" id1="91142" id2="17" version="1065353216">
+		<source>Someone must slip past the Flesh Raiders to recover these holograms' projectors. I intend this to be the first task of your training.</source>
+		<target>Кто-то должен проникнуть в тыл раздирателей и добыть проекторы этих голограмм. Я собираюсь сделать это первым заданием в твоём обучении.</target>
+	</unit>
+	<unit bitflag="5441" id1="91144" id2="17" version="1065353216">
+		<source>Whatever these &quot;Flesh Raiders&quot; are, they can't hurt something without physical form.</source>
+		<target>Чем бы ни были эти «раздиратели», они не могут навредить чему-то нематериальному.</target>
+	</unit>
+	<unit bitflag="5456" id1="91144" id2="17" version="1065353216">
+		<source>Why? They're holograms.</source>
+		<target>Зачем? Это же голограммы.</target>
+	</unit>
+	<unit bitflag="5441" id1="91145" id2="17" version="1065353216">
+		<source>The Flesh Raiders are Tython's natives. Savage cannibals who destroy everything in their path.</source>
+		<target>Раздиратели — аборигены Тайтона. Дикие каннибалы, уничтожающие всё на своём пути.</target>
+	</unit>
+	<unit bitflag="5441" id1="91147" id2="17" version="1065353216">
+		<source>Including the holograms' projectors. Combat teams are pushing the Flesh Raiders back, but retrieving the holograms is the first task of your training.</source>
+		<target>В том числе проекторы голограмм. Боевые подразделения оттесняют раздирателей, но заполучить голограммы — первое задание в твоём обучении.</target>
+	</unit>
+	<unit bitflag="5441" id1="91149" id2="17" version="1065353216">
+		<source>No. Yuon, you can't risk a Padawan against Flesh Raiders, even for such important artifacts.</source>
+		<target>Нет. Юон, нельзя выставлять падавана против раздирателей, даже ради столь важных артефактов.</target>
+	</unit>
+	<unit bitflag="5441" id1="91151" id2="17" version="1065353216">
+		<source>A Padawan who was stronger in the Force at four years old, than I was at fifteen? Gifted students need greater challenges.</source>
+		<target>Падаван, более мощный в Силе в четыре года, чем я в пятнадцать? Одарённым ученикам нужны испытания серьёзнее.</target>
+	</unit>
+	<unit bitflag="5441" id1="91152" id2="17" version="1065353216">
+		<source>A Padawan who's studied every combat treatise of the last two centuries. Gifted students need greater challenges.</source>
+		<target>Падаван, изучивший все боевые практики последних двух веков. Одарённым ученикам нужны испытания серьёзнее.</target>
+	</unit>
+	<unit bitflag="5441" id1="91153" id2="17" version="1065353216">
+		<source>A Padawan who wandered alone for years--before learning Jedi techniques. Gifted students need greater challenges.</source>
+		<target>Падаван, скитавшийся в одиночку годами — до изучения техник джедаев. Одарённым ученикам нужны испытания серьёзнее.</target>
+	</unit>
+	<unit bitflag="5441" id1="91154" id2="17" version="1065353216">
+		<source>So I must recover these holograms, and watch for Flesh Raiders. Where should I begin?</source>
+		<target>Значит, нужно достать эти голограммы, остерегаясь раздирателей. С чего начать?</target>
+	</unit>
+	<unit bitflag="5456" id1="91154" id2="17" version="1065353216">
+		<source>I understand my task.</source>
+		<target>Задание ясно.</target>
+	</unit>
+	<unit bitflag="5441" id1="91155" id2="17" version="1065353216">
+		<source>There's a difference between a challenge and risking your student's life.</source>
+		<target>Есть разница между испытанием ученика и тем, чтобы ставить под угрозу его жизнь.</target>
+	</unit>
+	<unit bitflag="5456" id1="91155" id2="17" version="1065353216">
+		<source>I disagree. This is dangerous.</source>
+		<target>Не соглашусь. Это опасно.</target>
+	</unit>
+	<unit bitflag="5441" id1="91156" id2="17" version="1065353216">
+		<source>If Yuon believes you ready for a true test, you must be ready.</source>
+		<target>Если Юон верит, что ты готов к настоящему испытанию, ты должен быть готов.</target>
+	</unit>
+	<unit bitflag="5441" id1="91158" id2="17" version="1065353216">
+		<source>I was hoping you'd treat my abilities with the respect they deserve.</source>
+		<target>У меня были надежды, что вы оцените мои способности по заслугам.</target>
+	</unit>
+	<unit bitflag="5456" id1="91158" id2="17" version="1065353216">
+		<source>Good, you know my worth.</source>
+		<target>Хорошо, знаете, чего я стою.</target>
+	</unit>
+	<unit bitflag="5441" id1="91159" id2="17" version="1065353216">
+		<source>Pride is not a Jedi virtue, Padawan, nor is overconfidence.</source>
+		<target>Гордость не добродетель для джедая, падаван, как и самоуверенность.</target>
+	</unit>
+	<unit bitflag="5441" id1="91161" id2="17" version="1065353216">
+		<source>The holograms are in the Gnarls. Be vigilant; that region has dangers of its own. If you encounter any difficulties, contact me on this holocommunicator.</source>
+		<target>Голограммы в Узлах. Сохраняй бдительность; в этой области есть свои опасности. Если встретишься с какими-то проблемами, свяжись со мной по этому голокоммуникатору.</target>
+	</unit>
+	<unit bitflag="5441" id1="91163" id2="17" version="1065353216">
+		<source>When you have the holograms, meet me at the Jedi Temple. We have much to discuss.</source>
+		<target>Когда добудешь голограммы, встреться со мной в Храме. Нам нужно многое обсудить.</target>
+	</unit>
+	<unit bitflag="1345" id1="91165" id2="17" version="1065353216">
+		<source>A good day to you.</source>
+		<target>Хорошего тебе дня.</target>
+	</unit>
+</dialogue_file>

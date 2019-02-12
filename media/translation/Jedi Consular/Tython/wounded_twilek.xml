@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="13">
+	<unit bitflag="1345" id1="91954" id2="17" version="1065353216">
+		<source>You! So you... uhhh! You made it after all. I hoped your head would be Nalen's trophy by now.</source>
+		<target>Ты! Так ты... ай! Тебе всё-таки удалось. У меня были надежды, что твоя голова уже трофей Налена.</target>
+	</unit>
+	<unit bitflag="1345" id1="91956" id2="17" version="1065353216">
+		<source>I came here to... prove myself. To Nalen. But the traps....</source>
+		<target>Я здесь, чтобы... проявить себя. Перед Наленом. Но ловушки...</target>
+	</unit>
+	<unit bitflag="1345" id1="91958" id2="17" version="1065353216">
+		<source>It doesn't matter. You're the enemy; if I can still... hold a blade, I can stick you in the heart!</source>
+		<target>Это неважно. Ты враг; раз я ещё могу... держать клинок, я могу пронзить твоё сердце!</target>
+	</unit>
+	<unit bitflag="1345" id1="91959" id2="17" version="1065353216">
+		<source>No living creature's suffering can be ignored.</source>
+		<target>Страдания никакого живого существа не могут игнорироваться.</target>
+	</unit>
+	<unit bitflag="1360" id1="91959" id2="17" version="1065353216">
+		<source>I must heal your pain.</source>
+		<target>Мне следует излечить тебя.</target>
+	</unit>
+	<unit bitflag="1345" id1="91960" id2="17" version="1065353216">
+		<source>I will not fight one who is injured.</source>
+		<target>Я не буду сражаться с ранеными.</target>
+	</unit>
+	<unit bitflag="1360" id1="91960" id2="17" version="1065353216">
+		<source>Do what you must.</source>
+		<target>Делай, что должно.</target>
+	</unit>
+	<unit bitflag="1345" id1="91961" id2="17" version="1065353216">
+		<source>Mercy leads to a spiral of destruction. You don't belong here.</source>
+		<target>Милосердие приводит к спирали разрушения. Тебе здесь не место.</target>
+	</unit>
+	<unit bitflag="1345" id1="91963" id2="17" version="1065353216">
+		<source>Your ignorance should devour you. But, all things in time.</source>
+		<target>Твоё невежество поглотит тебя. Но всему своё время.</target>
+	</unit>
+	<unit bitflag="1345" id1="91964" id2="17" version="1065353216">
+		<source>That makes you my enemy. Sparing you will only lead to greater destruction.</source>
+		<target>Это делает тебя моим врагом. Пощада приведёт лишь к большим разрушениям.</target>
+	</unit>
+	<unit bitflag="1360" id1="91964" id2="17" version="1065353216">
+		<source>I won't show you mercy.</source>
+		<target>Я не проявлю милосердия.</target>
+	</unit>
+	<unit bitflag="1345" id1="91965" id2="17" version="1065353216">
+		<source>Ah, a disciple of Rajivari after all.</source>
+		<target>А, всё-таки ученик Радживари.</target>
+	</unit>
+	<unit bitflag="1345" id1="91967" id2="17" version="1065353216">
+		<source>Go now. You've earned the right.</source>
+		<target>Иди. У тебя есть право.</target>
+	</unit>
+</dialogue_file>

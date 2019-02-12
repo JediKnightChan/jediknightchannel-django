@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="3">
+	<unit bitflag="1345" id1="659845" id2="17" version="1065353216">
+		<source>I guess it won't be so bad working for Sith Intelligence.</source>
+		<target>Думаю, не так уж и плохо работать на разведку ситов.</target>
+	</unit>
+	<unit bitflag="1345" id1="659846" id2="17" version="1065353216">
+		<source>Leave me be. I'll give you no satisfaction.</source>
+		<target>Оставь меня. Я не дам тебе никакого удовлетворения.</target>
+	</unit>
+	<unit bitflag="1345" id1="659847" id2="17" version="1065353216">
+		<source>I'll never break... never....</source>
+		<target>Я никогда не сломаюсь... никогда...</target>
+	</unit>
+</dialogue_file>

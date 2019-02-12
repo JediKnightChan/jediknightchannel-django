@@ -1,0 +1,174 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block title %}JediKnightChannel — Русификатор SWTOR{% endblock %}
+
+{% block head_additional %}
+
+
+{% endblock %}
+
+{% block content %}
+    <div id="body">
+		<div class="header noselect">
+			<div>
+				<h1>Русификатор SWTOR</h1>
+                <a class="fancybox" data-fancybox="gallery" href="/media/images/main/rus_gameplay.png">
+                    <img src="/media/images/main/rus_gameplay.png" style="width: 770px">
+                </a>
+
+                    <p class="top-padding-medium align-left">Русификатор SWTOR от JediKnightChannel перешёл на стадию ОБТ,
+                    и теперь его может скачать любой желающий. Работа над локализацией идёт уже больше года,
+                    и за это время мы успели перевести все имена NPC, классовые сюжетные линии на стартовых
+                    планетах, большую часть интерфейса и многое другое. Подробности смотрите в разделе
+                        <a href="#translated-content">"Переведённый контент"</a>.</p>
+                <a href="/media/programs/setup.exe" id="download" class="top-padding-medium">Скачать русификатор</a>
+                <h2>Установка и решение проблем с ней</h2>
+                    <p class="align-left">В директории русификатора находится файл README.pdf, с которым нужно обязательно ознакомиться,
+                    а на YouTube есть <a href="https://www.youtube.com/watch?v=3cuQhFfN5qE">видео</a>,
+                    приблизительно показывающее процесс установки. В случае возникновения проблем посмотрите
+                    <a href="https://vk.com/@swtor_jk-pravila-oformleniya-zaprosa-v-tehpodderzhku">вот эту статью</a>.
+                    Наконец, существует и
+                    <a href="https://vk.com/@swtor_jk-alternativnyi-metod-ustanovki-rusifikatora">альтернативный
+                    метод установки</a> перевода без использования каких либо программ.</p>
+                <h2>Нарушение EULA SWTOR</h2>
+                    <p class="align-left">Устанавливая перевод при помощи этого русификатора, вы нарушаете EULA игры. Как бы то ни было,
+                        ни один разработчик не станет банить игроков без веских причин. Его главная цель - получение
+                        прибыли, и бан применяется в основном к игрокам, являющимися причиной ухода других игроков.
+                        Русификатор же не угрожает прибыли разработчиков SWTOR и не предоставляет внутриигровых
+                        преимуществ. <u>Информации, что кто-то из пользователей русификатора сейчас
+                        забанен, не поступало.</u>
+                    </p>
+                <h2 id="translated-content">Переведённый контент</h2>
+                    <div>
+                        <div id="progress_wheel" class="progress-wheel"></div>
+                    </div>
+                    <script src="{% static "js/progressbar.js" %}"></script>
+                    <script>
+                        var bar = new ProgressBar.Circle(progress_wheel, {
+                            strokeWidth: 2,
+                            easing: 'easeInOut',
+                            duration: 2000,
+                            color: '#DAA520',
+                            trailColor: '#fff',
+                            trailWidth: 0.125,
+                            svgStyle: null,
+                            step: function(state, circle) {
+
+                                var value = Math.round(circle.value() * 100);
+                                if (value === 0) {
+                                    circle.setText('');
+                                } else {
+                                    circle.setText(value);
+                                }
+
+                            }
+                        });
+                        bar.text.style.fontFamily = '"Raleway", Helvetica, sans-serif';
+                        bar.text.style.fontSize = '2rem';
+                        bar.path.style.strokeLinecap = 'round';
+                        bar.animate(0.1);
+                    </script>
+                    <h3 class="collapsible"><span class="hover-white">Интерфейс</span></h3>
+                        <div class="expandable_content small-padding">
+                            <p class="no-margin">Переведена большая (и самая важная) часть интерфейса</p>
+                        </div>
+                    <h3 class="collapsible"><span class="hover-white">NPC, локации, квесты и способности</span></h3>
+                        <div class="expandable_content small-padding">
+                            <p class="no-margin">Переведены все имена NPC, остальное - частично</p>
+                        </div>
+                    <h3 class="collapsible"><span class="hover-white">Планетарные квесты</span></h3>
+                        <div class="expandable_content no-padding">
+                            <ul class="translated-list">
+                                <li>Тайтон</li>
+                                <li>Коррибан</li>
+                            </ul>
+                        </div>
+                    <h3 class="collapsible"><span class="hover-white">Горячие точки</span></h3>
+                        <div class="expandable_content no-padding">
+                            <ul class="translated-list">
+                                <li>Эсселес</li>
+                                <li>Чёрный коготь</li>
+                                <li>Абордажная команда</li>
+                                <li>Фабрика</li>
+                            </ul>
+                        </div>
+                    <h3 class="collapsible"><span class="hover-white">Классовые сюжетные линии</span></h3>
+                        <div class="expandable_content small-padding">
+                            <h4 class="collapsible Empire hover-white">Сит-инквизитор</h4>
+                                <div class="expandable_content small-padding">
+                                    <p class="no-margin">До конца 3-й главы (100%)</p>
+                                </div>
+                            <h4 class="collapsible Empire hover-white">Сит-воин</h4>
+                                <div class="expandable_content small-padding">
+                                    <p class="no-margin">До конца пролога (9%)</p>
+                                </div>
+                            <h4 class="collapsible Empire hover-white">Агент</h4>
+                                <div class="expandable_content small-padding">
+                                    <p class="no-margin">До конца пролога (9%)</p>
+                                </div>
+                            <h4 class="collapsible Empire hover-white">Охотник за головами</h4>
+                                <div class="expandable_content small-padding">
+                                    <p class="no-margin">До конца пролога (9%)</p>
+                                </div>
+                            <h4 class="collapsible Republic hover-white">Рыцарь-джедай</h4>
+                                <div class="expandable_content small-padding">
+                                    <p class="no-margin">До конца 1-й главы (54%)</p>
+                                </div>
+                            <h4 class="collapsible Republic hover-white">Джедай-консул</h4>
+                                <div class="expandable_content small-padding">
+                                    <p class="no-margin">До Корусанта (18%)</p>
+                                </div>
+                            <h4 class="collapsible Republic hover-white">Контрабандист</h4>
+                                <div class="expandable_content small-padding">
+                                    <p class="no-margin">До конца пролога (9%)</p>
+                                </div>
+                            <h4 class="collapsible Republic hover-white">Солдат</h4>
+                                <div class="expandable_content small-padding">
+                                    <p class="no-margin">Почти до конца пролога (8%)</p>
+                                </div>
+                        </div>
+                    <h3 class="collapsible"><span class="hover-white">Дополнения</span></h3>
+                        <div class="expandable_content no-padding">
+                            <ul class="translated-list">
+                                <li>KOTFE: 1-4 главы</li>
+                            </ul>
+                        </div>
+                <h2>Команда локализации и благодарности</h2>
+                    <h3 class="collapsible"><span class="hover-white">Техническая часть</span></h3>
+                        <div class="expandable_content small-padding">
+                            <ul class="translated-list">
+                                <li><a href="https://swtor.jedipedia.net/en">SWTOR Jedipedia</a>:
+                                    начальная поддержка</li>
+                                <li><a href="https://vk.com/togruth">Togruth (разработчик другого русификатора)</a>:
+                                    <a href="/news/post/1">помощь в снятии ограничения</a></li>
+                                <li>Jedi Knight:
+                                    разработка программы русификатора, тимлид</li>
+                            </ul>
+                        </div>
+                    <h3 class="collapsible"><span class="hover-white">Перевод</span></h3>
+                        <div class="expandable_content small-padding">
+                            <ul class="translated-list">
+                                <li>Demetrius:
+                                    сюжетная линия джедая-консула</li>
+                                <li>Jedi Knight:
+                                    редактура, интерфейс, сюжетные линии рыцаря-джедая, сита-инквизитора и
+                                    контрабандиста</li>
+                                <li>Mortemus (ушёл из команды):
+                                    сюжетная линия сита-воина</li>
+                                <li>Smol Potato:
+                                    сюжетные линиии агента и охотника за головами</li>
+                                <li>Sightsaber (ушёл из команды):
+                                    сюжетная линия солдата</li>
+                                <li><a href="https://www.youtube.com/channel/UC17n65dpgXMXsLWZ82XddWQ">SWTOR по-русски
+                                    </a>: KOTFE и горячие точки</li>
+                            </ul>
+                        </div>
+			</div>
+		</div>
+	</div>
+{% endblock %}
+
+{% block additional_end_of_body %}
+    <script src="{% static "js/collapsibles.js" %}"></script>
+{% endblock %}

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="35">
+	<unit bitflag="1345" id1="717820" id2="17" version="1065353216">
+		<source>Sith! I mean, my lord! I mean--Major Ilun here, sir.</source>
+		<target>Сит! То есть, владыка! То есть... майор Илун на связи, сэр.</target>
+	</unit>
+	<unit bitflag="1345" id1="717821" id2="17" version="1065353216">
+		<source>Got a promotion, eh?</source>
+		<target>Получил повышение, м?</target>
+	</unit>
+	<unit bitflag="1360" id1="717821" id2="17" version="1065353216">
+		<source>Major now, is it?</source>
+		<target>Теперь майор, да?</target>
+	</unit>
+	<unit bitflag="1345" id1="717822" id2="17" version="1065353216">
+		<source>Yes, thank you--got Major Bessiker's old job.</source>
+		<target>Да, спасибо — занял место майора Бессикера.</target>
+	</unit>
+	<unit bitflag="1360" id1="717824" id2="17" version="1065353216">
+		<source>Yes?</source>
+		<target>Да?</target>
+	</unit>
+	<unit bitflag="1345" id1="717825" id2="17" version="1065353216">
+		<source>Will I never be rid of you fools!</source>
+		<target>Никогда не избавлюсь от вас, идиотов!</target>
+	</unit>
+	<unit bitflag="1360" id1="717825" id2="17" version="1065353216">
+		<source>This is starting to annoy me.</source>
+		<target>Это начинает мне надоедать.</target>
+	</unit>
+	<unit bitflag="1345" id1="717826" id2="17" version="1065353216">
+		<source>Uh, right, well I'll be quick then.</source>
+		<target>Эм, хорошо, ну, тогда я буду краток.</target>
+	</unit>
+	<unit bitflag="1345" id1="717828" id2="17" version="1065353216">
+		<source>Yes, um, as the new resources officer here on Balmorra, I just wanted to apologize for the behavior of the late Major Bessiker.</source>
+		<target>Да, мм, как новый офицер-штабист на Балморре, я лишь хотел принести извинения за поведение бывшего майора Бессикера.</target>
+	</unit>
+	<unit bitflag="1345" id1="717830" id2="17" version="1065353216">
+		<source>His son's mission was not a military matter, and the major had no right to demand your valuable time in that way.</source>
+		<target>Миссия его сына не касалась военных, и майор не имел права расходовать ваше ценное время таким образом.</target>
+	</unit>
+	<unit bitflag="1345" id1="717831" id2="17" version="1065353216">
+		<source>It's not as if I didn't benefit.</source>
+		<target>Не то чтобы я не получил выгоду.</target>
+	</unit>
+	<unit bitflag="1360" id1="717831" id2="17" version="1065353216">
+		<source>Don't worry about it.</source>
+		<target>Не беспокойся об этом.</target>
+	</unit>
+	<unit bitflag="1360" id1="717832" id2="17" version="1065353216">
+		<source>Indeed.</source>
+		<target>Воистину.</target>
+	</unit>
+	<unit bitflag="1345" id1="717833" id2="17" version="1065353216">
+		<source>What do you expect to gain from your snivelling?</source>
+		<target>Чего ты ожидаешь добиться своим нытьём?</target>
+	</unit>
+	<unit bitflag="1360" id1="717833" id2="17" version="1065353216">
+		<source>You're pathetic.</source>
+		<target>Ты жалок.</target>
+	</unit>
+	<unit bitflag="1345" id1="717834" id2="17" version="1065353216">
+		<source>My lord, I wasn't... I only... that is....</source>
+		<target>Владыка, я не... я только... это...</target>
+	</unit>
+	<unit bitflag="1345" id1="717836" id2="17" version="1065353216">
+		<source>I just hope you remember my role in helping you find what you were after.</source>
+		<target>Я просто надеюсь, что вы не забудете, что я помог вам найти, что вы искали.</target>
+	</unit>
+	<unit bitflag="1345" id1="717837" id2="17" version="1065353216">
+		<source>You got your promotion. I don't know what else you want from me.</source>
+		<target>Ты получил повышение. Не знаю, чего ты ещё от меня хочешь.</target>
+	</unit>
+	<unit bitflag="1360" id1="717837" id2="17" version="1065353216">
+		<source>Do you expect a reward?</source>
+		<target>Ты ожидаешь награды?</target>
+	</unit>
+	<unit bitflag="1345" id1="717838" id2="17" version="1065353216">
+		<source>I never neglect to repay a service rendered.</source>
+		<target>Я никогда не забываю отплатить за оказанные услуги.</target>
+	</unit>
+	<unit bitflag="1360" id1="717838" id2="17" version="1065353216">
+		<source>Of course.</source>
+		<target>Конечно.</target>
+	</unit>
+	<unit bitflag="1345" id1="717839" id2="17" version="1065353216">
+		<source>As far as you're concerned, I was never here.</source>
+		<target>Как ты мог понять, меня здесь никогда не было.</target>
+	</unit>
+	<unit bitflag="1360" id1="717839" id2="17" version="1065353216">
+		<source>You'd best forget everything.</source>
+		<target>Тебе лучше обо всём забыть.</target>
+	</unit>
+	<unit bitflag="1345" id1="717840" id2="17" version="1065353216">
+		<source>Yes, sir. I mean, my lord.</source>
+		<target>Да, сэр. То есть, владыка.</target>
+	</unit>
+	<unit bitflag="1345" id1="717842" id2="17" version="1065353216">
+		<source>You'll always be welcome here on Balmorra, sir.</source>
+		<target>Вам всегда будут рады на Балморре, сэр.</target>
+	</unit>
+	<unit bitflag="1360" id1="717843" id2="17" version="1065353216">
+		<source>Thank you.</source>
+		<target>Спасибо.</target>
+	</unit>
+	<unit bitflag="1345" id1="717844" id2="17" version="1065353216">
+		<source>You're welcome, my lord.</source>
+		<target>Не стоит благодарности, владыка.</target>
+	</unit>
+	<unit bitflag="1345" id1="717846" id2="17" version="1065353216">
+		<source>A Sith is welcome wherever she goes.</source>
+		<target>Ситу всегда рады, куда бы она ни пошла.</target>
+	</unit>
+	<unit bitflag="1360" id1="717846" id2="17" version="1065353216">
+		<source>Naturally.</source>
+		<target>Естественно.</target>
+	</unit>
+	<unit bitflag="1345" id1="717847" id2="17" version="1065353216">
+		<source>A Sith is welcome wherever he goes.</source>
+		<target>Ситу всегда рады, куда бы он ни пошёл.</target>
+	</unit>
+	<unit bitflag="1360" id1="717847" id2="17" version="1065353216">
+		<source>Naturally.</source>
+		<target>Естественно.</target>
+	</unit>
+	<unit bitflag="1345" id1="717848" id2="17" version="1065353216">
+		<source>Absolutely. No question of it. It is a pleasure to serve.</source>
+		<target>Точно. Без сомнений. Рад служить.</target>
+	</unit>
+	<unit bitflag="1345" id1="717850" id2="17" version="1065353216">
+		<source>As if I'd ever come back here.</source>
+		<target>Как будто я когда-нибудь сюда вернусь.</target>
+	</unit>
+	<unit bitflag="1360" id1="717850" id2="17" version="1065353216">
+		<source>You must be kidding.</source>
+		<target>Ты, должно быть, шутишь.</target>
+	</unit>
+	<unit bitflag="1345" id1="717851" id2="17" version="1065353216">
+		<source>Well, um, good luck with--with whatever it is you're doing.</source>
+		<target>Что ж, мм, удачи со... всем, что бы вы не делали.</target>
+	</unit>
+</dialogue_file>

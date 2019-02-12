@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="1">
+	<unit bitflag="1345" id1="680295" id2="17" version="1065353216">
+		<source>If it were up to me, we'd expel all aliens and non-Imperials--filthy Mandalorians especially!</source>
+		<target>Если бы это зависело от меня, мы бы выдворили всех ксеносов и не имперцев... в особенности, грязных мандалорцев!</target>
+	</unit>
+</dialogue_file>

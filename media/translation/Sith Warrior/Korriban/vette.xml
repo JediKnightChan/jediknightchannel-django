@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="79">
+	<unit bitflag="1345" id1="457415" id2="17" version="1065353216">
+		<source>Ouch! Give it a rest, will you?</source>
+		<target>Ой! Оставь его в покое, а?</target>
+	</unit>
+	<unit bitflag="1345" id1="457416" id2="17" version="1065353216">
+		<source>I'm getting my fill of fun while I still can, slave.</source>
+		<target>Я буду получать удовольствие сполна, пока смогу, рабыня.</target>
+	</unit>
+	<unit bitflag="1345" id1="457417" id2="17" version="1065353216">
+		<source>Ah, as if on cue, look who's back. Word is you might become Lord Baras's apprentice. Hrmph. Nice work, if you can get it.</source>
+		<target>А, как по заказу, ты только смотри кто вернулся. Сам ученик лорда Бараса пожаловал. Хмф. Хорошая работа, если ты понимаешь.</target>
+	</unit>
+	<unit bitflag="1345" id1="457418" id2="17" version="1065353216">
+		<source>Baras supposedly sent me an acolyte named Klemral, some whiny little castoff, but the deadbeat hasn't shown up. You know anything about him?</source>
+		<target>Предполагалось, что Барас пошлёт мне служителя по имени Клемрал, какого-то хныкающего мелкого неудачника, но этот паразит так и не явился. Тебе что-нибудь известно об этом?</target>
+	</unit>
+	<unit bitflag="1345" id1="457419" id2="17" version="1065353216">
+		<source>Hrmph. Consider that a going away present, Twi'lek. Seems you might be useful for something after all--this bruiser is taking you into the tomb where we caught you.</source>
+		<target>Хмф. Считай это прощальным подарком, тви'лекка. Кажется, ты всё же для чего-то можешь пригодиться — этот борец берёт тебя в гробницу, где мы тебя и поймали.</target>
+	</unit>
+	<unit bitflag="1345" id1="457459" id2="17" version="1065353216">
+		<source>You going to take that, jailer? Give her another zap.</source>
+		<target>И ты будешь это терпеть, тюремщик? Выдай ей ещё разряд.</target>
+	</unit>
+	<unit bitflag="1360" id1="457459" id2="17" version="1065353216">
+		<source>Shut her up, Knash.</source>
+		<target>Заткни её, Нэш.</target>
+	</unit>
+	<unit bitflag="1345" id1="457460" id2="17" version="1065353216">
+		<source>Was just about to.</source>
+		<target>Как раз собирался.</target>
+	</unit>
+	<unit bitflag="1345" id1="659963" id2="17" version="1065353216">
+		<source>No shockable offenses here, master. I'm just minding my business, following you wherever you go, like a good obedient slave should.</source>
+		<target>Никаких обид, повелитель. Просто занимаюсь своим делом, следую повсюду за тобой, как и должен хороший раб.</target>
+	</unit>
+	<unit bitflag="1345" id1="659964" id2="17" version="1065353216">
+		<source>What's that whirring sound? I've got a bad feeling about this.</source>
+		<target>Что это за жужжащий звук? У меня плохое предчувствие.</target>
+	</unit>
+	<unit bitflag="1345" id1="659965" id2="17" version="1065353216">
+		<source>No shockable offenses here, master. I'm just minding my business, following you wherever you go, like a good obedient slave should.</source>
+		<target>Никаких обид, повелитель. Просто занимаюсь своим делом, следую повсюду за тобой, как и должен хороший раб.</target>
+	</unit>
+	<unit bitflag="1345" id1="659998" id2="17" version="1065353216">
+		<source>Gee, I snuck past all these beasties before--but I suppose a blunt instrument like you wouldn't be capable of subtlety like that.</source>
+		<target>Блин, раньше я проскользнула мимо всех этих зверюшек, но думаю, что такой грубый инструмент как ты не был бы способен на такую тонкость.</target>
+	</unit>
+	<unit bitflag="1345" id1="659999" id2="17" version="1065353216">
+		<source>Yup, this is the right tomb, all right. I recognize the nasty smell.</source>
+		<target>Ага, это та самая гробница, это точно. Узнаю этот смрад.</target>
+	</unit>
+	<unit bitflag="1345" id1="660000" id2="17" version="1065353216">
+		<source>Well, I guess we're safe for the moment.</source>
+		<target>Ну, думаю, мы пока что в безопасности.</target>
+	</unit>
+	<unit bitflag="1345" id1="660001" id2="17" version="1065353216">
+		<source>No offense, but don't bother me, okay? I'm trying to retrace the steps in my mind so I can find the secret chamber for you.</source>
+		<target>Без обид, но не мешай мне, хорошо? Я пытаюсь вспомнить то место, чтобы я смогла отыскать для тебя секретный покой.</target>
+	</unit>
+	<unit bitflag="1345" id1="660007" id2="17" version="1065353216">
+		<source>I'm not Klemral's keeper.</source>
+		<target>Я Клемралу не нянька.</target>
+	</unit>
+	<unit bitflag="1360" id1="660007" id2="17" version="1065353216">
+		<source>Why would I?</source>
+		<target>С чего бы это?</target>
+	</unit>
+	<unit bitflag="1345" id1="660008" id2="17" version="1065353216">
+		<source>Hrmph. No, I suppose not.</source>
+		<target>Хмф. Да, полагаю, что нет.</target>
+	</unit>
+	<unit bitflag="1345" id1="660010" id2="17" version="1065353216">
+		<source>Klemral means well and he tries hard.</source>
+		<target>У Клемрала добрые намерения, и он хорошо старается.</target>
+	</unit>
+	<unit bitflag="1360" id1="660010" id2="17" version="1065353216">
+		<source>He's a good man.</source>
+		<target>Он хороший человек.</target>
+	</unit>
+	<unit bitflag="1345" id1="660011" id2="17" version="1065353216">
+		<source>He ought to try hard to be on time.</source>
+		<target>Он должен стараться быть вовремя.</target>
+	</unit>
+	<unit bitflag="1345" id1="660013" id2="17" version="1065353216">
+		<source>Klemral is a coward. You're better off without him.</source>
+		<target>Клемрал трус. Тебе будет лучше без него.</target>
+	</unit>
+	<unit bitflag="1360" id1="660013" id2="17" version="1065353216">
+		<source>Nothing good.</source>
+		<target>Ничего хорошего.</target>
+	</unit>
+	<unit bitflag="1345" id1="660014" id2="17" version="1065353216">
+		<source>Great. I always get the prizes.</source>
+		<target>Великолепно. Я всегда получаю по заслугам.</target>
+	</unit>
+	<unit bitflag="1345" id1="660016" id2="17" version="1065353216">
+		<source>So, I hear you'll be relieving me of this Twi'lek. She's a pain in the neck.</source>
+		<target>Итак, я слышал, ты освободишь для меня эту тви'лекку. Она та ещё кость в горле.</target>
+	</unit>
+	<unit bitflag="1345" id1="660018" id2="17" version="1065353216">
+		<source>Ha! Who's a pain in the neck? I'm the one wearing the shock collar.</source>
+		<target>Ха! Кто это кость в горле? Да на мне единственной электрический ошейник.</target>
+	</unit>
+	<unit bitflag="1345" id1="660021" id2="17" version="1065353216">
+		<source>You won't be laughing very long, slave.</source>
+		<target>Ты недолго будешь смеяться, рабыня.</target>
+	</unit>
+	<unit bitflag="1360" id1="660021" id2="17" version="1065353216">
+		<source>Enough jokes.</source>
+		<target>Хватит шутить.</target>
+	</unit>
+	<unit bitflag="1345" id1="660022" id2="17" version="1065353216">
+		<source>It's not how long you laugh that counts--it's how hard.</source>
+		<target>Дело не в том, как долго смеяться, а в том, как громко.</target>
+	</unit>
+	<unit bitflag="1345" id1="660023" id2="17" version="1065353216">
+		<source>I take it the jailer uses it liberally.</source>
+		<target>Полагаю, что тюремщик пользовался этим свободно.</target>
+	</unit>
+	<unit bitflag="1360" id1="660023" id2="17" version="1065353216">
+		<source>Getting shocked a lot?</source>
+		<target>Слишком много тока?</target>
+	</unit>
+	<unit bitflag="1345" id1="660024" id2="17" version="1065353216">
+		<source>Yeah, he's got a hyperactive trigger finger.</source>
+		<target>Да, у него чересчур активный палец на пульте.</target>
+	</unit>
+	<unit bitflag="1345" id1="660025" id2="17" version="1065353216">
+		<source>Yow! All right, this is getting old!</source>
+		<target>Вау! Ладно, это уже не ново!</target>
+	</unit>
+	<unit bitflag="1345" id1="660028" id2="17" version="1065353216">
+		<source>None of you can figure out how to activate the tomb statues to open the forbidden cavern, huh?</source>
+		<target>Никто из вас и понятия не имеет, как активировать статуи в гробнице и открыть запретную пещеру, да?</target>
+	</unit>
+	<unit bitflag="1345" id1="660030" id2="17" version="1065353216">
+		<source>You got some kind of business in that secret Sith chamber, do you?</source>
+		<target>У тебя были некие дела в том тайном покое ситов, не так ли?</target>
+	</unit>
+	<unit bitflag="1360" id1="660031" id2="17" version="1065353216">
+		<source>Don't ask questions.</source>
+		<target>Не спрашивай.</target>
+	</unit>
+	<unit bitflag="1345" id1="660032" id2="17" version="1065353216">
+		<source>Yes, and I'd appreciate your help.</source>
+		<target>Да, и я бы принял твою помощь.</target>
+	</unit>
+	<unit bitflag="1360" id1="660032" id2="17" version="1065353216">
+		<source>That's correct.</source>
+		<target>Верно.</target>
+	</unit>
+	<unit bitflag="1345" id1="660033" id2="17" version="1065353216">
+		<source>Don't bother being pleasant.</source>
+		<target>Даже не надейся быть милым.</target>
+	</unit>
+	<unit bitflag="1345" id1="660035" id2="17" version="1065353216">
+		<source>Jailer, I think she needs a little more juice.</source>
+		<target>Тюремщик, думаю, её нужно немного встряхнуть.</target>
+	</unit>
+	<unit bitflag="1360" id1="660035" id2="17" version="1065353216">
+		<source>You just earned another shock.</source>
+		<target>Ты лишь заслужила очередной урок.</target>
+	</unit>
+	<unit bitflag="1345" id1="660036" id2="17" version="1065353216">
+		<source>All right, one more for the road.</source>
+		<target>Ну хорошо, ещё один на дорожку.</target>
+	</unit>
+	<unit bitflag="1345" id1="660038" id2="17" version="1065353216">
+		<source>Agh! Enough!</source>
+		<target>Ай! Хватит!</target>
+	</unit>
+	<unit bitflag="1345" id1="660040" id2="17" version="1065353216">
+		<source>Here, kid, take this shock control collar. I'll set it to a higher level. Use it enough, she'll show you the back door to her mother's house.</source>
+		<target>Вот, малыш, держи этот электрический ошейник. Я установлю его на большую мощность. Используй его с умом, и она покажет тебе хоть чёрный ход в дом своей матери.</target>
+	</unit>
+	<unit bitflag="1345" id1="660043" id2="17" version="1065353216">
+		<source>She'll cooperate or suffer endlessly.</source>
+		<target>Она будет сотрудничать или бесконечно страдать.</target>
+	</unit>
+	<unit bitflag="1360" id1="660043" id2="17" version="1065353216">
+		<source>A perfect tool.</source>
+		<target>Идеальный инструмент.</target>
+	</unit>
+	<unit bitflag="1345" id1="660044" id2="17" version="1065353216">
+		<source>I can take a hint. Something tells me I shouldn't mess with you.</source>
+		<target>Я поняла намёк. Что-то подсказывает мне, что я не должна возиться с тобой.</target>
+	</unit>
+	<unit bitflag="1345" id1="660046" id2="17" version="1065353216">
+		<source>I sincerely hope it won't be necessary.</source>
+		<target>Я искренне надеюсь, что это не понадобится.</target>
+	</unit>
+	<unit bitflag="1360" id1="660046" id2="17" version="1065353216">
+		<source>I'll save it as a last resort.</source>
+		<target>Оставлю это на крайний случай.</target>
+	</unit>
+	<unit bitflag="1345" id1="660047" id2="17" version="1065353216">
+		<source>Wait, somebody pinch me--you mean there's a Sith who isn't completely horrible?</source>
+		<target>Погоди, пусть кто-нибудь ущипнёт меня — хочешь сказать, что есть ситы, которые не являются чудовищами?</target>
+	</unit>
+	<unit bitflag="1345" id1="660049" id2="17" version="1065353216">
+		<source>I suppose I can play tomb tour guide. A lot of work went into cracking that nut, but I did it once, I can do it again.</source>
+		<target>Что же, полагаю, я могу сыграть гида-экскурсовода по гробницам. Мне пришлось потрудиться, чтобы вскрыть этот вход, но я проделала это один раз, проделаю и ещё раз.</target>
+	</unit>
+	<unit bitflag="1345" id1="660051" id2="17" version="1065353216">
+		<source>So we're clear, I'm officially on strike when it comes to domestic duties.</source>
+		<target>Так, мы уяснили, что когда речь зайдёт о домашних обязанностях, я официально объявляю забастовку.</target>
+	</unit>
+	<unit bitflag="1345" id1="660052" id2="17" version="1065353216">
+		<source>You'll do everything I require--and I mean everything.</source>
+		<target>Ты сделаешь всё, что я потребую. И я имею в виду всё.</target>
+	</unit>
+	<unit bitflag="1360" id1="660052" id2="17" version="1065353216">
+		<source>Obey my every command.</source>
+		<target>Подчиняйся любым моим приказам.</target>
+	</unit>
+	<unit bitflag="1345" id1="660053" id2="17" version="1065353216">
+		<source>Don't get any twisted ideas in that Sithy head of yours.</source>
+		<target>Не вздумай дать волю своим извращениям в своей ситской голове.</target>
+	</unit>
+	<unit bitflag="1345" id1="660054" id2="17" version="1065353216">
+		<source>I promise you, I won't require a maid.</source>
+		<target>Обещаю тебе, мне не понадобится служанка.</target>
+	</unit>
+	<unit bitflag="1360" id1="660054" id2="17" version="1065353216">
+		<source>Don't be silly.</source>
+		<target>Не будь дурой.</target>
+	</unit>
+	<unit bitflag="1345" id1="660055" id2="17" version="1065353216">
+		<source>Well then, maybe things are looking up for me. As if they could get worse.</source>
+		<target>Ну хорошо, кажется дела начинают налаживаться. Будто всё могло быть ещё хуже.</target>
+	</unit>
+	<unit bitflag="1345" id1="660057" id2="17" version="1065353216">
+		<source>Lead the way. I'll show you the unlocking points throughout the tomb and then open the secret door for you.</source>
+		<target>Веди. Я покажу тебе точки разблокировки в гробнице, а затем открою тебе тайный ход.</target>
+	</unit>
+	<unit bitflag="1345" id1="660058" id2="17" version="1065353216">
+		<source>Let's give this higher setting a test run.</source>
+		<target>Давай опробуем большую мощность.</target>
+	</unit>
+	<unit bitflag="1360" id1="660058" id2="17" version="1065353216">
+		<source>No, you aren't. [Shock Vette]</source>
+		<target>Нет, не объявляешь. [Ударить Ветт током]</target>
+	</unit>
+	<unit bitflag="1345" id1="660061" id2="17" version="1065353216">
+		<source>Argh! Okay, that's worse! Stop!</source>
+		<target>Аргх! Да, это больнее! Хватит!</target>
+	</unit>
+	<unit bitflag="1345" id1="660063" id2="17" version="1065353216">
+		<source>Okay, let's try the higher setting.</source>
+		<target>Ладно, давай попробуем большую мощность.</target>
+	</unit>
+	<unit bitflag="1360" id1="660063" id2="17" version="1065353216">
+		<source>Test run. [Shock Vette]</source>
+		<target>Пробный запуск. [Ударить Ветт током]</target>
+	</unit>
+	<unit bitflag="1345" id1="660064" id2="17" version="1065353216">
+		<source>Argh! Okay, that's worse! Stop!</source>
+		<target>Аргх! Да, это больнее! Хватит!</target>
+	</unit>
+	<unit bitflag="1345" id1="660066" id2="17" version="1065353216">
+		<source>If I'd known all that work and research would land me here, I'd have stayed home. But I'll play tomb tour guide to your heart's content.</source>
+		<target>Если бы я знала, куда приведёт меня вся эта работа и исследования, я бы осталась дома. Но всё же я сыграю для тебя роль гида-экскурсовода по гробницам, как угодно твоей душе.</target>
+	</unit>
+	<unit bitflag="1345" id1="660068" id2="17" version="1065353216">
+		<source>Just please, ease up on the shock collar. You might scramble my brain and make me forget where everything is.</source>
+		<target>Просто прошу, полегче с шоковым ошейником. Ты можешь задеть мой мозг, и я забуду, что где находится.</target>
+	</unit>
+	<unit bitflag="1345" id1="660069" id2="17" version="1065353216">
+		<source>You will call me master, slave.</source>
+		<target>Ты будешь звать меня повелителем, рабыня.</target>
+	</unit>
+	<unit bitflag="1360" id1="660069" id2="17" version="1065353216">
+		<source>Show respect.</source>
+		<target>Прояви уважение.</target>
+	</unit>
+	<unit bitflag="1345" id1="660070" id2="17" version="1065353216">
+		<source>Yes, all right, I'll be good. Master.</source>
+		<target>Да, ладно, я буду хорошей. Повелитель.</target>
+	</unit>
+	<unit bitflag="1345" id1="660072" id2="17" version="1065353216">
+		<source>All right, I'll give the shock collar a rest.</source>
+		<target>Ладно, пока не стану использовать шоковый ошейник.</target>
+	</unit>
+	<unit bitflag="1360" id1="660072" id2="17" version="1065353216">
+		<source>I'll desist, for now.</source>
+		<target>Я воздержусь, пока что.</target>
+	</unit>
+	<unit bitflag="1345" id1="660073" id2="17" version="1065353216">
+		<source>Thank you.</source>
+		<target>Спасибо.</target>
+	</unit>
+	<unit bitflag="1345" id1="660075" id2="17" version="1065353216">
+		<source>Let's find out how many you can take.</source>
+		<target>Давай узнаем, как много ты можешь терпеть.</target>
+	</unit>
+	<unit bitflag="1360" id1="660075" id2="17" version="1065353216">
+		<source>Not yet. [Shock Vette]</source>
+		<target>Ещё нет. [Ударить Ветт током]</target>
+	</unit>
+	<unit bitflag="1345" id1="660076" id2="17" version="1065353216">
+		<source>Yeargh! Okay, okay, please, no more. I don't want to die. I'll cooperate.</source>
+		<target>Ой-ёй-ёй! Ладно, ладно, прошу, больше не надо. Я не хочу умереть. Я буду сотрудничать.</target>
+	</unit>
+	<unit bitflag="1345" id1="660078" id2="17" version="1065353216">
+		<source>I'll take you to the unlocking points throughout the tomb and then open the secret door for you. Just lead the way.</source>
+		<target>Я просто проведу тебя через гробницу по точкам разблокировки, а затем открою для тебя секретную дверь. Я просто покажу дорогу.</target>
+	</unit>
+	<unit bitflag="1345" id1="660084" id2="17" version="1065353216">
+		<source>Can't you find some slave to bother?</source>
+		<target>Не можешь найти другого раба для веселья?</target>
+	</unit>
+	<unit bitflag="1345" id1="660085" id2="17" version="1065353216">
+		<source>Uh, no bad behavior here. You can just move on.</source>
+		<target>Эм, в этом нет никакого плохого поведения. Можешь просто спокойно двигаться дальше.</target>
+	</unit>
+</dialogue_file>

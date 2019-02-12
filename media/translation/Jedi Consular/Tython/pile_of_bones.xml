@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="105">
+	<unit bitflag="1345" id1="91610" id2="17" version="1065353216">
+		<source>Here in this cave, we founders discussed our vision for the Jedi Order. And I, Rajivari, listened.</source>
+		<target>В этой пещере мы, основатели, обсуждали наш взгляд на Орден джедаев. А я, Радживари, слушал.</target>
+	</unit>
+	<unit bitflag="1345" id1="91612" id2="17" version="1065353216">
+		<source>I listened, as they carefully crippled our newborn order. As they argued for mediocrity. It shall not stand.</source>
+		<target>Я слушал, как они аккуратно калечили наш новорожденный Орден. Как они защищали посредственность. Он не выстоит.</target>
+	</unit>
+	<unit bitflag="1345" id1="91614" id2="17" version="1065353216">
+		<source>I have laid my plans. With my army made from Tython's true dark sons, I will purge this council of fools while they chatter.</source>
+		<target>Я создал свои планы. С армией, созданной из истинных Тёмных сынов Тайтона я зачищу этот совет глупцов, пока они будут болтать.</target>
+	</unit>
+	<unit bitflag="1345" id1="91615" id2="17" version="1065353216">
+		<source>Wait, what does he mean by &quot;Tython's true dark sons&quot;?</source>
+		<target>Стоп, что он имеет в виду под «истинными Тёмными сынами Тайтона»?</target>
+	</unit>
+	<unit bitflag="1360" id1="91615" id2="17" version="1065353216">
+		<source>&quot;Dark sons&quot;?</source>
+		<target>«Тёмные сыны»?</target>
+	</unit>
+	<unit bitflag="3393" id1="91616" id2="17" version="1065353216">
+		<source>Attention, small hunter. Is more.</source>
+		<target>Внимание, маленький охотник. Есть дальше.</target>
+	</unit>
+	<unit bitflag="1345" id1="91618" id2="17" version="1065353216">
+		<source>Rajivari planned to assassinate the fledgling Jedi Council with some sort of army.</source>
+		<target>Радживари собирался убить зарождающийся Совет джедаев какой-то армией.</target>
+	</unit>
+	<unit bitflag="1360" id1="91618" id2="17" version="1065353216">
+		<source>This was his betrayal.</source>
+		<target>Вот его предательство.</target>
+	</unit>
+	<unit bitflag="1345" id1="91619" id2="17" version="1065353216">
+		<source>Even with an army, one man challenging the first Jedi Council was no mean feat.</source>
+		<target>Даже с армией выступить в одиночку против первого Совета джедаев не мелкий поступок.</target>
+	</unit>
+	<unit bitflag="1360" id1="91619" id2="17" version="1065353216">
+		<source>That was very daring.</source>
+		<target>Это было очень смело.</target>
+	</unit>
+	<unit bitflag="1345" id1="91620" id2="17" version="1065353216">
+		<source>Only my apprentices and I will survive. From Kaleth, we will mold the Jedi into what we deserve to be.</source>
+		<target>Только мои ученики и я выживут. Из Калета мы сформируем из джедаев то, чем мы заслуживаем быть.</target>
+	</unit>
+	<unit bitflag="1345" id1="91622" id2="17" version="1065353216">
+		<source>If the hilt of the first blade has been returned, we succeeded, and the future follows the path we left.</source>
+		<target>Если рукоять первого клинка возвращена, мы преуспели, и будущее следует по оставленному нами пути.</target>
+	</unit>
+	<unit bitflag="1345" id1="91624" id2="17" version="1065353216">
+		<source>Follow, seeker. Follow the path to the Fount of Rajivari. It is time.</source>
+		<target>Следуй, искатель. Следуй по пути к Истоку Радживари. Пора.</target>
+	</unit>
+	<unit bitflag="3393" id1="91626" id2="17" version="1065353216">
+		<source>Is strange map. Have never seen like. If path is there, I cannot see.</source>
+		<target>Странная карта. Никогда не видел такой. Если путь там, я его не вижу.</target>
+	</unit>
+	<unit bitflag="1345" id1="91627" id2="17" version="1065353216">
+		<source>I can make out some of it, but the rest is gibberish.</source>
+		<target>Я могу кое-что вычленить, но остальное — чепуха.</target>
+	</unit>
+	<unit bitflag="1360" id1="91627" id2="17" version="1065353216">
+		<source>I understand a little....</source>
+		<target>Я немногое понимаю...</target>
+	</unit>
+	<unit bitflag="1345" id1="91628" id2="17" version="1065353216">
+		<source>Let's take this back to the Jedi Temple. Master Yuon can help us interpret it.</source>
+		<target>Давай вернёмся с ней в Храм джедаев. Мастер Юон поможет нам перевести её.</target>
+	</unit>
+	<unit bitflag="1360" id1="91628" id2="17" version="1065353216">
+		<source>Master Yuon should see this.</source>
+		<target>Мастер Юон должна её увидеть.</target>
+	</unit>
+	<unit bitflag="1345" id1="91629" id2="17" version="1065353216">
+		<source>He could have just told us where the Fount of Rajivari is, and saved time.</source>
+		<target>Он мог бы просто сказать нам, где Исток Радживари, и сэкономить время.</target>
+	</unit>
+	<unit bitflag="1360" id1="91629" id2="17" version="1065353216">
+		<source>It's maddeningly unclear.</source>
+		<target>Неясность сводит с ума.</target>
+	</unit>
+	<unit bitflag="3393" id1="91630" id2="17" version="1065353216">
+		<source>Is old thing. Yuon knows of these, should bring back to her.</source>
+		<target>Старая вещь. Юон знает о таких, нужно отнести обратно к ней.</target>
+	</unit>
+	<unit bitflag="3393" id1="91632" id2="17" version="1065353216">
+		<source>I go ahead; shall meet you in Yuon's rooms, small hunter.</source>
+		<target>Я иду впереди; встречу тебя в комнатах Юон, маленький охотник.</target>
+	</unit>
+	<unit bitflag="3393" id1="91634" id2="17" version="1065353216">
+		<source>And here. First blade's hilt, do not forget. Would hate you to suffer Yuon's wrath.</source>
+		<target>И вот. Рукоять первого клинка, не забудь. Не хотелось бы увидеть на тебе ярость Юон.</target>
+	</unit>
+	<unit bitflag="3393" id1="91636" id2="17" version="1065353216">
+		<source>Flesh Raiders are dead? Hmm. Strong, healthy--worth many Jagganath points.</source>
+		<target>Раздиратели мертвы? Хм. Сильные, здоровые — стоят многих джагганат-очков.</target>
+	</unit>
+	<unit bitflag="3393" id1="91638" id2="17" version="1065353216">
+		<source>But, hunted many Flesh Raiders coming here. So, shall allow you these points, small hunter. This time.</source>
+		<target>Но охотились на многих раздирателей, придя сюда. Так что позволю тебе эти очки, маленький охотник. В этот раз.</target>
+	</unit>
+	<unit bitflag="3393" id1="91642" id2="17" version="1065353216">
+		<source>I see is no understanding. I will tell.</source>
+		<target>Я вижу, понимания нет. Я расскажу.</target>
+	</unit>
+	<unit bitflag="3393" id1="91644" id2="17" version="1065353216">
+		<source>For us, hunt is life. To make honorable kills, earn Jagganath points. All tallied by Scorekeeper.</source>
+		<target>Для нас охота — жизнь. Делать почётные убийства, получать очки джагганат. Подсчитываются Счетоводом.</target>
+	</unit>
+	<unit bitflag="3393" id1="91646" id2="17" version="1065353216">
+		<source>Scorekeeper. She sees all. Greater score, more points--is greater standing in Scorekeeper's eyes. Greater glory.</source>
+		<target>Счетовод. Она видит всё. Больше счёт, больше очков — лучшая позиция в глазах Счетовода. Большая слава.</target>
+	</unit>
+	<unit bitflag="3393" id1="91648" id2="17" version="1065353216">
+		<source>Yes. Is not many Jedi who understand.</source>
+		<target>Да. Немного джедаев, кто понимает.</target>
+	</unit>
+	<unit bitflag="3393" id1="91651" id2="17" version="1065353216">
+		<source>Many. Score is no meaning to outsiders.</source>
+		<target>Много. Счёт — бессмыслица для чужаков.</target>
+	</unit>
+	<unit bitflag="3393" id1="91654" id2="17" version="1065353216">
+		<source>Cannot see &quot;Force&quot; Yuon talks of. Cannot smell, or eat. But is real. Is so with Scorekeeper.</source>
+		<target>Не вижу «Силу», о которой говорит Юон. Не могу почуять или съесть. Но реальна. Так же со Счетоводом.</target>
+	</unit>
+	<unit bitflag="3393" id1="91656" id2="17" version="1065353216">
+		<source>Enough talk; have Fount of Rajivari to find. This carving. Is any signs?</source>
+		<target>Довольно болтовни: ещё нам Исток Радживари искать. Эта резьба. Какие-то знаки?</target>
+	</unit>
+	<unit bitflag="3393" id1="91660" id2="17" version="1065353216">
+		<source>If you say. But--hmm.</source>
+		<target>Раз ты говоришь. Но... хм.</target>
+	</unit>
+	<unit bitflag="3393" id1="91662" id2="17" version="1065353216">
+		<source>Smell something... strange. Bones, there. All old. And all in pile. Is deliberate, but... not Flesh Raider way.</source>
+		<target>Чую что-то... странное. Кости. Все старые. И все в кучу. Намеренно, но... не как у раздирателей.</target>
+	</unit>
+	<unit bitflag="3393" id1="91664" id2="17" version="1065353216">
+		<source>If you say. But have seen nowhere else.</source>
+		<target>Раз ты говоришь. Но не видел нигде больше.</target>
+	</unit>
+	<unit bitflag="3393" id1="91667" id2="17" version="1065353216">
+		<source>Go soft, small hunter. Smell Flesh Raider... and smell not-Flesh Raider, too.</source>
+		<target>Иди тихо, маленький охотник. Чую раздирателей... и ещё чую не-раздирателей.</target>
+	</unit>
+	<unit bitflag="3393" id1="91669" id2="17" version="1065353216">
+		<source>Was scent, so I spoke. But do as pleases you.</source>
+		<target>Был запах, я сообщил. Но делай, как тебе приятно.</target>
+	</unit>
+	<unit bitflag="321" id1="91671" id2="17" version="1065353216">
+		<source>[These bones are brittle, and badly gnawed. Moving them aside, you see the bones were piled over an ancient pedestal.]</source>
+		<target>[Эти кости хрупкие и сильно обглоданные. Отодвигая их, вы видите, что кости были сложены на древнем пьедестале]</target>
+	</unit>
+	<unit bitflag="321" id1="91673" id2="17" version="1065353216">
+		<source>[Examining it reveals the pedestal has an alcove, exactly the size and shape of the hilt you found in Kaleth.]</source>
+		<target>[Осмотр выявляет, что у пьедестала есть ниша, как раз в форме и размера рукояти, найденной вами в Калете]</target>
+	</unit>
+	<unit bitflag="1345" id1="91675" id2="17" version="1065353216">
+		<source>Thanks for coming so fast, Jedi. That Flesh Raider stench was making us dizzy.</source>
+		<target>Спасибо за быстрое прибытие, джедай. Вонь от этих раздирателей дурманила нас.</target>
+	</unit>
+	<unit bitflag="1345" id1="91676" id2="17" version="1065353216">
+		<source>There's Flesh Raiders all over these caves. Didn't they see you?</source>
+		<target>В этих пещерах повсюду раздиратели. Они вас не видели?</target>
+	</unit>
+	<unit bitflag="1360" id1="91676" id2="17" version="1065353216">
+		<source>How did you get in here?</source>
+		<target>Как вы сюда попали?</target>
+	</unit>
+	<unit bitflag="1345" id1="91677" id2="17" version="1065353216">
+		<source>Nalen cut a path for us. Hid his scent, then took those things down in a flash.</source>
+		<target>Нален пробил путь для нас. Спрятал свой запах, затем убил их во мгновение ока.</target>
+	</unit>
+	<unit bitflag="1345" id1="91679" id2="17" version="1065353216">
+		<source>I think we've met before.</source>
+		<target>Думаю, мы уже встречались.</target>
+	</unit>
+	<unit bitflag="1360" id1="91679" id2="17" version="1065353216">
+		<source>You were in Kalikori village.</source>
+		<target>Вы были в деревне Каликори.</target>
+	</unit>
+	<unit bitflag="1345" id1="91680" id2="17" version="1065353216">
+		<source>I remember. You talked to us like we were nothing.</source>
+		<target>Я помню. Ты говорил с нами как с ничтожествами.</target>
+	</unit>
+	<unit bitflag="1345" id1="91682" id2="17" version="1065353216">
+		<source>Yes, we have. Please don't make this hard.</source>
+		<target>Да, было такое. Прошу, не усложняй.</target>
+	</unit>
+	<unit bitflag="1345" id1="91684" id2="17" version="1065353216">
+		<source>I was hoping to see Nalen again. We have things to discuss.</source>
+		<target>У меня были надежды увидеть Налена снова. Нам есть что обсудить.</target>
+	</unit>
+	<unit bitflag="1360" id1="91684" id2="17" version="1065353216">
+		<source>Is Nalen Raloch with you?</source>
+		<target>Нален Ралох с вами?</target>
+	</unit>
+	<unit bitflag="1345" id1="91685" id2="17" version="1065353216">
+		<source>Nalen said to wait for you. You've got something he needs. He has to find this &quot;Fount of Rajivari,&quot; to keep defending our village.</source>
+		<target>Нален сказал ждать тебя. У тебя есть что-то нужное ему. Он должен найти этот «Исток Радживари», чтобы продолжить защищать деревню.</target>
+	</unit>
+	<unit bitflag="1345" id1="91687" id2="17" version="1065353216">
+		<source>I'm sorry--you were straight with us. But I have to take whatever &quot;first blade&quot; you found in Kaleth. Nalen needs it.</source>
+		<target>Мне жаль: ты был с нами честен, а мы... но мне нужен найденный тобой в Калете «первый клинок», что бы это ни было. Он нужен Налену.</target>
+	</unit>
+	<unit bitflag="1345" id1="91688" id2="17" version="1065353216">
+		<source>I won't give you anything that might help Nalen.</source>
+		<target>Я не дам вам ничего, что может помочь Налену.</target>
+	</unit>
+	<unit bitflag="1360" id1="91688" id2="17" version="1065353216">
+		<source>I'm keeping it. [Attack]</source>
+		<target>Я сохраню его. [Напасть]</target>
+	</unit>
+	<unit bitflag="1345" id1="91689" id2="17" version="1065353216">
+		<source>I don't want to do this. But if it comes down to you, or my village... I'm sorry.</source>
+		<target>Я не хочу этого делать. Но, если выбор между тобой и моей деревней... прости.</target>
+	</unit>
+	<unit bitflag="1345" id1="91691" id2="17" version="1065353216">
+		<source>You promised the Jedi would help us but nothing's changed. So we need whatever &quot;first blade&quot; you got in Kaleth.</source>
+		<target>Обещание, что джедаи нам помогут, ничего не изменило. Так что нам нужен добытый тобой в Калете «первый клинок», что бы это ни было.</target>
+	</unit>
+	<unit bitflag="1345" id1="91692" id2="17" version="1065353216">
+		<source>We've seen what Jedi are like. When someone contradicts you, out come the lightsabers. I want whatever &quot;first blade&quot; you found in Kaleth. Now.</source>
+		<target>Мы видели, каковы джедаи. Когда вам кто-то противоречит, достаются световые мечи. Я хочу найденный тобой в Калете «первый клинок», что бы это ни было. Сейчас же.</target>
+	</unit>
+	<unit bitflag="1345" id1="91693" id2="17" version="1065353216">
+		<source>Nalen only cares about the Fount of Rajivari. Sending you here risked your lives when he supposedly wants to save you.</source>
+		<target>Налена заботит только Исток Радживари. Посылая вас сюда, он рискует вашими жизнями, якобы желая спасти вас.</target>
+	</unit>
+	<unit bitflag="1360" id1="91693" id2="17" version="1065353216">
+		<source>Listen. Nalen is insane.</source>
+		<target>Послушайте. Нален безумен.</target>
+	</unit>
+	<unit bitflag="1345" id1="91694" id2="17" version="1065353216">
+		<source>You don't get it. We're all... we're scared.</source>
+		<target>Ты не понимаешь. Мы все... мы напуганы.</target>
+	</unit>
+	<unit bitflag="1345" id1="91696" id2="17" version="1065353216">
+		<source>Nalen hardly comes into the village now. Barely eats, or sleeps. And when you talk to him, his eyes are so strange.</source>
+		<target>Нален теперь редко приходит в деревню. Едва ест, едва спит. И, когда говоришь с ним, его глаза такие странные.</target>
+	</unit>
+	<unit bitflag="1345" id1="91697" id2="17" version="1065353216">
+		<source>I can't give Nalen what he wants. But stand down, and I'll do what I can for him.</source>
+		<target>Я не могу дать Налену желанное. Но не мешайте, и я сделаю для него, что смогу.</target>
+	</unit>
+	<unit bitflag="1360" id1="91697" id2="17" version="1065353216">
+		<source>Let me help him.</source>
+		<target>Дайте мне помочь ему.</target>
+	</unit>
+	<unit bitflag="1345" id1="91698" id2="17" version="1065353216">
+		<source>I should speak to Nalen myself. Where can I find him?</source>
+		<target>Мне нужно поговорить с Наленом лично. Где его найти.</target>
+	</unit>
+	<unit bitflag="1360" id1="91698" id2="17" version="1065353216">
+		<source>Do you know where he is?</source>
+		<target>Вы знаете, где он?</target>
+	</unit>
+	<unit bitflag="1345" id1="91699" id2="17" version="1065353216">
+		<source>No one knows. He mentioned exploring Kaleth, but that was hours ago, he'll be long gone.</source>
+		<target>Никто не знает. Он упоминал, что исследовал Калета, но это было несколько часов назад, он давно ушёл.</target>
+	</unit>
+	<unit bitflag="1345" id1="91701" id2="17" version="1065353216">
+		<source>Take the others back to the village where you belong. Leave Nalen to me.</source>
+		<target>Забери остальных в деревню, где вам и место. Оставь Налена мне.</target>
+	</unit>
+	<unit bitflag="1360" id1="91701" id2="17" version="1065353216">
+		<source>Just leave.</source>
+		<target>Просто уйди.</target>
+	</unit>
+	<unit bitflag="1345" id1="91702" id2="17" version="1065353216">
+		<source>Something terrible's happening, isn't it? Keep your artifact, whatever it is. Keep it away from Nalen.</source>
+		<target>Что-то ужасное происходит, да? Сохрани свой артефакт, что бы это ни было. Сохрани его от Налена.</target>
+	</unit>
+	<unit bitflag="1345" id1="91704" id2="17" version="1065353216">
+		<source>Jedi. Please, don't hurt him. Whatever Nalen's become, he did this for us.</source>
+		<target>Джедай. Прошу, не вреди ему. Чем бы ни стал Нален, он делал это ради нас.</target>
+	</unit>
+	<unit bitflag="1345" id1="91706" id2="17" version="1065353216">
+		<source>I can't give you what I found. But as an apology, let me make a donation to Kalikori village's funds.</source>
+		<target>Я не могу дать вам найденное. Но в качестве извинения позвольте мне сделать пожертвование в казну деревни Каликори.</target>
+	</unit>
+	<unit bitflag="1360" id1="91706" id2="17" version="1065353216">
+		<source>I can offer credits instead.</source>
+		<target>Могу предложить взамен кредиты.</target>
+	</unit>
+	<unit bitflag="1345" id1="91707" id2="17" version="1065353216">
+		<source>That's right--you took that holoprojector back, didn't you? That could have bought us a lot of medicine.</source>
+		<target>Верно — ты забрал тот голопроектор, не так ли? Это позволит нам купить много лекарств.</target>
+	</unit>
+	<unit bitflag="1345" id1="91708" id2="17" version="1065353216">
+		<source>Here. This should compensate you.</source>
+		<target>Вот. Это должно вознаградить нас.</target>
+	</unit>
+	<unit bitflag="1345" id1="91709" id2="17" version="1065353216">
+		<source>I thought you were a thug in a Jedi robe. But this... it's fair barter.</source>
+		<target>Мне казалось, ты грабитель в одеждах джедая. Но это... это честный обмен.</target>
+	</unit>
+	<unit bitflag="1345" id1="91711" id2="17" version="1065353216">
+		<source>Nalen's been saying a lot of things about the Jedi. But maybe he didn't have everything straight.</source>
+		<target>Нален говорил многое о джедаях. Но, возможно, он не всё правильно понял.</target>
+	</unit>
+	<unit bitflag="1345" id1="91713" id2="17" version="1065353216">
+		<source>We should... get these back to the village. That blade will have to wait. Thanks, Jedi. I guess you're alright.</source>
+		<target>Нам нужно... доставить это обратно в деревню. Клинку придётся подождать. Спасибо, джедай. Думаю, ты в порядке.</target>
+	</unit>
+	<unit bitflag="1345" id1="91715" id2="17" version="1065353216">
+		<source>I'm not giving you the hilt of the first blade, or anything else of mine.</source>
+		<target>Я не отдам вам рукоять первого клинка — или что угодно моё ещё.</target>
+	</unit>
+	<unit bitflag="1360" id1="91715" id2="17" version="1065353216">
+		<source>Forget it. [Attack]</source>
+		<target>Забудь. [Напасть]</target>
+	</unit>
+	<unit bitflag="1345" id1="91716" id2="17" version="1065353216">
+		<source>Then I guess we'll have to take it.</source>
+		<target>Тогда, видимо, нам придётся забрать её.</target>
+	</unit>
+	<unit bitflag="3393" id1="91718" id2="17" version="1065353216">
+		<source>Small hunter, should not fight these. Are only soft things, no honor or points in killing. Will not raise hand against them.</source>
+		<target>Маленький охотник, не нужно драться с ними. Лишь мягкие создание, нет чести или очков за убийство. Не подниму руку против них.</target>
+	</unit>
+	<unit bitflag="1345" id1="91720" id2="17" version="1065353216">
+		<source>Sorry, Jedi. Search the body when it's done!</source>
+		<target>Прости, джедай. Обыскать тело, когда закончим?</target>
+	</unit>
+	<unit bitflag="1345" id1="446625" id2="17" version="1065353216">
+		<source>Sorry, I don't understand what you mean by &quot;Jagganath points.&quot;</source>
+		<target>Прости, я не понимаю, что за «Джагганат-очки».</target>
+	</unit>
+	<unit bitflag="1360" id1="446625" id2="17" version="1065353216">
+		<source>What &quot;points&quot;?</source>
+		<target>Что за очки?</target>
+	</unit>
+	<unit bitflag="1345" id1="446626" id2="17" version="1065353216">
+		<source>That's very... gracious of you.</source>
+		<target>Это очень... благородно с твоей стороны.</target>
+	</unit>
+	<unit bitflag="1360" id1="446626" id2="17" version="1065353216">
+		<source>Thank you. I think.</source>
+		<target>Спасибо. Думаю.</target>
+	</unit>
+	<unit bitflag="1345" id1="446627" id2="17" version="1065353216">
+		<source>Whatever &quot;points&quot; you're talking about are mine.</source>
+		<target>Очки, о которых ты там говоришь, мои.</target>
+	</unit>
+	<unit bitflag="1360" id1="446627" id2="17" version="1065353216">
+		<source>I earn my own victories.</source>
+		<target>Я зарабатываю свои победы.</target>
+	</unit>
+	<unit bitflag="1345" id1="446628" id2="17" version="1065353216">
+		<source>So hunting is how you serve your goddess, this &quot;Scorekeeper,&quot; and increase your status.</source>
+		<target>Так охота — ваш способ служить вашей богине, этому «Счетоводу», и увеличивать свой статус.</target>
+	</unit>
+	<unit bitflag="1360" id1="446628" id2="17" version="1065353216">
+		<source>I see. You hunt for prestige.</source>
+		<target>Ясно. Охотитесь за авторитет.</target>
+	</unit>
+	<unit bitflag="1345" id1="446629" id2="17" version="1065353216">
+		<source>How many of these Jagganath points do you have?</source>
+		<target>Сколько у тебя этих Джагганат-очков?</target>
+	</unit>
+	<unit bitflag="1360" id1="446629" id2="17" version="1065353216">
+		<source>What is your score, then?</source>
+		<target>И каков твой счёт?</target>
+	</unit>
+	<unit bitflag="1345" id1="446630" id2="17" version="1065353216">
+		<source>Killing animals to impress some invisible scorekeeper seems... odd.</source>
+		<target>Убивать животных, чтобы впечатлить невидимого счетовода, кажется... странным.</target>
+	</unit>
+	<unit bitflag="1360" id1="446630" id2="17" version="1065353216">
+		<source>What a strange religion.</source>
+		<target>Странная религия.</target>
+	</unit>
+	<unit bitflag="1345" id1="446631" id2="17" version="1065353216">
+		<source>It's badly eroded. I can't see anything that might help us.</source>
+		<target>Она серьёзно повреждена. Не вижу ничего, что могло бы помочь нам.</target>
+	</unit>
+	<unit bitflag="1360" id1="446631" id2="17" version="1065353216">
+		<source>Nothing I can decipher.</source>
+		<target>Ничего не разобрать.</target>
+	</unit>
+	<unit bitflag="1345" id1="446632" id2="17" version="1065353216">
+		<source>Apparently not. Do you have any ideas?</source>
+		<target>Видимо, нет. У тебя есть идеи?</target>
+	</unit>
+	<unit bitflag="1360" id1="446632" id2="17" version="1065353216">
+		<source>I could use your help.</source>
+		<target>Твоя помощь не помешает.</target>
+	</unit>
+	<unit bitflag="1345" id1="446633" id2="17" version="1065353216">
+		<source>I won't know unless I have time to study it.</source>
+		<target>Я не пойму, пока не будет времени изучить.</target>
+	</unit>
+	<unit bitflag="1360" id1="446633" id2="17" version="1065353216">
+		<source>Don't rush me.</source>
+		<target>Не торопи меня.</target>
+	</unit>
+	<unit bitflag="1345" id1="446634" id2="17" version="1065353216">
+		<source>I should examine them. Maybe piling up the oldest bones is somehow significant to the Flesh Raiders.</source>
+		<target>Нужно их изучить. Возможно, складывание самых старых костей каким-то образом важно для раздирателей.</target>
+	</unit>
+	<unit bitflag="1360" id1="446634" id2="17" version="1065353216">
+		<source>It could be ritual behavior.</source>
+		<target>Возможно, ритуальное поведение.</target>
+	</unit>
+	<unit bitflag="1345" id1="446635" id2="17" version="1065353216">
+		<source>It's a place to begin, at least.</source>
+		<target>Это хотя бы отправной пункт.</target>
+	</unit>
+	<unit bitflag="1360" id1="446635" id2="17" version="1065353216">
+		<source>I'll take a look.</source>
+		<target>Я осмотрю их.</target>
+	</unit>
+	<unit bitflag="1345" id1="446636" id2="17" version="1065353216">
+		<source>Why does it matter what Flesh Raiders do? We're looking for clues about Rajivari, or this hilt.</source>
+		<target>Почему важно, что делают раздиратели? Мы ищем подсказки о Радживари или хотя бы об этой рукояти.</target>
+	</unit>
+	<unit bitflag="1360" id1="446636" id2="17" version="1065353216">
+		<source>I don't care about bones.</source>
+		<target>Кости меня не заботят.</target>
+	</unit>
+</dialogue_file>

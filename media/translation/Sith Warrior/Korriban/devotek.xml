@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="2">
+	<unit bitflag="1345" id1="659204" id2="17" version="1065353216">
+		<source>Just ignore me. I am the epitome of humiliation.</source>
+		<target>Просто игнорируй меня. Я олицетворяю собой унижение.</target>
+	</unit>
+	<unit bitflag="1345" id1="659205" id2="17" version="1065353216">
+		<source>Don't gaze upon me. This is a sad state for a proud warrior.</source>
+		<target>Не смотри на меня. Всё это грустно для гордого воина.</target>
+	</unit>
+</dialogue_file>

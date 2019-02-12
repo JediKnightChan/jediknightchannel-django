@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="61">
+	<unit bitflag="1345" id1="717289" id2="17" version="1065353216">
+		<source>You--you--the old man sent you for me, didn't he? He must have gotten my distress signal.</source>
+		<target>Ты — ты. Тебя старик за мной послал, ведь так? Должно быть, он получил мой сигнал бедствия.</target>
+	</unit>
+	<unit bitflag="1345" id1="717291" id2="17" version="1065353216">
+		<source>I guess he's good for something. He kept talking about some Sith he was working with. He didn't mention you were a filthy alien.</source>
+		<target>Кажется, какая-то польза от него есть. Он всё говорил о неком сите, с которым он работал. Он не упоминал, что ты мерзкий ксенос.</target>
+	</unit>
+	<unit bitflag="1345" id1="717292" id2="17" version="1065353216">
+		<source>He didn't mention you were an insufferable fool.</source>
+		<target>Он не упоминал, что ты невыносимый дурак.</target>
+	</unit>
+	<unit bitflag="1360" id1="717292" id2="17" version="1065353216">
+		<source>Funny.</source>
+		<target>Забавно.</target>
+	</unit>
+	<unit bitflag="1345" id1="717293" id2="17" version="1065353216">
+		<source>Watch your tongue, scum.</source>
+		<target>Следи за языком, отродье.</target>
+	</unit>
+	<unit bitflag="1345" id1="717295" id2="17" version="1065353216">
+		<source>I guess the old fool's still good for something. You're the Sith he's told me so much about, aren't you?</source>
+		<target>Кажется, от старого дурака ещё есть какая-то польза. Ты тот сит, о котором он мне столько рассказывал, ведь так?</target>
+	</unit>
+	<unit bitflag="1345" id1="717296" id2="17" version="1065353216">
+		<source>What were you doing here?</source>
+		<target>Что ты здесь делал?</target>
+	</unit>
+	<unit bitflag="1360" id1="717296" id2="17" version="1065353216">
+		<source>What's going on?</source>
+		<target>Что происходит?</target>
+	</unit>
+	<unit bitflag="1345" id1="717297" id2="17" version="1065353216">
+		<source>I wasn't visiting the old man, that's for sure.</source>
+		<target>Я прилетел сюда не ради старика, уж будь уверен.</target>
+	</unit>
+	<unit bitflag="1360" id1="717299" id2="17" version="1065353216">
+		<source>I don't have time for a chat.</source>
+		<target>У меня нет времени на разговоры.</target>
+	</unit>
+	<unit bitflag="1345" id1="717300" id2="17" version="1065353216">
+		<source>I'm just glad I don't have to take orders from the old man.</source>
+		<target>Я рад, что мне не нужно подчиняться старику.</target>
+	</unit>
+	<unit bitflag="1345" id1="717302" id2="17" version="1065353216">
+		<source>Bessiker's not a fool. He's a smart man.</source>
+		<target>Бессикер не дурак. Он умён.</target>
+	</unit>
+	<unit bitflag="1360" id1="717302" id2="17" version="1065353216">
+		<source>Respect your father.</source>
+		<target>Ты должен уважать твоего отца.</target>
+	</unit>
+	<unit bitflag="1345" id1="717303" id2="17" version="1065353216">
+		<source>Ha! Some Sith you are. Non-Sith are just pawns in our game, nothing more.</source>
+		<target>Ха! Ты всё-таки сит. Не ситы всего лишь пешки в нашей игре и ничего более.</target>
+	</unit>
+	<unit bitflag="1345" id1="717305" id2="17" version="1065353216">
+		<source>Now get me out of here!</source>
+		<target>Теперь помоги мне выбраться!</target>
+	</unit>
+	<unit bitflag="1345" id1="717306" id2="17" version="1065353216">
+		<source>Your father said you were after a very special item.</source>
+		<target>Твой отец сказал, что ты здесь ради некого особого предмета.</target>
+	</unit>
+	<unit bitflag="1360" id1="717306" id2="17" version="1065353216">
+		<source>Bessiker mentioned a holocron.</source>
+		<target>Бессикер говорил о голокроне.</target>
+	</unit>
+	<unit bitflag="1345" id1="717307" id2="17" version="1065353216">
+		<source>Figures he'd go blabbing about it. But I guess the damage is done.</source>
+		<target>Считает, что может болтать об этом. Жаль, слово не воробей.</target>
+	</unit>
+	<unit bitflag="1360" id1="717309" id2="17" version="1065353216">
+		<source>Why are you here?</source>
+		<target>Зачем ты пришёл сюда?</target>
+	</unit>
+	<unit bitflag="1345" id1="717310" id2="17" version="1065353216">
+		<source>Give me one good reason.</source>
+		<target>Назови хоть одну причину, почему я должен это делать.</target>
+	</unit>
+	<unit bitflag="1360" id1="717310" id2="17" version="1065353216">
+		<source>Why should I?</source>
+		<target>Зачем мне это делать?</target>
+	</unit>
+	<unit bitflag="1345" id1="717311" id2="17" version="1065353216">
+		<source>My master's powerful. I'm sure you've heard of him--Lord Esdras. He won't be happy if I don't come back alive.</source>
+		<target>Мой мастер могущественен. Уверен, ты слышал о нём: лорд Эсдрас. Он не обрадуется, если я не вернусь живым.</target>
+	</unit>
+	<unit bitflag="1345" id1="717313" id2="17" version="1065353216">
+		<source>My master sent me here for a holocron the Republic dug up someplace or other.</source>
+		<target>Мой мастер послал меня сюда за голокроном, который где-то откопала Республика.</target>
+	</unit>
+	<unit bitflag="1345" id1="717315" id2="17" version="1065353216">
+		<source>I got the holocron. Now all I have to do is get out of this place.</source>
+		<target>Я нашёл голокрон. Теперь всё, что мне осталось — выбраться из этого места.</target>
+	</unit>
+	<unit bitflag="1345" id1="717316" id2="17" version="1065353216">
+		<source>What purpose does this object serve?</source>
+		<target>Какое предназначение у этого предмета?</target>
+	</unit>
+	<unit bitflag="1360" id1="717316" id2="17" version="1065353216">
+		<source>Tell me about this holocron.</source>
+		<target>Расскажи мне об этом голокроне.</target>
+	</unit>
+	<unit bitflag="1345" id1="717317" id2="17" version="1065353216">
+		<source>It's not the holocron itself that's special.</source>
+		<target>Дело не в нём.</target>
+	</unit>
+	<unit bitflag="1345" id1="717319" id2="17" version="1065353216">
+		<source>You wouldn't happen to have this holocron on you?</source>
+		<target>Этот голокрон, случайно, не у тебя?</target>
+	</unit>
+	<unit bitflag="1360" id1="717319" id2="17" version="1065353216">
+		<source>Where is it?</source>
+		<target>Где он?</target>
+	</unit>
+	<unit bitflag="1345" id1="717320" id2="17" version="1065353216">
+		<source>Don't worry--it's safely hidden in my robes.</source>
+		<target>Не беспокойся, он надёжно спрятан в моей одежде.</target>
+	</unit>
+	<unit bitflag="1345" id1="717322" id2="17" version="1065353216">
+		<source>The holocron's a map. It's supposed to point to a powerful weapon of the dark side that's hidden here on Balmorra.</source>
+		<target>Голокрон — это карта. Предполагается, что он указывает на могущественное оружие Тёмной стороны, спрятанное на Балморре.</target>
+	</unit>
+	<unit bitflag="1345" id1="717324" id2="17" version="1065353216">
+		<source>The weapon's mine if I find it, which I will, now that you're here to free me.</source>
+		<target>Это оружие станет моим, если я найду его, а так и будет; и теперь ты пришёл освободить меня.</target>
+	</unit>
+	<unit bitflag="1345" id1="717325" id2="17" version="1065353216">
+		<source>I'll free you, if you give me the holocron.</source>
+		<target>Я освобожу тебя, если отдашь мне голокрон.</target>
+	</unit>
+	<unit bitflag="1360" id1="717325" id2="17" version="1065353216">
+		<source>Let's make a deal.</source>
+		<target>Заключим сделку.</target>
+	</unit>
+	<unit bitflag="1345" id1="717326" id2="17" version="1065353216">
+		<source>Ha! I'm not afraid of you. I'm injured, but I'm still Sith! I found the holocron! It's mine! Now let me out of here!</source>
+		<target>Ха! Я не боюсь тебя. Я ранен, но я всё ещё сит! Я нашёл голокрон! Он принадлежит мне! Теперь выпусти меня отсюда!</target>
+	</unit>
+	<unit bitflag="1345" id1="717327" id2="17" version="1065353216">
+		<source>I hate to do this, but your old man needs a lesson.</source>
+		<target>Я сожалею, что поступаю так, но твоему старику нужно преподать урок.</target>
+	</unit>
+	<unit bitflag="1360" id1="717327" id2="17" version="1065353216">
+		<source>I'm sorry.</source>
+		<target>Мне жаль.</target>
+	</unit>
+	<unit bitflag="1345" id1="717328" id2="17" version="1065353216">
+		<source>Too bad you won't live to teach it to him.</source>
+		<target>Очень жаль, что ты не сможешь преподать ему урок, ибо сегодня ты умрёшь.</target>
+	</unit>
+	<unit bitflag="1345" id1="717329" id2="17" version="1065353216">
+		<source>You leave one way--as a corpse.</source>
+		<target>Ты покинешь это место только ногами вперёд.</target>
+	</unit>
+	<unit bitflag="1360" id1="717329" id2="17" version="1065353216">
+		<source>No.</source>
+		<target>Нет.</target>
+	</unit>
+	<unit bitflag="1345" id1="717330" id2="17" version="1065353216">
+		<source>Not without a fight, I won't.</source>
+		<target>Сомневаюсь.</target>
+	</unit>
+	<unit bitflag="1345" id1="717333" id2="17" version="1065353216">
+		<source>I'm really too kind.</source>
+		<target>Я и правда слишком добр.</target>
+	</unit>
+	<unit bitflag="1360" id1="717333" id2="17" version="1065353216">
+		<source>Fine. Go. [Free Hiran]</source>
+		<target>Хорошо. Иди. [Освободить Хирана]</target>
+	</unit>
+	<unit bitflag="1345" id1="717334" id2="17" version="1065353216">
+		<source>You're lucky I like your father.</source>
+		<target>Тебе повезло, что мне нравится твой отец.</target>
+	</unit>
+	<unit bitflag="1360" id1="717334" id2="17" version="1065353216">
+		<source>For the major. [Free Hiran]</source>
+		<target>Только ради майора. [Освободить Хирана]</target>
+	</unit>
+	<unit bitflag="1345" id1="717335" id2="17" version="1065353216">
+		<source>Thank you for telling me all about this lovely new toy.</source>
+		<target>Спасибо, что рассказал мне всё о моей прекрасной новой игрушке.</target>
+	</unit>
+	<unit bitflag="1360" id1="717335" id2="17" version="1065353216">
+		<source>Actually, the weapon's mine.</source>
+		<target>Вообще-то, это оружие моё.</target>
+	</unit>
+	<unit bitflag="1345" id1="717336" id2="17" version="1065353216">
+		<source>If you plan on taking that weapon, you're going to have to fight me first!</source>
+		<target>Если ты хочешь получить это оружие, тебе сначала придётся сразиться со мной!</target>
+	</unit>
+	<unit bitflag="1345" id1="717340" id2="17" version="1065353216">
+		<source>Best get out of here while the way is clear.</source>
+		<target>Лучше уходи отсюда, пока не вернулись республиканцы.</target>
+	</unit>
+	<unit bitflag="1360" id1="717340" id2="17" version="1065353216">
+		<source>Go then. [Free Hiran]</source>
+		<target>Тогда иди. [Освободить Хирана]</target>
+	</unit>
+	<unit bitflag="1345" id1="717341" id2="17" version="1065353216">
+		<source>Looks like you and my old man are one of a kind--both weak.</source>
+		<target>Кажется, ты так же слаб, как и мой старик-отец.</target>
+	</unit>
+	<unit bitflag="1345" id1="717343" id2="17" version="1065353216">
+		<source>I'll be sure to tell him what you did for me. Maybe he'll reward you.</source>
+		<target>Я непременно расскажу ему, что ты сделал для меня. Быть может, он вознаградит тебя.</target>
+	</unit>
+	<unit bitflag="1345" id1="717344" id2="17" version="1065353216">
+		<source>It was a pleasure meeting you as well.</source>
+		<target>Мне тоже было приятно повстречаться с тобой.</target>
+	</unit>
+	<unit bitflag="1360" id1="717344" id2="17" version="1065353216">
+		<source>You're welcome.</source>
+		<target>Как тебе будет удобно.</target>
+	</unit>
+	<unit bitflag="1345" id1="717345" id2="17" version="1065353216">
+		<source>You just don't get it, do you?</source>
+		<target>Ты просто не можешь понять, да?</target>
+	</unit>
+	<unit bitflag="1360" id1="717346" id2="17" version="1065353216">
+		<source>Good riddance.</source>
+		<target>Скатертью дорога.</target>
+	</unit>
+	<unit bitflag="1345" id1="717347" id2="17" version="1065353216">
+		<source>I wouldn't count on it.</source>
+		<target>Я бы на это не рассчитывал.</target>
+	</unit>
+	<unit bitflag="1345" id1="717348" id2="17" version="1065353216">
+		<source>You should have more respect for your father.</source>
+		<target>Тебе следует более уважительно относиться к твоему отцу.</target>
+	</unit>
+	<unit bitflag="1360" id1="717348" id2="17" version="1065353216">
+		<source>Bessiker's a good man.</source>
+		<target>Бессикер хороший человек.</target>
+	</unit>
+	<unit bitflag="1345" id1="717349" id2="17" version="1065353216">
+		<source>Respect him? I'm Sith. I don't respect what I can just as easily kill.</source>
+		<target>Уважительно? Я сит. Я не уважаю тех, кого могу так легко убить.</target>
+	</unit>
+	<unit bitflag="1345" id1="717351" id2="17" version="1065353216">
+		<source>Don't you lay a finger on me!</source>
+		<target>Ты и пальцем меня не коснёшься!</target>
+	</unit>
+</dialogue_file>

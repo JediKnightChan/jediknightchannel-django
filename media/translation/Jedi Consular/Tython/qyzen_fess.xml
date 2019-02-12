@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="81">
+	<unit bitflag="3393" id1="91724" id2="17" version="1065353216">
+		<source>Small hunter. Should not have come. Is only shame here, and death.</source>
+		<target>Маленький охотник. Не нужно было приходить. Позор и смерть лишь здесь.</target>
+	</unit>
+	<unit bitflag="3393" id1="91726" id2="17" version="1065353216">
+		<source>Nalen Raloch. He tracked and... captured. Used pain. Demanded answers of your old thing, your Fount of Rajivari.</source>
+		<target>Нален Ралох. Он проследил и... взял в плен. Использовал боль. Требовал ответы о твоей старой вещи, твоём Истоке Радживари.</target>
+	</unit>
+	<unit bitflag="1345" id1="91727" id2="17" version="1065353216">
+		<source>Did Nalen hurt you? I can try to treat your injuries.</source>
+		<target>Нален тебя ранил? Я могу попробовать исцелить твои травмы.</target>
+	</unit>
+	<unit bitflag="1360" id1="91727" id2="17" version="1065353216">
+		<source>Are you alright?</source>
+		<target>Ты в порядке?</target>
+	</unit>
+	<unit bitflag="3393" id1="91728" id2="17" version="1065353216">
+		<source>Pain. What matter now?</source>
+		<target>Боль. Что теперь значение?</target>
+	</unit>
+	<unit bitflag="1345" id1="91730" id2="17" version="1065353216">
+		<source>Nalen is clever; any information could have given him an advantage.</source>
+		<target>Нален умён; любая информация может дать ему преимущество.</target>
+	</unit>
+	<unit bitflag="1360" id1="91730" id2="17" version="1065353216">
+		<source>I hope you didn't confess.</source>
+		<target>Надеюсь, ты не рассказал ему ничего.</target>
+	</unit>
+	<unit bitflag="3393" id1="91731" id2="17" version="1065353216">
+		<source>Is already too much lost.</source>
+		<target>Уже слишком многое потеряно.</target>
+	</unit>
+	<unit bitflag="1345" id1="91733" id2="17" version="1065353216">
+		<source>Nalen Raloch will get what he deserves.</source>
+		<target>Нален Ралох получит по заслугам.</target>
+	</unit>
+	<unit bitflag="1360" id1="91733" id2="17" version="1065353216">
+		<source>You will get revenge.</source>
+		<target>Ты отомстишь.</target>
+	</unit>
+	<unit bitflag="3393" id1="91734" id2="17" version="1065353216">
+		<source>Was captured alive, small hunter. Is no greater dishonor. Means all my points forfeit. Lifetime's score, gone.</source>
+		<target>Взят в плен живым, маленький охотник. Нет большего бесчестья. Значит, все мои очки потеряны. Счёт целой жизни исчез.</target>
+	</unit>
+	<unit bitflag="3393" id1="91736" id2="17" version="1065353216">
+		<source>Without score, I am nothing. Scorekeeper turns face away.</source>
+		<target>Без счёта я ничто. Счетовод отвернула лицо.</target>
+	</unit>
+	<unit bitflag="1345" id1="91739" id2="17" version="1065353216">
+		<source>You're still a person, Qyzen, whether you have a score or not.</source>
+		<target>Ты всё ещё личность, Кайзен, потерял ли ты счёт или нет.</target>
+	</unit>
+	<unit bitflag="1360" id1="91739" id2="17" version="1065353216">
+		<source>You're not &quot;nothing.&quot;</source>
+		<target>Ты не «ничто».</target>
+	</unit>
+	<unit bitflag="1345" id1="91740" id2="17" version="1065353216">
+		<source>You said you get Jagganath points from hunting. You could start again.</source>
+		<target>Ты говорил, что получаешь джагганат-очки охотой. Мог бы начать заново.</target>
+	</unit>
+	<unit bitflag="1360" id1="91740" id2="17" version="1065353216">
+		<source>Can't you get more points?</source>
+		<target>Разве ты не можешь заработать больше очков?</target>
+	</unit>
+	<unit bitflag="3393" id1="91741" id2="17" version="1065353216">
+		<source>Small hunter. Do not understand.</source>
+		<target>Маленький охотник. Не понимаешь.</target>
+	</unit>
+	<unit bitflag="1345" id1="91743" id2="17" version="1065353216">
+		<source>Indulge your religious angst later. We have bigger problems.</source>
+		<target>Потакай своим религиозным страхам позже. Сейчас у нас проблемы посерьёзней.</target>
+	</unit>
+	<unit bitflag="1360" id1="91743" id2="17" version="1065353216">
+		<source>We don't have time for this!</source>
+		<target>У нас нет на это времени!</target>
+	</unit>
+	<unit bitflag="3393" id1="91744" id2="17" version="1065353216">
+		<source>Yuon brought hope. She risked all to come, past Nalen's men; asked for last coordinate to Fount of Rajivari.</source>
+		<target>Юон дала надежду. Они рисковала всем, придя, пройдя мимо людей Налена; спросила о последней координате Истока Радживари.</target>
+	</unit>
+	<unit bitflag="3393" id1="91746" id2="17" version="1065353216">
+		<source>Gave hope but... strangeness to see her. Yuon's scent, all changed. Perhaps because--was strangeness.</source>
+		<target>Дала надежду, но... странность — видеть её. Запах Юон, всё поменялось. Возможно из-за того что... была странность.</target>
+	</unit>
+	<unit bitflag="1345" id1="91747" id2="17" version="1065353216">
+		<source>Qyzen, Master Yuon has been at the Jedi Temple for hours. Nalen must have used some Force trick, to make you think he was Yuon.</source>
+		<target>Кайзен, Мастер Юон уже несколько часов в Храме джедаев. Нален, должно быть, использовал какой-то обман Силы, чтобы заставить принять его за Юон.</target>
+	</unit>
+	<unit bitflag="3393" id1="91748" id2="17" version="1065353216">
+		<source>Trickery, on dishonor? Masking as Yuon? I will track and punish for this!</source>
+		<target>Уловка или бесчестье? Притворяться Юон? Я выслежу и накажу за это!</target>
+	</unit>
+	<unit bitflag="3393" id1="91750" id2="17" version="1065353216">
+		<source>Small hunter, Nalen has all coordinates. Fount of Rajivari is his to find.</source>
+		<target>Маленький охотник, у Налена все координаты. Исток Радживари будет им найден.</target>
+	</unit>
+	<unit bitflag="1345" id1="91751" id2="17" version="1065353216">
+		<source>He can find it. Whether he can enter safely, without the clues I've gathered, is another matter.</source>
+		<target>Он может найти его. Другое дело, сможет ли он войти туда и остаться в живых без тех подсказок, что я собрал.</target>
+	</unit>
+	<unit bitflag="1360" id1="91751" id2="17" version="1065353216">
+		<source>He doesn't know of the traps.</source>
+		<target>Он не знает о ловушках.</target>
+	</unit>
+	<unit bitflag="1345" id1="91752" id2="17" version="1065353216">
+		<source>Then I shouldn't waste any time.</source>
+		<target>Тогда я не должен терять ни секунды.</target>
+	</unit>
+	<unit bitflag="1360" id1="91752" id2="17" version="1065353216">
+		<source>I can't let that happen.</source>
+		<target>Я не могу позволить этому произойти.</target>
+	</unit>
+	<unit bitflag="1345" id1="91753" id2="17" version="1065353216">
+		<source>Nalen will need more than the Fount of Rajivari when I catch up with him.</source>
+		<target>Налену понадобится нечто большее, чем Исток Радживари, когда я догоню его.</target>
+	</unit>
+	<unit bitflag="1360" id1="91753" id2="17" version="1065353216">
+		<source>I'll still see him dead.</source>
+		<target>Я всё же увижу его мёртвым.</target>
+	</unit>
+	<unit bitflag="3393" id1="91754" id2="17" version="1065353216">
+		<source>I will accompany, small hunter. To guide. And see Nalen Raloch dead.</source>
+		<target>Я присоединюсь, маленький охотник. Вести. И увидеть Налена Ралоха мёртвым.</target>
+	</unit>
+	<unit bitflag="3393" id1="91756" id2="17" version="1065353216">
+		<source>Points are lost. Scorekeeper will not see. But perhaps is some good I can do.</source>
+		<target>Очки потеряны. Счетовод не увидит. Но, возможно, что-то доброе, что я могу сделать.</target>
+	</unit>
+	<unit bitflag="3393" id1="91765" id2="17" version="1065353216">
+		<source>Flesh Raiders are dead? Hmm. Strong, healthy--worth many Jagganath points.</source>
+		<target>Раздиратели мертвы? Хм. Сильные, здоровые — стоят многих джагганат-очков.</target>
+	</unit>
+	<unit bitflag="3393" id1="91767" id2="17" version="1065353216">
+		<source>But, hunted many Flesh Raiders coming here. So, shall allow you these points, small hunter. This time.</source>
+		<target>Но охотились на многих раздирателей, придя сюда. Так что позволю тебе эти очки, маленький охотник. В этот раз.</target>
+	</unit>
+	<unit bitflag="1345" id1="91768" id2="17" version="1065353216">
+		<source>Sorry, I don't understand what you mean by &quot;Jagganath points.&quot;</source>
+		<target>Прости, я не понимаю, что за «джагганат-очки».</target>
+	</unit>
+	<unit bitflag="1360" id1="91768" id2="17" version="1065353216">
+		<source>What &quot;points&quot;?</source>
+		<target>Что за очки?</target>
+	</unit>
+	<unit bitflag="1345" id1="91769" id2="17" version="1065353216">
+		<source>That's very... gracious of you.</source>
+		<target>Это очень... благородно с твоей стороны.</target>
+	</unit>
+	<unit bitflag="1360" id1="91769" id2="17" version="1065353216">
+		<source>Thank you. I think.</source>
+		<target>Спасибо. Думаю.</target>
+	</unit>
+	<unit bitflag="1345" id1="91770" id2="17" version="1065353216">
+		<source>Whatever &quot;points&quot; you're talking about are mine.</source>
+		<target>Очки, о которых ты там говоришь, мои.</target>
+	</unit>
+	<unit bitflag="1360" id1="91770" id2="17" version="1065353216">
+		<source>I earn my own victories.</source>
+		<target>Я зарабатываю свои победы.</target>
+	</unit>
+	<unit bitflag="3393" id1="91771" id2="17" version="1065353216">
+		<source>I see is no understanding. I will tell.</source>
+		<target>Я вижу, понимания нет. Я расскажу.</target>
+	</unit>
+	<unit bitflag="3393" id1="91773" id2="17" version="1065353216">
+		<source>For us, hunt is life. To make honorable kills, earn &quot;Jagganath points.&quot; All tallied by Scorekeeper.</source>
+		<target>Для нас охота — жизнь. Делать почётные убийства, получать джагганат-очки. Подсчитываются Счетоводом.</target>
+	</unit>
+	<unit bitflag="3393" id1="91775" id2="17" version="1065353216">
+		<source>Scorekeeper. She sees all. Greater score, more points--is greater standing in Scorekeeper's eyes. Greater glory.</source>
+		<target>Счетовод. Она видит всё. Больше счёт, больше очков — лучшая позиция в глазах Счетовода. Большая слава.</target>
+	</unit>
+	<unit bitflag="1345" id1="91776" id2="17" version="1065353216">
+		<source>So hunting is how you serve your goddess, this &quot;Scorekeeper,&quot; and increase your status.</source>
+		<target>Так охота — ваш способ служить вашей богине, этому «Счетоводу», и увеличивать свой статус.</target>
+	</unit>
+	<unit bitflag="1360" id1="91776" id2="17" version="1065353216">
+		<source>I see. You hunt for prestige.</source>
+		<target>Ясно. Охотитесь за авторитет.</target>
+	</unit>
+	<unit bitflag="3393" id1="91777" id2="17" version="1065353216">
+		<source>Yes. Is not many Jedi who understand.</source>
+		<target>Да. Немного джедаев, кто понимает.</target>
+	</unit>
+	<unit bitflag="1345" id1="91779" id2="17" version="1065353216">
+		<source>How many of these Jagganath points do you have?</source>
+		<target>Сколько у тебя этих джагганат-очков?</target>
+	</unit>
+	<unit bitflag="1360" id1="91779" id2="17" version="1065353216">
+		<source>What is your score, then?</source>
+		<target>И каков твой счёт?</target>
+	</unit>
+	<unit bitflag="3393" id1="91780" id2="17" version="1065353216">
+		<source>Many. Score is no meaning to outsiders.</source>
+		<target>Много. Счёт — бессмыслица для чужаков.</target>
+	</unit>
+	<unit bitflag="1345" id1="91782" id2="17" version="1065353216">
+		<source>Killing animals to impress some invisible scorekeeper seems... odd.</source>
+		<target>Убивать животных, чтобы впечатлить невидимого счетовода, кажется... странным.</target>
+	</unit>
+	<unit bitflag="1360" id1="91782" id2="17" version="1065353216">
+		<source>What a strange religion.</source>
+		<target>Странная религия.</target>
+	</unit>
+	<unit bitflag="3393" id1="91783" id2="17" version="1065353216">
+		<source>Cannot see &quot;Force&quot; Yuon talks of. Cannot smell, or eat. But is real. Is so with Scorekeeper.</source>
+		<target>Не вижу «Силу», о которой говорит Юон. Не могу почуять или съесть. Но реальна. Так же со Счетоводом.</target>
+	</unit>
+	<unit bitflag="3393" id1="91785" id2="17" version="1065353216">
+		<source>Enough talk; have Fount of Rajivari to find. This carving. Is any signs?</source>
+		<target>Довольно болтовни: ещё нам Исток Радживари искать. Эта резьба. Какие-то знаки?</target>
+	</unit>
+	<unit bitflag="1345" id1="91786" id2="17" version="1065353216">
+		<source>It's badly eroded. I can't see anything that might help us.</source>
+		<target>Она серьёзно повреждена. Не вижу ничего, что могло бы помочь нам.</target>
+	</unit>
+	<unit bitflag="1360" id1="91786" id2="17" version="1065353216">
+		<source>Nothing I can decipher.</source>
+		<target>Ничего не разобрать.</target>
+	</unit>
+	<unit bitflag="1345" id1="91787" id2="17" version="1065353216">
+		<source>Apparently not. Do you have any ideas?</source>
+		<target>Видимо, нет. У тебя есть идеи?</target>
+	</unit>
+	<unit bitflag="1360" id1="91787" id2="17" version="1065353216">
+		<source>I could use your help.</source>
+		<target>Твоя помощь не помешает.</target>
+	</unit>
+	<unit bitflag="1345" id1="91788" id2="17" version="1065353216">
+		<source>I won't know unless I have time to study it.</source>
+		<target>Я не пойму, пока не будет времени изучить.</target>
+	</unit>
+	<unit bitflag="1360" id1="91788" id2="17" version="1065353216">
+		<source>Don't rush me.</source>
+		<target>Не торопи меня.</target>
+	</unit>
+	<unit bitflag="3393" id1="91789" id2="17" version="1065353216">
+		<source>If you say. But--hmm.</source>
+		<target>Раз ты говоришь. Но... хм.</target>
+	</unit>
+	<unit bitflag="3393" id1="91791" id2="17" version="1065353216">
+		<source>Smell something... strange. Bones, there. All old. And all in pile. Is deliberate, but... not Flesh Raider way.</source>
+		<target>Чую что-то... странное. Кости. Все старые. И все в кучу. Намеренно, но... не как у раздирателей.</target>
+	</unit>
+	<unit bitflag="1345" id1="91792" id2="17" version="1065353216">
+		<source>I should examine them. Maybe piling up the oldest bones is somehow significant to the Flesh Raiders.</source>
+		<target>Нужно их изучить. Возможно, складывание самых старых костей каким-то образом важно для раздирателей.</target>
+	</unit>
+	<unit bitflag="1360" id1="91792" id2="17" version="1065353216">
+		<source>It could be ritual behavior.</source>
+		<target>Возможно, ритуальное поведение.</target>
+	</unit>
+	<unit bitflag="3393" id1="91793" id2="17" version="1065353216">
+		<source>If you say. But have seen nowhere else.</source>
+		<target>Раз ты говоришь. Но не видел нигде больше.</target>
+	</unit>
+	<unit bitflag="1345" id1="91795" id2="17" version="1065353216">
+		<source>It's a place to begin, at least.</source>
+		<target>Это хотя бы отправной пункт.</target>
+	</unit>
+	<unit bitflag="1360" id1="91795" id2="17" version="1065353216">
+		<source>I'll take a look.</source>
+		<target>Я осмотрю их.</target>
+	</unit>
+	<unit bitflag="3393" id1="91796" id2="17" version="1065353216">
+		<source>Go soft, small hunter. Smell Flesh Raider... and smell not-Flesh Raider, too.</source>
+		<target>Иди тихо, маленький охотник. Чую раздирателей... и ещё чую не-раздирателей.</target>
+	</unit>
+	<unit bitflag="1345" id1="91797" id2="17" version="1065353216">
+		<source>Why does it matter what Flesh Raiders do? We're looking for clues about Rajivari, or this hilt.</source>
+		<target>Почему важно, что делают раздиратели? Мы ищем подсказки о Радживари или хотя бы об этой рукояти.</target>
+	</unit>
+	<unit bitflag="1360" id1="91797" id2="17" version="1065353216">
+		<source>I don't care about bones.</source>
+		<target>Кости меня не заботят.</target>
+	</unit>
+	<unit bitflag="3393" id1="91798" id2="17" version="1065353216">
+		<source>Was scent, so I spoke. But do as pleases you.</source>
+		<target>Был запах, я сообщил. Но делай, как тебе приятно.</target>
+	</unit>
+	<unit bitflag="3393" id1="91842" id2="17" version="1065353216">
+		<source>Forge. Yuon has spoken of. Is maker of weapons, arms Jedi.</source>
+		<target>Кузница. О которой Юон говорила. Производитель оружия, оружия джедаев.</target>
+	</unit>
+	<unit bitflag="3393" id1="91844" id2="17" version="1065353216">
+		<source>Hmm. No scent, no track. Nalen is not here, but should prepare. Perhaps is time enough to build your weapon.</source>
+		<target>Хм. Ни запаха, ни следа. Нален не здесь, но должен готовиться. Возможно, времени хватит создать оружие.</target>
+	</unit>
+	<unit bitflag="1345" id1="91845" id2="17" version="1065353216">
+		<source>This will require a lot of concentration. If you could look out for me....</source>
+		<target>Это потребует сильной концентрации. Если можешь присмотреть за мной...</target>
+	</unit>
+	<unit bitflag="1360" id1="91845" id2="17" version="1065353216">
+		<source>Will you watch my back?</source>
+		<target>Прикроешь меня?</target>
+	</unit>
+	<unit bitflag="3393" id1="91846" id2="17" version="1065353216">
+		<source>Shall do so.</source>
+		<target>Сделаю это.</target>
+	</unit>
+	<unit bitflag="1345" id1="91848" id2="17" version="1065353216">
+		<source>Rajivari instructed me, I have the crystal... I think I'm ready.</source>
+		<target>У меня есть инструкции Радживари и кристалл... думаю, пора.</target>
+	</unit>
+	<unit bitflag="1360" id1="91848" id2="17" version="1065353216">
+		<source>I should begin.</source>
+		<target>Мне стоит начать.</target>
+	</unit>
+	<unit bitflag="1345" id1="91849" id2="17" version="1065353216">
+		<source>Rajivari seemed confident, but this hilt is thousands of years old. It may not survive the process.</source>
+		<target>Радживари казался уверенным, но этой рукояти тысячи лет. Она может не перенести процедуру.</target>
+	</unit>
+	<unit bitflag="1360" id1="91849" id2="17" version="1065353216">
+		<source>I hope this hilt is up to it.</source>
+		<target>Надеюсь, рукоять выдержит.</target>
+	</unit>
+	<unit bitflag="3393" id1="91850" id2="17" version="1065353216">
+		<source>Shall watch path, small hunter. None will interrupt your work.</source>
+		<target>Буду следить за путём, маленький охотник. Никто не прервёт твою работу.</target>
+	</unit>
+	<unit bitflag="3393" id1="91852" id2="17" version="1065353216">
+		<source>Go. Make your weapon. You have earned.</source>
+		<target>Иди. Делай оружие. Ты заслужил.</target>
+	</unit>
+</dialogue_file>

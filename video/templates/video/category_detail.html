@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load el_pagination_tags %}
+
+{% block title %}JediKnightChannel — Видео{% endblock %}
+
+{% block head_additional %}
+    <script src="{% static "js/video_player.js" %}" type="text/javascript"></script>
+{% endblock %}
+
+{% block content %}
+    <div id="body">
+        <div class="header">
+            <div class="center-text">
+                {% if subcategories %}
+                    <h1 class="imgbelow">Подразделы</h1>
+                    <ul id="categories-list">
+                        {% for category in subcategories %}
+                            <li>
+                                <div>
+                                    <a href="{% url 'category_detail' pk=category.pk %}">
+                                        <img src="/video/get-file?name={{ category.image_url_ending }}" class="post-image">
+                                    </a>
+                                    <h1>{{ category.name }}</h1>
+                                </div>
+                            </li>
+                        {% endfor %}
+                    </ul>
+                {% endif %}
+                {% if videos %}
+                    <h1 class="imgbelow">Видео</h1>
+                    <ul>
+                        {% include v_template %}
+                    </ul>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block additional_end_of_body %}
+    {{ block.super }}
+    <script src="https://code.jquery.com/jquery-latest.js"></script>
+    <script src="{{ STATIC_URL }}el-pagination/js/el-pagination.js"></script>
+    <script>
+        $.endlessPaginate({
+            paginateOnScroll: true,
+            paginateOnScrollMargin: 200
+        });
+    </script>
+{% endblock %}

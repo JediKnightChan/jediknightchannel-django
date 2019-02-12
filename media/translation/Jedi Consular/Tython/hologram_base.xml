@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="6">
+	<unit bitflag="321" id1="90805" id2="17" version="1065353216">
+		<source>[You try to activate the hologram, but nothing happens.]</source>
+		<target>[Вы пытаетесь активировать голограмму, но безрезультатно.]</target>
+	</unit>
+	<unit bitflag="321" id1="90807" id2="17" version="1065353216">
+		<source>[On closer examination, the holoprojector has been carefully pried from its base and removed.]</source>
+		<target>[При ближайшем рассмотрении голопроектор оказывается аккуратно извлечённым из основания.]</target>
+	</unit>
+	<unit bitflag="1345" id1="90810" id2="17" version="1065353216">
+		<source>Master Yuon, I've encountered a problem. One of the holoprojectors has been stolen.</source>
+		<target>Мастер Юон, у меня проблема. Один из голопроекторов украден.</target>
+	</unit>
+	<unit bitflag="1345" id1="90811" id2="17" version="1065353216">
+		<source>Stolen? But the Flesh Raiders don't steal, they destroy. I'll look into this.</source>
+		<target>Украден? Но раздиратели не крадут, они уничтожают. Я исследую это.</target>
+	</unit>
+	<unit bitflag="1345" id1="90813" id2="17" version="1065353216">
+		<source>If you have the other holograms, come and meet me at the Jedi Temple. I'm sending you directions now.</source>
+		<target>Если остальные голограммы у тебя, приди на встречу со мной в Храме джедаев. Высылаю тебе, куда идти.</target>
+	</unit>
+	<unit bitflag="1345" id1="90815" id2="17" version="1065353216">
+		<source>And please, Padawan, be careful.</source>
+		<target>И прошу, падаван, будь осторожнее.</target>
+	</unit>
+</dialogue_file>

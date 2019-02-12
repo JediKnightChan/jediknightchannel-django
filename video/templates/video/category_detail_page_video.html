@@ -1,0 +1,19 @@
+{% load el_pagination_tags %}
+
+{% lazy_paginate videos %}
+{% for video in videos %}
+    <li class="flex-container">
+        <a href="{% url 'video_detail' pk=video.pk %}" class="post-a">
+            <img src="/video/get-file?name={{ video.image_url_ending }}" class="post-image">
+        </a>
+        <div class="post-text-box">
+            <h1>{{ video.name }}</h1>
+            <p>{{ video.short_description|safe }}</p>
+            <div class="post-bottom">
+                <a href="{% url 'video_detail' pk=video.pk %}" class="more">Смотреть</a>
+                <p class="post-date">{{ video.date }}</p>
+            </div>
+        </div>
+    </li>
+{% endfor %}
+{% show_more %}

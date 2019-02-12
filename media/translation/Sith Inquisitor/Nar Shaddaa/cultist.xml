@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="42">
+	<unit bitflag="1345" id1="654893" id2="17" version="1065353216">
+		<source>My--my lord. What happened? How did you--?</source>
+		<target>Вла... владыка. Что произошло? Как вы?..</target>
+	</unit>
+	<unit bitflag="1345" id1="654895" id2="17" version="1065353216">
+		<source>We never met anybody who could do what you did. Not Lord Paladius, not anybody.</source>
+		<target>Мы никогда не встречали никого, кто бы смог сделать, что сделали вы. Это ни лорд Паладий, ни кто-то ещё.</target>
+	</unit>
+	<unit bitflag="1345" id1="654896" id2="17" version="1065353216">
+		<source>If you wish to serve me, go to the Strell House. My servants will see that you are brought into the fold.</source>
+		<target>Если вы желаете служить мне, отправлятесь в дом Стрелла. Мои слуги проследят, чтобы вас наставили на путь истинный.</target>
+	</unit>
+	<unit bitflag="1360" id1="654896" id2="17" version="1065353216">
+		<source>Are you looking to convert?</source>
+		<target>Вы хотите присоединиться к нам?</target>
+	</unit>
+	<unit bitflag="1345" id1="654897" id2="17" version="1065353216">
+		<source>The Strell House--a good place, that. Daegin Strell was a good man.</source>
+		<target>Дом Стрелла... это хорошее место. Дейгин Стрелл был хорошим человеком.</target>
+	</unit>
+	<unit bitflag="1345" id1="654899" id2="17" version="1065353216">
+		<source>Worship me, or the next display of power will be your last.</source>
+		<target>Поклоняйтесь мне, или следующее проявление могущества станет для вас последним.</target>
+	</unit>
+	<unit bitflag="1360" id1="654899" id2="17" version="1065353216">
+		<source>Bow or else!</source>
+		<target>Склонитесь, иначе!..</target>
+	</unit>
+	<unit bitflag="1345" id1="654900" id2="17" version="1065353216">
+		<source>That was only a small fraction of the power I possess.</source>
+		<target>Это была лишь небольшая доля того могущества, которым я обладаю.</target>
+	</unit>
+	<unit bitflag="1360" id1="654900" id2="17" version="1065353216">
+		<source>It was nothing.</source>
+		<target>В этом не было ничего особого.</target>
+	</unit>
+	<unit bitflag="1345" id1="654901" id2="17" version="1065353216">
+		<source>Of course, my lord. We are most unworthy.</source>
+		<target>Конечно, владыка. Мы крайне недостойны.</target>
+	</unit>
+	<unit bitflag="1345" id1="654903" id2="17" version="1065353216">
+		<source>But before you send us away--share your wisdom and strength with us, so we can serve you.</source>
+		<target>Но прежде чем вы отошлёте нас, поделитесь с нами своей мудростью и силой, чтобы бы могли служить вам.</target>
+	</unit>
+	<unit bitflag="1345" id1="654904" id2="17" version="1065353216">
+		<source>There is only passion. Through passion, strength. Through strength, power. Through power, victory.</source>
+		<target>Есть только страсть. Со страстью сила. С силой мощь. С мощью победа.</target>
+	</unit>
+	<unit bitflag="1360" id1="654904" id2="17" version="1065353216">
+		<source>Peace is a lie.</source>
+		<target>Покой — это ложь.</target>
+	</unit>
+	<unit bitflag="1345" id1="654905" id2="17" version="1065353216">
+		<source>That's the same line Paladius fed us! I'm sick of these Sith games.</source>
+		<target>Это те же слова, которыми нас кормил Паладий! Меня достали эти игры ситов.</target>
+	</unit>
+	<unit bitflag="1345" id1="654907" id2="17" version="1065353216">
+		<source>Shut your mouth. The Sith speaks the truth!</source>
+		<target>Заткнись. Сит говорит правду!</target>
+	</unit>
+	<unit bitflag="1345" id1="654908" id2="17" version="1065353216">
+		<source>I want to wear robes of solid gold!</source>
+		<target>Я хочу носить одежду из чистого золота!</target>
+	</unit>
+	<unit bitflag="1360" id1="654908" id2="17" version="1065353216">
+		<source>Bring me presents!</source>
+		<target>Несите мне подарки!</target>
+	</unit>
+	<unit bitflag="1345" id1="654909" id2="17" version="1065353216">
+		<source>You're just as crazy as Paladius!</source>
+		<target>Ты такой же безумец, как и Паладий!</target>
+	</unit>
+	<unit bitflag="1345" id1="654911" id2="17" version="1065353216">
+		<source>Shut your mouth before the Sith fries us!</source>
+		<target>Заткнись, пока этот сит нас не поджарил!</target>
+	</unit>
+	<unit bitflag="1345" id1="654913" id2="17" version="1065353216">
+		<source>You heard the Sith! Pass the hat around, and don't be stingy!</source>
+		<target>Вы слышали сита! Передаём шляпу по кругу, и не жадничаем!</target>
+	</unit>
+	<unit bitflag="1345" id1="654915" id2="17" version="1065353216">
+		<source>Hm. Not really enough for a solid gold anything, but it's all we got--at least until we find more followers.</source>
+		<target>Хм. Недостаточно, правда, для чего-то из чистого золота, но это всё, что у нас есть... по крайней мере, пока мы не найдём больше последователей.</target>
+	</unit>
+	<unit bitflag="1345" id1="654916" id2="17" version="1065353216">
+		<source>Don't worry about it. You've done well.</source>
+		<target>Не волнуйтесь. Вы хорошо справились.</target>
+	</unit>
+	<unit bitflag="1360" id1="654916" id2="17" version="1065353216">
+		<source>It'll do.</source>
+		<target>Сойдёт.</target>
+	</unit>
+	<unit bitflag="1345" id1="654917" id2="17" version="1065353216">
+		<source>You are most generous, my lord, but you deserve to have those robes.</source>
+		<target>Вы очень великодушны, владыка, но вы заслуживаете этих одежд.</target>
+	</unit>
+	<unit bitflag="1345" id1="654919" id2="17" version="1065353216">
+		<source>I suppose I could settle for silk.</source>
+		<target>Полагаю, я могу удовольствоваться шёлком.</target>
+	</unit>
+	<unit bitflag="1360" id1="654919" id2="17" version="1065353216">
+		<source>Sigh.</source>
+		<target>Эх.</target>
+	</unit>
+	<unit bitflag="1345" id1="654920" id2="17" version="1065353216">
+		<source>No, my lord shouldn't settle.</source>
+		<target>Нет, владыка не должен довольствоваться.</target>
+	</unit>
+	<unit bitflag="1345" id1="654922" id2="17" version="1065353216">
+		<source>We'll spread your message around Nar Shaddaa, see if we can't collect more.</source>
+		<target>Мы распространим твоё послание по Нар-Шаддаа, посмотрим, не сможем ли собрать больше.</target>
+	</unit>
+	<unit bitflag="1345" id1="654923" id2="17" version="1065353216">
+		<source>If I find out that even one of you kept a single credit for himself, you will all suffer!</source>
+		<target>Если я узнаю, что хоть кто-то из вас оставил себе хоть один кредит, вы все будете страдать!</target>
+	</unit>
+	<unit bitflag="1360" id1="654923" id2="17" version="1065353216">
+		<source>Fools!</source>
+		<target>Глупцы!</target>
+	</unit>
+	<unit bitflag="1345" id1="654924" id2="17" version="1065353216">
+		<source>Y--yes, my lord. I'm sure no one would be so greedy as that.</source>
+		<target>Д-да, владыка. Уверен, никто бы не проявил такой ужасной жадности.</target>
+	</unit>
+	<unit bitflag="1345" id1="654926" id2="17" version="1065353216">
+		<source>We--we'll go find more converts. Rich ones. You'll get your robes, my lord. Promise.</source>
+		<target>Мы... мы пойдём поищем больше новообращённых. Богатых. Вы получите свои одежды, владыка. Обещаю.</target>
+	</unit>
+	<unit bitflag="1345" id1="654927" id2="17" version="1065353216">
+		<source>Forgive those who hurt you. Love and respect all, and you will bring honor to yourselves as well as to me.</source>
+		<target>Прощайте тех, кто причинил вам вред. Любите и уважайте всех, и вас будут чтить и уважать так же, как и меня.</target>
+	</unit>
+	<unit bitflag="1360" id1="654927" id2="17" version="1065353216">
+		<source>Be kind.</source>
+		<target>Будьте добрыми.</target>
+	</unit>
+	<unit bitflag="1345" id1="654928" id2="17" version="1065353216">
+		<source>You're nothing like Paladius or anything I ever heard of.</source>
+		<target>Твои ни капли не похож ни на Паладия, ни на кого-либо ещё из всех, кого я слышал.</target>
+	</unit>
+	<unit bitflag="1345" id1="654930" id2="17" version="1065353216">
+		<source>You're crazy! What will forgiveness get us? Ten more years in the gutter that's what.</source>
+		<target>Ты безумец! Чего мы добьёмся прощением? Ещё десяток лет в трущобе — вот чего.</target>
+	</unit>
+	<unit bitflag="1345" id1="654932" id2="17" version="1065353216">
+		<source>It's not as if we got any higher up under Paladius. The gutter's the gutter.</source>
+		<target>Не то чтобы мы добились большего при Паладии. Трущоба есть трущоба.</target>
+	</unit>
+	<unit bitflag="1345" id1="654936" id2="17" version="1065353216">
+		<source>Besides, this one does what he says--he cured the Rot.</source>
+		<target>По крайней мере, он подтверждает свои слова делами: он вылечил Гниль.</target>
+	</unit>
+	<unit bitflag="1345" id1="654938" id2="17" version="1065353216">
+		<source>Besides, this one does what she says--she cured the Rot.</source>
+		<target>По крайней мере, она подтверждает свои слова делами: она вылечила Гниль.</target>
+	</unit>
+	<unit bitflag="1345" id1="654942" id2="17" version="1065353216">
+		<source>Besides, this one does what he says--he defeated Saben.</source>
+		<target>По крайней мере, он подтверждает свои слова делами: он победил Сабена.</target>
+	</unit>
+	<unit bitflag="1345" id1="654944" id2="17" version="1065353216">
+		<source>Besides, this one does what she says--she defeated Saben.</source>
+		<target>По крайней мере, она подтверждает свои слова делами: она победила Сабена.</target>
+	</unit>
+	<unit bitflag="1345" id1="654946" id2="17" version="1065353216">
+		<source>You're right. My lord, we will do as you say. We will forgive and tell others to do the same.</source>
+		<target>Вы правы. Владыка, мы сделаем то, что вы скажете. Мы будем прощать и говорить другим делать то же самое.</target>
+	</unit>
+</dialogue_file>

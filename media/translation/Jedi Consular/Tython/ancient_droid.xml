@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="16">
+	<unit bitflag="1345" id1="90579" id2="17" version="1065353216">
+		<source>Telemetry is received. All droids report your battle performance. Satisfactory.</source>
+		<target>Телеметрия получена. Все дроиды сообщают о твоей боевой эффективности. Удовлетворительно.</target>
+	</unit>
+	<unit bitflag="1345" id1="90580" id2="17" version="1065353216">
+		<source>In that case, I wish to take the hilt of the first blade from here.</source>
+		<target>В таком случае я хочу забрать отсюда рукоять первого клинка.</target>
+	</unit>
+	<unit bitflag="1360" id1="90580" id2="17" version="1065353216">
+		<source>Then I claim my reward.</source>
+		<target>Тогда я требую мою награду.</target>
+	</unit>
+	<unit bitflag="1345" id1="90581" id2="17" version="1065353216">
+		<source>Perhaps one day my performance could reach &quot;very satisfactory.&quot;</source>
+		<target>Возможно, однажды моя эффективность достигнет «весьма удовлетворительно».</target>
+	</unit>
+	<unit bitflag="1360" id1="90581" id2="17" version="1065353216">
+		<source>I'll try to do better.</source>
+		<target>Постараюсь лучше.</target>
+	</unit>
+	<unit bitflag="1345" id1="90582" id2="17" version="1065353216">
+		<source>With training, perhaps.</source>
+		<target>Возможно, по мере обучения.</target>
+	</unit>
+	<unit bitflag="1345" id1="90584" id2="17" version="1065353216">
+		<source>My battle skills are more than merely &quot;satisfactory.&quot;</source>
+		<target>Мои боевые навыки выше, чем просто «удовлетворительно».</target>
+	</unit>
+	<unit bitflag="1360" id1="90584" id2="17" version="1065353216">
+		<source>Satisfactory? I'm insulted.</source>
+		<target>Удовлетворительно? Это оскорбление.</target>
+	</unit>
+	<unit bitflag="1345" id1="90585" id2="17" version="1065353216">
+		<source>Telemetry does not lie.</source>
+		<target>Телеметрия не врёт.</target>
+	</unit>
+	<unit bitflag="1345" id1="90587" id2="17" version="1065353216">
+		<source>Take the hilt. Treat with respect. Fight with honor.</source>
+		<target>Возьми рукоять. Обращайся с ней с уважением. Сражайся с честью.</target>
+	</unit>
+	<unit bitflag="321" id1="90589" id2="17" version="1065353216">
+		<source>[Inside is a stone urn, and the hilt of a weapon. Its design is archaic.]</source>
+		<target>[Внутри каменная урна и рукоять оружия. Её дизайн архаичен]</target>
+	</unit>
+	<unit bitflag="321" id1="90591" id2="17" version="1065353216">
+		<source>[The hilt appears to have been modified, and heavily engraved as if to store information. You see no way to access it.]</source>
+		<target>[Рукоять, похоже, подверглась модификации и гравировке, возможно, для хранения в ней информации. Вы не знаете, как её достать]</target>
+	</unit>
+	<unit bitflag="1345" id1="90594" id2="17" version="1065353216">
+		<source>Master Yuon, I've found the hilt of the first blade. A proto-lightsaber from someone called the &quot;Weapon Master.&quot; The hilt looks as if there's data engraved on it.</source>
+		<target>Мастер Юон, я нашёл рукоять первого клинка. Протомеч кого-то по прозвищу «Мастер оружия». На рукояти, похоже, выгравированы некие данные.</target>
+	</unit>
+	<unit bitflag="1345" id1="90595" id2="17" version="1065353216">
+		<source>Of course. &quot;The first blade points the way&quot;--Rajivari made the legendary weapon itself our guide. The Force is certainly with you, Padawan.</source>
+		<target>Конечно. «Первый клинок указывает путь»: Радживари сделал само легендарное оружие нашим проводником. Сила явно благосклонна к тебе, падаван.</target>
+	</unit>
+	<unit bitflag="1345" id1="90597" id2="17" version="1065353216">
+		<source>Please, bring the hilt back to the temple at once. I will look into a way to access that data.</source>
+		<target>Прошу, принеси рукоять обратно в Храм сейчас же. Я попробую найти способ разгадать эту гравировку.</target>
+	</unit>
+	<unit bitflag="1345" id1="90601" id2="17" version="1065353216">
+		<source>Training droids. Find them. Prevail. I will know.</source>
+		<target>Тренировочные дроиды. Найди их. Победи. Я узнаю.</target>
+	</unit>
+</dialogue_file>

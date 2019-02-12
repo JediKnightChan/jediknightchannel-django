@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="22">
+	<unit bitflag="3393" id1="654951" id2="17" version="1065353216">
+		<source>Are you the Sith they call the Great Healer? The one they say has his eye on Lord Paladius's cult?</source>
+		<target>Это ты тот сит, которого называют Великим Целителем? Который, как говорят, положил глаз на культ Паладия?</target>
+	</unit>
+	<unit bitflag="3393" id1="654952" id2="17" version="1065353216">
+		<source>Are you the Sith they call the Great Dragon? The one they say has his eye on Lord Paladius's cult?</source>
+		<target>Это ты тот сит, которого называют Великим Драконом? Который, как говорят, положил глаз на культ Паладия?</target>
+	</unit>
+	<unit bitflag="1345" id1="654953" id2="17" version="1065353216">
+		<source>If you mean the future leader of Lord Paladius's cult, then yes.</source>
+		<target>Если ты имеешь в виду будущего лидера культа лорда Паладия, то да.</target>
+	</unit>
+	<unit bitflag="1360" id1="654953" id2="17" version="1065353216">
+		<source>That's me.</source>
+		<target>Это я.</target>
+	</unit>
+	<unit bitflag="3393" id1="654954" id2="17" version="1065353216">
+		<source>Good. I would have hated to kill you and then find out you were the wrong person.</source>
+		<target>Хорошо. Мне бы не хотелось убить тебя, а затем выяснить, что убил не того.</target>
+	</unit>
+	<unit bitflag="1345" id1="654956" id2="17" version="1065353216">
+		<source>I don't believe we've met.</source>
+		<target>Не думаю, что мы знакомы.</target>
+	</unit>
+	<unit bitflag="1360" id1="654956" id2="17" version="1065353216">
+		<source>Who are you?</source>
+		<target>Кто ты?</target>
+	</unit>
+	<unit bitflag="3393" id1="654957" id2="17" version="1065353216">
+		<source>Gar-Nok, honored of Lord Paladius.</source>
+		<target>Гар-Нок, почётный страж лорда Паладия.</target>
+	</unit>
+	<unit bitflag="1360" id1="654959" id2="17" version="1065353216">
+		<source>Why should I tell you?</source>
+		<target>С чего мне тебе отвечать?</target>
+	</unit>
+	<unit bitflag="3393" id1="654960" id2="17" version="1065353216">
+		<source>I just wanted to make sure I had the right person before I kill you.</source>
+		<target>Я просто желал убедиться, что ты именно тот человек, прежде чем убить тебя.</target>
+	</unit>
+	<unit bitflag="3393" id1="654962" id2="17" version="1065353216">
+		<source>Why do so many people think they can oppose my master? They all end up the same way.</source>
+		<target>Почему так многие считают, что могут противостоять моему хозяину? Все они заканчивают одинаково.</target>
+	</unit>
+	<unit bitflag="3393" id1="654964" id2="17" version="1065353216">
+		<source>Perhaps you'll provide a challenge. With most of these whelps, it's over too quickly.</source>
+		<target>Возможно, с тобой будет немного сложнее. С большинством этих щенков всё заканчивается слишком быстро.</target>
+	</unit>
+	<unit bitflag="1345" id1="654965" id2="17" version="1065353216">
+		<source>I'll send your body back to your master in pieces.</source>
+		<target>Я отправлю тебя обратно твоему хозяину по кускам.</target>
+	</unit>
+	<unit bitflag="1360" id1="654965" id2="17" version="1065353216">
+		<source>This will be fun.</source>
+		<target>Это будет весело.</target>
+	</unit>
+	<unit bitflag="3393" id1="654966" id2="17" version="1065353216">
+		<source>Bark all you like, Sith, it won't make you one of the big dogs.</source>
+		<target>Лай сколько тебе угодно, сит, но это не сделает из такой моськи, как ты, слона.</target>
+	</unit>
+	<unit bitflag="1345" id1="654968" id2="17" version="1065353216">
+		<source>How did you find this place?</source>
+		<target>Как ты нашёл это место?</target>
+	</unit>
+	<unit bitflag="1360" id1="654968" id2="17" version="1065353216">
+		<source>You shouldn't be here.</source>
+		<target>Тебя здесь быть не должно.</target>
+	</unit>
+	<unit bitflag="3393" id1="654969" id2="17" version="1065353216">
+		<source>There are still people on the streets who are loyal to my master, and your followers do an awful lot of talking.</source>
+		<target>На улице всё ещё полно людей, верных моему хозяину, а твои последователи ужасно много болтают.</target>
+	</unit>
+	<unit bitflag="1345" id1="654971" id2="17" version="1065353216">
+		<source>I'll try not to disappoint.</source>
+		<target>Попытаюсь не разочаровать.</target>
+	</unit>
+	<unit bitflag="1360" id1="654971" id2="17" version="1065353216">
+		<source>Don't worry.</source>
+		<target>Не беспокойся.</target>
+	</unit>
+	<unit bitflag="3393" id1="654972" id2="17" version="1065353216">
+		<source>I don't know what it is you Sith believe, but maybe you'll find someone on the other side to explain it to you.</source>
+		<target>Не знаю, во что вы, ситы, верите, но, может, ты найдёшь кого-нибудь на том свете, кто всё тебе объяснит.</target>
+	</unit>
+	<unit bitflag="3393" id1="654974" id2="17" version="1065353216">
+		<source>Now let's not make this too quick, shall we?</source>
+		<target>Теперь давай не будем торопиться, ладно?</target>
+	</unit>
+</dialogue_file>

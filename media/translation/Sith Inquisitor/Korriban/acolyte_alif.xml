@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="140">
+	<unit bitflag="1345" id1="660086" id2="17" version="1065353216">
+		<source>Oh, I don't want to die....</source>
+		<target>О, я не хочу умирать...</target>
+	</unit>
+	<unit bitflag="1345" id1="660087" id2="17" version="1065353216">
+		<source>Nnnnggh... please don't hurt me. I don't know anything.</source>
+		<target>Мммм... пожалуйста, не трогай меня. Я ничего не знаю.</target>
+	</unit>
+	<unit bitflag="1345" id1="660088" id2="17" version="1065353216">
+		<source>It's alright, Alif. I just want to talk.</source>
+		<target>Всё в порядке, Алиф. Я просто хочу поговорить.</target>
+	</unit>
+	<unit bitflag="1360" id1="660088" id2="17" version="1065353216">
+		<source>I'm your friend.</source>
+		<target>Я твой друг.</target>
+	</unit>
+	<unit bitflag="1345" id1="660089" id2="17" version="1065353216">
+		<source>It's okay, Alif. I just want to talk.</source>
+		<target>Всё хорошо, Алиф. Я просто хочу поговорить.</target>
+	</unit>
+	<unit bitflag="1360" id1="660089" id2="17" version="1065353216">
+		<source>I'm your friend.</source>
+		<target>Я твой друг.</target>
+	</unit>
+	<unit bitflag="1345" id1="660090" id2="17" version="1065353216">
+		<source>Yeah, right.</source>
+		<target>Ну да, ты прав.</target>
+	</unit>
+	<unit bitflag="1345" id1="660092" id2="17" version="1065353216">
+		<source>I know what you want, and I'll tell you right now I don't know anything.</source>
+		<target>Мне известно, что тебе нужно, и я прямо сейчас скажу тебе, что ничего не знаю.</target>
+	</unit>
+	<unit bitflag="1345" id1="660093" id2="17" version="1065353216">
+		<source>I can't help you if you won't trust me.</source>
+		<target>Я не смогу помочь тебе, если ты не будешь мне доверять.</target>
+	</unit>
+	<unit bitflag="1360" id1="660093" id2="17" version="1065353216">
+		<source>I'm your only out.</source>
+		<target>Я твой единственный выход.</target>
+	</unit>
+	<unit bitflag="1360" id1="660094" id2="17" version="1065353216">
+		<source>Don't do this.</source>
+		<target>Не делай этого.</target>
+	</unit>
+	<unit bitflag="1345" id1="660095" id2="17" version="1065353216">
+		<source>How many times do I have to tell you?</source>
+		<target>Сколько раз мне тебе повторить?</target>
+	</unit>
+	<unit bitflag="5441" id1="660097" id2="17" version="1065353216">
+		<source>Then I guess we have to do this the hard way.</source>
+		<target>Тогда, видимо, придётся говорить по-плохому.</target>
+	</unit>
+	<unit bitflag="5456" id1="660097" id2="17" version="1065353216">
+		<source>So suffer. [Torture Alif]</source>
+		<target>Тогда страдай. [Пытать Алифа]</target>
+	</unit>
+	<unit bitflag="1360" id1="660098" id2="17" version="1065353216">
+		<source>Don't resist.</source>
+		<target>Не сопротивляйся.</target>
+	</unit>
+	<unit bitflag="1345" id1="660099" id2="17" version="1065353216">
+		<source>Please, I don't know anything. I swear it.</source>
+		<target>Пожалуйста, я ничего не знаю. Клянусь.</target>
+	</unit>
+	<unit bitflag="1345" id1="660101" id2="17" version="1065353216">
+		<source>You know how it is--acolytes start bragging, you don't want to look bad. It was just a dumb boast. I didn't see anything.</source>
+		<target>Ты же знаешь, как это бывает... служители начинают хвастаться, тебе хочется не сплоховать. Это просто глупое бахвальство. Я ничего не видел.</target>
+	</unit>
+	<unit bitflag="1345" id1="660102" id2="17" version="1065353216">
+		<source>You're the only one who can bring the murderer to justice.</source>
+		<target>Ты единственный, кто может предать убийцу правосудию, чтобы справедливость восторжествовала.</target>
+	</unit>
+	<unit bitflag="1360" id1="660102" id2="17" version="1065353216">
+		<source>Do the right thing.</source>
+		<target>Сделай то, что правильно.</target>
+	</unit>
+	<unit bitflag="1345" id1="660103" id2="17" version="1065353216">
+		<source>Justice? There's no justice in the Sith. There's just power.</source>
+		<target>Справедливость? Среди ситов нет справедливости. Есть только могущество.</target>
+	</unit>
+	<unit bitflag="1360" id1="660105" id2="17" version="1065353216">
+		<source>Work with me.</source>
+		<target>Сотрудничай со мной.</target>
+	</unit>
+	<unit bitflag="1345" id1="660106" id2="17" version="1065353216">
+		<source>Why should I trust you?</source>
+		<target>С чего мне тебе доверять?</target>
+	</unit>
+	<unit bitflag="1345" id1="660108" id2="17" version="1065353216">
+		<source>You can't help me. You can't protect me. Even if I did know something, I'd be dead or worse....</source>
+		<target>Ты не можешь мне помочь. Ты не можешь меня защитить. Даже если бы я что-то и знал, то был бы уже мёртв, или хуже...</target>
+	</unit>
+	<unit bitflag="1345" id1="660109" id2="17" version="1065353216">
+		<source>It sounds like you do know something.</source>
+		<target>Похоже, ты всё-таки что-то знаешь.</target>
+	</unit>
+	<unit bitflag="1360" id1="660109" id2="17" version="1065353216">
+		<source>I don't believe you.</source>
+		<target>Я тебе не верю.</target>
+	</unit>
+	<unit bitflag="1345" id1="660110" id2="17" version="1065353216">
+		<source>What? No! No! I didn't mean--</source>
+		<target>Что? Нет! Нет! Я не это...</target>
+	</unit>
+	<unit bitflag="1345" id1="660112" id2="17" version="1065353216">
+		<source>I've said too much. I can't tell you--he'll kill me.</source>
+		<target>Я сказал слишком много. Я не могу рассказать тебе... он убьёт меня.</target>
+	</unit>
+	<unit bitflag="1345" id1="660113" id2="17" version="1065353216">
+		<source>Not if I have anything to say about it.</source>
+		<target>Нет, я постараюсь не допустить этого.</target>
+	</unit>
+	<unit bitflag="1360" id1="660113" id2="17" version="1065353216">
+		<source>No he won't.</source>
+		<target>Нет, не убьёт.</target>
+	</unit>
+	<unit bitflag="1345" id1="660114" id2="17" version="1065353216">
+		<source>Why? What are you going to do? Threaten the murderer and his master?</source>
+		<target>Почему? Что ты собираешься делать? Угрожать убийце и его учителю?</target>
+	</unit>
+	<unit bitflag="1360" id1="660116" id2="17" version="1065353216">
+		<source>Don't do this to yourself.</source>
+		<target>Не делай этого с собой.</target>
+	</unit>
+	<unit bitflag="1345" id1="660117" id2="17" version="1065353216">
+		<source>I don't understand. Why threaten me with torture? Why not just get it over with?</source>
+		<target>Я не понимаю. Зачем угрожать мне пытками? Почему бы просто не покончить с этим?</target>
+	</unit>
+	<unit bitflag="5441" id1="660118" id2="17" version="1065353216">
+		<source>Then let's try another approach.</source>
+		<target>Давай попробуем по-другому.</target>
+	</unit>
+	<unit bitflag="5456" id1="660118" id2="17" version="1065353216">
+		<source>Okay. [Torture]</source>
+		<target>Ладно. [Пытать]</target>
+	</unit>
+	<unit bitflag="1345" id1="660119" id2="17" version="1065353216">
+		<source>Look, if you don't want to talk to me, the inquisitor will bring someone else in and they will make you talk. I want to help you.</source>
+		<target>Слушай, если ты не скажешь мне, инквизитор приведёт кого-нибудь ещё, и они заставят тебя рассказать правду. Я хочу помочь.</target>
+	</unit>
+	<unit bitflag="1360" id1="660119" id2="17" version="1065353216">
+		<source>I'm on your side.</source>
+		<target>Я на твоей стороне.</target>
+	</unit>
+	<unit bitflag="1345" id1="660120" id2="17" version="1065353216">
+		<source>Look, if you don't talk to me, the inquisitor will bring someone else in and they'll make you talk. I want to help you.</source>
+		<target>Слушай, если ты не скажешь мне, инквизитор приведёт кого-нибудь ещё, и они заставят тебя рассказать правду. Я хочу помочь.</target>
+	</unit>
+	<unit bitflag="1360" id1="660120" id2="17" version="1065353216">
+		<source>I'm on your side.</source>
+		<target>Я на твоей стороне.</target>
+	</unit>
+	<unit bitflag="1345" id1="660121" id2="17" version="1065353216">
+		<source>What? Why? I... I don't understand.</source>
+		<target>Что? Почему? Я... я не понимаю.</target>
+	</unit>
+	<unit bitflag="1345" id1="660123" id2="17" version="1065353216">
+		<source>Why don't you just torture me and get it over with?</source>
+		<target>Почему бы тебе просто не начать пытки и не покончить с этим?</target>
+	</unit>
+	<unit bitflag="1345" id1="660124" id2="17" version="1065353216">
+		<source>There are better methods than torture.</source>
+		<target>Есть методы лучше пыток.</target>
+	</unit>
+	<unit bitflag="1360" id1="660124" id2="17" version="1065353216">
+		<source>I don't believe in it.</source>
+		<target>Я не верю в пытки.</target>
+	</unit>
+	<unit bitflag="1345" id1="660125" id2="17" version="1065353216">
+		<source>They really did pull you out of the slave pens like the inquisitor said, didn't they? You aren't like any Sith I've ever met.</source>
+		<target>Они и правда вытащили тебя из рабских загонов, как и говорил инквизитор, да? Ты не похож ни на одного сита, которого я когда-либо видел.</target>
+	</unit>
+	<unit bitflag="1360" id1="660127" id2="17" version="1065353216">
+		<source>I'm warning you.</source>
+		<target>Предупреждаю тебя.</target>
+	</unit>
+	<unit bitflag="1345" id1="660128" id2="17" version="1065353216">
+		<source>No. You--you misunderstand. It's just that, any other acolyte would've used the machine by now.</source>
+		<target>Нет. Ты... ты неправильно понял. Дело в том, что любой другой служитель уже бы включил машину.</target>
+	</unit>
+	<unit bitflag="1345" id1="660130" id2="17" version="1065353216">
+		<source>I'll tell you what I saw... but promise me that the murderer will get justice--that he won't come to kill me.</source>
+		<target>Я расскажу тебе, что я видел... но обещай, что убийца будет наказан... что он не убьёт меня.</target>
+	</unit>
+	<unit bitflag="1360" id1="660131" id2="17" version="1065353216">
+		<source>You have my word.</source>
+		<target>Даю слово.</target>
+	</unit>
+	<unit bitflag="1345" id1="660132" id2="17" version="1065353216">
+		<source>As strange as it sounds coming from another acolyte, I appreciate that.</source>
+		<target>Как бы странно это ни было слышать от другого служителя, я тебе благодарен.</target>
+	</unit>
+	<unit bitflag="1345" id1="660134" id2="17" version="1065353216">
+		<source>Fine, fine, I promise--just tell me!</source>
+		<target>Ладно, ладно, обещаю... только расскажи мне!</target>
+	</unit>
+	<unit bitflag="1360" id1="660134" id2="17" version="1065353216">
+		<source>Oh, all right.</source>
+		<target>Ох, ну ладно.</target>
+	</unit>
+	<unit bitflag="1345" id1="660135" id2="17" version="1065353216">
+		<source>Fine, fine, I promise--just tell me already!</source>
+		<target>Ладно, ладно, обещаю... только расскажи мне уже!</target>
+	</unit>
+	<unit bitflag="1360" id1="660135" id2="17" version="1065353216">
+		<source>Oh, all right.</source>
+		<target>Ох, ну ладно.</target>
+	</unit>
+	<unit bitflag="1345" id1="660136" id2="17" version="1065353216">
+		<source>That's... not very reassuring. But all right....</source>
+		<target>Это... не очень обнадёживающе. Ну да ладно...</target>
+	</unit>
+	<unit bitflag="1345" id1="660138" id2="17" version="1065353216">
+		<source>An apprentice named Esorr Kayin--I saw him murder his victim outside the library on the second floor.</source>
+		<target>Ученик по имени Эсорр Кэин... я видел, как он убил свою жертву рядом с библиотекой на втором этаже.</target>
+	</unit>
+	<unit bitflag="1345" id1="660140" id2="17" version="1065353216">
+		<source>Listen, his master's incredibly powerful--he won't let Kayin be punished. Kayin will kill me.</source>
+		<target>Послушай, его учитель невероятно могущественен... он не допустит, чтобы Кэина наказали. Кэин убьёт меня.</target>
+	</unit>
+	<unit bitflag="1345" id1="660141" id2="17" version="1065353216">
+		<source>You let me worry about that.</source>
+		<target>Предоставь это мне.</target>
+	</unit>
+	<unit bitflag="1360" id1="660141" id2="17" version="1065353216">
+		<source>Don't let it trouble you.</source>
+		<target>Это не должно тебя беспокоить.</target>
+	</unit>
+	<unit bitflag="1345" id1="660142" id2="17" version="1065353216">
+		<source>So what am I supposed to do--stand up to his master?</source>
+		<target>Так что я должен сделать, вступить в противостояние с его учителем?</target>
+	</unit>
+	<unit bitflag="1360" id1="660142" id2="17" version="1065353216">
+		<source>There's nothing I can do.</source>
+		<target>Я ничего не могу сделать.</target>
+	</unit>
+	<unit bitflag="1345" id1="660143" id2="17" version="1065353216">
+		<source>Maybe if you can convince the inquisitor that I need protection. Maybe he'll... I don't know.</source>
+		<target>Может быть, если ты сумеешь убедить инквизитора, что мне нужна защита... Может быть, он... не знаю.</target>
+	</unit>
+	<unit bitflag="1345" id1="660144" id2="17" version="1065353216">
+		<source>Let me see if I can't persuade the inquisitor to help out.</source>
+		<target>Посмотрим, смогу ли я убедить инквизитора помочь.</target>
+	</unit>
+	<unit bitflag="1360" id1="660144" id2="17" version="1065353216">
+		<source>I might be able to help.</source>
+		<target>Возможно, я смогу помочь.</target>
+	</unit>
+	<unit bitflag="1345" id1="660145" id2="17" version="1065353216">
+		<source>I can't make any promises, but I'll try.</source>
+		<target>Не буду давать никаких обещаний, но я попробую.</target>
+	</unit>
+	<unit bitflag="1360" id1="660145" id2="17" version="1065353216">
+		<source>Oh, all right.</source>
+		<target>Ох, ладно.</target>
+	</unit>
+	<unit bitflag="1345" id1="660146" id2="17" version="1065353216">
+		<source>Thank you. I hope you know what you're doing.</source>
+		<target>Спасибо. Надеюсь, ты знаешь, что делаешь.</target>
+	</unit>
+	<unit bitflag="1345" id1="660147" id2="17" version="1065353216">
+		<source>I guess you should have thought of that before you told me.</source>
+		<target>Полагаю, тебе следовало подумать об этом прежде, чем рассказывать мне правду.</target>
+	</unit>
+	<unit bitflag="1360" id1="660147" id2="17" version="1065353216">
+		<source>Tough.</source>
+		<target>Сложно.</target>
+	</unit>
+	<unit bitflag="1360" id1="660148" id2="17" version="1065353216">
+		<source>Oh well.</source>
+		<target>Ну ладно.</target>
+	</unit>
+	<unit bitflag="1345" id1="660149" id2="17" version="1065353216">
+		<source>But you said--you said you'd help me! Damn it. I should have known better than to trust you.</source>
+		<target>Но ты сказал... ты сказал, что поможешь мне! Чтоб тебя. Какого чёрта я вообще тебе поверил.</target>
+	</unit>
+	<unit bitflag="5441" id1="660151" id2="17" version="1065353216">
+		<source>I'll make no such promise.</source>
+		<target>Я не стану давать обещаний.</target>
+	</unit>
+	<unit bitflag="5456" id1="660151" id2="17" version="1065353216">
+		<source>No way. [Shock him]</source>
+		<target>Ни за что. [Ударить его молнией]</target>
+	</unit>
+	<unit bitflag="5441" id1="660152" id2="17" version="1065353216">
+		<source>You know, that's a good question.</source>
+		<target>Знаешь, хороший вопрос.</target>
+	</unit>
+	<unit bitflag="5456" id1="660152" id2="17" version="1065353216">
+		<source>Smart idea. [Shock him]</source>
+		<target>Умно. [Ударить его молнией]</target>
+	</unit>
+	<unit bitflag="5441" id1="660153" id2="17" version="1065353216">
+		<source>Maybe this will change your mind.</source>
+		<target>Может быть, теперь ты передумаешь.</target>
+	</unit>
+	<unit bitflag="5456" id1="660153" id2="17" version="1065353216">
+		<source>Pain it is. [Shock him]</source>
+		<target>Боль сладка. [Ударить его молнией]</target>
+	</unit>
+	<unit bitflag="5441" id1="660154" id2="17" version="1065353216">
+		<source>This'll hurt you much more than it hurts me.</source>
+		<target>Это причинит тебе куда больше боли, чем причиняет мне.</target>
+	</unit>
+	<unit bitflag="5456" id1="660154" id2="17" version="1065353216">
+		<source>This might sting. [Shock him]</source>
+		<target>Сейчас будет больно. [Ударить его молнией]</target>
+	</unit>
+	<unit bitflag="5441" id1="660155" id2="17" version="1065353216">
+		<source>Scream, weakling! I want to hear your suffering!</source>
+		<target>Вопи, слабак! Я хочу слышать, как ты страдаешь!</target>
+	</unit>
+	<unit bitflag="5456" id1="660155" id2="17" version="1065353216">
+		<source>Shriek in pain! [Shock Him]</source>
+		<target>Визжи от боли! [Ударить его молнией]</target>
+	</unit>
+	<unit bitflag="1345" id1="660156" id2="17" version="1065353216">
+		<source>Aaaaargh!</source>
+		<target>А-а-а-а!</target>
+	</unit>
+	<unit bitflag="1345" id1="660158" id2="17" version="1065353216">
+		<source>Please. Don't do that again. I'll do anything....</source>
+		<target>Пожалуйста. Больше так не делай. Я всё сделаю...</target>
+	</unit>
+	<unit bitflag="1345" id1="660159" id2="17" version="1065353216">
+		<source>Tell me who murdered the apprentice.</source>
+		<target>Расскажи мне, кто убил того ученика.</target>
+	</unit>
+	<unit bitflag="1360" id1="660159" id2="17" version="1065353216">
+		<source>Give me what I want.</source>
+		<target>Скажи мне, что я хочу.</target>
+	</unit>
+	<unit bitflag="1345" id1="660160" id2="17" version="1065353216">
+		<source>Entertain me. Give me a song or something.</source>
+		<target>Развлеки меня. Спой мне песенку или что-нибудь в этом роде.</target>
+	</unit>
+	<unit bitflag="1360" id1="660160" id2="17" version="1065353216">
+		<source>Sing.</source>
+		<target>Пой.</target>
+	</unit>
+	<unit bitflag="1345" id1="660161" id2="17" version="1065353216">
+		<source>Sing? Are you serious? I mean--sure, yeah. What should I...?</source>
+		<target>Песенку? Ты серьёзно? То есть... да, конечно. Что мне?..</target>
+	</unit>
+	<unit bitflag="1345" id1="660162" id2="17" version="1065353216">
+		<source>I was joking. Tell me what I want to know.</source>
+		<target>Я шучу. Расскажи мне то, что я хочу знать.</target>
+	</unit>
+	<unit bitflag="1360" id1="660162" id2="17" version="1065353216">
+		<source>Just kidding.</source>
+		<target>Просто шутка.</target>
+	</unit>
+	<unit bitflag="1345" id1="660163" id2="17" version="1065353216">
+		<source>I was kidding. Tell me what I want to know.</source>
+		<target>Я шучу. Расскажи мне то, что я хочу знать.</target>
+	</unit>
+	<unit bitflag="1360" id1="660163" id2="17" version="1065353216">
+		<source>Just joking.</source>
+		<target>Просто шутка.</target>
+	</unit>
+	<unit bitflag="1345" id1="660164" id2="17" version="1065353216">
+		<source>I don't care. Just make it something cheerful.</source>
+		<target>Мне всё равно. Просто что-нибудь жизнерадостное.</target>
+	</unit>
+	<unit bitflag="1360" id1="660164" id2="17" version="1065353216">
+		<source>Something happy.</source>
+		<target>Что-нибудь весёленькое.</target>
+	</unit>
+	<unit bitflag="1345" id1="660165" id2="17" version="1065353216">
+		<source>Um--okay. All right. Um. &quot;They say it's a perfect galaxy... a great day to be alive... dee dum dee dum dee dum.&quot;</source>
+		<target>Э... хорошо. Ладно. Э. «Жизнь в Галактике прекрасна, спору нет... жить так весело ла-ла-ла-ла-ла.»</target>
+	</unit>
+	<unit bitflag="1345" id1="660167" id2="17" version="1065353216">
+		<source>I'm sorry. I'm... I'm--I'm too nervous. I can't remember any of the words. Please just let me go.</source>
+		<target>Прости. Я... я... я слишком нервничаю. Слова не вспоминаются. Пожалуйста, просто отпусти меня.</target>
+	</unit>
+	<unit bitflag="1345" id1="660168" id2="17" version="1065353216">
+		<source>Just as soon as you tell me who the murderer is.</source>
+		<target>Как только ты расскажешь мне, кто убийца.</target>
+	</unit>
+	<unit bitflag="1360" id1="660168" id2="17" version="1065353216">
+		<source>The killer's name, first.</source>
+		<target>Сначала имя убийцы.</target>
+	</unit>
+	<unit bitflag="1345" id1="660169" id2="17" version="1065353216">
+		<source>I can't do that. I can't.</source>
+		<target>Я не могу этого сделать. Не могу.</target>
+	</unit>
+	<unit bitflag="1360" id1="660171" id2="17" version="1065353216">
+		<source>Was it so hard?</source>
+		<target>Это было так сложно?</target>
+	</unit>
+	<unit bitflag="1345" id1="660172" id2="17" version="1065353216">
+		<source>I can't give you what you want. You don't understand.</source>
+		<target>Я не могу дать тебе то, что ты хочешь. Ты не понимаешь.</target>
+	</unit>
+	<unit bitflag="1345" id1="660174" id2="17" version="1065353216">
+		<source>He'll kill me if I tell, or worse.</source>
+		<target>Он убьёт меня, если я расскажу, или хуже...</target>
+	</unit>
+	<unit bitflag="1345" id1="660175" id2="17" version="1065353216">
+		<source>Who will kill you?</source>
+		<target>Кто тебя убьёт?</target>
+	</unit>
+	<unit bitflag="1360" id1="660175" id2="17" version="1065353216">
+		<source>Really?</source>
+		<target>Да ну?</target>
+	</unit>
+	<unit bitflag="1345" id1="660176" id2="17" version="1065353216">
+		<source>No, I've already said too much. Please, just leave me alone.</source>
+		<target>Нет, я сказал слишком много. Пожалуйста, просто оставь меня в покое.</target>
+	</unit>
+	<unit bitflag="1360" id1="660177" id2="17" version="1065353216">
+		<source>Tell me more.</source>
+		<target>Расскажи мне больше.</target>
+	</unit>
+	<unit bitflag="1345" id1="660178" id2="17" version="1065353216">
+		<source>That's all you're getting out of me. I can't tell you anymore.</source>
+		<target>Это всё, что я тебе расскажу. Я не могу сказать больше.</target>
+	</unit>
+	<unit bitflag="1360" id1="660179" id2="17" version="1065353216">
+		<source>Relax.</source>
+		<target>Расслабься.</target>
+	</unit>
+	<unit bitflag="1345" id1="660180" id2="17" version="1065353216">
+		<source>You're going to tell me, one way or another.</source>
+		<target>Ты расскажешь мне, рано или поздно.</target>
+	</unit>
+	<unit bitflag="1360" id1="660180" id2="17" version="1065353216">
+		<source>It's no use struggling.</source>
+		<target>Нет смысла бороться.</target>
+	</unit>
+	<unit bitflag="1345" id1="660181" id2="17" version="1065353216">
+		<source>Fine, he'll kill me for it, but I'll tell you.</source>
+		<target>Ладно, он убьёт меня, но я расскажу тебе.</target>
+	</unit>
+	<unit bitflag="5441" id1="660183" id2="17" version="1065353216">
+		<source>Tell me what you know!</source>
+		<target>Расскажи мне, что тебе известно!</target>
+	</unit>
+	<unit bitflag="5456" id1="660183" id2="17" version="1065353216">
+		<source>I'm done playing! [Torture]</source>
+		<target>Хватит игр! [Пытать]</target>
+	</unit>
+	<unit bitflag="5441" id1="660185" id2="17" version="1065353216">
+		<source>You really need to learn to project your voice.</source>
+		<target>Тебе и правда нужно научиться динамике.</target>
+	</unit>
+	<unit bitflag="5456" id1="660185" id2="17" version="1065353216">
+		<source>Louder! [Torture]</source>
+		<target>Громче! [Пытать]</target>
+	</unit>
+	<unit bitflag="5441" id1="660186" id2="17" version="1065353216">
+		<source>Something in the higher registers.</source>
+		<target>Что-нибудь в более высоком регистре.</target>
+	</unit>
+	<unit bitflag="5456" id1="660186" id2="17" version="1065353216">
+		<source>Squeal. [Torture]</source>
+		<target>Визжи. [Пытать]</target>
+	</unit>
+	<unit bitflag="5441" id1="660187" id2="17" version="1065353216">
+		<source>What shouldn't I do again? This?</source>
+		<target>Что мне больше не делать? Это?</target>
+	</unit>
+	<unit bitflag="5456" id1="660187" id2="17" version="1065353216">
+		<source>Clarify please. [Shock him]</source>
+		<target>Пожалуйста, уточни. [Ударить его молнией]</target>
+	</unit>
+	<unit bitflag="1345" id1="660188" id2="17" version="1065353216">
+		<source>Aaaaargh!</source>
+		<target>А-а-а-а!</target>
+	</unit>
+	<unit bitflag="1345" id1="660190" id2="17" version="1065353216">
+		<source>Stop! Please. All right. All right, I'll talk. He'll kill me, but I'll talk.</source>
+		<target>Хватит! Пожалуйста. Ладно. Ладно, я скажу. Он убьёт меня, но я скажу.</target>
+	</unit>
+	<unit bitflag="1345" id1="660192" id2="17" version="1065353216">
+		<source>The murderer is an apprentice named Esorr Kayin. You have to protect me or he'll kill me.</source>
+		<target>Убийца — ученик по имени Эсорр Кэин. Тебе придётся защитить меня, иначе он убьёт меня.</target>
+	</unit>
+	<unit bitflag="1345" id1="660193" id2="17" version="1065353216">
+		<source>I doubt that--he'll be too busy being punished for murder.</source>
+		<target>Сомневаюсь... у него будет слишком много хлопот с преступлением и наказанием.</target>
+	</unit>
+	<unit bitflag="1360" id1="660193" id2="17" version="1065353216">
+		<source>How's he going to do that?</source>
+		<target>Как ему это удастся?</target>
+	</unit>
+	<unit bitflag="1360" id1="660194" id2="17" version="1065353216">
+		<source>It'll be okay.</source>
+		<target>Всё будет хорошо.</target>
+	</unit>
+	<unit bitflag="1345" id1="660195" id2="17" version="1065353216">
+		<source>Kayin's master's a Dark Council member--you might as well try fighting the Emperor himself.</source>
+		<target>Учитель Кэина состоит в Тёмном Совете... ты мог бы с тем же успехом сразиться с самим Императором.</target>
+	</unit>
+	<unit bitflag="1345" id1="660197" id2="17" version="1065353216">
+		<source>Kayin won't get so much as a reprimand.</source>
+		<target>Кэин разве что только получит выговор.</target>
+	</unit>
+	<unit bitflag="1345" id1="660199" id2="17" version="1065353216">
+		<source>But when Kayin finds out, he'll come after me.</source>
+		<target>Но когда Кэин узнает об этом, он придёт за мной.</target>
+	</unit>
+	<unit bitflag="1345" id1="660200" id2="17" version="1065353216">
+		<source>Maybe then you'll shut up.</source>
+		<target>Возможно, тогда ты заткнёшься.</target>
+	</unit>
+	<unit bitflag="1360" id1="660200" id2="17" version="1065353216">
+		<source>Good.</source>
+		<target>Отлично.</target>
+	</unit>
+	<unit bitflag="1345" id1="660201" id2="17" version="1065353216">
+		<source>Of course... it's not your problem. Why should you care?</source>
+		<target>Конечно... это не твои проблемы. С чего это должно тебя волновать?</target>
+	</unit>
+	<unit bitflag="1345" id1="660203" id2="17" version="1065353216">
+		<source>Not if I have any say in the matter.</source>
+		<target>Он не сможет это сделать, если вмешаюсь я.</target>
+	</unit>
+	<unit bitflag="1360" id1="660203" id2="17" version="1065353216">
+		<source>Don't worry.</source>
+		<target>Не беспокойся.</target>
+	</unit>
+	<unit bitflag="1345" id1="660204" id2="17" version="1065353216">
+		<source>It's a nice thought, but I doubt it.</source>
+		<target>Мысль хорошая, но я в этом сомневаюсь.</target>
+	</unit>
+	<unit bitflag="1345" id1="660206" id2="17" version="1065353216">
+		<source>Maybe you could persuade the inquisitor to protect me. Unlikely though, it's not the Sith way.</source>
+		<target>Может быть, ты бы мог убедить инквизитора защитить меня. Хотя вряд ли, ситы же не должны так поступать.</target>
+	</unit>
+	<unit bitflag="1360" id1="660207" id2="17" version="1065353216">
+		<source>And?</source>
+		<target>И что?</target>
+	</unit>
+	<unit bitflag="1345" id1="660208" id2="17" version="1065353216">
+		<source>That's not my problem.</source>
+		<target>Меня это не касается.</target>
+	</unit>
+	<unit bitflag="1360" id1="660208" id2="17" version="1065353216">
+		<source>So?</source>
+		<target>И?</target>
+	</unit>
+	<unit bitflag="1345" id1="660209" id2="17" version="1065353216">
+		<source>No, that's how it always is, isn't it? It's not anyone's problem until there's a lightsaber at your throat.</source>
+		<target>Нет, и вот так всегда, ведь правда? Никого ничего не касается, пока световой меч не коснётся глотки.</target>
+	</unit>
+	<unit bitflag="1345" id1="660211" id2="17" version="1065353216">
+		<source>Maybe if I'm lucky, Kayin'll put me out quickly.</source>
+		<target>Может быть, мне повезёт, и Кэин быстро прекратит мои страдания.</target>
+	</unit>
+	<unit bitflag="1345" id1="660213" id2="17" version="1065353216">
+		<source>Nnnnnggghh....</source>
+		<target>Мммммммм...</target>
+	</unit>
+	<unit bitflag="1360" id1="755404" id2="17" version="1065353216">
+		<source>How dare you. [Torture]</source>
+		<target>Как ты смеешь. [Пытать]</target>
+	</unit>
+</dialogue_file>

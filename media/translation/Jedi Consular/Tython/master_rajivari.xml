@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="80">
+	<unit bitflag="1345" id1="90823" id2="17" version="1065353216">
+		<source>Without the Forge, the Jedi lose their martial power. You must stop Nalen before he destroys it.</source>
+		<target>Без Кузницы джедаи потеряют свою военную мощь. Тебе нужно остановить Налена, прежде чем он её уничтожит.</target>
+	</unit>
+	<unit bitflag="1345" id1="90824" id2="17" version="1065353216">
+		<source>I thought you intended to destroy the Jedi. You attacked the Council.</source>
+		<target>Мне казалось, ты намеревался уничтожить джедаев. Ты напал на Совет.</target>
+	</unit>
+	<unit bitflag="1360" id1="90824" id2="17" version="1065353216">
+		<source>Isn't this what you wanted?</source>
+		<target>Разве ты не этого хотел?</target>
+	</unit>
+	<unit bitflag="1345" id1="90825" id2="17" version="1065353216">
+		<source>I sought to cleanse them, to begin anew. Nalen wants only ashes.</source>
+		<target>Я желал очистить их, начать сначала. Нален хочет лишь праха.</target>
+	</unit>
+	<unit bitflag="1345" id1="90827" id2="17" version="1065353216">
+		<source>Master Yuon hasn't discussed this &quot;Forge&quot; with me.</source>
+		<target>Мастер Юон не рассказывала мне об этой «Кузнице».</target>
+	</unit>
+	<unit bitflag="1360" id1="90827" id2="17" version="1065353216">
+		<source>What is the Forge?</source>
+		<target>Что такое Кузница?</target>
+	</unit>
+	<unit bitflag="1345" id1="90828" id2="17" version="1065353216">
+		<source>In my time, it crafted our blades and scientific instruments. Now, lightsabers are created there.</source>
+		<target>В моё время там изготавливались наши клинки и научное оборудование. Теперь там создают световые мечи.</target>
+	</unit>
+	<unit bitflag="1345" id1="90830" id2="17" version="1065353216">
+		<source>Perhaps I can correct your mistake.</source>
+		<target>Возможно, я смогу исправить твою ошибку.</target>
+	</unit>
+	<unit bitflag="1360" id1="90830" id2="17" version="1065353216">
+		<source>And clean up your mess.</source>
+		<target>И прибрать за тобой.</target>
+	</unit>
+	<unit bitflag="1345" id1="90831" id2="17" version="1065353216">
+		<source>That weapon won't suffice against Nalen. But you carry the hilt of the first blade--an old friend.</source>
+		<target>Этого оружия не поможет тебе против Налена. Но ты несёшь с собой рукоять первого клинка — старого друга.</target>
+	</unit>
+	<unit bitflag="1345" id1="90833" id2="17" version="1065353216">
+		<source>A simple procedure would convert it to a working lightsaber hilt. And perhaps a crystal from the Forge caves to power it, given its age.</source>
+		<target>Простая процедура превратит её в рабочую рукоять светового меча. И, возможно, понадобится кристалл из Кузницы, чтобы дать ей силу, учитывая её возраст.</target>
+	</unit>
+	<unit bitflag="1345" id1="90834" id2="17" version="1065353216">
+		<source>I appreciate your guidance, Master Rajivari.</source>
+		<target>Я благодарен вам за руководство, мастер Радживари.</target>
+	</unit>
+	<unit bitflag="1360" id1="90834" id2="17" version="1065353216">
+		<source>Thank you for your help.</source>
+		<target>Спасибо за помощь.</target>
+	</unit>
+	<unit bitflag="1345" id1="90835" id2="17" version="1065353216">
+		<source>Finally, I will carry the weapon of a Jedi.</source>
+		<target>Наконец-то у меня будет оружие джедая.</target>
+	</unit>
+	<unit bitflag="1360" id1="90835" id2="17" version="1065353216">
+		<source>At last. A lightsaber.</source>
+		<target>Наконец-то. Световой меч.</target>
+	</unit>
+	<unit bitflag="1360" id1="90836" id2="17" version="1065353216">
+		<source>So where is the Forge?</source>
+		<target>Так где Кузница?</target>
+	</unit>
+	<unit bitflag="1345" id1="90837" id2="17" version="1065353216">
+		<source>Pass through the caves, and seek the Forge at the mountain's summit. Stop Nalen, this... abomination my knowledge has created.</source>
+		<target>Пройди через пещеры и ищи Кузницу на вершине горы. Останови Налена, эту... мерзость, созданную моими знаниями.</target>
+	</unit>
+	<unit bitflag="1345" id1="90838" id2="17" version="1065353216">
+		<source>I understand what's at stake, and what you've made. I'll find him.</source>
+		<target>Я понимаю, что на кону и что ты сделал. Я найду его.</target>
+	</unit>
+	<unit bitflag="1360" id1="90838" id2="17" version="1065353216">
+		<source>If it must be done.</source>
+		<target>Если нужно.</target>
+	</unit>
+	<unit bitflag="1345" id1="90839" id2="17" version="1065353216">
+		<source>Master Rajivari, you've held on to this existence for thousands of years. Perhaps it's time for it to end.</source>
+		<target>Мастер Радживари, вы держались за такое существование тысячелетиями. Возможно, ему пора окончиться.</target>
+	</unit>
+	<unit bitflag="1360" id1="90839" id2="17" version="1065353216">
+		<source>I'd like to help you pass on.</source>
+		<target>Хотелось бы помочь вам идти дальше.</target>
+	</unit>
+	<unit bitflag="1345" id1="90840" id2="17" version="1065353216">
+		<source>Ah, child. You see only what the Jedi are. But I saw what could have been.</source>
+		<target>Ах, дитя. Ты видишь лишь то, чем джедаи стали. А я видел, чем они могли бы стать.</target>
+	</unit>
+	<unit bitflag="1345" id1="90842" id2="17" version="1065353216">
+		<source>My colleagues wouldn't listen. I spoke of strength; they cowered. I spoke of a golden age; they chattered of overstepping ourselves.</source>
+		<target>Мои коллеги не послушали. Я говорил о силе — они съёжились. Я говорил о золотом веке — они всё болтали о преодолении себя.</target>
+	</unit>
+	<unit bitflag="1345" id1="90844" id2="17" version="1065353216">
+		<source>It will happen. Someday, the right acolyte will carry my vision.</source>
+		<target>Это случится. Однажды правильный служитель примет мои взгляды.</target>
+	</unit>
+	<unit bitflag="1345" id1="90845" id2="17" version="1065353216">
+		<source>Those ideas drove you to betray the Council, your friends. And what about your apprentices?</source>
+		<target>Эти идеи привели вас к тому, что вы предали Совет, своих друзей. А как насчёт учеников?</target>
+	</unit>
+	<unit bitflag="1360" id1="90845" id2="17" version="1065353216">
+		<source>Your vision led to suffering.</source>
+		<target>Ваши взгляды привели к страданиям.</target>
+	</unit>
+	<unit bitflag="1345" id1="90846" id2="17" version="1065353216">
+		<source>My... apprentices. Yes. Cahel--always wiser than his age. And Vadria, and Orth.</source>
+		<target>Мои... ученики. Да. Кахэл — всегда мудрее своего возраста. И Вадрия, и Орт.</target>
+	</unit>
+	<unit bitflag="1345" id1="90848" id2="17" version="1065353216">
+		<source>You thought Nalen Raloch was the right acolyte. Now he's a threat to everything you helped to create.</source>
+		<target>Ты думал, что Нален Ралох — правильный служитель. Теперь он угроза всему, что ты помог создать.</target>
+	</unit>
+	<unit bitflag="1360" id1="90848" id2="17" version="1065353216">
+		<source>Another Nalen? You idiot.</source>
+		<target>Ещё один Нален? Ты дурак.</target>
+	</unit>
+	<unit bitflag="1345" id1="90849" id2="17" version="1065353216">
+		<source>But... but you followed. There will be others. What is waiting to me?</source>
+		<target>Но... но теперь тут ты. Будут и другие. Что ждёт меня?</target>
+	</unit>
+	<unit bitflag="1345" id1="90851" id2="17" version="1065353216">
+		<source>It took many powerful Jedi to stop you, Master Rajivari. Those who survived were clearly worthy to survive any challenge.</source>
+		<target>Потребовалось много мощных джедаев, чтобы остановить вас, мастер Радживари. Выжившие явно достойны пережить любое испытание.</target>
+	</unit>
+	<unit bitflag="1360" id1="90851" id2="17" version="1065353216">
+		<source>You already made us stronger.</source>
+		<target>Вы уже сделали нас сильнее.</target>
+	</unit>
+	<unit bitflag="1345" id1="90852" id2="17" version="1065353216">
+		<source>I remember that battle. My friends. My death.</source>
+		<target>Я помню ту битву. Моих друзей. Мою смерть.</target>
+	</unit>
+	<unit bitflag="1345" id1="90854" id2="17" version="1065353216">
+		<source>You speak of things I had long put aside.</source>
+		<target>Ты говоришь о вещах, давно мной забытых.</target>
+	</unit>
+	<unit bitflag="1345" id1="90855" id2="17" version="1065353216">
+		<source>You were a great man once. You deserve more than this ruin and your memories.</source>
+		<target>Вы некогда были великим. Вы заслуживаете большего, чем эти руины и ваши воспоминания.</target>
+	</unit>
+	<unit bitflag="1360" id1="90855" id2="17" version="1065353216">
+		<source>I can see how you suffer.</source>
+		<target>Я вижу ваши страдания.</target>
+	</unit>
+	<unit bitflag="1345" id1="90856" id2="17" version="1065353216">
+		<source>If you stay, you are no more than an echo of the past. But if you let go, you will always be a Jedi.</source>
+		<target>Если вы останетесь, вы будете лишь эхом прошлого. А если отпустите себя, навсегда останетесь джедаем.</target>
+	</unit>
+	<unit bitflag="1360" id1="90856" id2="17" version="1065353216">
+		<source>How will you be remembered?</source>
+		<target>Как вас запомнят?</target>
+	</unit>
+	<unit bitflag="1345" id1="90857" id2="17" version="1065353216">
+		<source>If our future is to be worthwhile, we Jedi must find it ourselves. You know this.</source>
+		<target>Если наше будущее должно стоить того, мы, джедаи, должны сами найти его. Вы знаете это.</target>
+	</unit>
+	<unit bitflag="1360" id1="90857" id2="17" version="1065353216">
+		<source>The Jedi's fate is our own.</source>
+		<target>Судьба джедаев — наша собственная.</target>
+	</unit>
+	<unit bitflag="1345" id1="90858" id2="17" version="1065353216">
+		<source>I... gave my dream to Nalen Raloch. And I saw a horror. Perhaps... it was always so.</source>
+		<target>Я... дал мою мечту в руки Налена Ралоха. И увидел лишь ужас. Возможно... всегда было так.</target>
+	</unit>
+	<unit bitflag="1345" id1="90860" id2="17" version="1065353216">
+		<source>Please. Stop him. Correct my last mistake.</source>
+		<target>Прошу. Останови его. Исправь мою последнюю ошибку.</target>
+	</unit>
+	<unit bitflag="1345" id1="90862" id2="17" version="1065353216">
+		<source>You must succeed. You are proof the Jedi did not lose their way after all.</source>
+		<target>Ты наверняка преуспеешь. Ты доказываешь, что джедаи всё же не потеряли свой путь.</target>
+	</unit>
+	<unit bitflag="1345" id1="90865" id2="17" version="1065353216">
+		<source>My mind is stronger than Nalen's. I could be the acolyte you wanted: use your device on me.</source>
+		<target>Мой разум сильнее разума Налена. Я могу быть тем служителем, которого вы хотели: примените устройство на мне.</target>
+	</unit>
+	<unit bitflag="1360" id1="90865" id2="17" version="1065353216">
+		<source>Give me your wisdom instead.</source>
+		<target>Дайте мне взамен свою мудрость.</target>
+	</unit>
+	<unit bitflag="1345" id1="90866" id2="17" version="1065353216">
+		<source>I... cannot. The devices were spent during Nalen's procedure.</source>
+		<target>Я... не могу. Устройства были израсходованы на процедуру Налена.</target>
+	</unit>
+	<unit bitflag="1345" id1="90868" id2="17" version="1065353216">
+		<source>You may take a small token from these laboratories, if you wish. Perhaps one day, you will be ready.</source>
+		<target>Ты можешь забрать из этих лабораторий небольшой символ, если хочешь. Возможно, однажды твоё время придёт.</target>
+	</unit>
+	<unit bitflag="1345" id1="90870" id2="17" version="1065353216">
+		<source>Go. Stop Nalen, before he destroys the Jedi Order. Someday, I will see it saved.</source>
+		<target>Иди. Останови Налена, пока он не уничтожил Орден. Однажды я увижу его спасённым.</target>
+	</unit>
+	<unit bitflag="1345" id1="90874" id2="17" version="1065353216">
+		<source>Of course, here is the other. Seekers of forbidden knowledge always have their pursuers.</source>
+		<target>Конечно, вот и другой. Ищущих запретное знание всегда преследуют.</target>
+	</unit>
+	<unit bitflag="1345" id1="90876" id2="17" version="1065353216">
+		<source>If you came for Nalen Raloch, he has been and gone. So much is fleeting. But I remain. And I remain the man I was. Rajivari.</source>
+		<target>Если ты здесь за Наленом Ралохом, он приходил и ушёл. Столь многое миомолётно. Но я остаюсь. И я остаюсь тем, кем был. Радживари.</target>
+	</unit>
+	<unit bitflag="1345" id1="90877" id2="17" version="1065353216">
+		<source>You can't be alive. The Council struck you down thousands of years ago.</source>
+		<target>Не может быть. Совет сразил тебя тысячелетия назад.</target>
+	</unit>
+	<unit bitflag="1360" id1="90877" id2="17" version="1065353216">
+		<source>How is this possible?</source>
+		<target>Как это возможно?</target>
+	</unit>
+	<unit bitflag="1360" id1="90878" id2="17" version="1065353216">
+		<source>This is no hologram...</source>
+		<target>Это не голограмма...</target>
+	</unit>
+	<unit bitflag="1345" id1="90879" id2="17" version="1065353216">
+		<source>This place is full of shadows and traps. You could be another.</source>
+		<target>Это место полно теней и ловушек. Ты можешь быть всего лишь ещё одной.</target>
+	</unit>
+	<unit bitflag="1360" id1="90879" id2="17" version="1065353216">
+		<source>I can't trust anything here.</source>
+		<target>Здесь ничему нельзя доверять.</target>
+	</unit>
+	<unit bitflag="3393" id1="90880" id2="17" version="1065353216">
+		<source>Small hunter, who is you speak to? Smell nothing. Or... must be Jedi seeing. Not for my eyes.</source>
+		<target>Маленький охотник, с кем ты говоришь? Ничего не чую. Или... должно быть, видение джедая. Не для моих глаз.</target>
+	</unit>
+	<unit bitflag="1345" id1="90882" id2="17" version="1065353216">
+		<source>Your pet is brighter than he looks.</source>
+		<target>Твой питомец умнее, чем выглядит.</target>
+	</unit>
+	<unit bitflag="1345" id1="90884" id2="17" version="1065353216">
+		<source>When my body failed me, I refused to become one with the Force. How could I? The Jedi were still imperfect.</source>
+		<target>Когда моё тело подвело меня, я отказался слиться с Силой. Как я мог? Джедаи всё ещё были несовершенны.</target>
+	</unit>
+	<unit bitflag="1345" id1="90886" id2="17" version="1065353216">
+		<source>Here, in my laboratory, I had refined certain... devices. I could give one chosen apprentice decades of experience in a day. An apprentice, to become worthy to carry my vision.</source>
+		<target>Здесь, в моей лаборатории, уже были созданы определённые... устройства. Я мог передать избранному ученику десятилетия опыта за день. Чтобы ученик стал достоин нести мои взгляды.</target>
+	</unit>
+	<unit bitflag="1345" id1="90887" id2="17" version="1065353216">
+		<source>Your wisdom and knowledge were preserved through you and these devices you created.</source>
+		<target>Твои мудрость и знания сохранились благодаря тебе и этим устройствам, созданным тобой.</target>
+	</unit>
+	<unit bitflag="1360" id1="90887" id2="17" version="1065353216">
+		<source>You are the Fount of Rajivari.</source>
+		<target>Ты Исток Радживари.</target>
+	</unit>
+	<unit bitflag="1345" id1="90888" id2="17" version="1065353216">
+		<source>I have waited, for new acolytes. I... believed Nalen Raloch was a suitable candidate.</source>
+		<target>Я ждал новых служителей. Я... поверил, что Нален Ралох подходящий кандидат.</target>
+	</unit>
+	<unit bitflag="1345" id1="90890" id2="17" version="1065353216">
+		<source>You said Nalen came here.</source>
+		<target>Говоришь, Нален приходил сюда.</target>
+	</unit>
+	<unit bitflag="1360" id1="90890" id2="17" version="1065353216">
+		<source>What about Nalen Raloch?</source>
+		<target>Как насчёт Налена Ралоха?</target>
+	</unit>
+	<unit bitflag="1345" id1="90891" id2="17" version="1065353216">
+		<source>Yes. Nalen. I had such hopes when he arrived.</source>
+		<target>Да. Нален. У меня были такие надежды, когда он пришёл.</target>
+	</unit>
+	<unit bitflag="1345" id1="90893" id2="17" version="1065353216">
+		<source>Your students trusted you, and you used them. They deserved better.</source>
+		<target>Твои ученики доверяли тебе, а ты их использовал. Они заслужили лучшего.</target>
+	</unit>
+	<unit bitflag="1360" id1="90893" id2="17" version="1065353216">
+		<source>No &quot;vision&quot; is worth that.</source>
+		<target>Никакие взгляды того не стоят.</target>
+	</unit>
+	<unit bitflag="1345" id1="90894" id2="17" version="1065353216">
+		<source>Those apprentices were like my own children! Gifted, loyal--I hoped this Nalen Raloch might succeed them.</source>
+		<target>Те ученики были мне как дети! Одарённые, верные... я надеялся, что этот Нален Ралох может последовать за ними.</target>
+	</unit>
+	<unit bitflag="1345" id1="90896" id2="17" version="1065353216">
+		<source>But... disappointment. Nalen walked through the traps instead of solving them. He suffered greatly.</source>
+		<target>Но... разочарование. Нален прошёл ловушки вместо их разрешения. Он сильно пострадал.</target>
+	</unit>
+	<unit bitflag="1345" id1="90898" id2="17" version="1065353216">
+		<source>You, at least, survived with your mind intact. Nalen, alas, did not.</source>
+		<target>Тебе хотя бы удалось сохранить свой разум. Налену, увы, нет.</target>
+	</unit>
+	<unit bitflag="1345" id1="90899" id2="17" version="1065353216">
+		<source>Now Nalen is... changed.</source>
+		<target>Теперь Нален... изменился.</target>
+	</unit>
+	<unit bitflag="1345" id1="90900" id2="17" version="1065353216">
+		<source>Can anything be done for Nalen?</source>
+		<target>Можно ли что-то сделать для Налена?</target>
+	</unit>
+	<unit bitflag="1360" id1="90900" id2="17" version="1065353216">
+		<source>Maybe I can save him.</source>
+		<target>Возможно, я могу спасти его.</target>
+	</unit>
+	<unit bitflag="1345" id1="90901" id2="17" version="1065353216">
+		<source>Possible, but doubtful.</source>
+		<target>Возможно, но сомнительно.</target>
+	</unit>
+	<unit bitflag="1345" id1="90903" id2="17" version="1065353216">
+		<source>I know the knowledge he gathered was twisting his mind.</source>
+		<target>Я знаю, что собираемое им знание искажало его разум.</target>
+	</unit>
+	<unit bitflag="1360" id1="90903" id2="17" version="1065353216">
+		<source>He was already changing.</source>
+		<target>Он уже менялся.</target>
+	</unit>
+	<unit bitflag="1345" id1="90904" id2="17" version="1065353216">
+		<source>Nalen's condition makes no difference, I just need to find him.</source>
+		<target>Состояние Налена не имеет значения, мне нужно лишь найти его.</target>
+	</unit>
+	<unit bitflag="1360" id1="90904" id2="17" version="1065353216">
+		<source>I only care about where he is.</source>
+		<target>Меня заботит лишь то, где он.</target>
+	</unit>
+	<unit bitflag="1345" id1="90905" id2="17" version="1065353216">
+		<source>I... miscalculated. Nalen's mind wasn't equal to the wisdom he demanded. I have made... not a successor, but a monster.</source>
+		<target>Я... просчитался. Разум Налена не мог вместить мудрости, что он требовал. Я создал... не последователя, а чудовище.</target>
+	</unit>
+	<unit bitflag="1345" id1="90907" id2="17" version="1065353216">
+		<source>Nalen will not remake the Jedi; he wishes to destroy them and everything else on this world. Beginning with the great Forge, where lightsabers are made.</source>
+		<target>Нален не создаст джедаев заново: он хочет уничтожить их и всё остальное на этой планете. Начиная с великой Кузницы, где создаются световые мечи.</target>
+	</unit>
+</dialogue_file>

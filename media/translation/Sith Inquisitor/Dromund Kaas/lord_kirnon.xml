@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="50">
+	<unit bitflag="1345" id1="680298" id2="17" version="1065353216">
+		<source>There! There she is! It's Lord Zash's apprentice. Surely she knows.</source>
+		<target>Вот! Вот и она! Это ученик лорда Заш. Она наверняка знает.</target>
+	</unit>
+	<unit bitflag="1345" id1="680300" id2="17" version="1065353216">
+		<source>She wouldn't tell us if she did.</source>
+		<target>Даже если и так, она нам не скажет.</target>
+	</unit>
+	<unit bitflag="1345" id1="680302" id2="17" version="1065353216">
+		<source>There! There he is! It's Lord Zash's apprentice. Surely he knows.</source>
+		<target>Вот! Вот и он! Это ученик лорда Заш. Он наверняка знает.</target>
+	</unit>
+	<unit bitflag="1345" id1="680304" id2="17" version="1065353216">
+		<source>He wouldn't tell us if he did.</source>
+		<target>Даже если и так, он нам не скажет.</target>
+	</unit>
+	<unit bitflag="3393" id1="680306" id2="17" version="1065353216">
+		<source>More prattle. It hurts the ears.</source>
+		<target>Снова болтовня. Мои уши вянут.</target>
+	</unit>
+	<unit bitflag="1345" id1="680308" id2="17" version="1065353216">
+		<source>Still, it doesn't hurt to ask, does it?</source>
+		<target>Всё равно, попытка не пытка, разве нет?</target>
+	</unit>
+	<unit bitflag="1345" id1="680310" id2="17" version="1065353216">
+		<source>Kirnon, let it rest.</source>
+		<target>Кирнон, оставь это.</target>
+	</unit>
+	<unit bitflag="1345" id1="680312" id2="17" version="1065353216">
+		<source>I will not let it rest. Everyone knows Lord Zash was at the party when Skotia was killed, and yet everyone knows she killed him.</source>
+		<target>Я не стану так это оставлять. Все знают, что когда Скоушию убили, лорд Заш была на вечеринке, но при этом все знают, что это она его убила.</target>
+	</unit>
+	<unit bitflag="1345" id1="680314" id2="17" version="1065353216">
+		<source>She's somehow devised a way of being in two places at once. If I let it rest, we'll all be dead!</source>
+		<target>Она как-то нашла способ находиться в двух местах одновременно. Если я оставлю всё, как есть, мы все погибнем!</target>
+	</unit>
+	<unit bitflag="1345" id1="680315" id2="17" version="1065353216">
+		<source>That's why I'll never tell her secrets.</source>
+		<target>Поэтому я ни за что не расскажу вам её тайны.</target>
+	</unit>
+	<unit bitflag="1360" id1="680315" id2="17" version="1065353216">
+		<source>You're right about that.</source>
+		<target>Вы правы.</target>
+	</unit>
+	<unit bitflag="1345" id1="680316" id2="17" version="1065353216">
+		<source>Good idea. Don't tell him anything, apprentice.</source>
+		<target>Отличная мысль. Ничего ему не рассказывай, ученик.</target>
+	</unit>
+	<unit bitflag="1345" id1="680318" id2="17" version="1065353216">
+		<source>But I must know!</source>
+		<target>Но я должен знать!</target>
+	</unit>
+	<unit bitflag="1360" id1="680320" id2="17" version="1065353216">
+		<source>You cowards.</source>
+		<target>Вы трусы.</target>
+	</unit>
+	<unit bitflag="1345" id1="680321" id2="17" version="1065353216">
+		<source>No, of course not. But one must be ever-vigilant on Dromund Kaas so that your enemies don't gain an advantage.</source>
+		<target>Нет, конечно нет. Но на Дромунд-Каасе всегда нужно быть бдительным, чтобы твои враги не получили преимущество.</target>
+	</unit>
+	<unit bitflag="1345" id1="680323" id2="17" version="1065353216">
+		<source>Maybe you shouldn't talk so much, then.</source>
+		<target>Может быть, тогда тебе не следует так много болтать.</target>
+	</unit>
+	<unit bitflag="1345" id1="680325" id2="17" version="1065353216">
+		<source>Don't be silly. I'm the one who killed Skotia.</source>
+		<target>Не говорите глупостей. Это я убил Скоушию.</target>
+	</unit>
+	<unit bitflag="1360" id1="680325" id2="17" version="1065353216">
+		<source>Zash didn't do anything.</source>
+		<target>Заш ничего не делала.</target>
+	</unit>
+	<unit bitflag="1345" id1="680326" id2="17" version="1065353216">
+		<source>Now you're the one who's being silly.</source>
+		<target>Теперь ты говоришь глупости.</target>
+	</unit>
+	<unit bitflag="1345" id1="680328" id2="17" version="1065353216">
+		<source>I wouldn't underestimate her, Kirnon. She looks dangerous enough to me.</source>
+		<target>Я бы не стал её недооценивать, Кирнон. Мне кажется, она довольно опасна.</target>
+	</unit>
+	<unit bitflag="1345" id1="680330" id2="17" version="1065353216">
+		<source>But a Dark Lord of the Sith! She's only an apprentice, Calaverous.</source>
+		<target>Но Тёмный лорд ситов! Она всего лишь ученик, Калаверус.</target>
+	</unit>
+	<unit bitflag="1345" id1="680332" id2="17" version="1065353216">
+		<source>I wouldn't underestimate him, Kirnon. He looks dangerous enough to me.</source>
+		<target>Я бы не стал его недооценивать, Кирнон. Мне кажется, он довольно опасен.</target>
+	</unit>
+	<unit bitflag="1345" id1="680334" id2="17" version="1065353216">
+		<source>But a Dark Lord of the Sith! He's only an apprentice, Calaverous.</source>
+		<target>Но Тёмный лорд ситов! Он всего лишь ученик, Калаверус.</target>
+	</unit>
+	<unit bitflag="1345" id1="680336" id2="17" version="1065353216">
+		<source>Please, you must tell me--how did Zash kill Darth Skotia?</source>
+		<target>Прошу, ты должен мне рассказать... Каким образом Заш убила Дарта Скоушию?</target>
+	</unit>
+	<unit bitflag="1345" id1="680337" id2="17" version="1065353216">
+		<source>Lord Zash is innocent.</source>
+		<target>Лорд Заш невиновна.</target>
+	</unit>
+	<unit bitflag="1360" id1="680337" id2="17" version="1065353216">
+		<source>She didn't.</source>
+		<target>Она его не убивала.</target>
+	</unit>
+	<unit bitflag="1345" id1="680338" id2="17" version="1065353216">
+		<source>How many times do I have to say it? It was me, me, me, me, me.</source>
+		<target>Сколько раз мне вам повторять? Это я, я, я, я, я.</target>
+	</unit>
+	<unit bitflag="1360" id1="680338" id2="17" version="1065353216">
+		<source>I told you--I did it.</source>
+		<target>Говорю вам, это я его убил.</target>
+	</unit>
+	<unit bitflag="1345" id1="680339" id2="17" version="1065353216">
+		<source>Actually, I killed Skotia.</source>
+		<target>Вообще-то, это я убил Скоушию.</target>
+	</unit>
+	<unit bitflag="1360" id1="680339" id2="17" version="1065353216">
+		<source>I did it.</source>
+		<target>Я его убил.</target>
+	</unit>
+	<unit bitflag="1345" id1="680340" id2="17" version="1065353216">
+		<source>Well, first she got a droid, and then a wig....</source>
+		<target>Что ж, сперва она взяла дроида, затем шляпу...</target>
+	</unit>
+	<unit bitflag="1360" id1="680340" id2="17" version="1065353216">
+		<source>It's a long story.</source>
+		<target>Долго рассказывать.</target>
+	</unit>
+	<unit bitflag="1345" id1="680341" id2="17" version="1065353216">
+		<source>Clearly, she's not going to tell you, Kirnon. Let it rest.</source>
+		<target>Совершенно ясно, что она ничего тебе не расскажет, Кирнон. Оставь это.</target>
+	</unit>
+	<unit bitflag="1345" id1="680343" id2="17" version="1065353216">
+		<source>Clearly, he's not saying anything, Kirnon. Let it rest.</source>
+		<target>Совершенно ясно, что он ничего тебе не расскажет, Кирнон. Оставь это.</target>
+	</unit>
+	<unit bitflag="1345" id1="680345" id2="17" version="1065353216">
+		<source>Fine, then. Fine. But I'm warning you, Calaverous--Lord Zash is becoming too powerful, too quickly.</source>
+		<target>Ладно. Ладно. Но предупреждаю тебя, Калаверус... лорд Заш становится слишком могущественной, слишком быстро.</target>
+	</unit>
+	<unit bitflag="1345" id1="680347" id2="17" version="1065353216">
+		<source>Since when has anyone in the history of the Sith committed a murder so brazenly, yet make it appear that she was somewhere else the entire time?</source>
+		<target>С каких это пор кто-то в истории ситов так нагло совершает убийство, причём создавая видимость, что находится всё это время совершенно в другом месте?</target>
+	</unit>
+	<unit bitflag="1345" id1="680349" id2="17" version="1065353216">
+		<source>It's enough to wake the Emperor, I tell you.</source>
+		<target>Говорю тебе, этого достаточно, чтобы пробудить Императора.</target>
+	</unit>
+	<unit bitflag="1345" id1="680352" id2="17" version="1065353216">
+		<source>Your complaining is enough to wake the Emperor. We should all be killing our rivals so efficiently as Lord Zash. Isn't that right, apprentice?</source>
+		<target>Твоего нытья достаточно, чтобы пробудить Императора. Нам всем стоило бы убивать своих соперников с такой же эффективностью, как лорд Заш. Не правда ли, ученик?</target>
+	</unit>
+	<unit bitflag="1345" id1="680353" id2="17" version="1065353216">
+		<source>You could all learn something from Zash.</source>
+		<target>Вы все могли бы чему-нибудь да научиться у лорда Заш.</target>
+	</unit>
+	<unit bitflag="1360" id1="680353" id2="17" version="1065353216">
+		<source>Exactly.</source>
+		<target>Именно.</target>
+	</unit>
+	<unit bitflag="1345" id1="680354" id2="17" version="1065353216">
+		<source>And from you, no doubt.</source>
+		<target>И, без всяких сомнений, у тебя.</target>
+	</unit>
+	<unit bitflag="1345" id1="680356" id2="17" version="1065353216">
+		<source>From that insignificant little apprentice? No, I don't think so.</source>
+		<target>У этого ничтожного ученичка? Нет, я так не думаю.</target>
+	</unit>
+	<unit bitflag="1345" id1="680358" id2="17" version="1065353216">
+		<source>That is Lord Zash's &quot;insignificant little apprentice,&quot; Kirnon. I wouldn't put anything past her.</source>
+		<target>Это «ничтожный ученичок» лорда Заш, Кирнон. Я бы не сбрасывал её со счетов.</target>
+	</unit>
+	<unit bitflag="1345" id1="680359" id2="17" version="1065353216">
+		<source>That is Lord Zash's &quot;insignificant little apprentice,&quot; Kirnon. I wouldn't put anything past him.</source>
+		<target>Это «ничтожный ученичок» лорда Заш, Кирнон. Я бы не сбрасывал его со счетов.</target>
+	</unit>
+	<unit bitflag="1345" id1="680360" id2="17" version="1065353216">
+		<source>If you'll excuse me, I have to get going.</source>
+		<target>Прошу меня простить, мне нужно идти.</target>
+	</unit>
+	<unit bitflag="1360" id1="680360" id2="17" version="1065353216">
+		<source>I must go.</source>
+		<target>Я должен идти.</target>
+	</unit>
+	<unit bitflag="1345" id1="680361" id2="17" version="1065353216">
+		<source>You two have fun arguing about that.</source>
+		<target>Желаю вам хорошенько повеселиться, ведь в спорах рождается истина.</target>
+	</unit>
+	<unit bitflag="1360" id1="680361" id2="17" version="1065353216">
+		<source>I'll just let you two go.</source>
+		<target>Я вас отпускаю.</target>
+	</unit>
+	<unit bitflag="1345" id1="680362" id2="17" version="1065353216">
+		<source>Fine, then. I'll just have to find out some other way.</source>
+		<target>Ладно. Мне просто придётся найти какой-нибудь другой способ.</target>
+	</unit>
+	<unit bitflag="1345" id1="680364" id2="17" version="1065353216">
+		<source>These are strange times. Strange times.</source>
+		<target>Странные времена. Странные.</target>
+	</unit>
+</dialogue_file>

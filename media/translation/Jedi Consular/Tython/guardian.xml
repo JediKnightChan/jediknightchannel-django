@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="16">
+	<unit bitflag="1345" id1="90752" id2="17" version="1065353216">
+		<source>No further, seeker. You come here unpurified. It is an insult to Rajivari's memory.</source>
+		<target>Дальше ни шагу, искатель. Ты приходишь сюда неочищенным. Это оскорбление памяти Радживари.</target>
+	</unit>
+	<unit bitflag="1345" id1="90754" id2="17" version="1065353216">
+		<source>Rajivari's apprentices were flawed. But they walked the fire and were reborn.</source>
+		<target>У учеников Радживари были изъяны. Но они прошли пламя и были возрождены.</target>
+	</unit>
+	<unit bitflag="3393" id1="90756" id2="17" version="1065353216">
+		<source>Purification. Chance to atone for losing score--I would do.</source>
+		<target>Очищение. Шанс искупить потерю счёта — я бы прошёл его.</target>
+	</unit>
+	<unit bitflag="1345" id1="90758" id2="17" version="1065353216">
+		<source>Only a personal sacrifice will show your strength and resolve, seeker. Will you be purified by flame?</source>
+		<target>Только самопожертвование покажет твои силу и решимость, искатель. Ты очистишься пламенем?</target>
+	</unit>
+	<unit bitflag="1345" id1="90759" id2="17" version="1065353216">
+		<source>I will stand in the fire, and show you my strength.</source>
+		<target>Я встану в огонь и покажу свою силу.</target>
+	</unit>
+	<unit bitflag="1360" id1="90759" id2="17" version="1065353216">
+		<source>Yes. I am resolute.</source>
+		<target>Да. Я непоколебим.</target>
+	</unit>
+	<unit bitflag="1345" id1="90760" id2="17" version="1065353216">
+		<source>No. How can sacrificing my strength make me more powerful?</source>
+		<target>Нет. Как жертвование моей силы сделает меня сильнее?</target>
+	</unit>
+	<unit bitflag="1360" id1="90760" id2="17" version="1065353216">
+		<source>Sacrifice is foolish.</source>
+		<target>Жертвование глупо.</target>
+	</unit>
+	<unit bitflag="1345" id1="90761" id2="17" version="1065353216">
+		<source>Then Master Rajivari's teachings have guided you.</source>
+		<target>Значит, тебя ведут учения мастера Радживари.</target>
+	</unit>
+	<unit bitflag="1345" id1="90763" id2="17" version="1065353216">
+		<source>Go forward, seeker.</source>
+		<target>Иди вперёд, искатель.</target>
+	</unit>
+	<unit bitflag="1345" id1="90764" id2="17" version="1065353216">
+		<source>If my followers are weak, I am nothing. Purify Qyzen.</source>
+		<target>Если мои спутники слабы, я ничто. Очисти Кайзена.</target>
+	</unit>
+	<unit bitflag="1360" id1="90764" id2="17" version="1065353216">
+		<source>Make my ally pure.</source>
+		<target>Очисти моего спутника.</target>
+	</unit>
+	<unit bitflag="1345" id1="90765" id2="17" version="1065353216">
+		<source>If it makes me stronger, any risk is necessary.</source>
+		<target>Если это сделает меня сильнее, любой риск необходим.</target>
+	</unit>
+	<unit bitflag="1360" id1="90765" id2="17" version="1065353216">
+		<source>Only if it gives me strength.</source>
+		<target>Только если это даст мне силу.</target>
+	</unit>
+	<unit bitflag="1345" id1="90766" id2="17" version="1065353216">
+		<source>Powerful words. But self-sacrifice is the path of a fool.</source>
+		<target>Сильные слова. Но самопожертвование — путь глупца.</target>
+	</unit>
+	<unit bitflag="1345" id1="90768" id2="17" version="1065353216">
+		<source>The Fount of Rajivari is not kind to intruders. Flee, or suffer.</source>
+		<target>Исток Радживари не знает пощады ко вторгающимся. Беги отсюда — или страдай.</target>
+	</unit>
+</dialogue_file>

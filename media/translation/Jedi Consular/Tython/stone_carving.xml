@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="15">
+	<unit bitflag="321" id1="91857" id2="17" version="1065353216">
+		<source>[As soon as you touch the stone, you smell something seeping into the room.]</source>
+		<target>[Как только вы дотрагиваетесь до камня, вы чувствуете, как что-то просачивается в зал]</target>
+	</unit>
+	<unit bitflag="3393" id1="91859" id2="17" version="1065353216">
+		<source>Small hunter, I scent--yes, is cyanogen gas. Poison. Will not harm me, but you....</source>
+		<target>Маленький охотник, я чую... да, это газ циан. Яд. Мне не повредит, но тебе...</target>
+	</unit>
+	<unit bitflag="321" id1="91861" id2="17" version="1065353216">
+		<source>[It smells like cyanogen gas, an often-deadly poison.]</source>
+		<target>[По запаху газ похож на циан, яд, зачастую смертельный]</target>
+	</unit>
+	<unit bitflag="321" id1="91863" id2="17" version="1065353216">
+		<source>[The smell of gas is getting worse. Already it is becoming difficult to breathe.]</source>
+		<target>[Запах газа становится всё невыносимей. Уже становится трудно дышать]</target>
+	</unit>
+	<unit bitflag="1345" id1="91864" id2="17" version="1065353216">
+		<source>I will not die without a fight!</source>
+		<target>Я не сдамся без битвы!</target>
+	</unit>
+	<unit bitflag="1360" id1="91864" id2="17" version="1065353216">
+		<source>[Attack the stone]</source>
+		<target>[Напасть на камень]</target>
+	</unit>
+	<unit bitflag="321" id1="91865" id2="17" version="1065353216">
+		<source>[As your blow hits, the smell of cyanogen gas begins to fade.]</source>
+		<target>[Когда вы бьёте по камню, запах циана начинает исчезать]</target>
+	</unit>
+	<unit bitflag="321" id1="91867" id2="17" version="1065353216">
+		<source>[After a minute or two, you can breathe easily again.]</source>
+		<target>[Через пару минут вам становится снова легко дышать]</target>
+	</unit>
+	<unit bitflag="1345" id1="91868" id2="17" version="1065353216">
+		<source>There must be a switch or lever somewhere.</source>
+		<target>Здесь где-нибудь должен быть переключатель или рычаг.</target>
+	</unit>
+	<unit bitflag="1360" id1="91868" id2="17" version="1065353216">
+		<source>[Try to stop the gas]</source>
+		<target>[Попытаться остановить газ]</target>
+	</unit>
+	<unit bitflag="321" id1="91869" id2="17" version="1065353216">
+		<source>[As you search, the smell of gas grows stronger, and you pass out.]</source>
+		<target>[Пока вы ищете, запах газа становится сильнее, и вы теряете сознание]</target>
+	</unit>
+	<unit bitflag="1345" id1="91871" id2="17" version="1065353216">
+		<source>I will not be afraid. I can survive this.</source>
+		<target>Я не страшусь. Я могу пережить это.</target>
+	</unit>
+	<unit bitflag="1360" id1="91871" id2="17" version="1065353216">
+		<source>[Meditate and endure it]</source>
+		<target>[Стерпеть запах и медитировать]</target>
+	</unit>
+	<unit bitflag="321" id1="91874" id2="17" version="1065353216">
+		<source>[You suffer the cyanogen gas for several minutes before it recedes.]</source>
+		<target>[Вы страдаете от воздействия циана несколько минут, затем газ отступает]</target>
+	</unit>
+	<unit bitflag="321" id1="91876" id2="17" version="1065353216">
+		<source>[Your Jedi training has kept you alive, but you feel deathly ill.]</source>
+		<target>[Ваше обучение джедаев сохранило вам жизнь, но вы чувствуете себя смертельно больным]</target>
+	</unit>
+</dialogue_file>

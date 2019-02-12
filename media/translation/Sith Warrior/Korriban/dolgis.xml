@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="34">
+	<unit bitflag="1345" id1="659206" id2="17" version="1065353216">
+		<source>No! Hold up, hold up! Look, I was wrong. What they're saying about you... totally true. So... strong. I don't wanna die!</source>
+		<target>Нет! Погоди, погоди! Послушай, я был не прав. Всё, что они говорят о тебе... абсолютная правда. Такая... сила. Я не хочу умирать!</target>
+	</unit>
+	<unit bitflag="1345" id1="659207" id2="17" version="1065353216">
+		<source>Ask for no mercy and expect none. Die like a Sith!</source>
+		<target>Не проси пощады и не жди её. Умри как сит!</target>
+	</unit>
+	<unit bitflag="1360" id1="659207" id2="17" version="1065353216">
+		<source>You earned this. [Kill him]</source>
+		<target>Ты заслужил это. [Убить его]</target>
+	</unit>
+	<unit bitflag="1360" id1="659208" id2="17" version="1065353216">
+		<source>Don't cross me again.</source>
+		<target>Не нарывайся в следующий раз.</target>
+	</unit>
+	<unit bitflag="1345" id1="659209" id2="17" version="1065353216">
+		<source>I'm afraid it's a little late for begging. What will you give me to let you live?</source>
+		<target>Боюсь, уже поздновато для мольб. Что ты дашь мне, чтобы выжить?</target>
+	</unit>
+	<unit bitflag="1360" id1="659209" id2="17" version="1065353216">
+		<source>Then buy your life.</source>
+		<target>Выкупи свою жизнь.</target>
+	</unit>
+	<unit bitflag="1345" id1="659210" id2="17" version="1065353216">
+		<source>Here, I've... got a few credits. Take 'em!</source>
+		<target>Вот, у меня... есть немного кредитов. Возьми их!</target>
+	</unit>
+	<unit bitflag="1360" id1="659211" id2="17" version="1065353216">
+		<source>Now go.</source>
+		<target>Теперь иди.</target>
+	</unit>
+	<unit bitflag="1360" id1="659212" id2="17" version="1065353216">
+		<source>They'll do nicely.</source>
+		<target>Сойдёт.</target>
+	</unit>
+	<unit bitflag="1345" id1="659213" id2="17" version="1065353216">
+		<source>You won't see me again. I promise.</source>
+		<target>Ты меня больше не увидишь. Обещаю.</target>
+	</unit>
+	<unit bitflag="1345" id1="659216" id2="17" version="1065353216">
+		<source>Thanks for making that easy. You saved me the trouble of looting your corpse.</source>
+		<target>Спасибо, что облегчил мне задачу. Ты спас меня от необходимости обшаривать труп.</target>
+	</unit>
+	<unit bitflag="1360" id1="659216" id2="17" version="1065353216">
+		<source>Fool. [Kill him]</source>
+		<target>Идиот. [Убить его]</target>
+	</unit>
+	<unit bitflag="1345" id1="659217" id2="17" version="1065353216">
+		<source>I failed you, Vemrin!</source>
+		<target>Я подвёл тебя, Вемрин!</target>
+	</unit>
+	<unit bitflag="1345" id1="659223" id2="17" version="1065353216">
+		<source>Well, look who's here. Remember me?</source>
+		<target>Посмотри-ка кто тут. Помнишь меня?</target>
+	</unit>
+	<unit bitflag="1345" id1="659224" id2="17" version="1065353216">
+		<source>I never forget a face. Your name is Dolgis, right? Vemrin's boy.</source>
+		<target>Я никогда не забываю лица. Ты Долгис, так? Слуга Вемрина.</target>
+	</unit>
+	<unit bitflag="1360" id1="659224" id2="17" version="1065353216">
+		<source>Of course I do.</source>
+		<target>Конечно.</target>
+	</unit>
+	<unit bitflag="1345" id1="659225" id2="17" version="1065353216">
+		<source>Very good. It's good to know the name of your killer.</source>
+		<target>Очень хорошо. Хорошо, когда знаешь своего убийцу.</target>
+	</unit>
+	<unit bitflag="1360" id1="659227" id2="17" version="1065353216">
+		<source>What do you want?</source>
+		<target>Чего ты хочешь?</target>
+	</unit>
+	<unit bitflag="1345" id1="659228" id2="17" version="1065353216">
+		<source>Vemrin thought I should follow up on our earlier discussion.</source>
+		<target>Вемрин подумал, что я должен продолжить наш прошлый разговор.</target>
+	</unit>
+	<unit bitflag="1360" id1="659230" id2="17" version="1065353216">
+		<source>Don't cross me, Dolgis.</source>
+		<target>Не нарывайся, Долгис.</target>
+	</unit>
+	<unit bitflag="1345" id1="659231" id2="17" version="1065353216">
+		<source>I put myself in your way, buddy. On purpose.</source>
+		<target>Я неспроста встал у тебя на пути, приятель.</target>
+	</unit>
+	<unit bitflag="1345" id1="659233" id2="17" version="1065353216">
+		<source>Notice anything interesting? No witnesses. No witnesses means no rules.</source>
+		<target>Ничего интересного не замечаешь? Нет свидетелей. Нет свидетелей — нет правил.</target>
+	</unit>
+	<unit bitflag="1345" id1="659235" id2="17" version="1065353216">
+		<source>You thought Vemrin wouldn't find out what happened? You thought Vemrin wouldn't send me?</source>
+		<target>Думаешь, Вемрин не узнал бы, что произошло? Думаешь, Вермин не послал бы меня?</target>
+	</unit>
+	<unit bitflag="1345" id1="659236" id2="17" version="1065353216">
+		<source>I'm not sure what you're talking about. What happened?</source>
+		<target>Не уверен, что понимаю, о чём ты. Что случилось?</target>
+	</unit>
+	<unit bitflag="1360" id1="659236" id2="17" version="1065353216">
+		<source>This doesn't make sense.</source>
+		<target>Я не понял.</target>
+	</unit>
+	<unit bitflag="1345" id1="659237" id2="17" version="1065353216">
+		<source>Don't play stupid with me. Overseer Tremel's little game ends here.</source>
+		<target>Не прикидывайся дурачком. Маленькая игра надзирателя Тремела закончится здесь.</target>
+	</unit>
+	<unit bitflag="1360" id1="659239" id2="17" version="1065353216">
+		<source>I'm not intimidated.</source>
+		<target>Не страшно.</target>
+	</unit>
+	<unit bitflag="1345" id1="659240" id2="17" version="1065353216">
+		<source>We'll see about that, won't we?</source>
+		<target>Ну посмотрим.</target>
+	</unit>
+	<unit bitflag="1345" id1="659242" id2="17" version="1065353216">
+		<source>I've heard about people like you. No sense in your head, survival instinct on the blink. You clearly have a death wish.</source>
+		<target>Я слышал о тебе подобных. Голова без мозгов, инстинкт самосохранения на нуле. Да ты явно ищешь смерти.</target>
+	</unit>
+	<unit bitflag="1360" id1="659242" id2="17" version="1065353216">
+		<source>You want to die, stupid?</source>
+		<target>Хочешь умереть, глупец?</target>
+	</unit>
+	<unit bitflag="1345" id1="659243" id2="17" version="1065353216">
+		<source>Not exactly. I got a kill wish.</source>
+		<target>Не совсем. Я хочу убить.</target>
+	</unit>
+	<unit bitflag="1345" id1="659245" id2="17" version="1065353216">
+		<source>No more shortcuts. No more special treatment. You're just gonna be another dead failure on Korriban.</source>
+		<target>Никаких больше лёгких путей. Никакого специального обращения. Ты станешь лишь очередным слабаком, погибшим на Коррибане.</target>
+	</unit>
+	<unit bitflag="1345" id1="659247" id2="17" version="1065353216">
+		<source>I got nothing to say to you.</source>
+		<target>Мне нечего тебе сказать.</target>
+	</unit>
+	<unit bitflag="1345" id1="659248" id2="17" version="1065353216">
+		<source>You supposed to be here?</source>
+		<target>Разве ты должен быть здесь?</target>
+	</unit>
+</dialogue_file>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="5">
+	<unit bitflag="1345" id1="91942" id2="17" version="1065353216">
+		<source>Nalen was always the best of us. Wonder what kind of man he is now.</source>
+		<target>Нален всегда был лучшим из нас. Интересно, каков он сейчас.</target>
+	</unit>
+	<unit bitflag="1345" id1="91943" id2="17" version="1065353216">
+		<source>We're burying Nalen in the woods. He liked it out there.</source>
+		<target>Мы похороним Налена в лесах. Ему там нравилось.</target>
+	</unit>
+	<unit bitflag="1345" id1="91946" id2="17" version="1065353216">
+		<source>Not into that peace and harmony stuff, are you?</source>
+		<target>Не особо веришь во все эти мир и гармонию, да?</target>
+	</unit>
+	<unit bitflag="1345" id1="91949" id2="17" version="1065353216">
+		<source>Been too long since we had time to celebrate.</source>
+		<target>У нас слишком долго не было времени праздновать.</target>
+	</unit>
+	<unit bitflag="1345" id1="91950" id2="17" version="1065353216">
+		<source>What?</source>
+		<target>Что?</target>
+	</unit>
+</dialogue_file>

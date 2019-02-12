@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="4">
+	<unit bitflag="321" id1="91595" id2="17" version="1065353216">
+		<source>[This appears to be another recording by one of Master Rajivari's apprentices.]</source>
+		<target>[Это, похоже, ещё одна запись одного из учеников мастера Радживари]</target>
+	</unit>
+	<unit bitflag="1345" id1="91597" id2="17" version="1065353216">
+		<source>The bleeding won't stop. Blast it! Why did I watch Vadria's back?</source>
+		<target>Кровотечение никак не остановится. Проклятье? Зачем я прикрывал Вадрию?</target>
+	</unit>
+	<unit bitflag="1345" id1="91599" id2="17" version="1065353216">
+		<source>Master Rajivari's seventh principle said it: sacrificing your strength is the path of a fool. I should have just let her die.</source>
+		<target>Седьмой принцип мастера Радживари гласил: жертвовать своей силой — путь глупца. Нужно было просто оставить её умирать.</target>
+	</unit>
+	<unit bitflag="1345" id1="91601" id2="17" version="1065353216">
+		<source>It doesn't matter. This siege is nearly over. This can only end one way.</source>
+		<target>Это неважно. Осада почти окончена. Это может закончиться лишь одним образом.</target>
+	</unit>
+</dialogue_file>

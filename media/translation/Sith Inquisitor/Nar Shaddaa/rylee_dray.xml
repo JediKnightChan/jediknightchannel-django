@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="110">
+	<unit bitflag="1345" id1="655086" id2="17" version="1065353216">
+		<source>Good luck talking to Gord Madel and setting up the groundquake.</source>
+		<target>Желаю благополучно договориться с Гордом Маделом и устроить землетрясение.</target>
+	</unit>
+	<unit bitflag="1345" id1="655087" id2="17" version="1065353216">
+		<source>My lord... I... did you want something?</source>
+		<target>Владыка... я... вы что-то хотели?</target>
+	</unit>
+	<unit bitflag="1345" id1="655088" id2="17" version="1065353216">
+		<source>I'm interested to learn a little more about you.</source>
+		<target>Мне интересно узнать о тебе чуточку побольше.</target>
+	</unit>
+	<unit bitflag="1360" id1="655088" id2="17" version="1065353216">
+		<source>Just curious.</source>
+		<target>Просто любопытство.</target>
+	</unit>
+	<unit bitflag="1345" id1="655089" id2="17" version="1065353216">
+		<source>Um, well, I don't know what there is to tell.</source>
+		<target>Эм, ну, я даже не знаю, что тут можно рассказать.</target>
+	</unit>
+	<unit bitflag="1345" id1="655091" id2="17" version="1065353216">
+		<source>I was born on Nar Shaddaa. I'm good with--with computers and things... which I guess is why Paladius recruited me.</source>
+		<target>Я родилась на Нар-Шаддаа. Я хорошо разбираюсь в... в компьютерах... поэтому, думаю, Паладий меня и завербовал.</target>
+	</unit>
+	<unit bitflag="1345" id1="655093" id2="17" version="1065353216">
+		<source>Just a little relaxation with my favorite female cultist.</source>
+		<target>Просто хочу немного расслабиться с моей любимой культисткой.</target>
+	</unit>
+	<unit bitflag="1360" id1="655093" id2="17" version="1065353216">
+		<source>A little chat, that's all.</source>
+		<target>Просто хочу немного поболтать.</target>
+	</unit>
+	<unit bitflag="1345" id1="655094" id2="17" version="1065353216">
+		<source>Um, well, I'm flattered, but... I don't know, I mean, I'm just the computer girl.</source>
+		<target>Эм, что ж, я польщена, но... не знаю, то есть, я же просто компьютерная девочка.</target>
+	</unit>
+	<unit bitflag="1345" id1="655096" id2="17" version="1065353216">
+		<source>Paladius brought me on to handle his records and then things went south with Destris, and the numbers didn't come out right and suddenly--</source>
+		<target>Паладий пригласил меня заниматься с его отчётами, а затем с Дестрисом всё пошло наперекосяк, числа не совпали, и вдруг...</target>
+	</unit>
+	<unit bitflag="1345" id1="655098" id2="17" version="1065353216">
+		<source>It's been a long time since I had a back rub.</source>
+		<target>Давно мне уже никто не делал массаж спинки.</target>
+	</unit>
+	<unit bitflag="1360" id1="655098" id2="17" version="1065353216">
+		<source>A little worshipful attention.</source>
+		<target>Немного заслуженного внимания.</target>
+	</unit>
+	<unit bitflag="1345" id1="655099" id2="17" version="1065353216">
+		<source>I--um, I don't know. I've never, um... I guess I could give it a try?</source>
+		<target>Я... эм, не знаю. Я никогда, эм... думаю, я могла бы попробовать?</target>
+	</unit>
+	<unit bitflag="1345" id1="655100" id2="17" version="1065353216">
+		<source>If you don't know how, you'll only make things worse.</source>
+		<target>Если ты не умеешь, то сделаешь только хуже.</target>
+	</unit>
+	<unit bitflag="1360" id1="655100" id2="17" version="1065353216">
+		<source>No, don't bother.</source>
+		<target>Нет, не беспокойся.</target>
+	</unit>
+	<unit bitflag="1345" id1="655101" id2="17" version="1065353216">
+		<source>I didn't mean to make you uncomfortable.</source>
+		<target>Я не хотел тебя смутить.</target>
+	</unit>
+	<unit bitflag="1360" id1="655101" id2="17" version="1065353216">
+		<source>It's okay.</source>
+		<target>Всё в порядке.</target>
+	</unit>
+	<unit bitflag="1360" id1="655102" id2="17" version="1065353216">
+		<source>Always so serious.</source>
+		<target>Всегда так серьёзна.</target>
+	</unit>
+	<unit bitflag="1345" id1="655103" id2="17" version="1065353216">
+		<source>Oh, no, it's okay. It wasn't that... it's just... you're a little intimidating.</source>
+		<target>Ох, нет, всё в порядке. Это не было так... это просто... вы немного пугающий.</target>
+	</unit>
+	<unit bitflag="1345" id1="655105" id2="17" version="1065353216">
+		<source>I'm sorry, I'm rambling. I shouldn't ramble.</source>
+		<target>Простите, я говорю бессвязно. Мне не стоит этого делать.</target>
+	</unit>
+	<unit bitflag="1345" id1="655106" id2="17" version="1065353216">
+		<source>You should be quiet before you annoy me further.</source>
+		<target>Тебе следует помолчать, чтобы не раздражать меня.</target>
+	</unit>
+	<unit bitflag="1360" id1="655106" id2="17" version="1065353216">
+		<source>You're right, it's irritating.</source>
+		<target>Ты права, это раздражает.</target>
+	</unit>
+	<unit bitflag="1345" id1="655107" id2="17" version="1065353216">
+		<source>I like listening to you.</source>
+		<target>Мне нравится тебя слушать.</target>
+	</unit>
+	<unit bitflag="1360" id1="655107" id2="17" version="1065353216">
+		<source>It's okay.</source>
+		<target>Всё в порядке.</target>
+	</unit>
+	<unit bitflag="1345" id1="655108" id2="17" version="1065353216">
+		<source>You know, you're really sweet. Scary, but sweet.</source>
+		<target>Знаете, вы вправду милый. Страшный, но милый.</target>
+	</unit>
+	<unit bitflag="1345" id1="655110" id2="17" version="1065353216">
+		<source>Would you like to, I don't know, get something to drink--or I could show you around the compound, or....</source>
+		<target>Может быть, вам хочется, не знаю, что-нибудь выпить... или я могла бы показать вам поместье, или...</target>
+	</unit>
+	<unit bitflag="1345" id1="655111" id2="17" version="1065353216">
+		<source>I think this conversation has gone on long enough.</source>
+		<target>Думаю, разговор уже достаточно затянулся.</target>
+	</unit>
+	<unit bitflag="1360" id1="655111" id2="17" version="1065353216">
+		<source>I'm sick of talking to you.</source>
+		<target>Мне надоело с тобой разговаривать.</target>
+	</unit>
+	<unit bitflag="1345" id1="655112" id2="17" version="1065353216">
+		<source>I'm--I'm sorry. I'll just go see if Destris needs my help.</source>
+		<target>Про... простите. Я схожу посмотрю, не нужна ли Дестрису моя помощь.</target>
+	</unit>
+	<unit bitflag="1345" id1="655113" id2="17" version="1065353216">
+		<source>Are your rooms on the tour?</source>
+		<target>Твоя комната входит в экскурсию?</target>
+	</unit>
+	<unit bitflag="1360" id1="655113" id2="17" version="1065353216">
+		<source>Yes, I'd like that.</source>
+		<target>Да, было бы неплохо.</target>
+	</unit>
+	<unit bitflag="1345" id1="655114" id2="17" version="1065353216">
+		<source>As long as I get to spend more time with you.</source>
+		<target>Раз уж я смогу провести с тобой побольше времени.</target>
+	</unit>
+	<unit bitflag="1360" id1="655114" id2="17" version="1065353216">
+		<source>In your company, of course.</source>
+		<target>С тобой — конечно.</target>
+	</unit>
+	<unit bitflag="1345" id1="655115" id2="17" version="1065353216">
+		<source>Good! Great! Let's do that!</source>
+		<target>Отлично! Великолепно! Давайте попробуем!</target>
+	</unit>
+	<unit bitflag="1345" id1="655116" id2="17" version="1065353216">
+		<source>Maybe you'd like to show me the compound a little? Your favorite rooms.</source>
+		<target>Может быть, тебе бы хотелось немного показать мне поместье? Твои любимые комнаты.</target>
+	</unit>
+	<unit bitflag="1360" id1="655116" id2="17" version="1065353216">
+		<source>Could you give me a tour?</source>
+		<target>Можешь провести мне экскурсию?</target>
+	</unit>
+	<unit bitflag="1345" id1="655117" id2="17" version="1065353216">
+		<source>Um, yes! Yes, I'd like that! Let's do that!</source>
+		<target>Эм, да! Да, было бы неплохо! Давайте попробуем!</target>
+	</unit>
+	<unit bitflag="1345" id1="655119" id2="17" version="1065353216">
+		<source>Um, yeah, so that was nice--very nice. A little unexpected, but... nice.</source>
+		<target>Эм, да, значит, это было мило... очень мило. Немного неожиданно, но... мило.</target>
+	</unit>
+	<unit bitflag="1345" id1="655121" id2="17" version="1065353216">
+		<source>But I guess you need to get back to work, don't you?</source>
+		<target>Но, думаю, тебе нужно вернуться к работе, не так ли?</target>
+	</unit>
+	<unit bitflag="1345" id1="655122" id2="17" version="1065353216">
+		<source>I think I'll be up for another tour shortly.</source>
+		<target>Думаю, я вскоре смогу сходить на ещё одну экскурсию.</target>
+	</unit>
+	<unit bitflag="1360" id1="655122" id2="17" version="1065353216">
+		<source>I'll talk to you later.</source>
+		<target>Поговорим позже.</target>
+	</unit>
+	<unit bitflag="1345" id1="655123" id2="17" version="1065353216">
+		<source>Suddenly, I can't stand to be near you.</source>
+		<target>И вдруг я больше не переношу твоего присутствия.</target>
+	</unit>
+	<unit bitflag="1360" id1="655123" id2="17" version="1065353216">
+		<source>This was a mistake.</source>
+		<target>Это было ошибкой.</target>
+	</unit>
+	<unit bitflag="1345" id1="655124" id2="17" version="1065353216">
+		<source>I, um, I'm sorry? I didn't, I mean--I think maybe you'd better go. My lord.</source>
+		<target>И, эм, извините? Я не... то есть... я думаю, наверное, вам лучше идти. Владыка</target>
+	</unit>
+	<unit bitflag="1345" id1="655125" id2="17" version="1065353216">
+		<source>Paladius won't lure himself out of hiding, I'm afraid.</source>
+		<target>Боюсь, Паладий сам себя из укрытия не выманит.</target>
+	</unit>
+	<unit bitflag="1360" id1="655125" id2="17" version="1065353216">
+		<source>I guess I must.</source>
+		<target>Думаю, это так.</target>
+	</unit>
+	<unit bitflag="1345" id1="655126" id2="17" version="1065353216">
+		<source>Well, um, you--you know where to find me.</source>
+		<target>Что ж, эм, ты... ты знаешь, где меня найти.</target>
+	</unit>
+	<unit bitflag="1345" id1="655130" id2="17" version="1065353216">
+		<source>My lord, I wanted--I wanted to apologize for Destris earlier. He was out of line.</source>
+		<target>Владыка, я хотела... я хотела извиниться за поведение Дестриса. Он забылся.</target>
+	</unit>
+	<unit bitflag="1345" id1="655131" id2="17" version="1065353216">
+		<source>At least one of you knows her place.</source>
+		<target>По крайней мере, один из вас знает своё место.</target>
+	</unit>
+	<unit bitflag="1360" id1="655131" id2="17" version="1065353216">
+		<source>I love it when you grovel.</source>
+		<target>Обожаю, когда ты пресмыкаешься.</target>
+	</unit>
+	<unit bitflag="1345" id1="655132" id2="17" version="1065353216">
+		<source>No need to apologize and no need to call me &quot;lord.&quot;</source>
+		<target>Не нужно извиняться и не нужно называть меня лордом.</target>
+	</unit>
+	<unit bitflag="1360" id1="655132" id2="17" version="1065353216">
+		<source>Don't worry about it.</source>
+		<target>Не волнуйся.</target>
+	</unit>
+	<unit bitflag="1345" id1="655133" id2="17" version="1065353216">
+		<source>I confess I was worried when Destris said we were getting the help of a Sith.</source>
+		<target>Признаюсь, я была взволнована, когда Дестрис сказал, что нам будет помогать сит.</target>
+	</unit>
+	<unit bitflag="1345" id1="655135" id2="17" version="1065353216">
+		<source>I thought you'd be like Paladius--self-obsessed and cruel--but no, you're... kind.</source>
+		<target>Я думала, вы будете как Паладий: самовлюблённы и жестоки, но нет, вы... добры.</target>
+	</unit>
+	<unit bitflag="1345" id1="655136" id2="17" version="1065353216">
+		<source>That really depends on my mood.</source>
+		<target>Это и правда зависит от моего настроения.</target>
+	</unit>
+	<unit bitflag="1360" id1="655136" id2="17" version="1065353216">
+		<source>I wouldn't go that far.</source>
+		<target>Я бы не стал заходить так далеко.</target>
+	</unit>
+	<unit bitflag="1345" id1="655137" id2="17" version="1065353216">
+		<source>I can be quite tender when I want to be.</source>
+		<target>Я могу быть довольно нежным, когда захочу.</target>
+	</unit>
+	<unit bitflag="1360" id1="655137" id2="17" version="1065353216">
+		<source>[Flirt] I'm glad you noticed.</source>
+		<target>[Флирт] Рад, что ты заметила.</target>
+	</unit>
+	<unit bitflag="1345" id1="655138" id2="17" version="1065353216">
+		<source>For some reason I believe it.</source>
+		<target>Почему-то я в это верю.</target>
+	</unit>
+	<unit bitflag="1345" id1="655140" id2="17" version="1065353216">
+		<source>On a scale from one to self-obsessed, I like to think I rate pretty highly.</source>
+		<target>Хочется мне верить, на шкале самовлюблённости я нахожусь довольно высоко.</target>
+	</unit>
+	<unit bitflag="1360" id1="655140" id2="17" version="1065353216">
+		<source>Give me some credit!</source>
+		<target>Не могу в это поверить!</target>
+	</unit>
+	<unit bitflag="1345" id1="655141" id2="17" version="1065353216">
+		<source>I can only go off what I've seen.</source>
+		<target>Я могу исходить только из увиденного.</target>
+	</unit>
+	<unit bitflag="1345" id1="655143" id2="17" version="1065353216">
+		<source>Don't waste your breath apologizing for that fool.</source>
+		<target>Не трать слова на извинения за этого дурака.</target>
+	</unit>
+	<unit bitflag="1360" id1="655143" id2="17" version="1065353216">
+		<source>He'll get what he has coming.</source>
+		<target>Он получит по заслугам.</target>
+	</unit>
+	<unit bitflag="1345" id1="655144" id2="17" version="1065353216">
+		<source>I have a great deal of respect for you. I just wanted you to know that.</source>
+		<target>Я отношусь к вам с большим уважением. Я просто хотела, чтобы вы знали об этом.</target>
+	</unit>
+	<unit bitflag="1345" id1="655146" id2="17" version="1065353216">
+		<source>You--you radiate a power that Paladius, for all his ranting and demanding, never did.</source>
+		<target>Вы... вы излучаете мощь, которой Паладий, при своих разглагольствованиях и требованиях, никогда не обладал.</target>
+	</unit>
+	<unit bitflag="1345" id1="655147" id2="17" version="1065353216">
+		<source>If you have something to say, then say it.</source>
+		<target>Если у тебя есть, что сказать, скажи.</target>
+	</unit>
+	<unit bitflag="1360" id1="655147" id2="17" version="1065353216">
+		<source>Why are you bothering me?</source>
+		<target>Зачем ты мне докучаешь.</target>
+	</unit>
+	<unit bitflag="1345" id1="655148" id2="17" version="1065353216">
+		<source>Yes, my lord, I'm sorry.</source>
+		<target>Да, владыка, простите.</target>
+	</unit>
+	<unit bitflag="1345" id1="655150" id2="17" version="1065353216">
+		<source>I don't need to rant. My will is done the moment I think it.</source>
+		<target>Мне не нужно разглагольствовать. Мои желания исполняются при их появлении.</target>
+	</unit>
+	<unit bitflag="1360" id1="655150" id2="17" version="1065353216">
+		<source>My power is real.</source>
+		<target>Я обладаю настоящей мощью.</target>
+	</unit>
+	<unit bitflag="1345" id1="655151" id2="17" version="1065353216">
+		<source>That's what I mean--you are strong, where Paladius only pretends to be.</source>
+		<target>Это я и имею в виду: вы сильны, а Паладий только притворяется сильным.</target>
+	</unit>
+	<unit bitflag="1345" id1="655153" id2="17" version="1065353216">
+		<source>I'm glad you noticed.</source>
+		<target>Рад, что ты заметила.</target>
+	</unit>
+	<unit bitflag="1360" id1="655153" id2="17" version="1065353216">
+		<source>Why thank you.</source>
+		<target>Спасибо.</target>
+	</unit>
+	<unit bitflag="1345" id1="655154" id2="17" version="1065353216">
+		<source>Do you find that power attractive?</source>
+		<target>Ты считаешь эту мощь привлекательной?</target>
+	</unit>
+	<unit bitflag="1360" id1="655154" id2="17" version="1065353216">
+		<source>[Flirt.] Do you like it?</source>
+		<target>[Флирт] Тебе нравится?</target>
+	</unit>
+	<unit bitflag="1345" id1="655155" id2="17" version="1065353216">
+		<source>I don't know... it's terrifying.</source>
+		<target>Я не знаю... она пугающа.</target>
+	</unit>
+	<unit bitflag="1345" id1="655157" id2="17" version="1065353216">
+		<source>Anyway, if we want to make a stab at taking over Paladius's cult, we need a real headquarters.</source>
+		<target>Как бы то ни было, если мы хотим принять руководство культом Паладия, нам понадобится настоящий штаб.</target>
+	</unit>
+	<unit bitflag="1345" id1="655159" id2="17" version="1065353216">
+		<source>Somewhere you can speak, hold meetings... I hope you don't mind, but I took the liberty of finding a place.</source>
+		<target>Место, в котором вы сможете держать речи, проводить собрания... надеюсь, вы не против, но я осмелилась подыскать такое место.</target>
+	</unit>
+	<unit bitflag="1345" id1="655160" id2="17" version="1065353216">
+		<source>You've done well. Now tell me about this place.</source>
+		<target>Ты молодец. Теперь расскажи мне об этом месте.</target>
+	</unit>
+	<unit bitflag="1360" id1="655160" id2="17" version="1065353216">
+		<source>Good work.</source>
+		<target>Отлично.</target>
+	</unit>
+	<unit bitflag="1345" id1="655161" id2="17" version="1065353216">
+		<source>This wouldn't be a ploy to out-play Destris for my favor?</source>
+		<target>Не уловка ли это, чтобы превзойти в моих глазах Дестриса?</target>
+	</unit>
+	<unit bitflag="1360" id1="655161" id2="17" version="1065353216">
+		<source>You're strangely helpful.</source>
+		<target>Странно, ты слишком полезна.</target>
+	</unit>
+	<unit bitflag="1345" id1="655162" id2="17" version="1065353216">
+		<source>I'm sorry. I thought the Sith smiled on ambition, but in any case, I was only trying to help.</source>
+		<target>Извините. Я думала, что ситы благоволят амбициям, но в этом случае я просто пыталась помочь.</target>
+	</unit>
+	<unit bitflag="1345" id1="655164" id2="17" version="1065353216">
+		<source>It's not wise to go behind my back.</source>
+		<target>Неразумно действовать у меня за спиной.</target>
+	</unit>
+	<unit bitflag="1360" id1="655164" id2="17" version="1065353216">
+		<source>Don't do that again.</source>
+		<target>Больше так не делай.</target>
+	</unit>
+	<unit bitflag="1345" id1="655165" id2="17" version="1065353216">
+		<source>I'm sorry, my lord. It won't happen again.</source>
+		<target>Извините, владыка. Больше этого не повторится.</target>
+	</unit>
+	<unit bitflag="1345" id1="655167" id2="17" version="1065353216">
+		<source>The place is called the Strell House, for a charity worker named Daegin Strell. The people looked to him as a leader.</source>
+		<target>Это место называют домом Стрелла, в честь благотворителя по имени Дейгин Стрелл. Люди считали его лидером.</target>
+	</unit>
+	<unit bitflag="1345" id1="655169" id2="17" version="1065353216">
+		<source>He's been dead nearly a decade, but his name still means something--and I thought it couldn't hurt to have his name associated with yours.</source>
+		<target>Он умер около десятилетия назад, но его имя всё ещё что-то значит, и я подумала, что не помешало бы, если бы его имя ассоциировалось с вашим.</target>
+	</unit>
+	<unit bitflag="1345" id1="655170" id2="17" version="1065353216">
+		<source>A well-known location can't hurt either.</source>
+		<target>Хорошо известное место также не повредит.</target>
+	</unit>
+	<unit bitflag="1360" id1="655170" id2="17" version="1065353216">
+		<source>You're right.</source>
+		<target>Ты права.</target>
+	</unit>
+	<unit bitflag="1345" id1="655171" id2="17" version="1065353216">
+		<source>I'd considered that as well. It's both well-known and accessible.</source>
+		<target>Я учла и это. Оно как хорошо известно, так и доступно.</target>
+	</unit>
+	<unit bitflag="1345" id1="655176" id2="17" version="1065353216">
+		<source>It's hardly a seat of power.</source>
+		<target>Едва ли это средоточие власти.</target>
+	</unit>
+	<unit bitflag="1360" id1="655176" id2="17" version="1065353216">
+		<source>I suppose it'll do.</source>
+		<target>Думаю, это помешает.</target>
+	</unit>
+	<unit bitflag="1345" id1="655177" id2="17" version="1065353216">
+		<source>Power is hard to come by on the lower levels of Nar Shaddaa.</source>
+		<target>На нижних уровнях Нар-Шаддаа власть найти трудно.</target>
+	</unit>
+	<unit bitflag="1360" id1="759881" id2="17" version="1065353216">
+		<source>It'll do.</source>
+		<target>Это помешает.</target>
+	</unit>
+	<unit bitflag="1360" id1="931984" id2="17" version="1065353216">
+		<source>I love it when you grovel.</source>
+		<target>Обожаю, когда ты пресмыкаешься.</target>
+	</unit>
+	<unit bitflag="1360" id1="931985" id2="17" version="1065353216">
+		<source>I love it when you grovel.</source>
+		<target>Обожаю, когда ты пресмыкаешься.</target>
+	</unit>
+	<unit bitflag="1360" id1="932004" id2="17" version="1065353216">
+		<source>Don't worry about it.</source>
+		<target>Не беспокойся об этом.</target>
+	</unit>
+	<unit bitflag="1360" id1="932005" id2="17" version="1065353216">
+		<source>Don't worry about it.</source>
+		<target>Не беспокойся об этом.</target>
+	</unit>
+	<unit bitflag="1360" id1="932008" id2="17" version="1065353216">
+		<source>My power is real.</source>
+		<target>Я обладаю настоящей мощью.</target>
+	</unit>
+	<unit bitflag="1360" id1="932009" id2="17" version="1065353216">
+		<source>My power is real.</source>
+		<target>Я обладаю настоящей мощью.</target>
+	</unit>
+	<unit bitflag="1360" id1="932010" id2="17" version="1065353216">
+		<source>Why thank you.</source>
+		<target>Спасибо.</target>
+	</unit>
+	<unit bitflag="1360" id1="932011" id2="17" version="1065353216">
+		<source>Why thank you.</source>
+		<target>Спасибо.</target>
+	</unit>
+	<unit bitflag="1360" id1="932012" id2="17" version="1065353216">
+		<source>[Flirt.] Do you like it?</source>
+		<target>[Флирт] Тебе нравится?</target>
+	</unit>
+	<unit bitflag="1360" id1="932013" id2="17" version="1065353216">
+		<source>[Flirt.] Do you like it?</source>
+		<target>[Флирт] Тебе нравится?</target>
+	</unit>
+	<unit bitflag="1360" id1="932020" id2="17" version="1065353216">
+		<source>Good work.</source>
+		<target>Молодец.</target>
+	</unit>
+	<unit bitflag="1360" id1="932021" id2="17" version="1065353216">
+		<source>Good work.</source>
+		<target>Молодец.</target>
+	</unit>
+	<unit bitflag="1360" id1="932022" id2="17" version="1065353216">
+		<source>Don't do that again.</source>
+		<target>Больше так не делай.</target>
+	</unit>
+	<unit bitflag="1360" id1="932023" id2="17" version="1065353216">
+		<source>Don't do that again.</source>
+		<target>Больше так не делай.</target>
+	</unit>
+</dialogue_file>

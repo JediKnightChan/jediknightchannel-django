@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="50">
+	<unit bitflag="1345" id1="554374" id2="17" version="1065353216">
+		<source>Speak to Major Bessiker, the chief resources officer on Balmorra, and figure out how to get to the bottom of that vault.</source>
+		<target>Свяжись с майором Бессикером, главным штабистом на Балморре, и выясни, как попасть на дно того хранилища.</target>
+	</unit>
+	<unit bitflag="1345" id1="554375" id2="17" version="1065353216">
+		<source>Is that you, apprentice? Excellent. You've arrived safely on Balmorra, I see.</source>
+		<target>Это ты, ученик? Отлично. Вижу, ты добрался до Балморры благополучно.</target>
+	</unit>
+	<unit bitflag="1345" id1="554377" id2="17" version="1065353216">
+		<source>How was your first flight in that wonderful ship of yours? I hope you found it pleasant.</source>
+		<target>Как тебе твой первый полёт на чудесном личном корабле? Надеюсь, тебе пришлось по вкусу.</target>
+	</unit>
+	<unit bitflag="1345" id1="554378" id2="17" version="1065353216">
+		<source>I think I'm going to be sick.</source>
+		<target>Кажется, мне сейчас станет плохо плохо.</target>
+	</unit>
+	<unit bitflag="1360" id1="554378" id2="17" version="1065353216">
+		<source>I feel woozy.</source>
+		<target>У меня кружится голова.</target>
+	</unit>
+	<unit bitflag="1345" id1="554379" id2="17" version="1065353216">
+		<source>Well, take a moment, relax. A long space flight can be disorienting.</source>
+		<target>Что ж, найди время и для отдыха. Долгий космический полёт может дезориентировать.</target>
+	</unit>
+	<unit bitflag="1360" id1="554381" id2="17" version="1065353216">
+		<source>Very.</source>
+		<target>Очень.</target>
+	</unit>
+	<unit bitflag="1345" id1="554382" id2="17" version="1065353216">
+		<source>Excellent. I had hoped you'd enjoy it.</source>
+		<target>Отлично. Я надеялась, что тебе понравится.</target>
+	</unit>
+	<unit bitflag="1345" id1="554384" id2="17" version="1065353216">
+		<source>The ship's a piece of junk.</source>
+		<target>Этот корабль — старая железяка.</target>
+	</unit>
+	<unit bitflag="1360" id1="554384" id2="17" version="1065353216">
+		<source>It was terrible.</source>
+		<target>Это было ужасно.</target>
+	</unit>
+	<unit bitflag="1345" id1="554385" id2="17" version="1065353216">
+		<source>I'm sure you'll find plenty of ways to modify it to your tastes.</source>
+		<target>Уверена, ты найдёшь много способов подогнать его под свой вкус.</target>
+	</unit>
+	<unit bitflag="1345" id1="554387" id2="17" version="1065353216">
+		<source>Now, I hope you're ready to work. I've got a good idea of where the ancient artifact is on Balmorra, but it's not pleasant.</source>
+		<target>Теперь, надеюсь, ты готов к работе. У меня есть мысль, где на Балморре спрятан этот древний артефакт, но тебе она не понравится.</target>
+	</unit>
+	<unit bitflag="1360" id1="554388" id2="17" version="1065353216">
+		<source>Fill me in.</source>
+		<target>Посвяти меня.</target>
+	</unit>
+	<unit bitflag="1345" id1="554389" id2="17" version="1065353216">
+		<source>Yes, well, let's just say circumstances have changed since Tulak Hord hid his artifact.</source>
+		<target>Что ж, скажем так, обстоятельства изменились с тех пор, как Тулак Хорд спрятал свой артефакт.</target>
+	</unit>
+	<unit bitflag="1360" id1="554391" id2="17" version="1065353216">
+		<source>I'm not worried.</source>
+		<target>Я не обеспокоен.</target>
+	</unit>
+	<unit bitflag="1345" id1="554392" id2="17" version="1065353216">
+		<source>Good--this is not a task for the easily unsettled.</source>
+		<target>Хорошо: это задание не для слабонервных.</target>
+	</unit>
+	<unit bitflag="1345" id1="554394" id2="17" version="1065353216">
+		<source>You mean like a rancor with a rash or...?</source>
+		<target>Ты говоришь о ранкоре Нургла или о?..</target>
+	</unit>
+	<unit bitflag="1360" id1="554394" id2="17" version="1065353216">
+		<source>How unpleasant?</source>
+		<target>Насколько не понравится?</target>
+	</unit>
+	<unit bitflag="1345" id1="554395" id2="17" version="1065353216">
+		<source>You have a vivid imagination, apprentice.</source>
+		<target>У тебя бурное воображение, ученик.</target>
+	</unit>
+	<unit bitflag="1345" id1="554397" id2="17" version="1065353216">
+		<source>Tulak Hord hid his artifact in a vault on Balmorra, one that was later converted by the Balmorrans into a toxic waste storage facility.</source>
+		<target>Тулак Хорд на Балморре спрятал свой артефакт в подземелье, которое позже было превращено в хранилище токсичных отходов.</target>
+	</unit>
+	<unit bitflag="1345" id1="554399" id2="17" version="1065353216">
+		<source>But the vault was hit badly in the last war. It's now a crater, filled with toxic waste. Your artifact is at the bottom.</source>
+		<target>Но в недавней войне его сильно повредили. Теперь это воронка, наполненная токсичными отходами. Твой артефакт на дне.</target>
+	</unit>
+	<unit bitflag="1345" id1="554400" id2="17" version="1065353216">
+		<source>You must have some sort of plan for how to get it, right?</source>
+		<target>У тебя же должен быть какой-то план по его получению, правда?</target>
+	</unit>
+	<unit bitflag="1360" id1="554400" id2="17" version="1065353216">
+		<source>I'm open to suggestions.</source>
+		<target>Я открыт для предложений.</target>
+	</unit>
+	<unit bitflag="1345" id1="554401" id2="17" version="1065353216">
+		<source>Regrettably, I haven't had time to put together a plan. You'll have to figure this one out yourself.</source>
+		<target>К сожалению, у меня не было времени составить план. Тебе придётся его придумать самому.</target>
+	</unit>
+	<unit bitflag="1360" id1="554403" id2="17" version="1065353216">
+		<source>I have the worst luck.</source>
+		<target>Ужасная у меня карма.</target>
+	</unit>
+	<unit bitflag="1345" id1="554404" id2="17" version="1065353216">
+		<source>You've done the impossible before; you'll do it again.</source>
+		<target>Ты уже делал невозможное раньше; и сделаешь снова.</target>
+	</unit>
+	<unit bitflag="1345" id1="554406" id2="17" version="1065353216">
+		<source>I'll just get some diving gear and go.</source>
+		<target>Нужно лишь раздобыть костюм водолаза.</target>
+	</unit>
+	<unit bitflag="1360" id1="554406" id2="17" version="1065353216">
+		<source>Wonderful.</source>
+		<target>Чудесно.</target>
+	</unit>
+	<unit bitflag="1345" id1="554407" id2="17" version="1065353216">
+		<source>If only it were that simple. I'm afraid the waste would kill even you, my apprentice.</source>
+		<target>Если бы всё было так просто. Боюсь, отходы убьют даже тебя, мой ученик.</target>
+	</unit>
+	<unit bitflag="1345" id1="554409" id2="17" version="1065353216">
+		<source>But try making contact with the Imperial resources officer here on Balmorra, Major Bessiker.</source>
+		<target>Но попытайся здесь связаться с офицером-штабистом майором Бессикером.</target>
+	</unit>
+	<unit bitflag="1345" id1="554411" id2="17" version="1065353216">
+		<source>Bessiker knows the planet, and he may even have a few good ideas.</source>
+		<target>Бессикер знает планету, и, может, у него даже будет пара идеек.</target>
+	</unit>
+	<unit bitflag="1345" id1="554412" id2="17" version="1065353216">
+		<source>You want me to work with an Imperial?</source>
+		<target>Хочешь, чтобы я работал с имперцем?</target>
+	</unit>
+	<unit bitflag="1360" id1="554412" id2="17" version="1065353216">
+		<source>Non-Sith are beneath me.</source>
+		<target>Не ситы недостойны.</target>
+	</unit>
+	<unit bitflag="1345" id1="554413" id2="17" version="1065353216">
+		<source>He will do whatever I say.</source>
+		<target>Он сделает всё, что я прикажу.</target>
+	</unit>
+	<unit bitflag="1360" id1="554413" id2="17" version="1065353216">
+		<source>I will bend him.</source>
+		<target>Я подчиню его.</target>
+	</unit>
+	<unit bitflag="1360" id1="554416" id2="17" version="1065353216">
+		<source>Not likely.</source>
+		<target>Вряд ли.</target>
+	</unit>
+	<unit bitflag="1345" id1="554417" id2="17" version="1065353216">
+		<source>Those who succeed without the Force make up for what they lack with a certain resourcefulness. Don't write Bessiker off.</source>
+		<target>Те, кто преуспевают, не зная Силы, компенсируют свои недостатки некоторой находчивостью. Не списывай Бессикера со счетов.</target>
+	</unit>
+	<unit bitflag="1345" id1="554437" id2="17" version="1065353216">
+		<source>But don't tell the major about the artifact. Its existence is not common knowledge, and I'd like to keep it that way.</source>
+		<target>Но не рассказывай майору об этом артефакте. Его существование не общеизвестный факт, и я хочу, чтобы так было и впредь.</target>
+	</unit>
+	<unit bitflag="1345" id1="755921" id2="17" version="1065353216">
+		<source>Careful you don't alienate a potential ally.</source>
+		<target>Осторожней, не оттолкни возможного союзника.</target>
+	</unit>
+	<unit bitflag="1345" id1="764660" id2="17" version="1065353216">
+		<source>The Empire has its hands full coping with a violent Balmorran uprising. Officially, they're a grassroots militia. Secretly, they have the Republic's full backing.</source>
+		<target>У Империи уйма хлопот с яростным балморранским восстанием. Формально, это народное ополчение. На самом деле, их всесторонне поддерживает Республика.</target>
+	</unit>
+	<unit bitflag="1345" id1="764662" id2="17" version="1065353216">
+		<source>I've informed Major Bessiker of the Republic's involvement, so he will be better equipped to assist you. No doubt the Republic's hounds will get in your way.</source>
+		<target>Я сообщила майору Бессикеру о её вмешательстве, так что он сможет получше помочь тебе. Нет никаких сомнений, что псы Республики встанут у тебя на пути.</target>
+	</unit>
+	<unit bitflag="1345" id1="764663" id2="17" version="1065353216">
+		<source>Republic or resistance. It makes no difference to me.</source>
+		<target>Республика, сопротивление. Для меня нет никакой разницы.</target>
+	</unit>
+	<unit bitflag="1360" id1="764663" id2="17" version="1065353216">
+		<source>I'm not concerned.</source>
+		<target>Мне всё равно.</target>
+	</unit>
+	<unit bitflag="1345" id1="764664" id2="17" version="1065353216">
+		<source>The Republic may claim to be virtuous, but they have a well-oiled military machine. These are not farmers waving sticks.</source>
+		<target>Республика может считать себя добродетельной, но у неё мощная военная машина. Это не крестьяне с вилами.</target>
+	</unit>
+	<unit bitflag="1360" id1="764666" id2="17" version="1065353216">
+		<source>I'll relish beating them.</source>
+		<target>Я наслажусь победой.</target>
+	</unit>
+	<unit bitflag="1345" id1="764667" id2="17" version="1065353216">
+		<source>I expect nothing less.</source>
+		<target>Меньшего и не жду.</target>
+	</unit>
+	<unit bitflag="1345" id1="764669" id2="17" version="1065353216">
+		<source>Why is the Republic's involvement a secret?</source>
+		<target>Почему вмешательство Республики секрет?</target>
+	</unit>
+	<unit bitflag="1360" id1="764669" id2="17" version="1065353216">
+		<source>Major Bessiker didn't know?</source>
+		<target>Майор Бессикер не знал?</target>
+	</unit>
+	<unit bitflag="1345" id1="764670" id2="17" version="1065353216">
+		<source>At the end of the last war, the Treaty of Coruscant left Balmorra to the Empire. The Republic cannot risk open involvement without violating the treaty.</source>
+		<target>В конце последней войны Корусантский договор отписал Балморру Империи. Открытым вмешательством Республика рискует нарушить договор.</target>
+	</unit>
+	<unit bitflag="1345" id1="764672" id2="17" version="1065353216">
+		<source>But the war is secondary to the artifact. Retrieve the artifact, and try to be discreet. We don't want the entire Sith Order chasing our prize.</source>
+		<target>Но война не так важна, как артефакт. Получи его, и будь осторожнее. Мы не хотим, чтобы весь Орден ситов гонялся за нашей добычей.</target>
+	</unit>
+</dialogue_file>

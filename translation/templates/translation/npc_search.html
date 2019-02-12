@@ -1,0 +1,148 @@
+{% extends 'base.html' %}
+
+{% block title %}JediKnightChannel — NPC{% endblock %}
+{% block head_additional %}
+    <style>
+        #body {
+            min-height: 1500px;
+        }
+        div p {
+            position: relative;
+            top: 50px;
+            color: white;
+            font-size: 20px;
+            font-family: EuropeDemi;
+        }
+        #container {
+            position: relative;
+            top: 200px;
+        }
+        body{
+            height: 100%;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        #container {
+            margin: 0 auto;
+            width: 600px;
+        }
+        a {
+            color:#DF3D82;
+            text-decoration:none
+        }
+        ul.update {
+            list-style:none;
+            font-size: 1.1em;
+            margin-top: 50px
+        }
+        ul.update li{
+            height:30px;
+            border-bottom:#dedede solid 1px;
+            text-align:left;
+        }
+        ul.update li:first-child{
+            border-top:#dedede solid 1px;
+            height:30px;
+            text-align:left;
+        }
+        #flash {
+            margin-top:20px;
+            text-align:left;
+        }
+        #searchresults {
+            text-align:left;
+            margin-top:20px;
+            display:none;
+            font-family:Arial, Helvetica, sans-serif;
+            font-size:16px;
+            color:#000;
+        }
+        .word {
+            font-weight:bold;
+            color:#000000;
+        }
+        #search_box {
+            padding:4px;
+            border:solid 1px #666666;
+            width:300px;
+            height:30px;
+            font-size:18px;
+            -moz-border-radius: 6px;
+            -webkit-border-radius: 6px;
+        }
+        .search_button {
+            border:#000000 solid 1px;
+            padding: 10px;
+            color:#000;
+            height:40px;
+            font-weight:bold;
+            font-size:16px;
+            -moz-border-radius: 6px;
+            -webkit-border-radius: 6px;
+            background-color: goldenrod;
+        }
+        .search_button:hover {
+            border: 1px goldenrod solid;
+            background-color: #000;
+            color: white;
+        }
+        .found {
+            font-weight: bold;
+            color: white;
+        }
+        h1 {
+            color: white;
+            font-size: 15px;
+        }
+    </style>
+{% endblock %}
+
+{% block content %}
+    <div id="body" class="noselect">
+        <div id="container">
+            <div style="margin:20px auto; text-align: center;">
+                <h1>Введите имя NPC на английском или русском</h1>
+                <form method="post" id="search_form">
+                    <input type="text" name="search" id="search_box" class='search_box'/>
+                    <input type="button" value="Поиск" class="search_button" /><br />
+                </form>
+            </div>
+            <div>
+                <ul id="results" class="update">
+                </ul>
+            </div>
+        </div>
+
+    </div>
+{% endblock %}
+
+{% block additional_end_of_body %}
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+    <script type="text/javascript">
+        $("#search_form").submit(function(e) {
+            e.preventDefault();
+        });
+        $(function() {
+            $(".search_button").click(function() {
+                var search_string = $("#search_box").val();
+                if(search_string) {
+                    $.ajax({
+                        url: "/translation/common_handler/",
+                        data: {"file": "{{ common_file.pk }}", "search_string": search_string, "key": "JKSearch"},
+                        beforeSend: function(html) {
+                            $("#results").html('');
+                        },
+                        success: function(data){
+                            $("#results").show();
+                            $("#results").append(data.result_html);
+                        },
+						error: function(XMLHttpRequest, textStatus, errorThrown) {
+							alert("Status: " + textStatus);
+							alert("Error: " + errorThrown);
+						}
+                    });
+                }
+                return false;
+            });
+        });
+    </script>
+{% endblock %}

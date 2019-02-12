@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialogue_file string_number="23">
+	<unit bitflag="1345" id1="90716" id2="17" version="1065353216">
+		<source>Activation protocol begins. So, after the long silence, finally someone comes.</source>
+		<target>Начат протокол активации. Значит, после долгого затишья кто-то, наконец, пришёл.</target>
+	</unit>
+	<unit bitflag="1345" id1="90718" id2="17" version="1065353216">
+		<source>I am Garon Jard. Millennia ago, I stood as a founder of the Jedi Order.</source>
+		<target>Я Гарон Джард. Тысячелетия назад я был одним из основателей Ордена джедаев.</target>
+	</unit>
+	<unit bitflag="1345" id1="90719" id2="17" version="1065353216">
+		<source>For a hologram, you're surprisingly articulate.</source>
+		<target>Для голограммы вы удивительно красноречивы.</target>
+	</unit>
+	<unit bitflag="1360" id1="90719" id2="17" version="1065353216">
+		<source>You seem almost alive.</source>
+		<target>Вы кажетесь почти живым.</target>
+	</unit>
+	<unit bitflag="1345" id1="90720" id2="17" version="1065353216">
+		<source>We needed worthy vessels for our knowledge.</source>
+		<target>Нам нужны были достойные хранилища знаний.</target>
+	</unit>
+	<unit bitflag="1345" id1="90722" id2="17" version="1065353216">
+		<source>There are Flesh Raiders in the area. Your holoprojector's at risk, I'm here to save it.</source>
+		<target>Эта область занята раздирателями. Вашему голопроектору угрожает опасность, я пришёл спасти его.</target>
+	</unit>
+	<unit bitflag="1360" id1="90722" id2="17" version="1065353216">
+		<source>I was sent to save you.</source>
+		<target>Меня послали спасти вас.</target>
+	</unit>
+	<unit bitflag="1345" id1="90723" id2="17" version="1065353216">
+		<source>To protect without fighting. A trait I wanted at the core of our beliefs.</source>
+		<target>Защитить, не сражаясь. Черта, которую я хотел поместить в основание наших верований.</target>
+	</unit>
+	<unit bitflag="1345" id1="90725" id2="17" version="1065353216">
+		<source>You may be programmed to think you're Garon Jard, but this is just an image.</source>
+		<target>Возможно, тебя запрограммировали думать, что ты Гарон Джард, но это лишь образ.</target>
+	</unit>
+	<unit bitflag="1360" id1="90725" id2="17" version="1065353216">
+		<source>You're still just a hologram.</source>
+		<target>Ты всё ещё лишь голограмма.</target>
+	</unit>
+	<unit bitflag="1345" id1="90726" id2="17" version="1065353216">
+		<source>Maybe so. But my wisdom can still be useful--to those who'll listen.</source>
+		<target>Возможно. Но моя мудрость ещё может пригодиться — тем, кто прислушается.</target>
+	</unit>
+	<unit bitflag="1345" id1="90728" id2="17" version="1065353216">
+		<source>When the Jedi Order began, I saw we must be dedicated to peace. To calming our emotions, and ending war across the galaxy.</source>
+		<target>Когда начиналась история Ордена джедаев, я видел, что мы должны быть посвящены миру. Успокоению наших эмоций и завершению войны в Галактике.</target>
+	</unit>
+	<unit bitflag="1345" id1="90730" id2="17" version="1065353216">
+		<source>If we fought, it should only be in self-defense. That is the founding principle of civilization.</source>
+		<target>Сражаться следовало лишь для самозащиты. Это основной принцип цивилизации.</target>
+	</unit>
+	<unit bitflag="1345" id1="90731" id2="17" version="1065353216">
+		<source>Being civilized also means defending those weaker than yourself.</source>
+		<target>Цивилизованность также означает защиту тех, кто слабее.</target>
+	</unit>
+	<unit bitflag="1360" id1="90731" id2="17" version="1065353216">
+		<source>What about protecting others?</source>
+		<target>Как насчёт защиты других?</target>
+	</unit>
+	<unit bitflag="1345" id1="90732" id2="17" version="1065353216">
+		<source>Indeed. But we must do so knowing the mark it will leave, upon history and on ourselves.</source>
+		<target>Верно. Но мы должны защищать, зная след, что оставляют наши действия в истории и на нас самих.</target>
+	</unit>
+	<unit bitflag="1345" id1="90734" id2="17" version="1065353216">
+		<source>Without peace, there could be no art or culture, or politics. No Republic.</source>
+		<target>Без мира не может быть искусства, культуры или политики. Республики.</target>
+	</unit>
+	<unit bitflag="1360" id1="90734" id2="17" version="1065353216">
+		<source>I agree.</source>
+		<target>Соглашусь.</target>
+	</unit>
+	<unit bitflag="1345" id1="90735" id2="17" version="1065353216">
+		<source>When a civilization is under attack, its technology and culture develop faster than they do in peacetime.</source>
+		<target>Когда на цивилизацию нападают, её технологии и культура развиваются быстрее, чем в мирное время.</target>
+	</unit>
+	<unit bitflag="1360" id1="90735" id2="17" version="1065353216">
+		<source>We need war to bring progress.</source>
+		<target>Война нужна для прогресса.</target>
+	</unit>
+	<unit bitflag="1345" id1="90736" id2="17" version="1065353216">
+		<source>Deadlier weapons. Stronger armies. Do they feed the hungry, or heal the sick?</source>
+		<target>Более смертоносное оружие. Более сильные армии. Они кормят голодных, лечат больных?</target>
+	</unit>
+	<unit bitflag="1345" id1="90738" id2="17" version="1065353216">
+		<source>The Jedi may have changed, but galactic peace has always remained one of our goals.</source>
+		<target>Джедаи, возможно, изменились, но сохранение мира в Галактике всегда оставалось одной из наших целей.</target>
+	</unit>
+	<unit bitflag="1345" id1="90740" id2="17" version="1065353216">
+		<source>Activation protocol complete. Go well.</source>
+		<target>Протокол активации завершён. Удачи.</target>
+	</unit>
+</dialogue_file>

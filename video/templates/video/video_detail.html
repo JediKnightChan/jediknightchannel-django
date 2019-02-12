@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}JediKnightChannel — {{ video.name }}{% endblock %}
+
+{% block head_additional %}
+    <script src="{% static "js/video_player.js" %}" type="text/javascript"></script>
+{% endblock %}
+
+{% block content %}
+    <div id="body">
+		<div class="header">
+			<div class="video_details">
+				<h1 id="h-news">{{ video.ru_name }}</h1>
+                <div id="player"></div>
+                <script>
+                    var player = new Playerjs("{{ final_player_string }}");
+                </script>
+                {% if video.full_description %}
+                    <h2>Описание</h2>
+                    <p class="video_description">{{ video.full_description|safe }}</p>
+                {% endif%}
+                {% if translators %}
+                    <p class="localizators">Перевод: {{ translators|safe }}</p>
+                {% endif %}
+                {% if editors %}
+                    <p class="localizators">Редактура: {{ editors|safe }}</p>
+                {% endif %}
+                {% if video.translation_commentaries %}
+                    <h2>Комментарии к переводу</h2>
+                    <p>{{ video.translation_commentaries }}</p>
+                {% endif %}
+			</div>
+		</div>
+	</div>
+{% endblock %}
