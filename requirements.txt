@@ -10,7 +10,7 @@ Django==2.1.11
 django-el-pagination==3.2.4
 django-smuggler==0.9.1
 djangorestframework==3.9.1
-httplib2==0.12.0
+httplib2==0.18.0
 idna==2.8
 lxml==4.3.0
 mysqlclient==1.4.1
